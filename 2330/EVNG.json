@@ -1,0 +1,83 @@
+[
+  {
+    "program": "EVNG",
+    "code": "6050B",
+    "name": "Environmental Engineering Seminar",
+    "units": 0,
+    "info": {
+      "vector": "[0-1-0:0]",
+      "description": "Seminar topics presented by students, faculty and guest speakers. Students are expected to attend regularly and demonstrate proficiency in presentation in accordance with the program requirements. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1096)",
+        "Date & Time": "Mo 10:30AM - 11:20AM",
+        "Room": "Rm 5506, Lift 25-26 (30)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EVNG",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct a research proposal in their research area.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1097)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 3,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EVNG",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct a research proposal in their research area.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1098)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 8,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

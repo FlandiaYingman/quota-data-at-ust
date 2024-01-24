@@ -1,0 +1,3182 @@
+[
+  {
+    "program": "ECON",
+    "code": "1220",
+    "name": "Thinking like an Economist I: Microeconomics",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (SA) for 36-credit program<br>Common Core (SA) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "exclusion": "ECON 2103, ECON 2113, SOSC 1440",
+      "description": "Students learn the \"economic way of thinking\" in this course. We will explore fundamental microeconomic concepts and tools such as comparative advantage and specialization, demand-supply analysis, market equilibrium, government's role in markets, game theory, and people's interactions in order to explain and analyze consumer and producer decisions and social issues. Students will develop problem-solving abilities in dealing with new social issues as well as develop their sense of community and consideration through the lens of microeconomics."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2326)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Lecture Theater J (300)",
+        "Instructor": [
+          "SIU, Kam Wing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 0,
+        "Avail": 150,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2327)",
+        "Date & Time": "We 05:00PM - 05:50PM",
+        "Room": "Lecture Theater J (300)",
+        "Instructor": [
+          "SIU, Kam Wing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 0,
+        "Avail": 150,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "2103",
+    "name": "Principles of Microeconomics",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (SA) for 36-credit program",
+      "exclusion": "ECON 2113, ECON 3113, ECON 3133, SOSC 1440, Level 3 or above in HKDSE Economics",
+      "description": "Theory of firm in a free enterprise system; theory of consumer demand; market structures and resource allocation; efficiency of competitive markets; selected topics on government regulation. Students with non-local qualifications should seek department’s or school’s approval for enrollment in the course."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2328)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "SIU, Kam Wing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 41,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2330)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "YU, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 40,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2330)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "YU, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 40,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (2332)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "YU, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 41,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (2332)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "YU, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 41,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L4 (2334)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "LI, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 42,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L5 (2336)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "LI, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 40,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L6 (2338)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 1014, LSK Bldg (80)",
+        "Instructor": [
+          "RAO, Deyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 42,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2340)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "SIU, Kam Wing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 41,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2342)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "YU, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 40,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T3 (2343)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "YU, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 41,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T4 (2344)",
+        "Date & Time": "Th 09:30AM - 10:20AM",
+        "Room": "Rm 1005, LSK Bldg (70)",
+        "Instructor": [
+          "LI, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 42,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T5 (2345)",
+        "Date & Time": "Mo 12:00PM - 12:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "LI, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 40,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T6 (2346)",
+        "Date & Time": "Mo 03:30PM - 04:20PM",
+        "Room": "Rm 1003, LSK Bldg (70)",
+        "Instructor": [
+          "RAO, Deyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 58,
+        "Enrol": 42,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "2123",
+    "name": "Macroeconomics",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (SA) for 36-credit program",
+      "exclusion": "ECON 3123, ECON 3143, SOSC 1440",
+      "description": "Theory of national income determination and business fluctuation; monetary and fiscal policies; selected topics in macroeconomic policies and open economy macroeconomics. Students with non-local qualifications should seek department’s or school’s approval for enrollment in the course."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L01 (2347)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "DING, Fei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 45,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L02 (2349)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "ZHANG, Wenwen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L03 (2351)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "DING, Fei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 43,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L04 (2353)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "DING, Fei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L05 (2355)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "LI, Yao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L05 (2355)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "LI, Yao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L06 (2357)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "LI, Yao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L06 (2357)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "LI, Yao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L07 (2359)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "YUEN, Chi Wa"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L08 (2361)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "DING, Fei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 43,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L09 (2363)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "YUEN, Chi Wa"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L10 (2365)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "ZHANG, Wenwen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T01 (2367)",
+        "Date & Time": "Fr 12:00PM - 12:50PM",
+        "Room": "Rm 1014, LSK Bldg (80)",
+        "Instructor": [
+          "DING, Fei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 45,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T02 (2369)",
+        "Date & Time": "Fr 11:00AM - 11:50AM",
+        "Room": "Rm 1014, LSK Bldg (80)",
+        "Instructor": [
+          "ZHANG, Wenwen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T03 (2370)",
+        "Date & Time": "We 02:00PM - 02:50PM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "DING, Fei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 43,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T04 (2371)",
+        "Date & Time": "Mo 04:00PM - 04:50PM",
+        "Room": "Rm 1014, LSK Bldg (80)",
+        "Instructor": [
+          "DING, Fei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T05 (2372)",
+        "Date & Time": "Tu 12:30PM - 01:20PM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "LI, Yao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T06 (2373)",
+        "Date & Time": "Th 03:00PM - 03:50PM",
+        "Room": "Rm 4503, Lift 25-26 (64)",
+        "Instructor": [
+          "LI, Yao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T07 (2374)",
+        "Date & Time": "Th 09:00AM - 09:50AM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "YUEN, Chi Wa"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T08 (2375)",
+        "Date & Time": "We 12:30PM - 01:20PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "DING, Fei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 43,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T09 (2376)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "YUEN, Chi Wa"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T10 (2377)",
+        "Date & Time": "We 10:30AM - 11:20AM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "ZHANG, Wenwen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "3014",
+    "name": "Managerial Microeconomics",
+    "units": 4,
+    "info": {
+      "pre-requisite": "One of ECON 2103 OR ECON 2113",
+      "exclusion": "ECON 3113, ECON 3133",
+      "description": "Demand estimation, business and economic forecasting; production, innovation and cost; market structure, strategic behavior and pricing; decision making under uncertainty; government regulation of business activities; case studies."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2378)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "MENG, Xiaoxuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 67,
+        "Enrol": 54,
+        "Avail": 13,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 67,
+            "Enrol": 54,
+            "Avail": 13
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (2378)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "MENG, Xiaoxuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 67,
+        "Enrol": 54,
+        "Avail": 13,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 67,
+            "Enrol": 54,
+            "Avail": 13
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2379)",
+        "Date & Time": "Tu 12:00PM - 12:50PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "MENG, Xiaoxuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 67,
+        "Enrol": 54,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "3024",
+    "name": "Managerial Macroeconomics",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ECON 2123 AND ECON 3334",
+      "exclusion": "ECON 3123, ECON 3143",
+      "description": "This course modifies and extends the standard models studied in introductory macroeconomics course (2123), highlighting the role of expectations in determining the aggregate output, the inflation, and the asset prices. The course consists of two parts: (A) lectures on the models and their applications on the economics issues such as monetary and fiscal policies, financial crises, and exchange rate policies; and (B) group research projects undertaken by the students to apply macro models, statistical and econometrics tools to analyze a real-world question of their pick, in order to gain better understanding of the models and to practise the skills on problem solving, team-work and presentation."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2380)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "YUEN, Chi Wa"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 67,
+        "Enrol": 3,
+        "Avail": 64,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 67,
+            "Enrol": 3,
+            "Avail": 64
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2381)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "YUEN, Chi Wa"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 67,
+        "Enrol": 3,
+        "Avail": 64,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "3113",
+    "name": "Microeconomic Theory I",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ECON 2103 OR ECON 2113",
+      "exclusion": "ECON 3014, SOSC 1440",
+      "description": "The course presents a detailed study of basic topics in microeconomics with a special emphasis on using a rigorous analytical and mathematical approach.  The topics include demand theory, uncertainty, asymmetric information, general equilibrium, welfare economics, externality, and public good.  Multivariate calculus will be extensively used.  Exclusively for students of the BSc programs in Economics & Finance and in Mathematics & Economics."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2382)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "LEUNG, Siu Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 37,
+        "Avail": 8,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 45,
+            "Enrol": 37,
+            "Avail": 8
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2384)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "AU, Pak Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 38,
+        "Avail": 7,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 45,
+            "Enrol": 38,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2384)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "AU, Pak Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 38,
+        "Avail": 7,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 45,
+            "Enrol": 38,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2386)",
+        "Date & Time": "Fr 10:30AM - 11:20AM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "LEUNG, Siu Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 37,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2388)",
+        "Date & Time": "Mo 05:00PM - 05:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "AU, Pak Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 38,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "3123",
+    "name": "Macroeconomic Theory I",
+    "units": 3,
+    "info": {
+      "exclusion": "ECON 2123, ECON 3024, SOSC 102I, SOSC 1440",
+      "description": "This course will concentrate on introducing the basics terms of macroeconomics, business cycle analysis, money and inflation, current accounts, and exchange rates. Exclusively for students of the BSc in Economics and Finance and Mathematics and Economics program."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2389)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "G012, LSK Bldg (199)",
+        "Instructor": [
+          "LEE, Byoungchan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 74,
+        "Enrol": 50,
+        "Avail": 24,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 74,
+            "Enrol": 50,
+            "Avail": 24
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2390)",
+        "Date & Time": "Fr 04:30PM - 05:20PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "LEE, Byoungchan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 74,
+        "Enrol": 50,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "3334",
+    "name": "Introduction to Econometrics",
+    "units": 4,
+    "info": {
+      "pre-requisite": "One of ISOM 2500, MATH 2411 or MATH 3423",
+      "description": "Topics on the use of statistical regression techniques in modeling and estimating economic and business relationships. Both theoretical and applied aspects are addressed."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2391)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "WANG, Peng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 26,
+        "Avail": 24,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 41,
+            "Enrol": 18,
+            "Avail": 23
+          },
+          "QFIN": {
+            "Quota": 9,
+            "Enrol": 8,
+            "Avail": 1
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2393)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "WANG, Peng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 24,
+        "Avail": 26,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 26,
+            "Enrol": 0,
+            "Avail": 26
+          },
+          "QFIN": {
+            "Quota": 24,
+            "Enrol": 24,
+            "Avail": 0
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2395)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 1001, LSK Bldg (70)",
+        "Instructor": [
+          "WANG, Peng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 26,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2397)",
+        "Date & Time": "Mo 05:00PM - 05:50PM",
+        "Room": "Rm 1014, LSK Bldg (80)",
+        "Instructor": [
+          "WANG, Peng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 24,
+        "Avail": 26,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "3700",
+    "name": "Writing as an Economist",
+    "units": 3,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "pre-requisite": "(ECON 2103 OR ECON 2113) AND (ECON 2123 OR ECON 3123) AND LABU 2040",
+      "exclusion": "LABU 2020 (prior to 2019-20)",
+      "description": "This course hones students’ ability to “do economics”: to apply economic concepts and reasoning to real-world phenomena,and to express that application clearly and convincingly in writing. In weekly large-class settings, students will work with an economics instructor on interpreting and explaining data, applying economic principles to daily life, building and supporting an argument, and evaluating different perspectives in scholarly debates. In weekly small-group tutorials, a language instructor will lead discussions to analyse texts and workshop individual students’ writing. At the end of the course students will be better prepared to undertake independent research and writing in their economics coursework, as well as to write from an economics perspective for a range of non-academic purposes. For BBA(ECON), BSc(ECOF) and BSc(MAEC) first and additional majors students."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2398)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, Ernest"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 36,
+        "Enrol": 1,
+        "Avail": 35,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 36,
+            "Enrol": 1,
+            "Avail": 35
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a experiential learning mode"
+        ]
+      },
+      {
+        "Section": "T1 (2400)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "LAI, Ernest"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 18,
+        "Enrol": 0,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2402)",
+        "Date & Time": "Tu 01:30PM - 02:50PM",
+        "Room": "Rm 1026, LSK Bldg (28)",
+        "Instructor": [
+          "LAI, Ernest"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 18,
+        "Enrol": 1,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "3800",
+    "name": "ECON UG Honors Thesis I",
+    "units": 2,
+    "info": {
+      "pre-requisite": "[(ECON 3014 AND ECON 3024) OR (ECON 3133 AND ECON 3143)] AND ECON 3334 AND ECON 3700",
+      "description": "This course is a supervised course which trains student to do proper economic research. This course is Part I of the ECON UG Honors Thesis that consists of two parts (ECON3800: Honors Thesis I and ECON4800: Honors Thesis II). This course is designed to help students brainstorm their research idea by providing structured information session and continuous mentorship. Students need to submit a research proposal and share it through the final presentation. Students are expected to synthesize and apply skills and knowledge learnt from the course, and findings from their individual thesis would be useful to understand real-life phenomena. Graded P or F. Instructor's approval is required for taking the course. For BBA(ECON), BSc(ECOF) and BSc(MAEC) students, including students taking an additional major in any of these programs."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2403)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "KIM, Hyuncheol Bryant"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4114",
+    "name": "Industrial Organization and Competitive Strategy",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ECON 3014 OR (ECON 3113 AND ECON 3133)",
+      "description": "Market structures and their implications for industry performance and strategic decision-making by firms; entry deterrence, advertising, R&D investments; horizontal and vertical integration, strategic alliances, joint ventures and multi-market interaction."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2404)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "SUNADA, Kohei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2405)",
+        "Date & Time": "Th 05:00PM - 05:50PM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "SUNADA, Kohei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4134",
+    "name": "Economics of Uncertainty and Information",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ECON 3014 OR (ECON 3113 AND ECON 3133)",
+      "previous code": "ECON 4999T",
+      "description": "All human endeavors are constrained by limited knowledge about the laws of nature, external events in the past, present and future, how other people (including ourselves) are going to behave, etc. Life is filled with decision problems without perfect information of their consequences. In view of these, research on the decision making and strategic interaction under risk and uncertainty have been extremely active for the past few decades. This course aims to provide an introduction to this exciting field of research and suggestions for further exploration. The first part of the course is devoted to the economics of uncertainty and covers topics including the expected-utility model, market allocation of risks and asset pricing. The second part of the course is devoted to the economics of information and covers topics including moral hazard, bargaining, auction theory, mechanism design, and information aggregation in the market."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2406)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "AU, Pak Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2407)",
+        "Date & Time": "We 12:30PM - 01:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "AU, Pak Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4234",
+    "name": "Labor Economics and Human Resources",
+    "units": 4,
+    "info": {
+      "pre-requisite": "One of ECON 3113 or ECON 3014",
+      "description": "Occupational choice; labor market analysis and determination of earnings; unions and collective bargaining; employment and job turnover; family, fertility and population issues; training, health, and human capital."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1170)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "LI, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1170)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "LI, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1171)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 1014, LSK Bldg (80)",
+        "Instructor": [
+          "LI, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4244",
+    "name": "Economics of Human Behavior",
+    "units": 4,
+    "info": {
+      "pre-requisite": "(ECON 3014 OR ECON 3113) AND ECON 3334",
+      "description": "This course applies economic principles to understand various aspects of human behavior that have usually been considered to be outside the realm of economics. Topics include irrational behavior, crime, marriage, divorce, family, and philanthropy. Both theoretical and empirical analyses will be emphasized."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2408)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "LEUNG, Siu Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2409)",
+        "Date & Time": "Fr 06:00PM - 06:50PM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "LEUNG, Siu Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4264",
+    "name": "Economics of Innovation and Entrepreneurship",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ECON 2103 OR ECON 2113",
+      "previous code": "ECON 4999Q",
+      "description": "This course introduces students to fundamentals of entrepreneurship and innovation from an economist’s perspective. The course will be separated into two parts: the first part focuses on basic concepts and tools in the Economics of Entrepreneurship and Entrepreneurial Finance; the second part discusses topics related to Economics of Innovation. The purpose of the class is twofold: first, students are expected to acquire the very basic knowledge that may help them plan and launch entrepreneurial ventures as entrepreneurs and innovators; second, students are expected to understand the economic institutions where entrepreneurship and innovation take place."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2410)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "GONG, Robin Kaiji"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2411)",
+        "Date & Time": "Tu 04:30PM - 05:20PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "GONG, Robin Kaiji"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4304",
+    "name": "Time Series Econometrics and Business Forecasting",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ECON 3334 OR MATH 4424",
+      "exclusion": "ISOM 4540, MATH 4425",
+      "description": "The use of time series data for business forecasting is examined using the methods of regression analysis, exponential and Autoregressive Integrated Moving Average (ARIMA) techniques."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2412)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 1005, LSK Bldg (70)",
+        "Instructor": [
+          "NG, Chi Yung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (2412)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 1005, LSK Bldg (70)",
+        "Instructor": [
+          "NG, Chi Yung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2413)",
+        "Date & Time": "Th 03:00PM - 03:50PM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "NG, Chi Yung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4334",
+    "name": "Money and Banking",
+    "units": 4,
+    "info": {
+      "pre-requisite": "(ECON 3014 OR ECON 3113) AND (ECON 2123 OR ECON 3123)",
+      "exclusion": "ECON 5350",
+      "description": "Theories of money supply and demand; role of money in business fluctuations, inflation, and growth; banking, financial intermediation, and money supply; targets and instruments of monetary policy; rules versus discretion."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2414)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "KITNEY, Paul"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (2414)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "KITNEY, Paul"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2415)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "KITNEY, Paul"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4364",
+    "name": "International Trade and Investment",
+    "units": 4,
+    "info": {
+      "pre-requisite": "(ECON 3014 OR ECON 3113) AND (ECON 2123 OR ECON 3123)",
+      "description": "This course will cover the patterns and the mechanisms of international trade and foreign investment. Topics include the patterns of international trade, why nations trade, what they trade, and who gains from trade, without explicit policy interventions; the determinants and the implementations of different trade policies, the motives for countries or organizations to restrict or regulate international trade, and the welfare implications of those trade policies; the role of firms in the global economy, the operations of multinational enterprises, outsourcing, as well as the patterns and the determinants of foreign direct investment."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2416)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, Edwin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2417)",
+        "Date & Time": "We 10:30AM - 11:20AM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, Edwin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4464",
+    "name": "Urban and Environment Economics",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ECON 2103 OR ECON 2113",
+      "previous code": "ECON 4999N",
+      "description": "The course is designed to introduce students to key contemporary concepts in urban and environmental economics, and to equip them with the approaches in economics that are generally applied to analyze urban/environmental problems and policies. The course will be divided into two parts. Part I will cover topics on the economics of cities, including rent and wage determination, the location decisions of households and firms, agglomeration economics, housing, transportation and land use. Part II will focus on environmental economics, covering topics on externalities, Pigouvian policies and environmental valuation."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2418)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "LIN, Yatang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2419)",
+        "Date & Time": "Mo 12:30PM - 01:20PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "LIN, Yatang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4474",
+    "name": "Hong Kong's Economy",
+    "units": 4,
+    "info": {
+      "pre-requisite": "One of ECON 2103, ECON 2113 OR ECON 3113, AND ECON 2123 OR ECON 3123",
+      "description": "Hong Kong's post-war economic performance and prospects for further growth and development; analyses of key sectors; income and wealth distributions; Hong Kong, South China, and strategies for economic upgrading."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4104)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "FAN, Yiu Kwan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (4104)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "FAN, Yiu Kwan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (4105)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "FAN, Yiu Kwan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4670",
+    "name": "Economics Research and Communication",
+    "units": 0,
+    "info": {
+      "description": "This course is to ensure that students will acquire research and communication skills through producing a research-based term paper. The paper may be one that has been written for ECON 4959, or any other 4000-level or above Economics course that has a term paper requirement. The paper should embody the equivalence of a minimum of two credits of workload if it is written for ECON 4959. A standard at grade C or above must be obtained for the paper. For Economics students only. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (2420)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 5,
+        "Avail": 35,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 40,
+            "Enrol": 5,
+            "Avail": 35
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4800",
+    "name": "ECON UG Honors Thesis II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ECON 3800",
+      "description": "This course is a supervised course which trains student to do proper economic research. This course is Part II of the ECON UG Honors Thesis that consists of two parts (ECON3800: Honors Thesis I and ECON4800: Honors Thesis II). This course is designed to help students to produce a tangible research output in the form of a written thesis. An individual faculty supervisor will be assigned to each student. The research output will be disseminated via the end-of-the-semester UG research workshop where all students taking this course are invited to present their work."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2421)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "KIM, Hyuncheol Bryant"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "4999X",
+    "name": "Green Finance and Sustainability",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ECON 3113 OR ECON 3014",
+      "description": "This course discusses the application of finance in addressing contemporary environmental issues, such as pollution and climate change. Topics include the fundamental theories of environmental economics, strategies for a green economy and sustainable business, as well as related legislative and regulatory frameworks. The course also covers cases regarding the environmental impacts on asset prices, such as real estate prices and stock market performance, and discusses the challenges in public finance in the setting of sustainability. Students will learn basic financial tools to navigate environmental risks as an investor, an asset manager, or a regulator."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4208)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "RAO, Deyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (4209)",
+        "Date & Time": "Mo 11:00AM - 11:50AM",
+        "Room": "Rm 1014, LSK Bldg (80)",
+        "Instructor": [
+          "RAO, Deyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5110",
+    "name": "Managerial Microeconomics",
+    "units": 2,
+    "info": {
+      "attributes": "[BLD] Blended learning",
+      "vector": "[2-0-0:2]",
+      "exclusion": "ECON 5130, IMBA 5040",
+      "description": "Demand analysis and estimation; cost analysis; market structure, strategic behavior and interaction; pricing decisions: asymmetric information; special topics in managerial economics; case studies. This is a core course for MBA.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply demand and supply analysis in predicting market price and related dynamics in competitive markets.</td></tr><tr><td>2.</td><td>Analyze key trade-offs in pricing, and compare different pricing strategies according to industry or market conditions.</td></tr><tr><td>3.</td><td>Predict competitors' actions and reactions using basic game theoretic methods, and in the context of oligopoly market, analyze the direct effect and the strategic effect of various business decisions.</td></tr><tr><td>4.</td><td>Explain the impacts of asymmetric information on market efficiency.</td></tr><tr><td>5.</td><td>Communicate microeconomic analysis in business decisions to multiple stakeholder groups.</td></tr><tr><td>6.</td><td>Work effectively within a team environment for solving both technical and non-technical problems.</td></tr></table>"
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1192)",
+        "Date & Time": "06-APR-2024 - 13-APR-2024<br>Sa 09:00AM - 10:50AM",
+        "Room": "TBA",
+        "Instructor": [
+          "HUA, Xinyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 19,
+        "Avail": 26,
+        "Wait": 0,
+        "QuotaDetail": {
+          "Digital MBA": {
+            "Quota": 45,
+            "Enrol": 19,
+            "Avail": 26
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a real-time online mode",
+          "For DI-MBA students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1192)",
+        "Date & Time": "27-APR-2024 - 25-MAY-2024<br>Sa 09:00AM - 10:50AM",
+        "Room": "TBA",
+        "Instructor": [
+          "HUA, Xinyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 19,
+        "Avail": 26,
+        "Wait": 0,
+        "QuotaDetail": {
+          "Digital MBA": {
+            "Quota": 45,
+            "Enrol": 19,
+            "Avail": 26
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a real-time online mode",
+          "For DI-MBA students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1192)",
+        "Date & Time": "01-JUN-2024 - 01-JUN-2024<br>Sa 09:00AM - 12:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "HUA, Xinyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 19,
+        "Avail": 26,
+        "Wait": 0,
+        "QuotaDetail": {
+          "Digital MBA": {
+            "Quota": 45,
+            "Enrol": 19,
+            "Avail": 26
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a real-time online mode",
+          "For DI-MBA students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5180",
+    "name": "Strategy and Organization",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "ECON 5110 OR ECON 5130 OR ECON 5210",
+      "description": "This course uses economic analysis and case studies to examine the design of organizations, and the relationship between organizational structure and corporate strategy.  The first half of the course focuses on relationships within the firm, topics includes agency problems, incentive pay, internal labor policies, conflict and cooperation among divisions, and transfer pricing.  The second half of the course focuses on the boundaries and market relationships of the firm, topics include horizontal mergers and conglomerate diversification, internal capital market, vertical integration, and other vertical relationships such as franchising and strategic contracts.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Examine the design of organizations, and the relationship between organizational structure and corporate strategy using economic analysis.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1188)",
+        "Date & Time": "06-FEB-2024 - 06-FEB-2024<br>Tu 09:00AM - 12:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "HUA, Xinyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 12-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1188)",
+        "Date & Time": "20-FEB-2024 - 02-APR-2024<br>Tu 09:00AM - 12:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "HUA, Xinyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 12-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5190",
+    "name": "Games and Strategic Behavior",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "ECON 5110 OR ECON 5130 OR ECON 5210",
+      "previous code": "ECON 6100M",
+      "description": "This course demonstrates how game theory can be utilized for decision making. It helps students to know how other players form their strategies and to identify one's own best strategy; use game theories to analyze entry or exit from businesses, change the perceptions of competitors, the extent of product differentiation and proliferation that is implied by competition; and formulate strategies to alleviate price competition among firms.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain how other players form their strategies and expectations in order to identify one's own best response strategy.</td></tr><tr><td>2.</td><td>Model social interactions as strategic games, use game theoretic concepts to predict behavior in these interactions and conceive of ways in which altering the game affects social outcomes.</td></tr><tr><td>3.</td><td>Explain how managers can utilize insights of game theory to address important decisions confronting the firm.</td></tr><tr><td>4.</td><td>Construct game theoretic reasoning to analyze issues related to entry into new markets or exit from established businesses, changing the perceptions of competitors, the extent of product differentiation and proliferation that is implied by competition, and strategies aimed at alleviating price competition among firms.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1183)",
+        "Date & Time": "01-FEB-2024 - 01-FEB-2024<br>Th 09:00AM - 12:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "LIM, Woo Young"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 25,
+            "Enrol": 0,
+            "Avail": 25
+          },
+          "MBA": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "For MSc(ECON); FT-MBA and PT-MBA and MBA Exchange students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1183)",
+        "Date & Time": "15-FEB-2024 - 28-MAR-2024<br>Th 09:00AM - 12:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "LIM, Woo Young"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 25,
+            "Enrol": 0,
+            "Avail": 25
+          },
+          "MBA": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "For MSc(ECON); FT-MBA and PT-MBA and MBA Exchange students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5200",
+    "name": "Global Macroeconomics",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "exclusion": "ECON 5250",
+      "description": "This course covers the basic theory of short run macroeconomics, as it has developed since Keynes. The basic framework will be the \"IS-LM\" equilibrium method, in which we analyze the major markets which affect the macroeconomy - labor, output, money and foreign exchange markets by studying positions of general equilibrium in them. This framework will be used to analyze fiscal and monetary policies.  This is a core course for MBA.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the framework, style and tools of macroeconomics.</td></tr><tr><td>2.</td><td>Apply the concepts and framework developed to current global macroeconomic issues.</td></tr><tr><td>3.</td><td>Enhance research report writing and presentation skills.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1166)",
+        "Date & Time": "29-JAN-2024 - 05-FEB-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "KITNEY, Paul"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "QuotaDetail": {
+          "Digital MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          },
+          "MBA Bi-weekly": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA Year 2 or above and MBA Exchange students only",
+          "Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1166)",
+        "Date & Time": "19-FEB-2024 - 25-MAR-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "KITNEY, Paul"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "QuotaDetail": {
+          "Digital MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          },
+          "MBA Bi-weekly": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA Year 2 or above and MBA Exchange students only",
+          "Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5220",
+    "name": "Microeconomic Theory II",
+    "units": 4,
+    "info": {
+      "vector": "[4-0-0:4]",
+      "pre-requisite": "ECON 5210",
+      "description": "Introduction to general equilibrium theory and welfare economics, economics of information and uncertainty, game theory, theory of contract and organization, topics in modern microeconomics.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand models and major issues regarding individual decision making processes.</td></tr><tr><td>2.</td><td>Reproduce proofs of some classic results but also be able to explain intuitively each model's perspectives and results.</td></tr><tr><td>3.</td><td>Understand the power and limitation of standard models.</td></tr><tr><td>4.</td><td>Apply the theory and principles studied in class to real world applications.</td></tr><tr><td>5.</td><td>Be well prepared for other economics courses in the program.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1172)",
+        "Date & Time": "Mo 09:00AM - 10:50AM",
+        "Room": "Rm 1014, LSK Bldg (80)",
+        "Instructor": [
+          "WU, Qinggong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 28,
+        "Enrol": 0,
+        "Avail": 28,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 28,
+            "Enrol": 0,
+            "Avail": 28
+          }
+        },
+        "Remarks": [
+          "For PhD(SBM) students only"
+        ]
+      },
+      {
+        "Section": "L1 (1172)",
+        "Date & Time": "We 09:00AM - 10:50AM",
+        "Room": "Rm 1026, LSK Bldg (28)",
+        "Instructor": [
+          "WU, Qinggong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 28,
+        "Enrol": 0,
+        "Avail": 28,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 28,
+            "Enrol": 0,
+            "Avail": 28
+          }
+        },
+        "Remarks": [
+          "For PhD(SBM) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5260",
+    "name": "Macroeconomic Theory II",
+    "units": 4,
+    "info": {
+      "vector": "[4-0-0:4]",
+      "pre-requisite": "ECON 5250",
+      "description": "Theories of consumption, investment, money, and asset prices; inflation; unemployment; economic growth; the \"twin\" deficits; fiscal and monetary policies.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Have an up-to-date and in-depth knowledge of advanced macroeconomics, especially monetary economics. Understand the important questions of monetary economics and the main components of business cycle and monetary theories. (SILO # 1)</td></tr><tr><td>2.</td><td>Grasp the advanced mathematical and quantitative tools to understand the important macroeconomic research questions discussed in the literature. (SILO # 1.2, #1.3)</td></tr><tr><td>3.</td><td>Apply the concepts, principles, and models learnt in this course to analyze economic phenomena and the current macroeconomic events and its impact on the business environment and the economy. (SILO # 2.2)</td></tr><tr><td>4.</td><td>Develop new research questions independently based on the literatures and current macroeconomic phenomenon; and carry out research independently to address these questions. (SILO # 4.1)</td></tr><tr><td>5.</td><td>Apply monetary theories and models to understand and evaluate the effects of monetary policies, possible effects and causes of recent financial crisis, and financial and monetary policies that may stabilize fluctuations. (SILO # 2.2)   </td></tr><tr><td>6.</td><td>Think critically and creatively when making effective economic decisions and policy suggestions supported by macroeconomic theories and analytical and quantitative techniques. (SILO # 1.3)</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1173)",
+        "Date & Time": "Tu 09:00AM - 12:50PM",
+        "Room": "Rm 1026, LSK Bldg (28)",
+        "Instructor": [
+          "XU, Juanyi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For PhD(SBM) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5300",
+    "name": "Econometrics",
+    "units": 4,
+    "info": {
+      "vector": "[4-0-0:4]",
+      "pre-requisite": "ECON 5100 AND ISOM 5540",
+      "description": "Ordinary least squares, multiple regression and maximum likelihood estimation; variable selection and model specification; multicollinearity;  heteroscedasticity and serial correlation;  errors in variables; Endogeneity and instrumental variable regression; panel data model; generalized method of moment.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Possess a solid theoretical foundation and practical knowledge in econometrics.</td></tr><tr><td>2.</td><td>Carry out empirical research competently in economics, finance, accounting and other areas in business and social science.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1174)",
+        "Date & Time": "MoWe 03:00PM - 04:50PM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "WANG, Peng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "For PhD(SBM) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5349",
+    "name": "Financial Economics: Portfolio Management",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "exclusion": "FINA 5210",
+      "previous code": "ECON 6100Q",
+      "description": "This course provides an introduction to the most fundamental aspects of modern portfolio theory, including passive portfolio management and active portfolio management. Topics include how to trade on financial exchanges, evaluate risk-return characteristics for investment projects and construct \"optimal\" portfolios, classic topics in asset pricing such as CAPM and arbitrage, and key methods in equity valuation. For MSc(ECON) students only.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain how investors trade off risk and return using the concept of utility maximization.</td></tr><tr><td>2.</td><td>Allocate money across different asset classes in a scientific manner.</td></tr><tr><td>3.</td><td>Price financial securities on the basis of fundamental financial principles.</td></tr><tr><td>4.</td><td>Identify basic principles of equity research and valuation models.</td></tr><tr><td>5.</td><td>Determine whether a portfolio manager is doing a good job.</td></tr><tr><td>6.</td><td>Perform passive and active portfolio analysis using Microsoft Office Excel.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1186)",
+        "Date & Time": "02-FEB-2024 - 02-FEB-2024<br>Fr 09:00AM - 12:50PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "DING, Fei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1186)",
+        "Date & Time": "16-FEB-2024 - 22-MAR-2024<br>Fr 09:00AM - 12:50PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "DING, Fei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5351",
+    "name": "Environmental Economics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "(ECON 5130 OR ECON 5210) AND ECON 5280",
+      "exclusion": "PPOL 5351, ENVR 5250",
+      "co-list with": "PPOL 5351",
+      "previous code": "ECON 6110D",
+      "description": "This course is an introduction to an economics perspective of environmental problems, with attention to public policy solutions to pollution and climate change challenges. Part I will cover the ways in which markets fail to efficiently allocate resources in the presence of pollution along with the class of Pigouvian policies used to correct those failures. Part II will focus on the empirical techniques used by economists to assess the cost and benefits of environmental policies.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply economic analysis to the management of the environment and natural resources.</td></tr><tr><td>2.</td><td>Appreciate theoretical and empirical research in environmental economics.</td></tr><tr><td>3.</td><td>Use economic principles and non-market valuation techniques to address a variety of continuing and contemporary environmental issues.</td></tr><tr><td>4.</td><td>Explain the method in policy evaluation and develop policy evaluation report(s).</td></tr><tr><td>5.</td><td>Demonstrate effective writing and communication skills in report preparation and presentation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1184)",
+        "Date & Time": "01-FEB-2024 - 08-FEB-2024<br>TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "LIN, Yatang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class during mid-term break"
+        ]
+      },
+      {
+        "Section": "L1 (1184)",
+        "Date & Time": "20-FEB-2024 - 09-MAY-2024<br>TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "LIN, Yatang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECON": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class during mid-term break"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5352",
+    "name": "Housing Economics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "ECON 5130 AND ECON 5140 AND ECON 5280",
+      "previous code": "ECON 6110I",
+      "description": "Housing has its unique characteristics in terms of heterogeneity, durability, spatial fixity, and high purchase price. This suggests that conventional economic concepts need to be readdressed in order to analyze housing. Besides, many households use mortgage loan to finance home purchase. A substantial collapse in house price might lead to negative equity for leveraged households and reduce their consumption and investment thereafter. This course studies both the microeconomic and macroeconomic issues of housing. Topics include housing demand and supply analysis, equilibrium models of housing market, rationales and effects of public policies on housing, causes and consequences of housing market dynamics and crisis. Applications to the subprime mortgage crisis and housing markets in Hong Kong and China will also be addressed.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply the microeconomic concepts and models to conduct supply and demand analysis of housing markets.</td></tr><tr><td>2.</td><td>Explain the economic rationales and effects of public policies on housing.</td></tr><tr><td>3.</td><td>Apply the macroeconomic concepts and models to analyze the dynamics and spillovers of the housing market.</td></tr><tr><td>4.</td><td>Use the relevant quantitative tools to carry out the empirical analysis of housing markets.</td></tr><tr><td>5.</td><td>Formulate and conduct a secondary research project related to housing market issues.</td></tr><tr><td>6.</td><td>Communicate the topic effectively in oral and written English.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1175)",
+        "Date & Time": "Mo 12:00PM - 02:50PM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "NG, Chi Yung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5370",
+    "name": "Using Data for Economics Analysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "ECON 5130 OR ECON 5140 OR ECON 5210 OR ECON 5250",
+      "previous code": "ECON 6100G",
+      "description": "This course puts econometrics theories and models into practice. Students are required to write their own program with R, and do a term project. Topics included linear regression, panel data analysis and time series analysis regarding estimation, hypothesis testing and statistical interference.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply econometric theories and models in analyzing economic issues in real world with solid support by data, including: identification of research questions, looking for suitable datasources, establishing solid research methodology according to research questions and data availability.</td></tr><tr><td>2.</td><td>Demonstrate fundamental knowledge of the R platform, including familiarizing R working environment, performing data management with R, using graphic functions for presentation, and writing R scripts for specific research projects.</td></tr><tr><td>3.</td><td>Enhance report writing and presentation skills.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1187)",
+        "Date & Time": "02-FEB-2024 - 02-FEB-2024<br>Fr 01:30PM - 04:20PM",
+        "Room": "G021, LSK Bldg",
+        "Instructor": [
+          "SIU, Kam Wing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only"
+        ]
+      },
+      {
+        "Section": "L1 (1187)",
+        "Date & Time": "16-FEB-2024 - 10-MAY-2024<br>Fr 01:30PM - 04:20PM",
+        "Room": "G021, LSK Bldg",
+        "Instructor": [
+          "SIU, Kam Wing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5390",
+    "name": "Labor Economics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "ECON 5130 OR ECON 5210",
+      "previous code": "ECON 6100K",
+      "description": "This course presents a theoretical and empirical analysis of labor markets, utilizing primarily the tools developed in microeconomics and econometrics. We will investigate how wages are determined in various labor markets and study the effects of private and public policies on wages and unemployment. Issues about human capital and labor market discrimination will be studied. We will also examine how employers can design compensation packages, incentive contracts, and performance evaluations for their employees.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify economic critical thinking.</td></tr><tr><td>2.</td><td>Utilize labor economics to explain pertinent economic and social phenomena.</td></tr><tr><td>3.</td><td>Carry out independently applied research in economic and social problems of the labor market.</td></tr><tr><td>4.</td><td>Apply economic theory to practical human resources situations and make sound economic decisions.</td></tr><tr><td>5.</td><td>Recognize cultural diversity on labor issues.</td></tr><tr><td>6.</td><td>Formulate informed ethical thinking based on rigorous economic and social analyses.</td></tr><tr><td>7.</td><td>Communicate effectively.</td></tr><tr><td>8.</td><td>Be a lifelong user of economic analysis.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1176)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "LEUNG, Siu Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5410",
+    "name": "Value Investing from an Economic Perspective",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "ECON 5400",
+      "description": "This course will introduce the precepts of value investing.  It will focus on the equity market, and begin with the classic Graham and Dodd investing criteria.  This includes stock search; valuation; and design of optimal portfolio.  Innovations to the classic criteria as well as use of derivates in the portfolio will be introduced.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the philosophy, style and tools of value investing.</td></tr><tr><td>2.</td><td>Apply concepts in Accounting, Microeconomics and Corporate Finance to analyze companies and their stocks.</td></tr><tr><td>3.</td><td>Write a research report.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1190)",
+        "Date & Time": "27-MAR-2024 - 24-APR-2024<br>We 09:30AM - 12:50PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "RAO, Milind Shankar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 40,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GO) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1190)",
+        "Date & Time": "08-MAY-2024 - 08-MAY-2024<br>We 09:30AM - 12:50PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "RAO, Milind Shankar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 40,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GO) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1190)",
+        "Date & Time": "22-MAY-2024 - 29-MAY-2024<br>We 09:30AM - 12:50PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "RAO, Milind Shankar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 40,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GO) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5510",
+    "name": "International Trade",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "(ECON 5130 OR ECON 5210) AND (ECON 5140 OR ECON 5250)",
+      "exclusion": "ECON 5560 (prior to 2022-23)",
+      "previous code": "ECON 6110F",
+      "description": "International trade has become more and more important, as transportation costs and artificial trade barriers keep falling over time. The world is more and more integrated through trade. Trade also plays a very important role in the development of many emerging economies, such as China. This course discusses the determinants of the pattern of international trade, why nations trade, what they trade, the gains from trade, and the distributional effects of trade. Then, we go on to analyze the motives, consequence and welfare implications of trade policies, and political economy of trade, such as free trade agreements, and the World Trade Organization.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand the theories behind gains from trade, comparative advantage and trade, economies of scale and trade, distributional effects of trade, and trade policy, and in some cases, understand how to take the theory to the data and estimate the model empirically.</td></tr><tr><td>2.</td><td>Apply the theories to analyze gains from trade, what determines comparative advantage, how comparative advantage determines trade pattern, how increasing returns to scale determines trade pattern, how trade affects factor returns and the effects of trade policy.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1167)",
+        "Date & Time": "31-JAN-2024 - 07-FEB-2024<br>We 04:30PM - 06:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, Edwin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class on 01-May-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1167)",
+        "Date & Time": "21-FEB-2024 - 27-MAR-2024<br>We 04:30PM - 06:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, Edwin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class on 01-May-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1167)",
+        "Date & Time": "10-APR-2024 - 08-MAY-2024<br>We 04:30PM - 06:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, Edwin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class on 01-May-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5670",
+    "name": "Urban Economics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "ECON 6110Q",
+      "description": "This course discusses the economics of cities in the context of housing, labor, and transportation. Topics include business and individual location decisions, land use, urban amenities, agglomeration economies, local governance, etc. The course covers empirical methods for urban policy analysis, such as non-parametric estimations, spatial regression-discontinuity (RD) designs, the hedonic model, and discrete choice models. This course also discusses advanced general equilibrium models used in contemporary urban literature, including household sorting models, and quantitative spatial models. Students will learn basic tools for the visualization of spatial GIS data, and analytical tools for empirical evaluations of urban policies.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand the key concepts, principles, and models of urban economics.</td></tr><tr><td>2.</td><td>Collaborate and communicate effectively in oral and written English on issues regarding urban economics.</td></tr><tr><td>3.</td><td>Analyze the consequence of an urban policy and provide policy suggestions to governments and international organizations.</td></tr><tr><td>4.</td><td>Develop an academic or career interest in urban economics.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1185)",
+        "Date & Time": "01-FEB-2024 - 08-FEB-2024<br>TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 1014, LSK Bldg (80)",
+        "Instructor": [
+          "RAO, Deyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class during mid-term break"
+        ]
+      },
+      {
+        "Section": "L1 (1185)",
+        "Date & Time": "20-FEB-2024 - 09-MAY-2024<br>TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 1014, LSK Bldg (80)",
+        "Instructor": [
+          "RAO, Deyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class during mid-term break"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "5700",
+    "name": "Macroeconomic and Financial Risk Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "ECON 5280",
+      "previous code": "ECON 6110E",
+      "description": "Macroeconomic and financial risk is the likelihood that changes in macroeconomic or financial conditions like interest rates, exchange rates, sovereign credit rating, government policy or regulation, political stability, commodity prices, or equity prices will affect the economic profit or investment return of an entity. This course introduces fundamental concepts of macroeconomic and financial risk management. It focuses on the identification, quantification, and management of various macroeconomic and financial risks. It evaluates and applies different tools and procedures, comprising quantitative measures and qualitative assessment, to measure and manage risk. Problems and challenges that arise in risk management process are also addressed.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Analyze qualitatively and quantitatively economic and financial risk exposures for financial institutions.</td></tr><tr><td>2.</td><td>Apply risk management tools and procedures to manage economic and financial risks.</td></tr><tr><td>3.</td><td>Address problems and challenges in the risk management process.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1168)",
+        "Date & Time": "31-JAN-2024 - 07-FEB-2024<br>We 01:30PM - 04:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "NG, Chi Yung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class during mid-term break"
+        ]
+      },
+      {
+        "Section": "L1 (1168)",
+        "Date & Time": "21-FEB-2024 - 24-APR-2024<br>We 01:30PM - 04:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "NG, Chi Yung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class during mid-term break"
+        ]
+      },
+      {
+        "Section": "L1 (1168)",
+        "Date & Time": "08-MAY-2024 - 08-MAY-2024<br>We 01:30PM - 04:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "NG, Chi Yung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class during mid-term break"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "6110P",
+    "name": "Value Investing",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course covers the philosophy, the theory and the practice  of value investing as it has developed since Graham.  We will present the techniques of investing: search; valuation and the construction of a portfolio. We will focus on the economic analysis of the firm and the valuation of the firm. The underlying idea is to completely understand the firm. To do so, we will begin by understanding the industry and market trends. We will then systematically develop valuation techniques from the ground up as well as understand the limitations of the current standard forms of valuation. We will apply these techniques and the framework developed to study specific companies. Finally, we will discuss the construction of the portfolio and issues of portfolio management."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1178)",
+        "Date & Time": "05-FEB-2024 - 05-FEB-2024<br>Mo 09:00AM - 11:50AM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "RAO, Milind Shankar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only"
+        ]
+      },
+      {
+        "Section": "L1 (1178)",
+        "Date & Time": "19-FEB-2024 - 25-MAR-2024<br>Mo 09:00AM - 11:50AM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "RAO, Milind Shankar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only"
+        ]
+      },
+      {
+        "Section": "L1 (1178)",
+        "Date & Time": "08-APR-2024 - 22-APR-2024<br>Mo 09:00AM - 11:50AM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "RAO, Milind Shankar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only"
+        ]
+      },
+      {
+        "Section": "L1 (1178)",
+        "Date & Time": "11-MAY-2024 - 11-MAY-2024<br>Sa 09:30AM - 12:20PM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "RAO, Milind Shankar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only"
+        ]
+      },
+      {
+        "Section": "L1 (1178)",
+        "Date & Time": "11-MAY-2024 - 11-MAY-2024<br>Sa 02:00PM - 04:50PM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "RAO, Milind Shankar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "6110S",
+    "name": "Business Cycles and Monetary Policy",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "This course provides an introduction to business cycles with applications in monetary policy, providing a natural progression from ECON 5140. It includes Real Business Cycle (RBC) models, monetary models, Dynamic Stochastic General Equilibrium Models (DSGE) and models with New Keynesian frictions, including nominal rigidities and financial frictions. In this course, students will learn how to solve various models analytically using dynamic programming and sequential methods. Key topics in monetary policy (or monetary economics) such as money neutrality, super money neutrality, the Fisher equation, Friedman rule, equilibrium determinacy, time inconsistency and reputation in monetary policy are also explored in this course. Numerical solution techniques are emphasized with calibration and simulation methods taught using Matlab, Octave and Dynare, to compute the quantitative impact of economic shocks and policy events. Bonus computing workshops will be provided.  Applications to policy and real-world phenomena are emphasized throughout."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4135)",
+        "Date & Time": "31-JAN-2024 - 07-FEB-2024<br>We 09:00AM - 12:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "KITNEY, Paul"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (4135)",
+        "Date & Time": "21-FEB-2024 - 27-MAR-2024<br>We 09:00AM - 12:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "KITNEY, Paul"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "6110T",
+    "name": "International Finance & Open Economy Macro",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "This course presents a modern introduction to international finance and open economy macroeconomics based on a micro-founded, dynamic general equilibrium approach. The first 4 weeks provide coverage of basic international finance topics including global imbalances, current account sustainability, theories to explain the current account, determinants of real interest rates, and international capital integration. These foundation concepts, together with the knowledge you have gained in ECON 5140 are used to develop an understanding of modern graduate-level open economy macroeconomics. We will study international business cycles in data and models including the open economy real business cycle model and monetary policy in an open economy version of the New Keynesian Dynamic Stochastic General Equilibrium (DSGE) model. In this course, students will not only learn how to solve various models analytically using pen and paper but also through using numerical solution techniques in Matlab, Octave, and DYNARE to compute the quantitative impact of economic shocks and policy events. Bonus computing workshops will be provided. Applications to policy and real-world phenomena are emphasized throughout. Assumed knowledge is ECON 5140."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4162)",
+        "Date & Time": "03-APR-2024 - 24-APR-2024<br>We 09:00AM - 12:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "KITNEY, Paul"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (4162)",
+        "Date & Time": "08-MAY-2024 - 08-MAY-2024<br>We 09:00AM - 12:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "KITNEY, Paul"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (4162)",
+        "Date & Time": "22-MAY-2024 - 05-JUN-2024<br>We 09:00AM - 12:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "KITNEY, Paul"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "6110U",
+    "name": "Behavioral Economics",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "This course introduces students to the field of behavioral economics, which stresses the need to incorporate psychological considerations into economics. This is accomplished by making psychologically-sound assumptions about preferences, beliefs, and constrained maximization to account for a wide range of behavior. The course covers three topics: (1) decision making under risk (loss aversion, probability weighting, reference dependence); (2) decision making across time (self-control, timing preference), (3) other-regarding preference (altruism, fairness, reciprocity). Evidence from financial market, saving behavior, labor market and other areas will be used to show how behavioral economics can be fruitfully applied to yield important insights into behavior under different settings. The course emphasizes the interplay among observable behavior, underlying psychology, and economic models. Overall, this course aims to help you develop skills on (1) how to incorporate psychology could help explain economic behavior, (2) how to apply behavioral economics to various economic and business settings."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4137)",
+        "Date & Time": "06-FEB-2024 - 06-FEB-2024<br>Tu 01:30PM - 03:20PM",
+        "Room": "Rm 4503, Lift 25-26 (64)",
+        "Instructor": [
+          "ZHONG, Songfa"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class during mid-term break"
+        ]
+      },
+      {
+        "Section": "L1 (4137)",
+        "Date & Time": "20-FEB-2024 - 07-MAY-2024<br>Tu 01:30PM - 03:20PM",
+        "Room": "Rm 4503, Lift 25-26 (64)",
+        "Instructor": [
+          "ZHONG, Songfa"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Will have normal class during mid-term break"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "6120Q",
+    "name": "Topics in Theory",
+    "units": 4,
+    "info": {
+      "vector": "[4-0-0:4]",
+      "pre-requisite": "ECON 5220",
+      "description": "In this course we deep-dive into market design, that is, the application of economic theory to designing or improving various kinds of market mechanisms. In particular, we will focus on two kinds of market mechanisms: matching and auction. If time permits, we may also discuss the design of financial markets. We will learn some theory, and then we will also learn how to use the theory to analyze and design markets for practical use. This course will be taught in a seminar format. Prepare to actively participate in discussions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1179)",
+        "Date & Time": "We 02:00PM - 05:50PM",
+        "Room": "Rm 1026, LSK Bldg (28)",
+        "Instructor": [
+          "WU, Qinggong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": [
+          "For PhD(SBM) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "6120T",
+    "name": "Applied micro-econometrics",
+    "units": 4,
+    "info": {
+      "vector": "[4-0-0:4]",
+      "pre-requisite": "ECON 5300",
+      "description": "This course teaches classical and recent applied econometric methods in empirical microeconomics for Ph.D. students. The learning goal of this course is to be able to understand, design, and implement effective empirical strategies to support empirical claims, particularly causal claims, at the level required for professional researchers of empirical microeconomics. These empirical strategies include randomized experiments with and without compliance, regression discontinuity, the difference-in-difference, and recent techniques such as causal machine learning. In addition, I expect students to understand how to write code in R to perform simulation, estimation, and inference. Finally, I also expect students to learn how to read empirical microeconomics papers critically."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1180)",
+        "Date & Time": "TuTh 03:00PM - 04:50PM",
+        "Room": "Rm 1026, LSK Bldg (28)",
+        "Instructor": [
+          "SUNADA, Kohei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": [
+          "For PhD(SBM) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "6120Y",
+    "name": "Advanced Topics in Behavioral Decision Theory",
+    "units": 4,
+    "info": {
+      "vector": "[4-0-0:4]",
+      "pre-requisite": "ECON 5210",
+      "description": "Behavioral decision theory is a field of study that recognizes the crucial role that psychological and behavioral factors play in decision-making, and aims to capture and understand these factors through the use of formal theories. This graduate course provides students in business school with a comprehensive overview of the various topics in behavioral decision theory. These topics include decision-making under risk and uncertainty, decision-making over time, and decision-making in social contexts. This course emphasizes the interplay between theories, experiments, and applications in fields such as finance, labor economics, and development economics. By taking this course, students will gain a deeper understanding of psychological and behavioral factors that influence decision-making, and develop skills on how to model these factors and apply them to real-world scenarios."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4181)",
+        "Date & Time": "Mo 09:00AM - 12:50PM",
+        "Room": "Rm 1026, LSK Bldg (28)",
+        "Instructor": [
+          "ZHONG, Songfa"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "For MPhil(ECON) and PhD(ECON) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "6950",
+    "name": "MSc Project",
+    "units": 4,
+    "info": {
+      "vector": "[4 credits]",
+      "pre-requisite": "MSc status",
+      "description": "An independent project carried out under the supervision of a faculty member.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Gain insight of the research process.</td></tr><tr><td>2.</td><td>Write up research papers/documents.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4149)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 16-Feb-2024",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "6970G",
+    "name": "Independent Study",
+    "units": 3,
+    "info": {
+      "vector": "[3 credit(s)]",
+      "description": "Study of selected economic issues under the supervision of a faculty member in the Department. (Special permission from the Associate Dean is required for MBA students to take this course.)"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4150)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 16-Feb-2024",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "6980",
+    "name": "Independent Project",
+    "units": 6,
+    "info": {
+      "vector": "[6 credits]",
+      "description": "For MSc(ECON) students opting for the Research Preparation concentration only. This course aims to acquire students with research skills through producing a term paper under the supervision of a faculty member in the Department.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Approach research problems in a logistical way.</td></tr><tr><td>2.</td><td>Conduct literature review.</td></tr><tr><td>3.</td><td>Write up research papers/documents.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4151)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ECON) students only",
+          "Add/Drop Deadline : 16-Feb-2024",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Present the topic to the public.</td></tr><tr><td>2.</td><td>Deep grasp of the subject matter.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1181)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 3,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": [
+          "For MPhil(ECON) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ECON",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Present the topic to the public.</td></tr><tr><td>2.</td><td>Deep grasp of the subject matter.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1182)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 12,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "For PhD(ECON) students only"
+        ]
+      }
+    ]
+  }
+]

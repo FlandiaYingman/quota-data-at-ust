@@ -1,0 +1,4003 @@
+[
+  {
+    "program": "MATH",
+    "code": "1012",
+    "name": "Calculus IA",
+    "units": 4,
+    "info": {
+      "attributes": "Common Core (QR) for 36-credit program",
+      "exclusion": "Level 3 or above in HKDSE Mathematics Extended Module M1 or M2; MATH 1003, MATH 1013, MATH 1014, MATH 1020, MATH 1023, MATH 1024",
+      "co-list with": "MATH 1013",
+      "description": "This is an introductory course in one-variable calculus, the first in the Calculus I and II sequence, designed for students that have not taken HKDSE Mathematics Extended Module M1 or M2. Topics include functions and their limits, continuity, derivatives and rules of differentiation, applications of derivatives, and basic integral calculus."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3337)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "XIONG, Maosheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 5,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3337)",
+        "Date & Time": "Fr 12:00PM - 12:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "XIONG, Maosheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 5,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (4337)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 4503, Lift 25-26 (64)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (4337)",
+        "Date & Time": "Fr 09:30AM - 10:20AM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3338)",
+        "Date & Time": "We 12:30PM - 01:20PM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "XIONG, Maosheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 5,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2A (4338)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "1013",
+    "name": "Calculus IB",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (QR) for 36-credit program",
+      "pre-requisite": "Level 3 or above in HKDSE Mathematics Extended Module M1/M2",
+      "exclusion": "MATH 1012, MATH 1014, MATH 1020, MATH 1023, MATH 1024",
+      "co-list with": "MATH 1012",
+      "description": "This is an introductory course in one-variable calculus, the first in the Calculus I and II sequence, designed for students that have taken HKDSE Mathematics Extended Module M1/M2. Topics include functions and their limits, continuity, derivatives and rules of differentiation, applications of derivatives, and basic integral calculus."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3339)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "XIONG, Maosheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 3,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: Room CYTG010"
+        ]
+      },
+      {
+        "Section": "L2 (4342)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Venue : Room 4503"
+        ]
+      },
+      {
+        "Section": "T1A (3340)",
+        "Date & Time": "We 12:30PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "XIONG, Maosheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 3,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: LTF"
+        ]
+      },
+      {
+        "Section": "T2A (4343)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Venue : Room 1409"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "1014",
+    "name": "Calculus II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 1012 OR MATH 1013 OR MATH 1023 OR grade A- or above in MATH 1003",
+      "exclusion": "MATH 1020, MATH 1024",
+      "description": "This is an introductory course in one-variable calculus, the second in the MATH 1013 – MATH 1014 sequence. Topics include applications of definite integral, improper integrals, vectors, curves and parametric equations, modeling with differential equations, solving simple differential equations, infinite sequences and series, power series and Taylor series."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L01 (3341)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "CHENG, Kam Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 129,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L02 (3343)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "MUNOZ GEORGE, Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 106,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L03 (3345)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "LAM, Tsz Kin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 105,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L04 (3347)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "TANG, Rong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 106,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L05 (3349)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "QIAN, Shuaijie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 106,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L06 (3351)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "LAM, Tsz Kin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 106,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L07 (3353)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "WU, Yueping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 107,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L07 (3353)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "WU, Yueping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 107,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L08 (3355)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "WU, Yueping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 106,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L08 (3355)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "WU, Yueping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 106,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L09 (3357)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "HE, Jialin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 106,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L10 (3359)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "SU, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 108,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L11 (3361)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "LEE, Jaehun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 106,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T01A (3363)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "CHENG, Kam Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 42,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T01B (3365)",
+        "Date & Time": "Fr 12:00PM - 12:50PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "CHENG, Kam Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 44,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T01C (3366)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "CHENG, Kam Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 43,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T02A (3367)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "MUNOZ GEORGE, Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T02B (3368)",
+        "Date & Time": "Tu 01:00PM - 01:50PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "MUNOZ GEORGE, Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T02C (3369)",
+        "Date & Time": "Th 11:30AM - 12:20PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "MUNOZ GEORGE, Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T03A (3370)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "LAM, Tsz Kin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 34,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T03B (3371)",
+        "Date & Time": "Th 04:00PM - 04:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "LAM, Tsz Kin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T03C (3372)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "LAM, Tsz Kin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T04A (3373)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "TANG, Rong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T04B (3374)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "TANG, Rong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T04C (3375)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "TANG, Rong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T05A (3376)",
+        "Date & Time": "Mo 07:00PM - 07:50PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "QIAN, Shuaijie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T05B (3377)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "QIAN, Shuaijie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T05C (3378)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "QIAN, Shuaijie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T06A (3379)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "LAM, Tsz Kin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T06B (3380)",
+        "Date & Time": "Fr 10:30AM - 11:20AM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "LAM, Tsz Kin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T06C (3381)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "LAM, Tsz Kin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 34,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T07A (3382)",
+        "Date & Time": "Fr 09:30AM - 10:20AM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "WU, Yueping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T07B (3383)",
+        "Date & Time": "We 07:00PM - 07:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WU, Yueping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T07C (3384)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2407, Lift 17-18 (126)",
+        "Instructor": [
+          "WU, Yueping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T08A (3385)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "WU, Yueping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T08B (3386)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "WU, Yueping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T08C (3387)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "WU, Yueping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T09A (3388)",
+        "Date & Time": "Tu 11:00AM - 11:50AM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "HE, Jialin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T09B (3389)",
+        "Date & Time": "We 05:30PM - 06:20PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "HE, Jialin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T09C (3390)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "HE, Jialin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T10A (3391)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T10B (3392)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T10C (3393)",
+        "Date & Time": "Fr 10:30AM - 11:20AM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T11A (3394)",
+        "Date & Time": "Tu 05:30PM - 06:20PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "LEE, Jaehun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T11B (3395)",
+        "Date & Time": "Fr 10:30AM - 11:20AM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "LEE, Jaehun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 34,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T11C (3396)",
+        "Date & Time": "Th 04:00PM - 04:50PM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "LEE, Jaehun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "1024",
+    "name": "Honors Calculus II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 1023",
+      "exclusion": "MATH 1014, MATH 1020",
+      "description": "This is the second in the sequence MATH 1023 - MATH 1024 of honors courses in one-variable calculus, with particular emphasis on rigorous mathematical reasoning. Topics include integral calculus, techniques of integration, improper integrals, applications of integrals, infinite series. Some rigorous theoretical results on integration and infinite series will be discussed."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3397)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "FONG, Tsz Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 105,
+        "Enrol": 63,
+        "Avail": 42,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3399)",
+        "Date & Time": "Tu 05:00PM - 05:50PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "FONG, Tsz Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 22,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3401)",
+        "Date & Time": "Fr 10:30AM - 11:20AM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "FONG, Tsz Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 21,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1C (3402)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "FONG, Tsz Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 20,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2011",
+    "name": "Introduction to Multivariable Calculus",
+    "units": 3,
+    "info": {
+      "pre-requisite": "A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014; OR MATH 1020; OR MATH 1024",
+      "exclusion": "MATH 2023",
+      "description": "Differentiation in several variables, with applications in approximation, maximum and minimum and geometry. Integration in several variables, vector analysis."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3403)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "YAO, Jing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 64,
+        "Avail": 26,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3405)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "ZHANG, Hai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 66,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (3407)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "ZHANG, Hai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 63,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3409)",
+        "Date & Time": "Th 03:00PM - 03:50PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "YAO, Jing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 34,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3411)",
+        "Date & Time": "Th 01:30PM - 02:20PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "YAO, Jing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 30,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2A (3412)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "ZHANG, Hai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 33,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2B (3413)",
+        "Date & Time": "Tu 02:00PM - 02:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "ZHANG, Hai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 33,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T3A (3414)",
+        "Date & Time": "Th 11:30AM - 12:20PM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "ZHANG, Hai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 31,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T3B (3415)",
+        "Date & Time": "Mo 03:30PM - 04:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "ZHANG, Hai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 32,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2023",
+    "name": "Multivariable Calculus",
+    "units": 4,
+    "info": {
+      "pre-requisite": "A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024",
+      "exclusion": "MATH 2011",
+      "description": "Sequences, series, gradients, chain rule. Extrema, Lagrange multipliers, line integrals, multiple integrals. Green's theorem, Stoke's theorem, divergence theorem, change of variables."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3416)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "HO, Quoc"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 12,
+        "Avail": 108,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3416)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "HO, Quoc"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 12,
+        "Avail": 108,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3418)",
+        "Date & Time": "Th 01:00PM - 01:50PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "HO, Quoc"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 4,
+        "Avail": 36,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3420)",
+        "Date & Time": "Mo 04:00PM - 04:50PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "HO, Quoc"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 3,
+        "Avail": 37,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1C (3421)",
+        "Date & Time": "Mo 07:00PM - 07:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "HO, Quoc"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 5,
+        "Avail": 35,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2033",
+    "name": "Mathematical Analysis",
+    "units": 4,
+    "info": {
+      "pre-requisite": "A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024",
+      "exclusion": "MATH 2043",
+      "description": "Sets and functions, real numbers, limits of sequences and series, limits of functions, continuous functions, differentiation, Riemann integration, additional topics."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3422)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "KU, Yin Bon"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 75,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3424)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "KU, Yin Bon"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 73,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3426)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "KU, Yin Bon"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 38,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3428)",
+        "Date & Time": "Tu 04:30PM - 05:20PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "KU, Yin Bon"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 37,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2A (3429)",
+        "Date & Time": "Fr 11:30AM - 12:20PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "KU, Yin Bon"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 38,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2B (3430)",
+        "Date & Time": "Fr 02:30PM - 03:20PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "KU, Yin Bon"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 35,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2043",
+    "name": "Honors Mathematical Analysis",
+    "units": 4,
+    "info": {
+      "pre-requisite": "Grade A- or above in MATH 1024",
+      "exclusion": "MATH 2033",
+      "description": "The MATH 2043 and 3043 is a rigorous sequence in analysis on the line and higher dimensional Euclidean spaces. Limit, continuity, least upper bound axiom, open and closed sets, compactness, connectedness, differentiation, uniform convergence, and generalization to higher dimensions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3431)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "IP, Ivan Chi Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 8,
+        "Avail": 42,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3432)",
+        "Date & Time": "We 07:00PM - 07:50PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "IP, Ivan Chi Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 8,
+        "Avail": 42,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2111",
+    "name": "Matrix Algebra and Applications",
+    "units": 3,
+    "info": {
+      "pre-requisite": "A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024",
+      "exclusion": "MATH 2121, MATH 2131, MATH 2350",
+      "description": "Systems of linear equations; vector spaces; linear transformations; matrix representation of linear transformations; linear operators, eigenvalues and eigenvectors; similarity invariants and canonical forms."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3433)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 2465, Lift 25-26 (122)",
+        "Instructor": [
+          "HO, Hon Ming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 42,
+        "Avail": 48,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3435)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "HO, Hon Ming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 41,
+        "Avail": 49,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3435)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "HO, Hon Ming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 41,
+        "Avail": 49,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3437)",
+        "Date & Time": "Mo 03:00PM - 03:50PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "HO, Hon Ming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 25,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3439)",
+        "Date & Time": "Fr 10:30AM - 11:20AM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "HO, Hon Ming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 17,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2A (3440)",
+        "Date & Time": "Th 05:00PM - 05:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "HO, Hon Ming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 23,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2B (3441)",
+        "Date & Time": "We 12:00PM - 12:50PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "HO, Hon Ming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 18,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2121",
+    "name": "Linear Algebra",
+    "units": 4,
+    "info": {
+      "pre-requisite": "A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024",
+      "exclusion": "MATH 2111, MATH 2131, MATH 2350",
+      "description": "Vector space, matrices and system of linear equations, linear mappings and matrix forms, inner product, orthogonality, eigenvalues and eigenvectors, symmetric matrix."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3442)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "YAN, Min"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 9,
+        "Avail": 31,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3442)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "YAN, Min"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 9,
+        "Avail": 31,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3443)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "YAN, Min"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 9,
+        "Avail": 31,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2343",
+    "name": "Discrete Structures",
+    "units": 4,
+    "info": {
+      "pre-requisite": "A passing grade in AL Pure Mathematics / AL Applied Mathematics; or MATH 1014; or MATH 1020; or MATH 1024",
+      "exclusion": "COMP 2711, COMP 2711H",
+      "description": "Logic: propositions, axiomatization of propositional calculus, deduction theorem, completeness and soundness. Combinatorics: permutations and combinations, generating functions. Set theory: basic operations on sets, relations, countable and uncountable sets.  Third year and fourth year students require instructor's approval to take the course. "
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3444)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "CHEN, Beifang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 32,
+        "Avail": 8,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 6,
+            "Enrol": 0,
+            "Avail": 6
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3445)",
+        "Date & Time": "We 05:00PM - 05:50PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "CHEN, Beifang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 32,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2350",
+    "name": "Applied Linear Algebra and Differential Equations",
+    "units": 3,
+    "info": {
+      "pre-requisite": "A passing grade in AL Pure Mathematics / AL Applied Mathematics OR MATH 1014 OR MATH 1020 OR MATH 1024",
+      "exclusion": "MATH 2111, MATH 2121, MATH 2131, MATH 2351, MATH 2352, PHYS 2124",
+      "description": "This course provides a concise introduction to linear algebra and differential equations, with exposure to the use of numerical computing software like MATLAB. Topics include systems of linear equations, matrix algebra and determinants, language of vector spaces and inner product spaces, eigenvalue and eigenvector, first order ODEs, linear second order ODEs and oscillations, and homogeneous system of first order ODEs with constant coefficients."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3446)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "CHASNOV, Jeffrey Robert"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 38,
+        "Avail": 52,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 42,
+            "Enrol": 0,
+            "Avail": 42
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3448)",
+        "Date & Time": "We 02:00PM - 02:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "CHASNOV, Jeffrey Robert"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 20,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3450)",
+        "Date & Time": "Mo 07:00PM - 07:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "CHASNOV, Jeffrey Robert"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 18,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2351",
+    "name": "Introduction to Differential Equations",
+    "units": 3,
+    "info": {
+      "pre-requisite": "A passing grade in AL Pure Mathematics / AL Applied Mathematics; OR MATH 1014 OR MATH 1020 OR MATH 1024",
+      "exclusion": "MATH 2350, MATH 2352, PHYS 2124",
+      "description": "First order equations and applications, second order equations, Laplace transform method, series solutions, system of linear equations, nonlinear equations and linear stability analysis, introduction to partial differentiation and partial differential equations, separation of variables, and Fourier series."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3451)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "MU, Mo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 13,
+        "Avail": 77,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 62,
+            "Enrol": 0,
+            "Avail": 62
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3451)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "MU, Mo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 13,
+        "Avail": 77,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 62,
+            "Enrol": 0,
+            "Avail": 62
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3453)",
+        "Date & Time": "Mo 04:30PM - 05:20PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "MU, Mo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 7,
+        "Avail": 38,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3455)",
+        "Date & Time": "We 09:30AM - 10:20AM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "MU, Mo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 6,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2352",
+    "name": "Differential Equations",
+    "units": 4,
+    "info": {
+      "pre-requisite": "MATH 2111 OR MATH 2121 OR MATH 2131",
+      "exclusion": "MATH 2350, MATH 2351, PHYS 2124",
+      "description": "First and second order differential equations, initial value problems, series solutions, Laplace transform, numerical methods, boundary value problems, eigenvalues and eigenfunctions, Sturm-Liouville theory."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3456)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "WU, Lixin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 33,
+        "Avail": 57,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 46,
+            "Enrol": 2,
+            "Avail": 44
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3458)",
+        "Date & Time": "We 03:00PM - 03:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "WU, Lixin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 16,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3460)",
+        "Date & Time": "Tu 12:30PM - 01:20PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "WU, Lixin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 17,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2411",
+    "name": "Applied Statistics",
+    "units": 4,
+    "info": {
+      "pre-requisite": "A passing grade in AL Pure Mathematics / AL Applied Mathematics OR MATH 1014 OR MATH 1020 OR  MATH 1024",
+      "exclusion": "IEDA 2540, ISOM 2500, LIFS 3150",
+      "description": "A systematic introduction to statistical inference, including the necessary probabilistic background, point and interval estimation, hypothesis testing."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3461)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "YE, Guibo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 29,
+        "Avail": 51,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3463)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "HU, Yu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 27,
+        "Avail": 53,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 44,
+            "Enrol": 2,
+            "Avail": 42
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3465)",
+        "Date & Time": "Mo 05:00PM - 05:50PM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "YE, Guibo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 15,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3467)",
+        "Date & Time": "Th 12:00PM - 12:50PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "YE, Guibo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 14,
+        "Avail": 26,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2A (3468)",
+        "Date & Time": "Tu 09:30AM - 10:20AM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "HU, Yu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 14,
+        "Avail": 26,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2B (3469)",
+        "Date & Time": "Mo 12:00PM - 12:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "HU, Yu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 13,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2421",
+    "name": "Probability",
+    "units": 4,
+    "info": {
+      "pre-requisite": "MATH 1014 OR MATH 1020 OR MATH 1024",
+      "co-requisite": "MATH 2011 OR MATH 2023",
+      "exclusion": "IEDA 2520, MATH 2431, ELEC 2600, ELEC 2600H, ISOM 3540",
+      "description": "Sample spaces, conditional probability, random variables, independence, discrete and continuous distributions, expectation, correlation, moment generating function, distributions of function of random variables, law of large numbers and limit theorems."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3470)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "WANG, Ke"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 160,
+        "Enrol": 86,
+        "Avail": 74,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 53,
+            "Enrol": 0,
+            "Avail": 53
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3470)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "WANG, Ke"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 160,
+        "Enrol": 86,
+        "Avail": 74,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 53,
+            "Enrol": 0,
+            "Avail": 53
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3472)",
+        "Date & Time": "Fr 12:30PM - 01:20PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "WANG, Ke"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 22,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3474)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "WANG, Ke"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 21,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1C (3475)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "WANG, Ke"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 21,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1D (3476)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "WANG, Ke"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 22,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "2431",
+    "name": "Honors Probability",
+    "units": 4,
+    "info": {
+      "pre-requisite": "(Grade A- or above in MATH 1014) OR MATH 1020 OR MATH 1024",
+      "co-requisite": "MATH 2011 OR MATH 2023",
+      "exclusion": "ELEC 2600, ELEC 2600H, ISOM 3540, MATH 2421",
+      "description": "This is an honors undergraduate course in probability theory. Topics include probability spaces and random variables, distributions (absolutely continuous and singular distributions) and probability densities, moment inequalities, moment generating functions, conditional expectations, independence, conditional distributions, convergence concepts (weak, strong and in distribution), law of large numbers (weak and strong) and central limit theorem. Some rigorous theoretical results in probability will be discussed."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3477)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "BAO, Zhigang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 7,
+        "Avail": 33,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 26,
+            "Enrol": 0,
+            "Avail": 26
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3478)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "BAO, Zhigang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 7,
+        "Avail": 33,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "3033",
+    "name": "Real Analysis",
+    "units": 4,
+    "info": {
+      "pre-requisite": "(MATH 2011 / MATH 2023) AND (MATH 2033 / MATH 2043) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350)",
+      "exclusion": "MATH 3043",
+      "description": "Functions of several variables, implicit and inverse function theorem, uniform convergence measure and integral on the real line."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3479)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "HU, Jishan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 12,
+        "Avail": 28,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 22,
+            "Enrol": 0,
+            "Avail": 22
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3480)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "HU, Jishan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 12,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "3131",
+    "name": "Honors in Linear and Abstract Algebra II",
+    "units": 4,
+    "info": {
+      "pre-requisite": "Grade B- or above in MATH 2131",
+      "description": "The MATH 2131 and 3131 is a sequence of highly rigorous introduction to linear algebra and abstract algebra. Groups, rings, homomorphisms, quotients, group actions, polynomial rings, Chinese remainder theorem, field extensions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3481)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "JIANG, Qingyuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 13,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 22,
+            "Enrol": 0,
+            "Avail": 22
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3482)",
+        "Date & Time": "Mo 07:00PM - 07:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "JIANG, Qingyuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 13,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "3322",
+    "name": "Matrix Computation",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350",
+      "description": "This course will introduce some basic matrix analysis theory and some popular matrix computation algorithms, and illustrate how they are actually used in data science. Specific topics include advanced linear algebra such as orthogonal projections and vector and matrix norms; the theories and computations of matrix factorizations such as QR decomposition, Singular Value Decomposition (SVD), and Schur decomposition; and applications to data analysis problems such as principle component analysis via SVD and collaborative filtering via matrix completion."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3483)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "YE, Guibo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 43,
+        "Avail": 47,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 38,
+            "Enrol": 0,
+            "Avail": 38
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3485)",
+        "Date & Time": "We 04:30PM - 05:20PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "YE, Guibo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 22,
+        "Avail": 23,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3487)",
+        "Date & Time": "Fr 05:00PM - 05:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "YE, Guibo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 21,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "3424",
+    "name": "Regression Analysis",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 3423",
+      "exclusion": "ISOM 5520",
+      "description": "Estimation and hypothesis testing in linear regression, residual analysis, multicollinearity, indicator variables, variable selection, nonlinear regression."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3488)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 4621, Lift 31-32 (126)",
+        "Instructor": [
+          "XIA, Dong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 52,
+        "Avail": 38,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 31,
+            "Enrol": 1,
+            "Avail": 30
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3490)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "XIA, Dong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 26,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3492)",
+        "Date & Time": "Fr 12:30PM - 01:20PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "XIA, Dong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 26,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "3425",
+    "name": "Stochastic Modeling",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 2421 OR MATH 2431",
+      "description": "Discrete time Markov chains and the Poisson processes. Additional topics include birth and death process, elementary renewal process and continuous-time Markov chains."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3493)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "CHEN, Kani"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 27,
+        "Avail": 63,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3495)",
+        "Date & Time": "We 03:00PM - 03:50PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "CHEN, Kani"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 14,
+        "Avail": 31,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3497)",
+        "Date & Time": "Mo 01:00PM - 01:50PM",
+        "Room": "Rm 2407, Lift 17-18 (126)",
+        "Instructor": [
+          "CHEN, Kani"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 13,
+        "Avail": 32,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "3426",
+    "name": "Sampling",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 2411",
+      "description": "Basic and standard sampling design and estimation methods. Particular attention given to variance estimation in sampling procedures. Topics include: simple random sampling, unequal probability sampling, stratified sampling, ratio and subpopulation and multistage designs."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3498)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "YU, Chi Wai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 27,
+        "Avail": 53,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 42,
+            "Enrol": 0,
+            "Avail": 42
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3500)",
+        "Date & Time": "Tu 12:00PM - 12:50PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "YU, Chi Wai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 14,
+        "Avail": 26,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3502)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "YU, Chi Wai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 13,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4023",
+    "name": "Complex Analysis",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(MATH 2011 OR MATH 2023 OR MATH 3043) AND (MATH 2033 OR MATH 2043)",
+      "description": "Complex differentiability; Cauchy-Riemann equations; contour integrals, Cauchy theory and consequences; power series representation; isolated singularities and Laurent series; residue theorem; conformal mappings."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3503)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 2465, Lift 25-26 (122)",
+        "Instructor": [
+          "CHENG, Kam Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 60,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3505)",
+        "Date & Time": "Th 07:00PM - 07:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "CHENG, Kam Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 31,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (3507)",
+        "Date & Time": "Fr 12:30PM - 01:20PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "CHENG, Kam Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 29,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4033",
+    "name": "Calculus on Manifolds",
+    "units": 3,
+    "info": {
+      "pre-requisite": "Grade A- or above in MATH 2023 AND B- or above in MATH 2131",
+      "description": "Introduction to manifolds, metric spaces, multi-linear Algebra, differential forms, Stokes theorem on manifolds, cohomology."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3508)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "MENG, Guowu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 3,
+        "Avail": 37,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3509)",
+        "Date & Time": "Fr 06:00PM - 06:50PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "MENG, Guowu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 3,
+        "Avail": 37,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4051",
+    "name": "Theory of Ordinary Differential Equations",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(MATH 2350 OR MATH 2351 OR MATH 2352) AND (MATH 3033 OR MATH 3043)",
+      "description": "Existence and uniqueness theorems of ordinary differential equations, theory of linear systems, stability theory, study of singularities, boundary value problems."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3510)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "HU, Jishan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 1,
+        "Avail": 39,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 31,
+            "Enrol": 0,
+            "Avail": 31
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3510)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "HU, Jishan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 1,
+        "Avail": 39,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 31,
+            "Enrol": 0,
+            "Avail": 31
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3511)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 2407, Lift 17-18 (126)",
+        "Instructor": [
+          "HU, Jishan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 1,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4221",
+    "name": "Euclidean and Non-Euclidean Geometries",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 2033 OR MATH 2043 OR MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350",
+      "description": "Axioms and models, Euclidean geometry, Hilbert axioms, neutral (absolute) geometry, hyperbolic geometry, Poincare model, independence of parallel postulate."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3512)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "ZHU, Yongchang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 32,
+            "Enrol": 0,
+            "Avail": 32
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3513)",
+        "Date & Time": "Th 09:30AM - 10:20AM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "ZHU, Yongchang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4225",
+    "name": "Topology",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 2033/MATH 2043",
+      "description": "Metric, topology, continuous map, Hausdorff, connected, compact, graph, Euler number, CW-complex, classification of surfaces."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3514)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "YAN, Min"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 11,
+        "Avail": 29,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 22,
+            "Enrol": 0,
+            "Avail": 22
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3514)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "YAN, Min"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 11,
+        "Avail": 29,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 22,
+            "Enrol": 0,
+            "Avail": 22
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3515)",
+        "Date & Time": "Fr 03:00PM - 03:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "YAN, Min"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 11,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4321",
+    "name": "Game Theory",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(MATH 2011 OR MATH 2023 OR MATH 3043) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)",
+      "exclusion": "ECON 4124",
+      "description": "Zero-sum games; minimax theorem; games in extensive form; strategic equilibrium; bi-matrix games; repeated Prisonner's Dilemma; evolutionary stable strategies; games in coalition form; core; Shapley Value; Power Index; two-side matching games."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3516)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "LEUNG, Chi Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 110,
+        "Enrol": 3,
+        "Avail": 107,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 86,
+            "Enrol": 0,
+            "Avail": 86
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3517)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "LEUNG, Chi Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 110,
+        "Enrol": 3,
+        "Avail": 107,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4351",
+    "name": "Numerical Solutions of Partial Differential Equations",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(MATH 2350 OR MATH 2351 OR MATH 2352) AND MATH 3312 AND MATH 4052",
+      "description": "Introduction to finite difference and finite element methods for the solution of elliptic, parabolic and hyperbolic partial differential equations; including the use of computer software for the solution of differential equations."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3518)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "XIANG, Yang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 32,
+            "Enrol": 0,
+            "Avail": 32
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3518)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "XIANG, Yang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 32,
+            "Enrol": 0,
+            "Avail": 32
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3519)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "XIANG, Yang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4360",
+    "name": "Mathematical Modeling",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 2350 OR MATH 2351 OR MATH 2352",
+      "description": "This is an introductory course to mathematical modeling in science and engineering. The first part covers foundations of mathematical modelling. The second part discusses the applications, including mechanical vibrations, population dynamics, and traffic flow. Students will learn diverse modeling approaches to formulate, analyze and evaluate models mathematically. The course comprises both lectures and tutorials."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3520)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "QIAN, Tiezheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 48,
+            "Enrol": 0,
+            "Avail": 48
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3521)",
+        "Date & Time": "Fr 04:30PM - 05:20PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "QIAN, Tiezheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1B (4178)",
+        "Date & Time": "Th 03:00PM - 03:50PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "QIAN, Tiezheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4425",
+    "name": "Introductory Time Series",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 3423 and MATH 3424",
+      "description": "Stationarity, (partial) auto-correlation function, ARIMA modeling, order selection, diagnostic, forecasting, spectral analysis."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4210)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2610, Lift 31-32 (26)",
+        "Instructor": [
+          "LING, Shiqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 3,
+        "Avail": 22,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 18,
+            "Enrol": 0,
+            "Avail": 18
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (4211)",
+        "Date & Time": "Th 07:00PM - 07:50PM",
+        "Room": "Rm 2610, Lift 31-32 (26)",
+        "Instructor": [
+          "LING, Shiqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 3,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4426",
+    "name": "Survival Analysis",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 3423",
+      "description": "The topics discussed in this course include basic quantities like hazard rate function, survival function, censoring and/or truncation; parametric estimation of the survival distribution by maximum likelihood estimation method; nonparametric estimation of the survival functions from possibly censored samples; parametric regression models; Cox's semi-parametric proportional hazards regression model; and multivariate survival analysis."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3522)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "YU, Chi Wai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 1,
+        "Avail": 39,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 31,
+            "Enrol": 0,
+            "Avail": 31
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3523)",
+        "Date & Time": "We 07:00PM - 07:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "YU, Chi Wai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 1,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4512",
+    "name": "Fundamentals of Mathematical Finance",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(MATH 2011 / MATH 2023) AND (MATH 2111 / MATH 2121 / MATH 2131 / MATH 2350) AND (IEDA 2540 / ISOM 2500 / LIFS 3150 / MATH 2411) AND (MATH 2511 / FINA 2203 / FINA 2303)",
+      "description": "Duration and horizon rate of return, bond portfolio management and immunization; mean-variance formulation of portfolio choices of risky assets; Two-fund theorem and One-fund theorem; asset pricing under the capital asset pricing models and factor models; investment performance analysis; utility optimization in investment decisions; stochastic dominance."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3524)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "LEUNG, Chi Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 110,
+        "Enrol": 24,
+        "Avail": 86,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 68,
+            "Enrol": 0,
+            "Avail": 68
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3525)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "LEUNG, Chi Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 110,
+        "Enrol": 24,
+        "Avail": 86,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4513",
+    "name": "Life Contingencies Models and Insurance Risk",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ELEC 2600 OR ISOM 3540 OR MATH 2421 OR MATH 2431",
+      "alternate code(s)": "RMBI 4220",
+      "description": "The topics discussed in this course include survival models, life tables and selection, insurance benefits, annuities, premium calculation, and insurance policy values."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3526)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "DENG, Shuoqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3526)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "DENG, Shuoqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3527)",
+        "Date & Time": "Tu 07:00PM - 07:50PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "DENG, Shuoqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4514",
+    "name": "Financial Economics in Actuarial Science",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(MATH 2421 OR MATH 2431) AND MATH 2511",
+      "exclusion": "FINA 3203",
+      "description": "The course aims to study some actuarial models and their applications in derivative pricing and financial risk management. Topics include introduction to various derivatives such as forward, futures, European/ American options, exotic options and interest rate derivatives, uses of various options strategies in portfolio management, pricing options using binomial tree model, Black Scholes formula for options pricing and its extension, Options Greeks and their applications in hedging, use of Monte Carlo simulation in options pricing, pricing of interest rate derivatives using the Black-Derman-Toy tree. The course also prepares students to take the Exam MFE (Models for Financial Economics) of the Society of Actuaries."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3528)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "LEUNG, Chi Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 32,
+            "Enrol": 0,
+            "Avail": 32
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3528)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "LEUNG, Chi Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 32,
+            "Enrol": 0,
+            "Avail": 32
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3529)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "LEUNG, Chi Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4824C",
+    "name": "Causal Inference",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 3423 AND MATH 3424",
+      "description": "This course is concerned with the statistical theory and methodology of casual inference with applications in precision medicine. Tentative topics include: potential outcomes, average treatment effects, randomized experiments, covariate adjustment, regression discontinuity designs, observational studies, confounders, sensitivity analysis, propensity scores, matching, doubly robust estimators, difference-in-difference, instrumental variables, heterogeneous treatment effects and optimal treatment regimes. Students without course prerequisite need to seek approval from the course instructor to take this course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3530)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "GUO, Xinzhou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 32,
+            "Enrol": 0,
+            "Avail": 32
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3530)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "GUO, Xinzhou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MATH": {
+            "Quota": 32,
+            "Enrol": 0,
+            "Avail": 32
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3531)",
+        "Date & Time": "Fr 03:00PM - 03:50PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "GUO, Xinzhou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4900",
+    "name": "Academic and Professional Development",
+    "units": 1,
+    "info": {
+      "description": "This course is for academic and professional development of students. The course arranges seminars and small group activities to expose students to mathematics in real life, explore their possible career choice, and enhance the interactions between students and faculties. Activities may include seminars, workshops, advising and sharing sessions, interaction with faculty and teaching staff, and discussion with student peers or alumni. Graded P or F. For MATH students only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3532)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "FONG, Tsz Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4991",
+    "name": "Capstone Project in Pure Mathematics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 3121 OR MATH 3131",
+      "exclusion": "MATH 4992, MATH 4993, MATH 4994, MATH 4999",
+      "description": "This is a project-based course that provides students an opportunity to integrate and apply mathematical tools to analyze problems in pure mathematics. Specific topics will be chosen by the instructor. For MATH students in their fourth year of study only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3533)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "MENG, Guowu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 2,
+        "Avail": 48,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1A (3534)",
+        "Date & Time": "Tu 03:30PM - 04:20PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "MENG, Guowu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 2,
+        "Avail": 48,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "4999",
+    "name": "Independent Capstone Project",
+    "units": 3,
+    "info": {
+      "exclusion": "MATH 4991, MATH 4992, MATH 4993, MATH 4994",
+      "description": "A capstone project conducted under the supervision of a faculty member. A written report is required. Students need to individually seek a faculty mentor's consent prior to enrollment in this course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4298)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "BAO, Zhigang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L2 (4326)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "KU, Yin Bon"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L3 (4327)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "KU, Yin Bon"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "5112",
+    "name": "Advanced Algebra II",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Advanced topics in algebra: group representations, associative algebras, commutative algebra, homological algebra, algebraic number theory.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Review the basics of abstract algebra and the main concepts in representation theory.</td></tr><tr><td>2.</td><td>Introduce the main general results about representations of associative algebras.</td></tr><tr><td>3.</td><td>Survey the main results about representations of finite groups.</td></tr><tr><td>4.</td><td>Study some more advanced and special topics in the representation theory of finite groups.</td></tr><tr><td>5.</td><td>Introduce the representation theory of quivers, and classify quivers of finite type.</td></tr><tr><td>6.</td><td>Provide an introduction to: category theory and abelian categories in particular; homological algebra and its applications to categories of representations; & representation theory of finite dimensional algebras.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1441)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 2612B, Lift 31-32 (29)",
+        "Instructor": [
+          "MARBERG, Eric Paul"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 2,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "5261",
+    "name": "Algebraic Geometry II",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "MATH 5251",
+      "description": "Derived functors, cohomology of coherent sheaves on schemes, extension groups of sheaves, higher direct image of sheaves, Serre duality, flat morphisms, smooth morphisms, and semi-continuity, basics of curves and surfaces.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Deeper understanding of using algebra to study geometry.</td></tr><tr><td>2.</td><td>Learn the key geometry concepts of schemes using algebraic methods.</td></tr><tr><td>3.</td><td>Master the viewpoint of Grothendieck's cohomology formulation.</td></tr><tr><td>4.</td><td>Study various cohomology of coherent sheaves.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1442)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "Rm 2611, Lift 31-32 (28)",
+        "Instructor": [
+          "LI, Weiping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "5281",
+    "name": "Partial Differential Equations",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "MATH 6050E",
+      "description": "This is an introductory postgraduate course on Partial Differential Equations (PDEs). We will start with the classical prototype linear PDEs, and introduce a variety of tools and methods. Then we will extend our beginning theories to general situation using the notion of Sobolev spaces, Holder space and weak solutions. We will prove the existence, uniqueness, regularity and other properties of weak solutions.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize the types of second-order PDEs as typified by classical equations of mathematical physics, such as the wave equation, heat equation and Laplace equation.</td></tr><tr><td>2.</td><td>Identify and describe the major theories of general PDEs.</td></tr><tr><td>3.</td><td>Apply the tools of calculus, linear algebra and real analysis in a coherent way to PDE problems.</td></tr><tr><td>4.</td><td>Apply the knowledge of PDEs to physical sciences and engineering, and physically interpret the solutions.</td></tr><tr><td>5.</td><td>Use different methods, such as Fourier transform, separation variables, characteristics, similarity, power series to solve PDEs.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1443)",
+        "Date & Time": "Mo 01:30PM - 04:20PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "JIN, Tianling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 1,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "5312",
+    "name": "Advanced Numerical Methods II",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "MATH 5311",
+      "description": "Direct and iterative methods. Programming techniques and softwares libraries. Sparse solvers, Fast algorithms, multi-grid and domain decomposition techniques.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand direct and iterative algorithms for solving linear systems, and their convergence theory. </td></tr><tr><td>2.</td><td>Identify suitable algorithms to solve linear equations arising from practical science and engineering problems, and implement them on a computing platform.</td></tr><tr><td>3.</td><td>Understand algorithms and theories of other numerical linear algebra problems including the least squares problem and the eigenvalue problem.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1444)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2126C, Lift 19 (28)",
+        "Instructor": [
+          "CAI, Jianfeng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 28,
+        "Enrol": 0,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "5353",
+    "name": "Multiscale Modeling and Computation for Non-equilibrium Flows",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "MATH 6385D",
+      "description": "Introduction of the Navier-Strokes equations and the flow modeling in the hydrodynamic scale. The derivation of the Boltzmann equation in the kinetic scale. The basic mathematical analysis of the Chapman-Enskog expansion and the numerical methods for the Boltzmann equation. The multiscale modeling from the kinetic to the hydrodynamic scales and the discretized governing equations. The study of non-equilibrium transport phenomena in gas dynamics, radiative and heat transfer, and plasma physics.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Derive the Navier-Stokes equations in the hydrodynamic scale.</td></tr><tr><td>2.</td><td>Model the particle transport and collision and derive the Boltzmann equation in kinetic scale.</td></tr><tr><td>3.</td><td>Extend the kinetic scale modelling to other scales and construct the corresponding governing equations.</td></tr><tr><td>4.</td><td>Develop numerical scheme for multiscale transport equations.</td></tr><tr><td>5.</td><td>Use multiscale method to study transport problems in rarefied gas dynamics, radiative and heat transfer, and plasma simulation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1445)",
+        "Date & Time": "Tu 06:30PM - 09:20PM",
+        "Room": "Rm 3494, Lift 25-26 (20)",
+        "Instructor": [
+          "XU, Kun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "5380",
+    "name": "Combinatorics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "MATH 2343 or MATH 3343",
+      "description": "Enumerative Combinatorics: bijective counting, permutation statistics, generating functions, partially ordered sets, Mobius inversions, Polya theory.  Graph Theory: cycle space, bond space, spanning-tree formulas, matching theory, chromatic polynomials, network flows.  Matroid Theory: matroid axioms, representations, duality, lattice of flats, transversals.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop a kind philosophy of discrete thinking and bijective counting.</td></tr><tr><td>2.</td><td>Develop an understanding of the core ideas and concepts of advanced combinatorics.</td></tr><tr><td>3.</td><td>Recognize the power of abstraction and generalization, and apply logical reasoning to investigate mathematical work with independent judgement.</td></tr><tr><td>4.</td><td>Apply rigorous, analytic, highly quantitative approach to analyze and solve problems using combinatorial technics.</td></tr><tr><td>5.</td><td>Understand the uni¯cation of discrete and continuous thought by demonstrating part of taught theories.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1446)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "CHEN, Beifang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "5432",
+    "name": "Advanced Mathematical Statistics II",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Theory of statistical inference in hypothesis testing. Topics include: uniformly most powerful tests, unbiasedness, invariance, minimax principle, large-sample parametric significance tests. Concept of decision theory also covered.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognise the problem of interest and formulate the corresponding testing hypotheses.</td></tr><tr><td>2.</td><td>Identify the types of random mechanisms for the problem at hand, and then choose the appropriate models to describe the data.</td></tr><tr><td>3.</td><td>Choose the most powerful tests if available and/or the most feasible tests.</td></tr><tr><td>4.</td><td>Evaluate and compare different types of tests.</td></tr><tr><td>5.</td><td>Decide whether it is appropriate to use parametric tests or nonparametric tests.</td></tr><tr><td>6.</td><td>Develop problem-solving skills to handle real-life problems with uncertainty.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1447)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "NITZSCHNER, Maximilian Alexander"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 1,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "5450",
+    "name": "Stochastic Processes",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Theory of Markov processes, second order stationary theory, Poisson and point processes, Brownian motion, Martingales and queueing theory.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Introduce the general concept of stochastic process  and Markov chain.</td></tr><tr><td>2.</td><td>Study the properties of  Markov chain   and  its limiting distributions.</td></tr><tr><td>3.</td><td>Study the periodic Markov chain and its properties.</td></tr><tr><td>4.</td><td>Study  martingale convergence theory and option sampling theory.</td></tr><tr><td>5.</td><td> Study  Brownian motion and its properties.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1448)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 5506, Lift 25-26 (30)",
+        "Instructor": [
+          "BAO, Zhigang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "5470",
+    "name": "Statistical Machine Learning",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "MFIT 5010, MSDM 5054",
+      "previous code": "MATH 6450A",
+      "description": "This course covers methodology, major software tools and applications in statistical learning. By introducing principal ideas in statistical learning, the course will help students understand conceptual underpinnings of methods in data mining. The topics include regression, logistic regression, feature selection, model selection, basis expansions and regularization, model assessment and selection; additive models; graphical models, decision trees, boosting; support vector machines; clustering.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the basic procedures in data analysis.</td></tr><tr><td>2.</td><td>Explain the principles behind statistical learning tools.</td></tr><tr><td>3.</td><td>Analyze data with real data.</td></tr><tr><td>4.</td><td>Draw meaningful implications in decision making.</td></tr><tr><td>5.</td><td>Write a good project report and help decision making in practice.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1449)",
+        "Date & Time": "Mo 06:30PM - 09:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "YAO, Yuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 1,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "5473",
+    "name": "Topological and Geometric Data Reduction and Visualization",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CSIC 5011",
+      "co-list with": "CSIC 5011",
+      "previous code": "MATH 6380Q",
+      "description": "This course is a mathematical introduction to data analysis and visualization with a perspective of topology and geometry. Topics covered include: classical linear dimensionality reduction, the principal component analysis (PCA) and its dual multidimensional scaling (MDS), as well as extensions to manifold learning, topological data analysis, and sparse models in applied math/high dimensional statistics. Extensive application examples in biology, finance, and information technology are presented along with course projects.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the basics concept of dimensional reduction.</td></tr><tr><td>2.</td><td>Use Compressed Sensing and High Dimensional Statistics techniques for data analysis.</td></tr><tr><td>3.</td><td>Use Manifold learning approach for applications.</td></tr><tr><td>4.</td><td>Apply the data analysis method in applications.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1450)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "YAO, Yuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6250L",
+    "name": "Higher Loops in Topological Strings",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "MATH 3121 AND MATH 4023 AND MATH 4033",
+      "description": "Polyakov’s bosonic strings. Witten’s topological field theory. Vafa’s Landau Ginzburg string theory. Supersymmetry and couple with 2D gravity. Mathematic approaches to surpass renormalizations in Type IIA strings path integrals. Loop reductions including BCOV and Virasoro conjecture statement. Witten’s conjecture and Mizarkhani’s proof. The theory of Mixed-Spin-P fields. Students with very basic Riemannian geometry, basic Riemann surfaces, schemes and Chern classes will be helpful but not necessary. Students without course prerequisite should seek the course instructor’s approval to take this course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1451)",
+        "Date & Time": "Mo 10:30AM - 01:20PM",
+        "Room": "Rm 5564, Lift 27-28 (30)",
+        "Instructor": [
+          "CHANG, Huai-Liang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 1,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6900A",
+    "name": "Mathematics Seminar",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "This course will expose our PG students to the current mathematical research and development and provide them with opportunities to make mathematical and social contacts with the speakers and with local and international mathematical communities in general. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1452)",
+        "Date & Time": "Fr 03:00PM - 03:50PM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "JIN, Tianling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 1,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6900B",
+    "name": "Mathematics Seminar",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "This course will expose our PG students to the current mathematical research and development and provide them with opportunities to make mathematical and social contacts with the speakers and with local and international mathematical communities in general. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1453)",
+        "Date & Time": "Fr 03:00PM - 03:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "JIN, Tianling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: LTF"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6900C",
+    "name": "Mathematics Seminar",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "This course will expose our PG students to the current mathematical research and development and provide them with opportunities to make mathematical and social contacts with the speakers and with local and international mathematical communities in general. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1454)",
+        "Date & Time": "Fr 03:00PM - 03:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "JIN, Tianling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: LTF"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6900D",
+    "name": "Mathematics Seminar",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "This course will expose our PG students to the current mathematical research and development and provide them with opportunities to make mathematical and social contacts with the speakers and with local and international mathematical communities in general. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1455)",
+        "Date & Time": "Fr 03:00PM - 03:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "JIN, Tianling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: LTF"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6911Q",
+    "name": "Reading Course: Anomaly Detection in Graph Neural Networks",
+    "units": 1,
+    "info": {
+      "vector": "[1-0-0:1]",
+      "description": "We will study related topics which include: 1) Introduction to graphs 2) Introduction to Anomaly Detection 3) Graph Neural Networks (GNNs) Basics 4) Graph Anomaly Detection Approaches 5) Applications of Graph Anomaly Detection 6) Advanced GNN Techniques for Anomaly Detection 7) Case Studies and Projects 8) Final Project and Presentation."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4238)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "YAO, Yuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 1,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6911S",
+    "name": "Reading Course: Spin Glass and Approximate Message Passing",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This is a reading class to get students familiar with the application of approximate message passing idea in spin glass theory. The course contains the following topics: 1) Thouless-Anderson-Palmer equation; 2) Approximate Message Passing. Students should seek approval from the course instructor to take this course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4176)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "BAO, Zhigang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 3,
+        "Enrol": 0,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "Students should seek approval from the course instructor to take this course.",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6911T",
+    "name": "Reading Course: Poisson-Weighted Infinite Tree",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This is a reading class to get students familiar with the poisson-weighted infinite tree and related models such as heavy-tailed random matrices, random assignment and invasion percolation. Students should seek approval from the course instructor to take this course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4177)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "BAO, Zhigang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 3,
+        "Enrol": 0,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "Students should seek approval from the course instructor to take this course.",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6911U",
+    "name": "Reading Course: Infinite Dimensional Lie Algebras",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "MATH 5143",
+      "description": "Highest weight representations of Kac-Moody and vertex algebras. Kazhdan-Lusztig theory of affine Lie algebras and quantum groups. Students should seek approval from the course instructor to take this course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4297)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "IP, Ivan Chi Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 0,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": [
+          "Students should seek approval from the course instructor to take this course.",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6911V",
+    "name": "Reading Course: Neural Network Methods for Solving PDEs",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "In this course, the following topics will be discussed: neural network methods for solving partial differential equations and operators, generative models, and applications of these methods."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4331)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "XIANG, Yang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6915",
+    "name": "Scientific Computation Seminar",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "This course will expose PG students to the current research and new development in scientific computation and provide them with opportunities to make social contacts with the speakers from both the local and international academic communities. Graded P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Attend 6 seminars related to the scientific computation from the home or other departments in the whole semester.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1456)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "XIANG, Yang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6915A",
+    "name": "Scientific Computation Seminar",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "This course will expose PG students to the current research and new development in scientific computation and provide them with opportunities to make social contacts with the speakers from both the local and international academic communities. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1457)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "XIANG, Yang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6916",
+    "name": "Student Seminars on Computation Related Research",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "Seminar presentation on computation related research by students in the Scientific Computation Concentration (SCC) within the first four regular terms of study. Students should notify their major department 2-3 weeks in advance for the presentation. Graded P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate knowledge and understanding on computation related research.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1458)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "XIANG, Yang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate abilities to conduct  research in mathematics.</td></tr><tr><td>2.</td><td>Demonstrate knowledge in the chosen discipline of mathematics.</td></tr><tr><td>3.</td><td>Synthesize and create new knowledge and to making contributions to the discipline of mathematics.</td></tr><tr><td>4.</td><td>Demonstrate communication skills in presenting reporting findings in mathematics.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1459)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 8,
+        "Avail": 32,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate abilities to conduct independent and original research in mathematics.</td></tr><tr><td>2.</td><td>Demonstrate mastery of knowledge in the chosen discipline of mathematics.</td></tr><tr><td>3.</td><td>Synthesize and create new knowledge and to make original and substantial contributions to the discipline of mathematics.</td></tr><tr><td>4.</td><td>Demonstrate a broad knowledge in mathematics and mathematical sciences.</td></tr><tr><td>5.</td><td>Demonstrate effective communication skills in presenting and publishing findings in mathematics.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1460)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 42,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

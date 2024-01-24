@@ -1,0 +1,239 @@
+[
+  {
+    "program": "DASC",
+    "code": "2020",
+    "name": "Applied Linear Algebra for Data Analytics in Science",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(MATH 1014 OR MATH 1020 OR MATH 1024) AND (COMP 1021 OR COMP 1029P)",
+      "description": "This course is an introduction to linear algebra with applications in least square optimization. Topics include vectors, matrices, and eigenproblems. These ideas will be applied to different applications including data fitting, machine learning, pattern recognition, and finance, etc. Numerical computation is used throughout the course as a learning tool. No previous knowledge of linear algebra is assumed."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4040)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "LEUNG, Pak Wo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 33,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (4041)",
+        "Date & Time": "Th 02:00PM - 02:50PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "LEUNG, Pak Wo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 33,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "DASC",
+    "code": "2110",
+    "name": "Object-oriented Programming for Data Analytics in Science",
+    "units": 3,
+    "info": {
+      "pre-requisite": "COMP 1021",
+      "exclusion": "COMP 2012, COMP 2012H",
+      "description": "Introduction to the fundamental concepts and techniques of object-oriented programming, including classes, objects, heritage, polymorphism, modularization and associations, etc."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4042)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "WOON, Wilson"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 37,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (4042)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "WOON, Wilson"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 37,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (4043)",
+        "Date & Time": "Fr 05:00PM - 05:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "WOON, Wilson"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 37,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "DASC",
+    "code": "2220",
+    "name": "Statistics and Probability for Data Analytics in Science",
+    "units": 3,
+    "info": {
+      "pre-requisite": "COMP 1021 AND (MATH 1014 OR MATH 1020 OR MATH 1024)",
+      "exclusion": "MATH 2411, IEDA 2520, IEDA 2540, ISOM 2500, LIFS 3150",
+      "description": "The course is designed for students who are new to data science and provides them with a basic training of probability and statistics. Some ideas and principles of data analytics with probability and statistics are covered. In addition to the knowledge of data, students will learn some data analytical skills and have hands-on experience of processing and analyzing real datasets by using a software like R or Python."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4044)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "WOON, Wilson"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 34,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (4044)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "WOON, Wilson"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 34,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (4045)",
+        "Date & Time": "Fr 04:00PM - 04:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "WOON, Wilson"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 34,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "DASC",
+    "code": "3240",
+    "name": "Data Visualization in Science",
+    "units": 3,
+    "info": {
+      "pre-requisite": "DASC 2220",
+      "exclusion": "COMP 4462",
+      "description": "Data visualization is the graphical representation of applied data science. It can also provide us with a powerful way to communicate data-driven findings, motivate analyses, and detect flaws in an infographic or dashboard. This course illustrates how to use the techniques of data visualization and discovery tools to explore, visualize and analyze data. By the end of the course, students will be able to utilize tools and packages in R or Python to enhance their skills on science communication."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4046)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 4503, Lift 25-26 (64)",
+        "Instructor": [
+          "USHIO, Masayuki"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 28,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (4047)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "USHIO, Masayuki"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 28,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "DASC",
+    "code": "3250",
+    "name": "Numerical Methods for Data Analytics in Science",
+    "units": 3,
+    "info": {
+      "pre-requisite": "COMP 1021 AND (DASC 2020 OR MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)",
+      "exclusion": "MATH 3312, MECH 4740, PHYS 3142",
+      "description": "This course introduces numerical methods for various data analytic tools. Topics include numerical algorithms for linear systems, eigenvalues and eigenvectors, nonlinear equations, interpolation and approximation, numerical integration and solution of ordinary differential equations, fundamental theory and techniques of constrained and unconstrained optimizations, fundamental techniques and software for machine learning. Examples are taken from various applications in both physical and life sciences."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4048)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "PENG, Zhichao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 29,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (4049)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "PENG, Zhichao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 29,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

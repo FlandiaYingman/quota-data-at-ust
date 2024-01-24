@@ -1,0 +1,2171 @@
+[
+  {
+    "program": "ACCT",
+    "code": "1010",
+    "name": "Accounting, Business and Society",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (SA) for 36-credit program<br>Common Core (SA) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "exclusion": "ACCT 2010, CORE 1310",
+      "description": "Overview of accounting in business and social contexts; use of accounting information for accountability and decision-making in companies, non-profit organizations, and government; major elements of accounting, including assets, liabilities, revenues and expenses; discharge of accountability by companies through corporate social and environmental reports. The aim of this course is to make students aware of how accounting could be applicable to fundamental business transactions and ways to evaluate how businesses are operated."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1023)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "CHEUNG, Kwok Yip"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "2200",
+    "name": "Principles of Accounting II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(for non-BIBU students) ACCT 2010",
+      "description": "For SB&M students, and programs that designate the course as a required/specified elective course. This is the second course of the principles of accounting sequence. It introduces concepts, accounting methods, and analytical tools related to managerial and cost accounting. Topics include fundamental cost concepts, job-order and process costing systems, CVP analysis, budgets and standards, segment reporting, and decision-making using cost information."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L01 (1024)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "WANG, Emily"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L02 (1025)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "WANG, Emily"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 58,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L03 (1026)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "WANG, Emily"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L04 (1027)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "KIM, Hwa Young"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L05 (1028)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "KIM, Hwa Young"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L06 (1029)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "KIM, Hwa Young"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L07 (1030)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "LEUNG, Patrick"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 58,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L07 (1030)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "LEUNG, Patrick"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 58,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L08 (1031)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "LEUNG, Patrick"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L08 (1031)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "LEUNG, Patrick"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L09 (1032)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "LEUNG, Patrick"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L09 (1032)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "LEUNG, Patrick"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L10 (1033)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "CHING, Vincent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 55,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L11 (1034)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "CHING, Vincent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 58,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L12 (1035)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "CHING, Vincent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L13 (1036)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "CHEUNG, Kwok Yip"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L14 (1037)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "CHEUNG, Kwok Yip"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 59,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "3020",
+    "name": "Financial Accounting II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ACCT 3010",
+      "exclusion": "ACCT 3030",
+      "description": "Continuation of ACCT 3010. Special problems in accounting for owner's equity and long-term liabilities including corporate bonds, leases, deferred taxation and pensions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1038)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "YANG, Daniel G."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 43,
+        "Avail": 25,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 68,
+            "Enrol": 43,
+            "Avail": 25
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1039)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "YANG, Daniel G."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 43,
+        "Avail": 25,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 68,
+            "Enrol": 43,
+            "Avail": 25
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (1040)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "YANG, Daniel G."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 43,
+        "Avail": 25,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 68,
+            "Enrol": 43,
+            "Avail": 25
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "3210",
+    "name": "Advanced Management Accounting",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ACCT 2200",
+      "description": "This course covers advanced quantitative methods for management decision-making (decision trees, linear regression, learning curves, and linear programming), pricing and transfer pricing decisions, allocation of common and joint costs, variance analysis, performance measurement and incentive compensation."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1041)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "MORRIS, Arthur"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 48,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 68,
+            "Enrol": 48,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1042)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "MORRIS, Arthur"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 47,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 68,
+            "Enrol": 47,
+            "Avail": 21
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (1043)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "MORRIS, Arthur"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 47,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 68,
+            "Enrol": 47,
+            "Avail": 21
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "3610",
+    "name": "Business Law",
+    "units": 3,
+    "info": {
+      "description": "This course is to provide students with an awareness of the overall legal framework in which businesses in Hong Kong operate so as to enable them to apply the relevant laws and practices to business problems and practical solutions. The main objective is to give students an understanding of how the society and business function in different socio-legal contexts like the legal system and process and its influence on citizens’ social rights and duties; the enforcement and honoring of agreement between private citizens, the use of business organizations in commercial society, the relationship between employee and employer from social and legal perspectives, the growing importance of business ethics and corporate social responsibilities etc."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1044)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "TAN, Jing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 0,
+        "Avail": 65,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 0,
+            "Avail": 65
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1045)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "TAN, Jing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 0,
+        "Avail": 65,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 0,
+            "Avail": 65
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "3630",
+    "name": "ESG Measurement, Disclosure and Applications",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ACCT 2010 AND FINA 2303",
+      "exclusion": "ENVR 4320",
+      "description": "Environment, Society and Governance (ESG) are three pillars in the emerging system of sustainable finance. This course is designed for students interested in the concept of ESG, especially for those who aspire to learn about the measurement and disclosure of ESG and their applications in the management of business and investment. The course covers topics such as the history and regulations of sustainable finance, the concept and measurement of ESG risks, the disclosure framework and ratings of ESG, the ESG-related investing approaches and financial products. It also covers how management can integrate climate-related risks into business strategies and capture low-carbon opportunities. For all UG students in Year 3 or above."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1046)",
+        "Date & Time": "Th 01:30PM - 04:20PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "CHEN, Kevin Chien-Wen",
+          "VUICHARD, Pascal Bernard"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "4410",
+    "name": "Taxation",
+    "units": 3,
+    "info": {
+      "co-requisite": "ACCT 3010 AND ACCT 3610",
+      "description": "The Hong Kong taxation system and its administration; taxation of individuals, partnerships and corporations; stamp duty; obligations compliance."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1047)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "MAK, Kelvin P"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 44,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 44,
+            "Avail": 21
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1047)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "MAK, Kelvin P"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 44,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 44,
+            "Avail": 21
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1048)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "MAK, Kelvin P"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 44,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 44,
+            "Avail": 21
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (1049)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "MAK, Kelvin P"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 44,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 44,
+            "Avail": 21
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (1049)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "MAK, Kelvin P"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 44,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 44,
+            "Avail": 21
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "4610",
+    "name": "Company Law",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ACCT 3610",
+      "description": "Law relating to companies registered in Hong Kong; company formation and records; share and loan capital; management and administration; reconstructions; mergers and take-overs; liquidation and receivership."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1050)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 0,
+        "Avail": 65,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 0,
+            "Avail": 65
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1050)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 0,
+        "Avail": 65,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 0,
+            "Avail": 65
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1051)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 0,
+        "Avail": 65,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 0,
+            "Avail": 65
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1051)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 0,
+        "Avail": 65,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 0,
+            "Avail": 65
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (1052)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 0,
+        "Avail": 65,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 0,
+            "Avail": 65
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (1052)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "LAI, David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 0,
+        "Avail": 65,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 65,
+            "Enrol": 0,
+            "Avail": 65
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "5140",
+    "name": "Financial Statement Analysis",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "ACCT 5100 OR ACCT 5150 OR Equivalent",
+      "description": "Integrated analysis of industry strategy, accounting policy, financial ratios and cash flows for application in equity valuation, credit analysis and bond ratings.  Essential for those planning careers in financial management, investment analysis, credit analysis, business valuation, and consulting.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Use alternative measures of profitability and financial ratios to evaluate firm performance and identify investment targets. </td></tr><tr><td>2.</td><td>Use financial ratios and price multiples to determine the timing of investment.</td></tr><tr><td>3.</td><td>Use financial ratios to forecast financial statements and conduct credit analysis.</td></tr><tr><td>4.</td><td>Understand how managers can use discretions in accounting method choices and estimates to influence financial statements and how to make adjustment to conduct meaningful comparisons.</td></tr><tr><td>5.</td><td>Understand the difference between net income and cash flow from operations and how to use it and other indicators to detect accounting manipulation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1016)",
+        "Date & Time": "04-APR-2024 - 16-MAY-2024<br>Th 02:30PM - 05:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "HSU, Charles Youyang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 42,
+        "Avail": 18,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 42,
+            "Avail": 18
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1016)",
+        "Date & Time": "25-MAY-2024 - 25-MAY-2024<br>Sa 02:30PM - 05:50PM",
+        "Room": "Rm 1003, LSK Bldg (70)",
+        "Instructor": [
+          "HSU, Charles Youyang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 42,
+        "Avail": 18,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 42,
+            "Avail": 18
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L3 (1020)",
+        "Date & Time": "06-APR-2024 - 06-APR-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 2001, LSK Bldg",
+        "Instructor": [
+          "HSU, Charles Youyang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 56,
+        "Enrol": 0,
+        "Avail": 56,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          },
+          "MBA Bi-weekly": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "Digital MBA": {
+            "Quota": 4,
+            "Enrol": 0,
+            "Avail": 4
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L3 (1020)",
+        "Date & Time": "13-APR-2024 - 13-APR-2024<br>Sa 02:00PM - 06:50PM",
+        "Room": "Rm 2001, LSK Bldg",
+        "Instructor": [
+          "HSU, Charles Youyang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 56,
+        "Enrol": 0,
+        "Avail": 56,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          },
+          "MBA Bi-weekly": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "Digital MBA": {
+            "Quota": 4,
+            "Enrol": 0,
+            "Avail": 4
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L3 (1020)",
+        "Date & Time": "27-APR-2024 - 27-APR-2024<br>Sa 02:00PM - 06:50PM",
+        "Room": "Rm 2001, LSK Bldg",
+        "Instructor": [
+          "HSU, Charles Youyang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 56,
+        "Enrol": 0,
+        "Avail": 56,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          },
+          "MBA Bi-weekly": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "Digital MBA": {
+            "Quota": 4,
+            "Enrol": 0,
+            "Avail": 4
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L3 (1020)",
+        "Date & Time": "04-MAY-2024 - 25-MAY-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 2001, LSK Bldg",
+        "Instructor": [
+          "HSU, Charles Youyang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 56,
+        "Enrol": 0,
+        "Avail": 56,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          },
+          "MBA Bi-weekly": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "Digital MBA": {
+            "Quota": 4,
+            "Enrol": 0,
+            "Avail": 4
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "5180",
+    "name": "Advanced Corporate Financial Reporting",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "ACCT 5160 AND ACCT 5170",
+      "description": "Reporting of business entities with inter-corporate investments in subsidiaries and/or associated companies and cross-border activities. Topics include business combinations, consolidated financial statements, equity accounting, and translations of foreign currency transactions.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply International Financial Reporting Standards (IFRSs) for:\na) consolidating the financial statements of parent and subsidiary companies, including those subsidiaries which are wholly-owned and partially-owned;\nb) reporting investment in other companies using equity accounting;\nc) translating foreign currency transactions and operations, and reporting the effect on financial statements.</td></tr><tr><td>2.</td><td>Discuss financial reporting practices by referring to the Conceptual Framework.</td></tr><tr><td>3.</td><td>Explain the international dimensions of accounting.</td></tr><tr><td>4.</td><td>Assess financial strategies and risk management policies of business entities with inter-corporate investments that convey control and/or significant influence and cross-border activities.</td></tr><tr><td>5.</td><td>Demonstrate the roles of accountants in providing and ensuring the integrity of financial and related information.</td></tr><tr><td>6.</td><td>Identify ethical challenges, creative accounting, and earnings management issues, and point out ethical and social responsibility of entities.</td></tr><tr><td>7.</td><td>Analyze financial reporting issues, and propose and explain solutions thereof, in a team environment.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1001)",
+        "Date & Time": "30-JAN-2024 - 06-FEB-2024<br>Tu 02:30PM - 05:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "CHEUNG, Kwok Yip"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 60,
+            "Avail": 0
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1001)",
+        "Date & Time": "15-FEB-2024 - 15-FEB-2024<br>Th 02:30PM - 05:50PM",
+        "Room": "Lecture Theater B (317)",
+        "Instructor": [
+          "CHEUNG, Kwok Yip"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 60,
+            "Avail": 0
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1001)",
+        "Date & Time": "20-FEB-2024 - 19-MAR-2024<br>Tu 02:30PM - 05:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "CHEUNG, Kwok Yip"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 60,
+            "Avail": 0
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1011)",
+        "Date & Time": "02-APR-2024 - 02-APR-2024<br>Tu 02:30PM - 05:50PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "CHEUNG, Kwok Yip"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 42,
+        "Avail": 18,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 42,
+            "Avail": 18
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1011)",
+        "Date & Time": "08-APR-2024 - 20-MAY-2024<br>Mo 02:30PM - 05:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "CHEUNG, Kwok Yip"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 42,
+        "Avail": 18,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 42,
+            "Avail": 18
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "5210",
+    "name": "Managerial Accounting Foundations",
+    "units": 2,
+    "info": {
+      "attributes": "[BLD] Blended learning",
+      "vector": "[2-0-0:2]",
+      "exclusion": "IMBA 5060",
+      "description": "Use of accounting data in decision-making, financial planning, control, and performance evaluation within organizations.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Interpret and explain cost concepts and related terms. </td></tr><tr><td>2.</td><td>Interpret cost-volume-profit analysis. </td></tr><tr><td>3.</td><td>Estimate the cost and price of a product.</td></tr><tr><td>4.</td><td>Apply core managerial accounting information to strategic decision making.</td></tr><tr><td>5.</td><td>Identify the internal budgeting process. </td></tr><tr><td>6.</td><td>Construct cost management tools such as Activity-Based Costing. </td></tr><tr><td>7.</td><td>Organize managerial accounting information to conduct performance evaluations.</td></tr><tr><td>8.</td><td>Identify managerial accounting information as a competitive tool. </td></tr></table>"
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1021)",
+        "Date & Time": "07-APR-2024 - 07-APR-2024<br>Su 09:00AM - 12:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 2,
+        "Avail": 63,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 35,
+            "Enrol": 2,
+            "Avail": 33
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For FT-MBA; PT-MBA; MBA Exchange and MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1021)",
+        "Date & Time": "07-APR-2024 - 07-APR-2024<br>Su 02:00PM - 05:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 2,
+        "Avail": 63,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 35,
+            "Enrol": 2,
+            "Avail": 33
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For FT-MBA; PT-MBA; MBA Exchange and MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1021)",
+        "Date & Time": "21-APR-2024 - 21-APR-2024<br>Su 09:00AM - 12:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 2,
+        "Avail": 63,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 35,
+            "Enrol": 2,
+            "Avail": 33
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For FT-MBA; PT-MBA; MBA Exchange and MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1021)",
+        "Date & Time": "21-APR-2024 - 21-APR-2024<br>Su 02:00PM - 05:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 2,
+        "Avail": 63,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 35,
+            "Enrol": 2,
+            "Avail": 33
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For FT-MBA; PT-MBA; MBA Exchange and MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1021)",
+        "Date & Time": "12-MAY-2024 - 12-MAY-2024<br>Su 09:00AM - 12:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 2,
+        "Avail": 63,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 35,
+            "Enrol": 2,
+            "Avail": 33
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For FT-MBA; PT-MBA; MBA Exchange and MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1021)",
+        "Date & Time": "12-MAY-2024 - 12-MAY-2024<br>Su 02:00PM - 05:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 2,
+        "Avail": 63,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 35,
+            "Enrol": 2,
+            "Avail": 33
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For FT-MBA; PT-MBA; MBA Exchange and MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1021)",
+        "Date & Time": "26-MAY-2024 - 26-MAY-2024<br>Su 09:00AM - 12:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 2,
+        "Avail": 63,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 35,
+            "Enrol": 2,
+            "Avail": 33
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For FT-MBA; PT-MBA; MBA Exchange and MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1021)",
+        "Date & Time": "26-MAY-2024 - 26-MAY-2024<br>Su 02:00PM - 05:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 2,
+        "Avail": 63,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 35,
+            "Enrol": 2,
+            "Avail": 33
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For FT-MBA; PT-MBA; MBA Exchange and MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1013)",
+        "Date & Time": "03-APR-2024 - 10-APR-2024<br>We 07:00PM - 08:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "MBA Bi-weekly": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "Digital MBA": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a real-time online mode",
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1013)",
+        "Date & Time": "27-APR-2024 - 27-APR-2024<br>Sa 02:00PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "MBA Bi-weekly": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "Digital MBA": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a real-time online mode",
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1013)",
+        "Date & Time": "04-MAY-2024 - 18-MAY-2024<br>Sa 02:00PM - 03:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "MBA Bi-weekly": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "Digital MBA": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a real-time online mode",
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1013)",
+        "Date & Time": "25-MAY-2024 - 25-MAY-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "MBA Bi-weekly": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "Digital MBA": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a real-time online mode",
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "5220",
+    "name": "International Treasury Management",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "Specialized knowledge in international treasury operation and management control, risk management, inflation and foreign currency changes as well as international transfer pricing.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Facilitate students to topics related to treasury management and its international issues.</td></tr><tr><td>2.</td><td>Expose students to working capital management and related international financial management issues.</td></tr><tr><td>3.</td><td>Facilitate students to financial statement issues related foreign currency translation in consolidated financial statements and inflation restatement in price level changes.</td></tr><tr><td>4.</td><td>Expose students to international transfer pricing issues related to international duty and tax.</td></tr><tr><td>5.</td><td>Expose students to management internal control and risk management issues in international field.</td></tr><tr><td>6.</td><td>Facilitate students to management control related to international management accounting issues.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1015)",
+        "Date & Time": "03-APR-2024 - 22-MAY-2024<br>We 09:30AM - 12:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "SHIEH, Tony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 43,
+        "Avail": 17,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 43,
+            "Avail": 17
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "5320",
+    "name": "Beyond the Headlines: Financial Reporting and Valuation Issues in M&A",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "ACCT 5100 OR (ACCT 5160 AND ACCT 5170)",
+      "previous code": "ACCT 6900C",
+      "description": "Financial accounting is the fundamental language used to express the economic realities of complex financial scenarios including mergers & acquisitions (M&A) and corporate divestitures. Understanding this language is crucial for converting financial statement data into decision enhancing information, and expressing strategic business plans and investment ideas in a powerful and convincing way. The course is designed to develop sophisticated users of financial accounting information and will benefit any student who desires to increase his or her ability to understand and profitably exploit financial information. The class format involves a mixture of lecture and class discussion.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Differentiate implications for firms operating under various influence and control situations.</td></tr><tr><td>2.</td><td>Recognize the latest financial reporting rules for M&A deals.</td></tr><tr><td>3.</td><td>List tax structuring and tax implications of M&A deals.</td></tr><tr><td>4.</td><td>Analyze M&A risk management including earn-outs, contingent value rights, and collars.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1009)",
+        "Date & Time": "01-FEB-2024 - 21-MAR-2024<br>Th 09:30AM - 12:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "WANG, Shiheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 51,
+        "Avail": 9,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 51,
+            "Avail": 9
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "5430",
+    "name": "Tax and Business Strategy",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "ACCT 5150",
+      "description": "This course provides students with the framework of strategic tax planning. Students learn how to integrate the role of tax in various corporate decision-making.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply the framework of strategic tax planning.</td></tr><tr><td>2.</td><td>Analyze how taxes impact choices of organizational forms.</td></tr><tr><td>3.</td><td>Evaluate the role of tax in corporate investment and financing decisions.</td></tr><tr><td>4.</td><td>Analyze cross-border tax planning opportunities for multinationals.</td></tr><tr><td>5.</td><td>Explain the ethics of tax planning.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1003)",
+        "Date & Time": "31-JAN-2024 - 13-MAR-2024<br>We 02:30PM - 05:50PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "CHEN, Peter Fusheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1003)",
+        "Date & Time": "20-MAR-2024 - 20-MAR-2024<br>We 02:30PM - 05:50PM",
+        "Room": "Rm 3003, LSK Bldg",
+        "Instructor": [
+          "CHEN, Peter Fusheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "5510",
+    "name": "Auditing",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "It covers the relevant principles, objectives and ethical requirements of audit and assurance services; identifies the audit process from client acceptance, design of audit procedures and express an appropriate audit conclusion based on the audit evidence obtained. Topics include: audit planning, audit evidence and documentation, internal control, completion of audit, audit opinion and reporting, professional ethics, rights and obligation of auditors.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the auditing profession, and the regulatory, legal and reporting framework of auditing.</td></tr><tr><td>2.</td><td>Recognize the basic principles, objectives and ethical requirements of audit and assurance services.</td></tr><tr><td>3.</td><td>Identify the audit process from client acceptance, design of audit procedures and recommend an appropriate audit conclusion based on the audit evidence obtained.</td></tr><tr><td>4.</td><td>Assess risks and threats to an audit of financial statements through analytical and critical thinking.</td></tr><tr><td>5.</td><td>Communicate effectively in writing and verbally.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1002)",
+        "Date & Time": "30-JAN-2024 - 19-MAR-2024<br>Tu 09:30AM - 12:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LAI, David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 60,
+            "Avail": 0
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1022)",
+        "Date & Time": "09-APR-2024 - 21-MAY-2024<br>Tu 09:30AM - 12:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LAI, David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 10-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1022)",
+        "Date & Time": "13-APR-2024 - 13-APR-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "LAI, David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 10-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "5630",
+    "name": "Business Law",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "This course is designed for the study of Business Law with practical examples of the application of law in the real business world. The course materials cover  topics highly relevant to the business managers in the decision making process. The end goal is to elevate the student's level of understanding of the surrounding legal environment.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply the legal knowledge studied to situations they are likely to encounter in their daily life and future careers.</td></tr><tr><td>2.</td><td>Recognize the importance of different functional areas of the law, and solve legal and business problems critically and creatively by referring to the well-established cases and ordinances.</td></tr><tr><td>3.</td><td>Recognize the importance of the law of professional negligence and duty of care on the part of the accountants and auditors, and become a responsible and capable member of the accounting profession.</td></tr><tr><td>4.</td><td>Develop selected skills like analytical and critical thinking, effective communication and team work through the group project and presentation.</td></tr><tr><td>5.</td><td>Recognize the importance of ethical responsibility, identify the ethical dilemmas, apply the ethical standards and recognize the consequences of breaching the ethical standards.</td></tr><tr><td>6.</td><td>Recognize the importance of ethical responsibility and corporate social responsibility in the context of Chinese business ethics.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1012)",
+        "Date & Time": "02-APR-2024 - 09-APR-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "FRANKLIN, Laurence Craig"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 49,
+        "Enrol": 0,
+        "Avail": 49,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "Digital MBA": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "MBA": {
+            "Quota": 45,
+            "Enrol": 0,
+            "Avail": 45
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1012)",
+        "Date & Time": "23-APR-2024 - 28-MAY-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "FRANKLIN, Laurence Craig"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 49,
+        "Enrol": 0,
+        "Avail": 49,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "Digital MBA": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "MBA": {
+            "Quota": 45,
+            "Enrol": 0,
+            "Avail": 45
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "5640",
+    "name": "Company Law",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "ACCT 5630",
+      "description": "Law relating to companies registered in Hong Kong; company formation and records; share and loan capital; management and administration; reconstructions; mergers and take-overs; liquidation and receivership.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the documents that lay down the features of a company and its internal procedures, and evaluate whether they can be altered.</td></tr><tr><td>2.</td><td>Explain the role of key personnel in the management and administration of a company, and judge their rights and obligations.</td></tr><tr><td>3.</td><td>Apply the rules in relation to company meetings.</td></tr><tr><td>4.</td><td>Explain legal considerations and apply the legal rules in raising share or loan capital.</td></tr><tr><td>5.</td><td>Explain the schemes of arrangement and apply the Codes on Takeovers and Mergers and Share Buy-backs.</td></tr><tr><td>6.</td><td>Explain the law in relation to commencement, conduct and consequences of winding up and apply the avoidance powers.</td></tr><tr><td>7.</td><td>Explain the role, structure, duties, powers and procedures of some important external bodies in relation to the work of an accountant.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1018)",
+        "Date & Time": "05-APR-2024 - 24-MAY-2024<br>Fr 09:30AM - 12:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "TAN, Jing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 58,
+        "Avail": 2,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 58,
+            "Avail": 2
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "5720",
+    "name": "Advanced Data Analytics in Accounting",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "ACCT 5710",
+      "description": "With the foundation of ACCT 5710 Data Analytics in Accounting, this course aims to provide students with advanced and practical knowledge of applications in data analytics designed by accounting professionals and enable students to apply and understand data analytics technologies to perform audit, enhance financial reporting, and minimize risks as accounting professionals.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe and apply knowledge and accounting applications on common ERP capabilities - collection, cleaning and analysis of data.</td></tr><tr><td>2.</td><td>Identify common data analytics challenges and risks in accounting issues.</td></tr><tr><td>3.</td><td>Utilize and apply accounting data analytics and its applications on modeling patterns of data, and identifying outliers and anomalies.</td></tr><tr><td>4.</td><td>Apply and evaluate accounting analytics techniques on analysis for fraudulent activities in corporations.</td></tr><tr><td>5.</td><td>Identify and incorporate accounting analytics technology and options for visualizations.</td></tr><tr><td>6.</td><td>Identify and explain accounting issues in decision making in the data age - the future of data analytics in accounting.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1014)",
+        "Date & Time": "03-APR-2024 - 24-APR-2024<br>We 02:30PM - 05:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 60,
+            "Avail": 0
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1014)",
+        "Date & Time": "30-APR-2024 - 30-APR-2024<br>Tu 02:30PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 60,
+            "Avail": 0
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1014)",
+        "Date & Time": "08-MAY-2024 - 22-MAY-2024<br>We 02:30PM - 05:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 60,
+            "Avail": 0
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "5801",
+    "name": "Cryptocurrency, Blockchain and Their Business Applications",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "This course discusses cryptocurrencies (including Bitcoin, Ethereum, and others), blockchain, also known as distributed ledger technology (DLT), and their multidimensional business applications. The course provides a basic set of skills to understand cryptocurrencies and blockchain/DLT. We will also discuss the latest development in the field.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the history of blockchain technology and its recent development.</td></tr><tr><td>2.</td><td>Explain the technical details of blockchain/distributed ledger technology including consensus mechanisms.</td></tr><tr><td>3.</td><td>Identify real-world applications of blockchain technology.</td></tr><tr><td>4.</td><td>Understand smart contracts.</td></tr><tr><td>5.</td><td>Recognize regulations on cryptocurrency.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1010)",
+        "Date & Time": "30-MAR-2024 - 18-MAY-2024<br>Sa 09:00AM - 12:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "CHEN, Yanzhen",
+          "HUANG, Allen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "IS": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": [
+          "For MSc(ISM) students only",
+          "Will have normal class on 30-Mar-2024",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "6900L",
+    "name": "ESG Measurement, Disclosure and Applications",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "Environment, Society and Governance (ESG) are three pillars in the emerging field of sustainable finance. Students will learn about the concepts of ESG factors, their importance in business management and investing decisions, how to measure and evaluate ESG risks and opportunities, the global ESG disclosure frameworks, ESG ratings, and how to integrate ESG considerations into investment strategies. In addition, the course will cover the concepts, measurement and reporting of climate risk and greenhouse gas emissions, which are becoming the dominant themes of ESG."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4109)",
+        "Date & Time": "31-JAN-2024 - 20-MAR-2024<br>We 09:30AM - 12:50PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "CHEN, Kevin Chien-Wen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 50,
+            "Enrol": 50,
+            "Avail": 0
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "6970A",
+    "name": "Independent Study",
+    "units": 1,
+    "info": {
+      "vector": "[1 credit]",
+      "description": "Study of selected accounting issues under the supervision of a faculty member.  (Special permission from the Associate Dean is required for MBA students to take this course.)"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4236)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "HUANG, Allen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 1,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate a sound grasp of the literature in their specialization.</td></tr><tr><td>2.</td><td>Apply their specialized knowledge to solve related business problems in an innovative fashion.</td></tr><tr><td>3.</td><td>Demonstrate a broad based knowledge of core business functions.</td></tr><tr><td>4.</td><td>Integrate functional knowledge to solve business problems within their area of specialization.</td></tr><tr><td>5.</td><td>Present their discipline knowledge clearly to layman.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1005)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 1,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "For MPhil(ACCT) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "7720",
+    "name": "Doctoral Seminar - Research in Managerial Accounting, Auditing and Governance",
+    "units": 4,
+    "info": {
+      "vector": "[3-1-0:4]",
+      "description": "Discussion of research in managerial accounting, auditing and corporate governance. Use of analytical and empirical tools in economics, finance and statistics to examine important accounting issues in the above areas.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate a sound grasp of the literature in their specialization.</td></tr><tr><td>2.</td><td>Apply their specialized knowledge to solve related business problems in an innovative fashion.</td></tr><tr><td>3.</td><td>Demonstrate a broad based knowledge of core business functions.</td></tr><tr><td>4.</td><td>Integrate functional knowledge to solve business problems within their area of specialization.</td></tr><tr><td>5.</td><td>Present their discipline knowledge clearly to layman.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1006)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEN, Kevin Chien-Wen",
+          "HSU, Charles Youyang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 0,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": [
+          "For MPhil(ACCT) and PhD(ACCT) students only"
+        ]
+      },
+      {
+        "Section": "T1 (1007)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEN, Kevin Chien-Wen",
+          "HSU, Charles Youyang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 0,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ACCT",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate a sound grasp of the literature in their specialization.</td></tr><tr><td>2.</td><td>Apply their specialized knowledge to solve related business problems in an innovative fashion.</td></tr><tr><td>3.</td><td>Demonstrate a broad based knowledge of core business functions.</td></tr><tr><td>4.</td><td>Integrate functional knowledge to solve business problems within their area of specialization.</td></tr><tr><td>5.</td><td>Present their discipline knowledge clearly to layman.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1008)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 4,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": [
+          "For PhD(ACCT) students only"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,895 @@
+[
+  {
+    "program": "BTEC",
+    "code": "5220",
+    "name": "Business Operations of Biotechnology",
+    "units": 4,
+    "info": {
+      "vector": "[3-1-0:4]",
+      "description": "Management perspective of R&D process, methods for planning and organizing biotechnology ventures, basic concepts of intellectual property rights and methods and principles of marketing new technology-based products and services.\r",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate a broad based knowledge in core business and management perspective of pharmaceutical industry.</td></tr><tr><td>2.</td><td>State basic concepts of intellectural property rights.</td></tr><tr><td>3.</td><td>Recognize the aspect of regulatory affairs of pharmaceutical products.</td></tr><tr><td>4.</td><td>Apply appropriate marketing methods for new technology-based products.</td></tr><tr><td>5.</td><td>Develop business plan for biotechnology-based products via team work.</td></tr><tr><td>6.</td><td>Engage with professionals in the field of biotechnology business.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1385)",
+        "Date & Time": "27-JAN-2024 - 03-FEB-2024<br>Sa 09:30AM - 01:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "CHUNG, Yee Sing",
+          "HO, Mai Mai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 66,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1385)",
+        "Date & Time": "17-FEB-2024 - 17-FEB-2024<br>Sa 09:30AM - 01:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "CHUNG, Yee Sing",
+          "HO, Mai Mai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 66,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1385)",
+        "Date & Time": "02-MAR-2024 - 02-MAR-2024<br>Sa 09:30AM - 01:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "CHUNG, Yee Sing",
+          "HO, Mai Mai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 66,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1385)",
+        "Date & Time": "16-MAR-2024 - 16-MAR-2024<br>Sa 09:30AM - 01:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "CHUNG, Yee Sing",
+          "HO, Mai Mai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 66,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1385)",
+        "Date & Time": "06-APR-2024 - 06-APR-2024<br>Sa 09:30AM - 01:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "CHUNG, Yee Sing",
+          "HO, Mai Mai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 66,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1385)",
+        "Date & Time": "20-APR-2024 - 20-APR-2024<br>Sa 09:30AM - 01:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "CHUNG, Yee Sing",
+          "HO, Mai Mai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 66,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1385)",
+        "Date & Time": "04-MAY-2024 - 04-MAY-2024<br>Sa 09:30AM - 01:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "CHUNG, Yee Sing",
+          "HO, Mai Mai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 66,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1385)",
+        "Date & Time": "18-MAY-2024 - 18-MAY-2024<br>Sa 09:30AM - 01:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "CHUNG, Yee Sing",
+          "HO, Mai Mai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 66,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1385)",
+        "Date & Time": "01-JUN-2024 - 08-JUN-2024<br>Sa 09:30AM - 01:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "CHUNG, Yee Sing",
+          "HO, Mai Mai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 66,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1386)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHUNG, Yee Sing",
+          "HO, Mai Mai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 66,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BTEC",
+    "code": "5260",
+    "name": "Bioanalytical Technology",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "description": "The use and development of biomolecules for analytics: enzymes and immunotests, DNA probes, biosensors and biodipsticks.  Application of other analytical techniques for bio- and medical sciences will also be introduced.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply functional methods in biotechnology to solve problems in analytical work.</td></tr><tr><td>2.</td><td>Identify knowledge in the experimental design for development of bioanalytical tools.</td></tr><tr><td>3.</td><td>Evaluate different analytical methods used for measuring biological substances.</td></tr><tr><td>4.</td><td>Describe the value of biomedical analysis on human health.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1383)",
+        "Date & Time": "27-JAN-2024 - 27-JAN-2024<br>Sa 02:00PM - 04:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1383)",
+        "Date & Time": "24-FEB-2024 - 24-FEB-2024<br>Sa 09:00AM - 10:50AM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1383)",
+        "Date & Time": "09-MAR-2024 - 09-MAR-2024<br>Sa 09:00AM - 10:50AM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1383)",
+        "Date & Time": "23-MAR-2024 - 23-MAR-2024<br>Sa 02:00PM - 04:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1383)",
+        "Date & Time": "13-APR-2024 - 13-APR-2024<br>Sa 02:00PM - 04:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1383)",
+        "Date & Time": "27-APR-2024 - 27-APR-2024<br>Sa 02:00PM - 04:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1383)",
+        "Date & Time": "11-MAY-2024 - 11-MAY-2024<br>Sa 09:00AM - 10:50AM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1383)",
+        "Date & Time": "25-MAY-2024 - 25-MAY-2024<br>Sa 09:00AM - 10:50AM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1383)",
+        "Date & Time": "01-JUN-2024 - 08-JUN-2024<br>Sa 02:00PM - 04:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1384)",
+        "Date & Time": "27-JAN-2024 - 27-JAN-2024<br>Sa 05:00PM - 05:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1384)",
+        "Date & Time": "24-FEB-2024 - 24-FEB-2024<br>Sa 11:00AM - 12:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1384)",
+        "Date & Time": "09-MAR-2024 - 09-MAR-2024<br>Sa 11:00AM - 12:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1384)",
+        "Date & Time": "23-MAR-2024 - 23-MAR-2024<br>Sa 05:00PM - 05:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1384)",
+        "Date & Time": "13-APR-2024 - 13-APR-2024<br>Sa 05:00PM - 05:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1384)",
+        "Date & Time": "27-APR-2024 - 27-APR-2024<br>Sa 05:00PM - 05:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1384)",
+        "Date & Time": "11-MAY-2024 - 11-MAY-2024<br>Sa 11:00AM - 12:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1384)",
+        "Date & Time": "25-MAY-2024 - 25-MAY-2024<br>Sa 11:00AM - 12:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1384)",
+        "Date & Time": "01-JUN-2024 - 08-JUN-2024<br>Sa 05:00PM - 05:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "WAYE, Mary Miu Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 68,
+        "Enrol": 67,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BTEC",
+    "code": "5340",
+    "name": "Biomarkers and Medical Devices",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "description": "Introduction to biomarkers and its examination by medical devices, with a focus on utilization of biomarkers in the pharmaceutical and biotechnology industries, and a comprehensive overview on the regulatory affairs and marketing strategy of medical devices.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain knowledge about biomarkers and its instrumentation.</td></tr><tr><td>2.</td><td>Evaluate the wide scope of application of biomarkers in diagnosis and therapy for various diseases.</td></tr><tr><td>3.</td><td>Apply functional knowledge of biomarkers for cases of clinical diagnosis and disease treatment.</td></tr><tr><td>4.</td><td>Describe the methodology related to biomarker analysis.</td></tr><tr><td>5.</td><td>Interpret the business competence and market potential of biomarkers.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1404)",
+        "Date & Time": "01-FEB-2024 - 01-FEB-2024<br>Th 07:30PM - 09:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "LEE, Hong Seng Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 32,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1404)",
+        "Date & Time": "22-FEB-2024 - 28-MAR-2024<br>Th 07:30PM - 09:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "LEE, Hong Seng Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 32,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1404)",
+        "Date & Time": "11-APR-2024 - 16-MAY-2024<br>Th 07:30PM - 09:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "LEE, Hong Seng Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 32,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1405)",
+        "Date & Time": "01-FEB-2024 - 01-FEB-2024<br>Th 09:30PM - 10:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "LEE, Hong Seng Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 32,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1405)",
+        "Date & Time": "22-FEB-2024 - 28-MAR-2024<br>Th 09:30PM - 10:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "LEE, Hong Seng Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 32,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1405)",
+        "Date & Time": "11-APR-2024 - 16-MAY-2024<br>Th 09:30PM - 10:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "LEE, Hong Seng Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 32,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BTEC",
+    "code": "5380",
+    "name": "Drug Discovery and Development",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "description": "Overview of methodology employed in identification of lead compounds, drug synthesis and development.  Receptor screening technology for target identification, high-throughput screening for lead identification, and the process for turning lead compounds into marketable drug products.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain basic and in-depth information about drug discovery and development.</td></tr><tr><td>2.</td><td>Apply functional knowledge in the design and selection of drug discovery assays.</td></tr><tr><td>3.</td><td>Evaluate information and data derived from drug screening activities.</td></tr><tr><td>4.</td><td>Describe the fundamental concepts of pharmacokinetics and pharmacodynamics.</td></tr><tr><td>5.</td><td>Employ different approaches to identify lead compounds and optimize candidates for drug development.</td></tr><tr><td>6.</td><td>Identify regulatory affairs and key factors in relation to the drug development process.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1406)",
+        "Date & Time": "03-FEB-2024 - 03-FEB-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1406)",
+        "Date & Time": "17-FEB-2024 - 17-FEB-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1406)",
+        "Date & Time": "02-MAR-2024 - 02-MAR-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1406)",
+        "Date & Time": "23-MAR-2024 - 23-MAR-2024<br>Sa 09:00AM - 12:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1406)",
+        "Date & Time": "13-APR-2024 - 13-APR-2024<br>Sa 09:00AM - 12:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1406)",
+        "Date & Time": "27-APR-2024 - 27-APR-2024<br>Sa 09:00AM - 12:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1406)",
+        "Date & Time": "04-MAY-2024 - 04-MAY-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1406)",
+        "Date & Time": "18-MAY-2024 - 18-MAY-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1407)",
+        "Date & Time": "03-FEB-2024 - 03-FEB-2024<br>Sa 05:30PM - 05:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1407)",
+        "Date & Time": "17-FEB-2024 - 17-FEB-2024<br>Sa 05:30PM - 05:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1407)",
+        "Date & Time": "02-MAR-2024 - 02-MAR-2024<br>Sa 05:30PM - 05:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1407)",
+        "Date & Time": "23-MAR-2024 - 23-MAR-2024<br>Sa 12:30PM - 12:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1407)",
+        "Date & Time": "13-APR-2024 - 13-APR-2024<br>Sa 12:30PM - 12:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1407)",
+        "Date & Time": "27-APR-2024 - 27-APR-2024<br>Sa 12:30PM - 12:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1407)",
+        "Date & Time": "04-MAY-2024 - 04-MAY-2024<br>Sa 05:30PM - 05:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1407)",
+        "Date & Time": "18-MAY-2024 - 18-MAY-2024<br>Sa 05:30PM - 05:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Yung Hou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BTEC",
+    "code": "6900",
+    "name": "Case Investigation in Biotechnology",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "description": "Students will review a topic of their choice in an area of biotechnology under the supervision of a faculty member.  An in-depth reading and analysis by the student of the selected topic leading to the submission of a written report, and its presentation in a seminar.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Retrieve and explain information correlated with the business values of a biotechnological company.</td></tr><tr><td>2.</td><td>Evaluate information based on comprehensive search of scientific databases, websites and international journals. </td></tr><tr><td>3.</td><td>Produce high quality reseasrch independently.</td></tr><tr><td>4.</td><td>Demonstrate self-reflective thinking through reading, analysis and synthesis of information, and production of research reports.</td></tr><tr><td>5.</td><td>Present research results clearly and convincingly in seminars and research reports.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1387)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 13,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1388)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 13,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BTEC",
+    "code": "6930",
+    "name": "Directed Biotechnological Research",
+    "units": 4,
+    "info": {
+      "vector": "[1-0-9:4]",
+      "description": "Students will undertake a research project of their choice in an area of biotechnology under the supervision of a faculty member.  The results of the research will be presented in a seminar and be formally written in the form of a final report.  For MSc student who can participate in day-time laboratory work only.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop laboratory skills and methods related to research work of biotechnological applications.</td></tr><tr><td>2.</td><td>Apply functional knowledge to qualitatively and quantitatively appraise experimental data and outcomes.</td></tr><tr><td>3.</td><td>Demonstrate self-reflective thinking for experimental design and production of research reports.</td></tr><tr><td>4.</td><td>Conduct laboratory research via team work.</td></tr><tr><td>5.</td><td>Engage with fellow graduates and/or professionals in the field of biotechnological research.</td></tr><tr><td>6.</td><td>Present research results clearly and convincingly in seminars and research reports.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1389)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 4,
+        "Avail": 21,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1390)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 4,
+        "Avail": 21,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BTEC",
+    "code": "6940",
+    "name": "Advanced Biotechnological Research",
+    "units": 4,
+    "info": {
+      "vector": "[0-1-9:4]",
+      "pre-requisite": "BTEC 6930",
+      "description": "Students will undertake a research project in an area of biotechnology under the supervision of a faculty member. The results of the research will be presented in a seminar and be formally written in the form of a final report. For full time MSc students only.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop laboratory skills and methods related to research work of biotechnological applications.</td></tr><tr><td>2.</td><td>Apply functional knowledge to qualitatively and quantitatively appraise experimental data and outcomes.</td></tr><tr><td>3.</td><td>Demonstrate self-reflective thinking for experimental design and production of research reports.</td></tr><tr><td>4.</td><td>Conduct laboratory research via team work.</td></tr><tr><td>5.</td><td>Engage with fellow graduates and/or professionals in the field of biotechnological research.</td></tr><tr><td>6.</td><td>Present research results clearly and convincingly in seminars and research reports.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1392)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 12,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1391)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 12,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

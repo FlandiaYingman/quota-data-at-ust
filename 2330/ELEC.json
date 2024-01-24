@@ -1,0 +1,3482 @@
+[
+  {
+    "program": "ELEC",
+    "code": "1010",
+    "name": "Electronic and Information Technology",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SSC-S&T) for 36-credit program<br>Common Core (T) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "previous code": "CORE 1240",
+      "description": "This general-education course introduces the basics of electronic and information technology and their applications to daily-life consumer electronics and communication devices. Contents include the representation of signals in the time and frequency domains; digitization of information; coding for data compression and error protection; transmission of signals; cellular mobile phones and wireless communications; and the Internet. It is expected that through studying these technologies and how they address the problems encountered in the information technology area, students will also grasp the skills in solving problems with engineering approach and spirit and appreciate how these technologies impact the society."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2154)",
+        "Date & Time": "MoWe 12:30PM - 01:20PM",
+        "Room": "Lecture Theater A (401)",
+        "Instructor": [
+          "SHAO, Qiming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 400,
+        "Enrol": 0,
+        "Avail": 400,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2156)",
+        "Date & Time": "Th 03:30PM - 04:20PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "SHAO, Qiming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2158)",
+        "Date & Time": "Tu 03:00PM - 03:50PM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "SHAO, Qiming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T3 (2159)",
+        "Date & Time": "Fr 11:00AM - 11:50AM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "SHAO, Qiming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T4 (2160)",
+        "Date & Time": "Mo 03:00PM - 03:50PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "SHAO, Qiming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T5 (2161)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "SHAO, Qiming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "1100",
+    "name": "Introduction to Electro-Robot Design",
+    "units": 4,
+    "info": {
+      "description": "The course introduces the fundamental knowledge on the design, implementation and evaluation of a robot and its sub-systems. It covers the basic principles of analog and digital circuits as well as robot sensing and control mechanisms.  Students have to apply the knowledge and principles learned to design and build a functional robot by the end of the course. Students who have completed ELEC 2200, ELEC 2350, ELEC 2400, ELEC 2420, or ELEC 3310,  must obtain instructor's approval to take this course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2162)",
+        "Date & Time": "TuTh 09:30AM - 10:20AM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "LIN, Yen Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 135,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2164)",
+        "Date & Time": "WeFr 02:00PM - 02:50PM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "MURCH, Ross"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 135,
+        "Enrol": 104,
+        "Avail": 31,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2170)",
+        "Date & Time": "Tu 01:30PM - 02:20PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "LIN, Yen Hung",
+          "MURCH, Ross"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2172)",
+        "Date & Time": "Th 05:00PM - 05:50PM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "LIN, Yen Hung",
+          "MURCH, Ross"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 79,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T3 (2173)",
+        "Date & Time": "Tu 12:00PM - 12:50PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "LIN, Yen Hung",
+          "MURCH, Ross"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2166)",
+        "Date & Time": "Th 12:00PM - 02:50PM",
+        "Room": "Rm 2133, Lift 19, 21, 22",
+        "Instructor": [
+          "LIN, Yen Hung",
+          "MURCH, Ross"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 79,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2168)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 2133, Lift 19, 21, 22",
+        "Instructor": [
+          "LIN, Yen Hung",
+          "MURCH, Ross"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (2169)",
+        "Date & Time": "Mo 01:30PM - 04:20PM",
+        "Room": "Rm 2133, Lift 19, 21, 22",
+        "Instructor": [
+          "LIN, Yen Hung",
+          "MURCH, Ross"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "1200",
+    "name": "A System View of Communications: from Signals to Packets",
+    "units": 4,
+    "info": {
+      "attributes": "[BLD] Blended learning<br>[SPO] Self-paced online delivery",
+      "co-requisite": "(COMP 1021 OR COMP 1022P) AND (MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024)",
+      "description": "Have you ever wondered what technologies go into your mobile phone or a WiFi hotspot?  Through hands on work with a simple but fully functional wireless communication system, you will understand the basic engineering tools used and tradeoffs encountered in the design of these systems.  This course is centered on weekly laboratories, each designed to introduce an important concept in the design of these systems.  The lab sessions are supported by two one-hour lectures and a tutorial that introduce the concepts for the next laboratory, as well as reviewing and expanding the concepts learned in the previous laboratory."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2174)",
+        "Date & Time": "Mo 03:00PM - 03:50PM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "CHIU, Eddy"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 140,
+        "Enrol": 137,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode"
+        ]
+      },
+      {
+        "Section": "L1 (2174)",
+        "Date & Time": "Fr 10:30AM - 11:20AM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "CHIU, Eddy"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 140,
+        "Enrol": 137,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode"
+        ]
+      },
+      {
+        "Section": "T1 (2179)",
+        "Date & Time": "We 05:00PM - 05:50PM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "CHIU, Eddy"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 68,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2181)",
+        "Date & Time": "Th 03:00PM - 03:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "CHIU, Eddy"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 69,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2176)",
+        "Date & Time": "Th 05:00PM - 07:50PM",
+        "Room": "Rm 2133, Lift 19, 21, 22",
+        "Instructor": [
+          "CHIU, Eddy"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 68,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2178)",
+        "Date & Time": "Fr 04:30PM - 07:20PM",
+        "Room": "Rm 2133, Lift 19, 21, 22",
+        "Instructor": [
+          "CHIU, Eddy"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 69,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "2100",
+    "name": "Signals and Systems",
+    "units": 4,
+    "info": {
+      "attributes": "[BLD] Blended learning",
+      "pre-requisite": "MATH 2011 OR MATH 2023 OR MATH 2111 OR MATH 2350 OR MATH 2351 OR MATH 2352",
+      "exclusion": "ELEC 2100H",
+      "description": "This is an introductory course for signal and system analysis. The course covers signal analysis tools including continuous- and discrete-time Fourier series and Fourier transform, and Laplace Transform; interactions between signals and linear time invariant (LTI) systems, and differential and difference equations as LTI systems, sampling theorem; and application examples in communication and control systems. MATLAB introduced as an integral part of this course."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2182)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "WONG, Kai Sun Albert"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 28,
+        "Avail": 32,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode"
+        ]
+      },
+      {
+        "Section": "L2 (2184)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "YOBAS, Levent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 27,
+        "Avail": 33,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode"
+        ]
+      },
+      {
+        "Section": "T1 (2189)",
+        "Date & Time": "Tu 03:30PM - 04:20PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "WONG, Kai Sun Albert",
+          "YOBAS, Levent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 28,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2191)",
+        "Date & Time": "Tu 12:30PM - 01:20PM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "WONG, Kai Sun Albert",
+          "YOBAS, Levent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 27,
+        "Avail": 23,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2186)",
+        "Date & Time": "We 05:00PM - 05:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "WONG, Kai Sun Albert",
+          "YOBAS, Levent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 27,
+        "Avail": 23,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2188)",
+        "Date & Time": "Th 03:00PM - 03:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "WONG, Kai Sun Albert",
+          "YOBAS, Levent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 28,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "2350",
+    "name": "Introduction to Computer Organization and Design",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ELEC 1100",
+      "exclusion": "COMP 2611, ELEC 2300, ISDN 4000F",
+      "description": "This is an introductory course to computer hardware and software organization. The topics covered include computing systems, computing programing, hardware-software collaboration, computer arithmetic, computer hardware organizations and operations, parallel processing, memory technologies and organization, and technology trends."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2192)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "TU, Fengbin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 38,
+        "Avail": 82,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2197)",
+        "Date & Time": "Fr 03:30PM - 04:20PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "TU, Fengbin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 20,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2199)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "TU, Fengbin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 18,
+        "Avail": 42,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2194)",
+        "Date & Time": "We 03:00PM - 04:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "TU, Fengbin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 18,
+        "Avail": 42,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2196)",
+        "Date & Time": "Th 06:00PM - 07:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "TU, Fengbin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 20,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "2400",
+    "name": "Electronic Circuits",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ELEC 1100 AND (MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024)",
+      "co-requisite": "PHYS 1114 OR PHYS 1314",
+      "exclusion": "ELEC 2420",
+      "description": "Fundamental electronic concepts for DC and AC circuits, KVL and KCL, Thevenin and Norton Theroems, linearity and superposition, nodal and mesh analyses, sinusoidal steady state and phasor, transient analysis, transfer functions and Bode plots, op-amps, diodes, MOS transistors and related circuits."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2200)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "CHEN, Kevin Jing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 105,
+        "Enrol": 81,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2202)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "ZHANG, Yihan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 105,
+        "Enrol": 82,
+        "Avail": 23,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2210)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "CHEN, Kevin Jing",
+          "ZHANG, Yihan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 53,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2212)",
+        "Date & Time": "Tu 10:30AM - 11:20AM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "CHEN, Kevin Jing",
+          "ZHANG, Yihan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 56,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T3 (2213)",
+        "Date & Time": "Fr 06:00PM - 06:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "CHEN, Kevin Jing",
+          "ZHANG, Yihan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 54,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2204)",
+        "Date & Time": "Fr 09:00AM - 11:50AM",
+        "Room": "Rm 2133, Lift 19, 21, 22",
+        "Instructor": [
+          "CHEN, Kevin Jing",
+          "ZHANG, Yihan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 42,
+        "Enrol": 34,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2206)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "Rm 2133, Lift 19, 21, 22",
+        "Instructor": [
+          "CHEN, Kevin Jing",
+          "ZHANG, Yihan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 42,
+        "Enrol": 28,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (2207)",
+        "Date & Time": "Th 09:00AM - 11:50AM",
+        "Room": "Rm 2133, Lift 19, 21, 22",
+        "Instructor": [
+          "CHEN, Kevin Jing",
+          "ZHANG, Yihan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 42,
+        "Enrol": 34,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA4 (2208)",
+        "Date & Time": "Tu 05:00PM - 07:50PM",
+        "Room": "Rm 2133, Lift 19, 21, 22",
+        "Instructor": [
+          "CHEN, Kevin Jing",
+          "ZHANG, Yihan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 42,
+        "Enrol": 34,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA5 (2209)",
+        "Date & Time": "We 09:00AM - 11:50AM",
+        "Room": "Rm 2133, Lift 19, 21, 22",
+        "Instructor": [
+          "CHEN, Kevin Jing",
+          "ZHANG, Yihan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 42,
+        "Enrol": 33,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "2600",
+    "name": "Probability and Random Processes in Engineering",
+    "units": 4,
+    "info": {
+      "pre-requisite": "MATH 1003 OR MATH 1014 OR MATH 1020 OR MATH 1024",
+      "co-requisite": "MATH 2011 OR MATH 2023",
+      "exclusion": "ELEC 2600H, MATH 2421",
+      "description": "An introduction to statistical inference and random processes in electrical engineering, including the necessary probabilistic background. Random variables, distribution and density functions, characteristic functions, conditional statistics, expectation, moments, stochastic processes."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2214)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "LIN, Zehong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 84,
+        "Avail": 36,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (2214)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "LIN, Zehong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 84,
+        "Avail": 36,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2219)",
+        "Date & Time": "Mo 10:30AM - 11:20AM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "LIN, Zehong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 42,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2221)",
+        "Date & Time": "Th 12:30PM - 01:20PM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "LIN, Zehong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 42,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2216)",
+        "Date & Time": "Tu 05:00PM - 07:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "LIN, Zehong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 45,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2218)",
+        "Date & Time": "Fr 09:00AM - 11:50AM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "LIN, Zehong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "2910",
+    "name": "Academic and Professional Development I",
+    "units": 0,
+    "info": {
+      "description": "A compulsory, one year course for Electronic Engineering and EE (Information and Communication Engineering) students only. This course is designed to provide academic advising to students and/or to develop students' communication skills in interacting with the technical and non-technical audiences in their professional careers. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T01 (2222)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2126A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T02 (2223)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2126A"
+        ]
+      },
+      {
+        "Section": "T03 (2224)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2126B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T04 (2225)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 9,
+        "Enrol": 9,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2126B"
+        ]
+      },
+      {
+        "Section": "T05 (2226)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2126C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T06 (2227)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2126C"
+        ]
+      },
+      {
+        "Section": "T07 (2228)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 3494, Lift 25-26 (20)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 6,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T08 (2229)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 3494"
+        ]
+      },
+      {
+        "Section": "T09 (2230)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2127A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T10 (2231)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2127A"
+        ]
+      },
+      {
+        "Section": "T11 (2232)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2127B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T12 (2233)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2127B"
+        ]
+      },
+      {
+        "Section": "T13 (2234)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2127C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T14 (2235)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2127C"
+        ]
+      },
+      {
+        "Section": "T15 (2236)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2128A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T16 (2237)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 6,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2128A"
+        ]
+      },
+      {
+        "Section": "T17 (2238)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2128B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T18 (2239)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 6,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2128B"
+        ]
+      },
+      {
+        "Section": "T19 (2240)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2128C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T20 (2241)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 2,
+        "Enrol": 2,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2128C"
+        ]
+      },
+      {
+        "Section": "T21 (2242)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2129A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T22 (2243)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 6,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2129A"
+        ]
+      },
+      {
+        "Section": "T23 (2244)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2129B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T24 (2245)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2129B"
+        ]
+      },
+      {
+        "Section": "T25 (2246)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2129C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 2,
+        "Enrol": 2,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "2991",
+    "name": "Industrial Experience (Electronic Engineering)",
+    "units": 0,
+    "info": {
+      "previous code": "ELEC 1991",
+      "description": "Full-time internship training for a period of at least six weeks in an organization or company recognized by the Department for providing qualified internship training relevant to the electronic and computer engineering profession. Students must also complete the USTSEEB Safety Training module. Cantonese or other working languages may be used in off-campus trainings and internships, in some situations. For students in the BEng in Electronic Engineering program under the four-year degree only. Internship coordinator's approval is required for enrollment in the course. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2247)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 506,
+        "Enrol": 398,
+        "Avail": 108,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "3100",
+    "name": "Signal Processing and Communications",
+    "units": 4,
+    "info": {
+      "pre-requisite": "(ELEC 2100 OR ELEC 2100H) AND (ELEC 2600 OR ELEC 2600H)",
+      "description": "The course provides a comprehensive overview of signal processing and communications using quantitative modeling and analysis. Topics include: 7 layer communications model, discrete Fourier transform and z-transform, IIR and FIR filter design techniques and realizations, complexity and implementation considerations of FFT and FIR/IIR, source coding, digital modulation, PSD and spectrum, effects of noise to communication system designs, detection theory, matched filter, signal space and error analysis, channel models and channel coding. Application examples are provided to illustrate on how practical communication systems are designed using these quantitative tools. Design projects are set up so that the students can apply theory learnt in the class to physical problems. MATLAB CAD tools are being used as an integral part of this course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2248)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "ZHANG, Jun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 4,
+        "Avail": 76,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2253)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "ZHANG, Jun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 3,
+        "Avail": 37,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2255)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "ZHANG, Jun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 1,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2250)",
+        "Date & Time": "Tu 10:30AM - 11:20AM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "ZHANG, Jun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 1,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2252)",
+        "Date & Time": "Tu 12:00PM - 12:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "ZHANG, Jun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 3,
+        "Avail": 37,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "3120",
+    "name": "Computer Communication Networks",
+    "units": 3,
+    "info": {
+      "pre-requisite": "COMP 1021 OR COMP 1022P",
+      "exclusion": "COMP 4621",
+      "previous code": "ELEC 4120",
+      "description": "Overview of computer networks: network architecture and switching techniques. Introduction to the Internet, network programming, and layer architecture. Application layer: HTTP, FTP, SMTP, and CDN. Transport layer: TCP and UDP. Network layer: IP routing, NAT, and DHCP. Data link layer and local area networks: MAC protocols, Ethernet, and hubs/bridges/switches."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2256)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "LEA, Chin-Tau"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 3,
+        "Avail": 87,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (2256)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "LEA, Chin-Tau"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 3,
+        "Avail": 87,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2257)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "LEA, Chin-Tau"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 3,
+        "Avail": 87,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "3180",
+    "name": "Data-Driven Portfolio Optimization",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(IEDA 2520 OR IEDA 2540 OR ELEC 2600) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)",
+      "alternate code(s)": "IEDA 3180",
+      "description": "Modern portfolio theory started with Harry Markowitz's 1952 seminal paper \"Portfolio Selection.\" He put forth the idea that risk-adverse investors should optimize their portfolio based on a combination of two objectives: expected return and risk. Until today, that idea has remained central in portfolio optimization. However, the vanilla Markowitz portfolio formulation does not seem to behave as expected in practice and most practitioners tend to avoid it. During the past half century, researchers and practitioners have reconsidered the Markowitz portfolio formulation and have proposed countless of improvements and alternatives such as robust optimization methods, alternative measures of risk, regularization via sparsity, improved estimators of the covariance matrix, robust estimators for heavy tails, factor models, volatility clustering models, risk-parity formulations, index tracking, etc. This course will explore the Markowitz portfolio optimization in its many variations and extensions, with special emphasis on Python programming."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2258)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "PEREZ PALOMAR, Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 3,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "3200",
+    "name": "System Modeling, Analysis and Control",
+    "units": 4,
+    "info": {
+      "pre-requisite": "(ELEC 2100 OR ELEC 2100H) AND [MATH 2350 OR (MATH 2111 AND MATH 2351)]",
+      "exclusion": "CENG 3110, MECH 3610",
+      "description": "This course introduces basic concepts, tools and techniques for modeling, analysis, and control of dynamical systems. The course starts from the use of differential equations to model continuous time systems. Examples from a variety of Electronic and Computer Engineering disciplines will be given to illustrate the modeling process. Then, basic tools needed for analyzing the behavior of dynamical systems will be presented. Finally, techniques for controlling their behavior will be introduced. Throughout the course, laboratory experiments demonstrating the use of these analysis/design tools will be included."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2259)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "SHEN, Yajing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 2,
+        "Avail": 38,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2261)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "Rm 3119, Lift 19, 22",
+        "Instructor": [
+          "SHEN, Yajing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 1,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2263)",
+        "Date & Time": "Mo 10:30AM - 01:20PM",
+        "Room": "Rm 3119, Lift 19, 22",
+        "Instructor": [
+          "SHEN, Yajing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 1,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "3300",
+    "name": "Introduction to Embedded Systems",
+    "units": 4,
+    "info": {
+      "pre-requisite": "COMP 2611 OR ELEC 2300 OR ELEC 2350 OR ISDN 4000F",
+      "description": "This course is designed to teach techniques on how to integrate machine-level software and hardware in ARM-core microcontroller based systems. It makes use of industry-standard techniques and technologies, from which students can interface, design and program microcontroller systems. The task of the course will be to complete five laboratory experiments which address different aspects of hardware/software interfacing, and one large microprocessor/microcontroller based project which should result in the design and implementation of a small working embedded system."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2264)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Lecture Theater A (401)",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 144,
+        "Enrol": 70,
+        "Avail": 74,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2270)",
+        "Date & Time": "Tu 12:00PM - 01:20PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 55,
+        "Enrol": 23,
+        "Avail": 32,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2272)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 55,
+        "Enrol": 25,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T3 (2273)",
+        "Date & Time": "Th 10:30AM - 11:50AM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 55,
+        "Enrol": 22,
+        "Avail": 33,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2266)",
+        "Date & Time": "Th 03:00PM - 04:50PM",
+        "Room": "Rm 3115, Lift 19, 22",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 36,
+        "Enrol": 18,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2268)",
+        "Date & Time": "Mo 09:30AM - 11:20AM",
+        "Room": "Rm 3115, Lift 19, 22",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 36,
+        "Enrol": 18,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (2269)",
+        "Date & Time": "We 09:00AM - 10:50AM",
+        "Room": "Rm 3115, Lift 19, 22",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 36,
+        "Enrol": 18,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA4 (4164)",
+        "Date & Time": "Tu 03:00PM - 04:50PM",
+        "Room": "Rm 3115, Lift 19, 22",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 36,
+        "Enrol": 16,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "3400",
+    "name": "Introduction to Integrated Circuits and Systems",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ELEC 2400",
+      "description": "This course presents an overview, applications, fundamentals and design flow of the state-of-the-art integrated circuits (IC) and systems. Course contents include fabrication process; diodes, bipolar transistors and MOS transistors and modes of operations; and fundamental of analog, digital and mixed-signal IC design."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2274)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "LTL, CYT Bldg (354)",
+        "Instructor": [
+          "LUONG, Howard Cam"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (2274)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "LTL, CYT Bldg (354)",
+        "Instructor": [
+          "LUONG, Howard Cam"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2280)",
+        "Date & Time": "Tu 05:00PM - 05:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "LUONG, Howard Cam"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2282)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "LUONG, Howard Cam"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2276)",
+        "Date & Time": "We 10:30AM - 12:20PM",
+        "Room": "Rm 3111, Lift 19, 22",
+        "Instructor": [
+          "LUONG, Howard Cam"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 28,
+        "Enrol": 0,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2278)",
+        "Date & Time": "Mo 12:00PM - 01:50PM",
+        "Room": "Rm 3111, Lift 19, 22",
+        "Instructor": [
+          "LUONG, Howard Cam"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 28,
+        "Enrol": 0,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (2279)",
+        "Date & Time": "Mo 09:30AM - 11:20AM",
+        "Room": "Rm 3111, Lift 19, 22",
+        "Instructor": [
+          "LUONG, Howard Cam"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 28,
+        "Enrol": 0,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "3600",
+    "name": "Electromagnetics: From Wireless to Photonic Applications",
+    "units": 4,
+    "info": {
+      "pre-requisite": "(MATH 2011 OR MATH 2023) AND MATH 2351 AND PHYS 1114",
+      "description": "This area course introduces applied electromagnetics from fundamentals to applications. Topics include: Gauss', Faraday's and Ampere's laws; electrostatics and magnetostatics; Maxwell's equations; electromagnetic plane wave propagation; transmission lines; radiation and antenna fundamentals; light wave fundamentals. Students will also acquire hands-on experience to electromagnetics through laboratory sessions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2283)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "NEYTS, Kristiaan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 2,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2285)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "NEYTS, Kristiaan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 2,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2284)",
+        "Date & Time": "Mo 11:30AM - 01:20PM",
+        "Room": "Rm 2133, Lift 19, 21, 22",
+        "Instructor": [
+          "NEYTS, Kristiaan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 2,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "3910",
+    "name": "Academic and Professional Development II",
+    "units": 0,
+    "info": {
+      "description": "Continuation of ELEC 2910. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T01 (2286)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 6,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2126A"
+        ]
+      },
+      {
+        "Section": "T02 (2287)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2126A"
+        ]
+      },
+      {
+        "Section": "T03 (2288)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 5,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2126B"
+        ]
+      },
+      {
+        "Section": "T04 (2289)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2126B"
+        ]
+      },
+      {
+        "Section": "T05 (2290)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 4,
+        "Enrol": 4,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2126C"
+        ]
+      },
+      {
+        "Section": "T06 (2291)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2126C"
+        ]
+      },
+      {
+        "Section": "T07 (2292)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 3494"
+        ]
+      },
+      {
+        "Section": "T08 (2293)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 3494"
+        ]
+      },
+      {
+        "Section": "T09 (2294)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2127A"
+        ]
+      },
+      {
+        "Section": "T10 (2295)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 6,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2127A"
+        ]
+      },
+      {
+        "Section": "T11 (2296)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 4,
+        "Enrol": 4,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2127B"
+        ]
+      },
+      {
+        "Section": "T12 (2297)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 6,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2127B"
+        ]
+      },
+      {
+        "Section": "T13 (2298)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 5,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2127C"
+        ]
+      },
+      {
+        "Section": "T14 (2299)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 6,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2127C"
+        ]
+      },
+      {
+        "Section": "T15 (2300)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 4,
+        "Enrol": 4,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2128A"
+        ]
+      },
+      {
+        "Section": "T16 (2301)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 4,
+        "Enrol": 4,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2128A"
+        ]
+      },
+      {
+        "Section": "T17 (2302)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2128B"
+        ]
+      },
+      {
+        "Section": "T18 (2303)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2128B"
+        ]
+      },
+      {
+        "Section": "T19 (2304)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 4,
+        "Enrol": 4,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2128C"
+        ]
+      },
+      {
+        "Section": "T20 (2305)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2128C"
+        ]
+      },
+      {
+        "Section": "T21 (2306)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 5,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2129A"
+        ]
+      },
+      {
+        "Section": "T22 (2307)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 6,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2129A"
+        ]
+      },
+      {
+        "Section": "T23 (2308)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2129B"
+        ]
+      },
+      {
+        "Section": "T24 (2309)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 7,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2129B"
+        ]
+      },
+      {
+        "Section": "T25 (2310)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 9,
+        "Enrol": 9,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 2129C"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "4010P",
+    "name": "Quantum Mechanics for Electronic Engineers",
+    "units": 3,
+    "info": {
+      "pre-requisite": "[MATH 2350 OR (MATH 2111 AND MATH 2351)] AND ELEC 2600 AND PHYS 1114",
+      "exclusion": "PHYS 3036, PHYS 3037",
+      "description": "An introductory course on quantum mechanics for electronic engineers. Topics include mathematical preliminaries on probability, statistics, linear algebra, and differential equations; fundamentals on waves and quantum mechanics, the time-independent Schrödinger’s equation, quantum mechanical wavefunctions, quantum mechanical states, operators, and measurements, the harmonic oscillator, time-evolution and the time-dependent Schrödinger’s equation, spin of the electron, and angular momentum; semiconductor device physics on potential steps, barriers and wells, quantum confinement, and tunneling; basic concepts on quantum information processing."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4173)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Instructor": [
+          "POON, Andrew Wing On"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (4174)",
+        "Date & Time": "Mo 02:00PM - 02:50PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "POON, Andrew Wing On"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "4130",
+    "name": "Machine Learning on Images",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ELEC 2100",
+      "co-requisite": "ELEC 3100 OR ELEC 3200",
+      "exclusion": "COMP 4421, MATH 4336",
+      "description": "This course introduces methods to process images on a computer. Topics include the formation and quantification of digital images, morphological image processing, image enhancement in the spatial and frequency domain, image restoration, color image processing, image compression, image segmentation, image representation and description, the image pattern classification using classic machine learning approaches, such as minimum-distance, and Bayes classifiers, Support Vector Machine et al., the modern approaches implemented using deep neural networks. This course provides a new perspective of comparing image processing technique to human vision system in terms of information perception and decision making. Students are expected to obtain knowledge of digital image processing, and hands-on experience on programming and presentation skill through the final project. This course is mathematics-oriented. It requires basic knowledge of linear algebra, calculus and linear filtering. Familiarity with the programming language MATLAB is needed."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2311)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "WANG, Yiwen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 3,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "4430",
+    "name": "Integrated Power Electronics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ELEC 3400",
+      "description": "Power computation, diodes and rectifier circuits, power factor correctors, switch mode power converters, magnetic components, switch capacitor power converters, linear regulators, and integrated circuit techniques for controller design."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2312)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "MAN, Tsz Yin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "4520",
+    "name": "Integrated Circuit Fabrication Technology",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ELEC 3500",
+      "description": "For UG students only. The course is intended to provide students with fundamental knowledge in device and integrated circuits (IC's) fabrication. The class covers the modules of device fabrication (including clean room concept, cleaning procedures, diffusion, lithography, wet processing, dry etching, chemical vapor deposition, sputtering) and process integration to form IC's. The lab section will bring the students with hands-on experience in IC fabrication facilities in Nanoelectronics Fabrication Facility of HKUST."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2313)",
+        "Date & Time": "Fr 01:00PM - 02:50PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "YANG, Yansong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2314)",
+        "Date & Time": "Mo 10:30AM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "YANG, Yansong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in NFF"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "4530",
+    "name": "Fundamentals of Photovoltaic and Renewable Energy",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ELEC 3500",
+      "description": "Introduction of solar and other renewable energy generation. Silicon and other semiconductor solar cells. Physics and circuit modeling. Energy storage and distribution."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2315)",
+        "Date & Time": "Th 10:30AM - 12:20PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "FAN, Zhiyong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 1,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2316)",
+        "Date & Time": "Mo 09:30AM - 10:20AM",
+        "Room": "Rm 3494, Lift 25-26 (20)",
+        "Instructor": [
+          "FAN, Zhiyong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 1,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "4610",
+    "name": "Engineering Optics",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ELEC 2400",
+      "exclusion": "PHYS 3038",
+      "description": "An introductory course in optics covering fundamentals of geometrical and physical optics. Topics include: review of geometrical optics, first order optical system and analysis, aberration, aperture and field stops; Basic wave theory, diffraction, interference, polarization, dispersion; fundamentals of optical instrumentation."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2317)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "QU, Jianan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2319)",
+        "Date & Time": "Mo 07:00PM - 08:50PM",
+        "Room": "Rm 3123A, Lift 22",
+        "Instructor": [
+          "QU, Jianan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 14,
+        "Enrol": 0,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2321)",
+        "Date & Time": "We 07:00PM - 08:50PM",
+        "Room": "Rm 3123A, Lift 22",
+        "Instructor": [
+          "QU, Jianan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 14,
+        "Enrol": 0,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (2322)",
+        "Date & Time": "Tu 07:00PM - 08:50PM",
+        "Room": "Rm 3123A, Lift 22",
+        "Instructor": [
+          "QU, Jianan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 14,
+        "Enrol": 0,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "4840",
+    "name": "Artificial Intelligence for Medical Image Analysis",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(COMP 2011 OR COMP 2012 OR COMP 2012H) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)",
+      "exclusion": "COMP 5423",
+      "previous code": "ELEC 4010N",
+      "description": "Medical imaging plays a vital role in the entire spectrum of healthcare, ranging from wellness and screening to early diagnosis, treatment selection, and follow-up. The course delves deeply into the latest advancements in Al for medical image analysis, with a specific focus on deep learning techniques for disease screening and detection using medical images. It will cover various topics, including the fundamentals of deep neural networks, the basics of medical imaging, and an exploration of state-of-the-art deep learning models in the context of different types of medical images. The objective is to equip students from diverse backgrounds with both a conceptual understanding and practical skills in cutting-edge research on Al in healthcare. By providing a comprehensive overview of the field and the fundamental techniques necessary for image processing, analysis, and scientific applications, it aims to empower students to effectively utilize images for scientific discovery and practical purposes."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4294)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "LI, Xiaomeng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (4295)",
+        "Date & Time": "Mo 04:30PM - 05:20PM",
+        "Room": "Rm 3494, Lift 25-26 (20)",
+        "Instructor": [
+          "LI, Xiaomeng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "4900",
+    "name": "Final Year Design Project",
+    "units": 6,
+    "info": {
+      "description": "Each undergraduate student enrolled in Electronic Engineering and Computer Engineering is required to complete a final year design project before graduation. The project is conducted under the supervision of a faculty member. Credit load will be spread over the project period."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2323)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 141,
+        "Enrol": 141,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "4901",
+    "name": "Final Year Thesis",
+    "units": 6,
+    "info": {
+      "description": "Each undergraduate student taking the Research Option of the Electronic Engineering program is required to complete an individual thesis and the thesis should summarize his/her work conducted under the supervision of a faculty member. Credit load will be spread over the project period."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2324)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 12,
+        "Enrol": 12,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "4910",
+    "name": "Co-op Program",
+    "units": 6,
+    "info": {
+      "exclusion": "ELEC 4900, ELEC 4901",
+      "description": "Students in this co-op program will be engaged in practical hands-on training for a period of at least 5 months working in an organization or company that provides qualified training relevant to the electronic and computer engineering profession. Students are required to complete a final year project under the supervision of an industrial supervisor and a faculty member during the co-op. May be graded PP. For ELEC students in their third or fourth year of study only. Approval of the course coordinator is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2325)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 0,
+        "Enrol": 0,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "4940C",
+    "name": "Independent Study",
+    "units": 1,
+    "info": {
+      "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Enrollment subject to approval by the department."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4237)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 1,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5050",
+    "name": "Advanced CMOS Devices",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "ELEC 3500",
+      "description": "Principles and characteristics of semiconductor devices found in State-of-the-Art ICs. Emphasis is on deep-submicron MOS device design, characterization and modeling. Important issues such as short channel effects, high-field behavior, hot carrier effects, reliability and device scaling for present and future technology will be covered.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Make projects  on the future CMOS technology.</td></tr><tr><td>2.</td><td>Perform 2-D device simulation to generate the characteristics of semiconductor devices.</td></tr><tr><td>3.</td><td>Describe the theory governing device reliability and aging process.</td></tr><tr><td>4.</td><td>Describe the role of device models in the process of circuit simulation.</td></tr><tr><td>5.</td><td>Explain the process of device parameter extraction to match the device model output to physical data.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1137)",
+        "Date & Time": "Tu 09:00AM - 11:50AM",
+        "Room": "Rm 5564, Lift 27-28 (30)",
+        "Instructor": [
+          "CHAN, Mansun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5080",
+    "name": "Integrated-Circuit Fabrication Laboratory",
+    "units": 4,
+    "info": {
+      "vector": "[2-0-6:4]",
+      "pre-requisite": "ELEC 5070",
+      "description": "Laboratory course requiring hands-on work in fabricating MOS transistors.  Process modules including photolithography, dry etching, wet etching, metal sputtering, oxidation, diffusion and low-pressure chemical-vapor deposition will be covered. Student will also learn to characterize the fabricated devices.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Gaining practical experience of micro-fabrication technology.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1138)",
+        "Date & Time": "Fr 04:30PM - 06:20PM",
+        "Room": "Rm 2126A, Lift 19 (28)",
+        "Instructor": [
+          "WONG, Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1139)",
+        "Date & Time": "Fr 09:00AM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "WONG, Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in NFF"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5140",
+    "name": "Advanced Computer Architecture",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "ELEC 6910K",
+      "description": "The course introduces the important building blocks in modern computing systems including superscalar processor pipeline, memory hierarchies, network design in the multicore‐processors. The design techniques, evaluation metrics and optimization techniques will be discussed in detail with the example of real computer systems. The students will gain not only theoretical knowledge through lectures, but also hands‐on experiences through projects.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the processor design and the collaboration between software and hardware.</td></tr><tr><td>2.</td><td>Evaluate and analyze the performance of a computer system.</td></tr><tr><td>3.</td><td>Develop the simple improvement of a computer architecture design.</td></tr><tr><td>4.</td><td>Optimize the performance of program running on the commercial computer systems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1140)",
+        "Date & Time": "We 06:00PM - 08:50PM",
+        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Instructor": [
+          "ZHANG, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5160",
+    "name": "Digital VLSI System Design and Design Automation",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "ELEC 4410",
+      "exclusion": "EESM 5020",
+      "description": "Structured design styles; specification, synthesis and simulation using Hardware Descriptive Language (HDL); Structural chip design and system design; Circuit design of system building blocks: arithmetic unit, memory systems; clocking and performance issues in system design; Design-Automation tools and their applications.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize, understand the flow of designing complex digital system such as System-on-a-chip (SOC).</td></tr><tr><td>2.</td><td>Understand the use of high-level hardware descriptive language in design digital system.</td></tr><tr><td>3.</td><td>Use commercial ECAD tools to design, synthesize, analyze, simulate and debug simple  digital systems.</td></tr><tr><td>4.</td><td>Understand the design of the VLSI architecture for basic digital arithmetic building blocks.</td></tr><tr><td>5.</td><td>Understand the circuit and architecture design of different types of memory blocks.</td></tr><tr><td>6.</td><td>Understand the techniques of designing low-power and high-performance digital circuits and systems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1141)",
+        "Date & Time": "Th 03:00PM - 05:50PM",
+        "Room": "G003, CYT Bldg (30)",
+        "Instructor": [
+          "SARFRAZ, Khawar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5240",
+    "name": "Advanced Display Technologies",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "ELEC 6910V",
+      "description": "Introduction of the human visual system, Colorimetry and photometry, Introduction of the modern TFTs, Modern AMLCD, AMOLED, Fluorescence and phosphorescence, Introduction of Electrophoretic displays, Color electrophoretic displays, Nano-material for displays, Electroluminescence and Photoluminescence, Quantum dot, Quantum rods, State-of-the-art development in the area of display technology: High-resolution displays (4k, 8k, and 10k), Local backlight dimming, Introduction to AR/VR display solutions, Holographic displays, Flexible displays etc.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Obtain basic knowledge of display technology.</td></tr><tr><td>2.</td><td>Understand the design principle of LCD, OLED and LEDs.</td></tr><tr><td>3.</td><td>Understand the design principle of nanomaterials for display and LEDs.</td></tr><tr><td>4.</td><td>Understand the principles of AR/VR and Flexible Display.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1142)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 2610, Lift 31-32 (26)",
+        "Instructor": [
+          "SRIVASTAVA, Abhishek Kumar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5280",
+    "name": "High Frequency Circuit Design",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "High frequency circuit design for wireless applications.  S-parameters, front-end amp, VCO, PLL, power amplifier, and integration issues will be covered.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop clear understanding of wireless communication system design including link budget (Shannon's channel capacity limit, Friis's formula for radio frequency signal propagation), modulation scheme, and multi-access  techniques.</td></tr><tr><td>2.</td><td>Analyze and design radio-frequency wireless circuit including low-noise amplifier, mixer, voltage-controlled oscillator, PLL, and power amplifier.</td></tr><tr><td>3.</td><td>Demonstrate capability to analyze and design RF circuits using state-of-the-art computer-aided design (CAD) software.</td></tr><tr><td>4.</td><td>Identity the device characteristics and circuit specifications that directly dictate the overall wireless system performance.</td></tr><tr><td>5.</td><td>Evaluate and optimize the performance of RF transistor and passive components including inductors and transformers.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1143)",
+        "Date & Time": "Fr 03:00PM - 05:50PM",
+        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Instructor": [
+          "YUE, Chik Patrick"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 19,
+        "Enrol": 0,
+        "Avail": 19,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 19,
+            "Enrol": 0,
+            "Avail": 19
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5460",
+    "name": "Stochastic Optimization for Wireless Systems and Federated-Learning",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Stochastic Optimization plays a critical role in radio resource optimization of wireless networks, optimal control theory as well as financial engineering (portfolio optimization). This course will focus on the stochastic optimization theory and the application to the design and optimization of next generation wireless systems and federated learning applications. Topics covered include (A) Physical Layer Modeling: review of information theory for wireless fading channels, MIMO spatial diversity and spatial multiplexing, (B) Theory of Stochastic Optimization: classifications and motivating examples of stochastic optimizations [Type I stochastic Optimization and Type II stochastic optimization problems], theory of Stochastic Approximation, Stochastic Gradient, (C) Applications of Type I SO: Robust optimizations and Federated Learning: (D) Applications of Type II SO: Markov Decision Process, Stochastic Stability and Delay-optimal wireless resource control.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Learn the basic theory of stochastic optimization.</td></tr><tr><td>2.</td><td>Learn the basic comm and information theory for the sake of modeling of the PHY.</td></tr><tr><td>3.</td><td>Learn the basic techniques of stochastic optimization formulation for comm-related problems.</td></tr><tr><td>4.</td><td>Learn the basic techniques of stochastic optimization algorithm designs.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1144)",
+        "Date & Time": "Tu 10:30AM - 01:20PM",
+        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Instructor": [
+          "LAU, Vincent Kin Nang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5470",
+    "name": "Convex Optimization",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "IEDA 5470",
+      "co-list with": "IEDA 5470",
+      "description": "Convex optimization theory with applications to communication systems and signal processing: convex sets/functions/problems; Lagrange duality and KKT conditions; saddle points and minimax problems; numerical algorithms; primal/dual decomposition methods. Applications: filter design; robust beamforming; power control in wireless systems; design of MIMO systems; GP duality in information theory; network utility maximization. For PG students in second year or above.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Learn the basic theory of convex optimization.</td></tr><tr><td>2.</td><td>Read a paper and understand the optimization component in a critical way.</td></tr><tr><td>3.</td><td>Learn fundamental optimization techniques such as majorization-minimization method, robust optimization, sparse optimization, low-rank optimization, SDP relaxation, and decomposition methods.</td></tr><tr><td>4.</td><td>Learn specific applications such as low-rank optimization for matrix completion, portfolio optimization, sparse regression in index tracking, SDP relaxation for maximum likelihood detection, graph learning from data, Internet as a convex optimization problem, support vector machine for classification, etc.</td></tr><tr><td>5.</td><td>Deal with a new problem using the learned optimization tools.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1145)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Rm 2127C, Lift 19 (28)",
+        "Instructor": [
+          "CAO, Xuanyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 0,
+        "Avail": 15,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 15,
+            "Enrol": 0,
+            "Avail": 15
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1145)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Rm 2127C, Lift 19 (28)",
+        "Instructor": [
+          "CAO, Xuanyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 0,
+        "Avail": 15,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 15,
+            "Enrol": 0,
+            "Avail": 15
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5510",
+    "name": "Switch Mode Power Converters",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "DC-DC conversion: topologies, continuous and discontinuous conduction modes, steady state analysis, loop gain analysis and relevant mathematical tools, stability and compensation; AC-DC conversion: power factor correctors.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Analyze and design the power stage of switch mode power converters.</td></tr><tr><td>2.</td><td>Analyze and design the feedback compensator of switch mode power converters.</td></tr><tr><td>3.</td><td>Apply and understand the limitation of averaging techniques in modeling a periodically switching system.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4138)",
+        "Date & Time": "Th 03:00PM - 05:50PM",
+        "Room": "Rm 2126A, Lift 19 (28)",
+        "Instructor": [
+          "KI, Wing Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 19,
+        "Enrol": 0,
+        "Avail": 19,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 19,
+            "Enrol": 0,
+            "Avail": 19
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5530",
+    "name": "Mixed-Signal Integrated Bio-Sensory Circuit Design",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "ELEC 6910C",
+      "description": "The course aims to systematically introduce major issues of mixed-signal circuit designs and their applications in bio-medical and sensory systems. The first half course is dedicated to mixed-signal IC design. The course starts with 2 review classes on OPAMP design, filter design and circuit noise. Then, the course covers topics on pipelined ADC, Sigma-delta ADC, and SAR ADC. The second half course is dedicated to sensory and bio-medical IC design. The topics include bio-potential detection, implants, DNA detection, CCD, CMOS imaging, and CT/SPECT.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate in-depth understanding of fundamental theories of advanced mixed-signal IC design, and their application to critical mixed-signal circuit blocks.</td></tr><tr><td>2.</td><td>Demonstrate understanding of the technological status of mixed-signal IC design field.</td></tr><tr><td>3.</td><td>Execute critical analysis of state-of-the-art mixed-signal IC designs.</td></tr><tr><td>4.</td><td>Develop skills of mixed-signal IC circuits design through practicing design projects in the course.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1147)",
+        "Date & Time": "Fr 06:00PM - 08:50PM",
+        "Room": "Rm 3494, Lift 25-26 (20)",
+        "Instructor": [
+          "YUAN, George Jie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5600",
+    "name": "Linear-System Theory",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Introduces modern system theory, with applications to control, signal processing and related topics.  Basic system concepts, state-space and I/O representation, properties of linear systems, controllability, observability, minimality, transfer-function matrices, state and output feedback, stability, observers, optimal regulators.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Get acquainted with advanced linear algebra applicable to a broad range of engineering problems.</td></tr><tr><td>2.</td><td>Get trained in rigorous mathematical reasoning.</td></tr><tr><td>3.</td><td>Learn the basic concepts and techniques of dynamical system theory.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1148)",
+        "Date & Time": "Mo 01:30PM - 04:20PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "QIU, Li"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5640",
+    "name": "Robot Manipulation",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "MECH 5561",
+      "co-list with": "MECH 5561",
+      "description": "Extensive introduction to robot manipulation theory from a geometric viewpoint. Rigid-body kinematics; spatial and body representation of rigid-body velocities; coordinate transformations; forward kinematics of open-chain manipulators; solution of inverse kinematics; robot workspaces; nonlinear decoupling control and force control.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand the fundamentals of robot kinematics and dynamics.</td></tr><tr><td>2.</td><td>Understand the basics of robotic planning and control.</td></tr><tr><td>3.</td><td>Implement robotic solutions on real robot platforms.</td></tr><tr><td>4.</td><td>Advance technical writing and presentation skills.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1149)",
+        "Date & Time": "Tu 06:30PM - 09:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "ZHANG, Fumin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5650",
+    "name": "Introduction to Networked Sensing, Estimation and Control",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "ELEC 6910E",
+      "description": "The course gives an introduction to the analysis and design of sensing, estimation and control systems in a networked setting. It consists of three parts: the first part introduces necessary background knowledge in communication networks, sensor networks, linear state estimation, MAP and ML estimators, Kalman filtering, and modern control theory; the second part focuses on analysis of network effect to remote state estimation and control; the third part presents some advanced topics including distributed state estimation and resource allocation through scheduling.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand critical issues in modern networked control applications.</td></tr><tr><td>2.</td><td>Distinguish the differences between MAP, ML, MMSE, and LMMSE estimators and know their respective application scenorios.</td></tr><tr><td>3.</td><td>Design a stabilizing controller for a linear Gaussian control systems using Kalman filter and LQR regulator.</td></tr><tr><td>4.</td><td>Quantify data packet drop rate and maximum delays which may lead to instability of a networked control system.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1150)",
+        "Date & Time": "Tu 06:30PM - 09:20PM",
+        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Instructor": [
+          "SHI, Ling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5660",
+    "name": "Introduction to Aerial Robotics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-3:3]",
+      "previous code": "ELEC 6910P",
+      "description": "This course gives a comprehensive introduction to aerial robots. The goal of this course is to expose students to relevant mathematical foundations and algorithms, and train them to develop real-time software modules for aerial robotic systems. Topics to be covered include rigid-body dynamics, system modeling, control, trajectory planning, sensor fusion, and vision-based state estimation. Students will complete a series of projects which combine into an aerial robot that is capable of vision-based autonomous indoor navigation.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize the history and development of aerial robotics.</td></tr><tr><td>2.</td><td>Explain fundamentals in rigid body dynamics and aerial robot modeling.</td></tr><tr><td>3.</td><td>Explain computer vision and state estimation techniques for aerial robots.</td></tr><tr><td>4.</td><td>Implement trajectory planning and feedback control methods for aerial robots.</td></tr><tr><td>5.</td><td>Implement real-time visual-inertial state estimators for aerial robots.</td></tr><tr><td>6.</td><td>Analyze performance of algorithm implementations, and improve performance in an iterative manner.</td></tr><tr><td>7.</td><td>Design and construct a complete autonomous aerial robot system under resource constraints.</td></tr><tr><td>8.</td><td>Debug and fix real-time robotics system.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1151)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "SHEN, Shaojie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1153)",
+        "Date & Time": "We 06:00PM - 08:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "SHEN, Shaojie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 0,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Rm. G01, G/F, Lo Ka Chung University Center"
+        ]
+      },
+      {
+        "Section": "LA2 (1155)",
+        "Date & Time": "Th 01:30PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "SHEN, Shaojie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 0,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Rm. G01, G/F, Lo Ka Chung University Center"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5680",
+    "name": "Advanced Deep Learning Architectures",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "COMP 5214",
+      "co-list with": "COMP 5214",
+      "previous code": "ELEC 6910T",
+      "description": "This course focuses on advanced deep learning architectures and their applications in various areas. Specifically, the topics include various deep neural network architectures with applications in computer vision, signal processing, graph analysis, and natural language processing. Different state-of-the-art neural network models will be introduced, including graph neural networks, normalizing flows, point cloud models, sparse convolutions,and neural architecture search. The students have the opportunities to implement deep learning models for some AI-related tasks such as visual perception, image processing and generation, graph processing, speech enhancement, sentiment classification, and novel view synthesis.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand a broad range of advanced deep learning models.</td></tr><tr><td>2.</td><td>Have in-depth knowledge of the differences and similarities of deep learning architectures in various areas.</td></tr><tr><td>3.</td><td>Apply learned deep learning models to solve a problem of interests with a written technical report and presentation.</td></tr><tr><td>4.</td><td>Write programs in Tensorflow or Pytorch to implement several given deep neural network architectures.</td></tr><tr><td>5.</td><td>Combine different neural network architectures to solve a problem.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1156)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "CHEN, Qifeng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5810",
+    "name": "Introduction to Bioinformatics Algorithms",
+    "units": 3,
+    "info": {
+      "attributes": "[BLD] Blended learning",
+      "vector": "[3-0-0:3]",
+      "description": "This is an introductory course on computational biology at the molecular level. It will cover basic biological knowledge, important biological questions, common data acquisition techniques, popular data analysis algorithms and their applications. The major content of this course is computation-oriented.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand the fundamentals of bioinformatics.</td></tr><tr><td>2.</td><td>Demonstrate mastery of, and critical understanding of, relevant scientific literature related to bioinformatics.</td></tr><tr><td>3.</td><td>Summarize the key points from related literature, make comparisons among different papers, and carry out insightful discussions.</td></tr></table>"
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1157)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "Rm 5620, Lift 31-32 (70)",
+        "Instructor": [
+          "YU, Weichuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a blended learning mode"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "5900",
+    "name": "Modern Engineering Research Methodologies",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "EESM 5770",
+      "description": "The course provides a high-level description of modern engineering research practices. It covers topics including research mentality, the scientific method, evaluating research topics, literature search, report writing, presenting data, publication, research management, research ethics and technology transfer.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the scientific method for doing research.</td></tr><tr><td>2.</td><td>Distinguish and categorize different types of researches.</td></tr><tr><td>3.</td><td>Evaluate the quality of research papers.</td></tr><tr><td>4.</td><td>Develop a research proposal independently.</td></tr><tr><td>5.</td><td>Identify different components in a published paper.</td></tr><tr><td>6.</td><td>Write a critical review of a research paper.</td></tr><tr><td>7.</td><td>Analyze the arguments concerning research ethics.</td></tr><tr><td>8.</td><td>Explain the process of technology transfer.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1158)",
+        "Date & Time": "Mo 09:00AM - 11:50AM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "CHAN, Mansun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "6900A",
+    "name": "Independent Study",
+    "units": 1,
+    "info": {
+      "vector": "[0-0-0:1]",
+      "previous code": "ELEC 690",
+      "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4234)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 3,
+        "Enrol": 3,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "6910D",
+    "name": "Electronic Design Automation for VLSI Design",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "The course introduces Electronic Design Automation (EDA) techniques for VLSI digital IC design. The modern RTL to GDS-II design flow and related tools will be explained in detail. Classical automated algorithms adopted in logic synthesis, floorplanning, placement, CTS, routing, etc. will be covered. Simulation and optimization techniques of key design objectives and constraints will be presented."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1159)",
+        "Date & Time": "Th 06:00PM - 08:50PM",
+        "Room": "Rm 2126D, Lift 19 (34)",
+        "Instructor": [
+          "XIE, Zhiyao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "6910E",
+    "name": "Compound Semiconductor Device Physics and Technologies",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "ELEC 4510",
+      "description": "This course covers the physics and technologies of compound semiconductor devices, stressing how differences from silicon enable unique applications in wireless communications, power switching, photovoltaics, and solid-state lighting. Electronic bandstructures will be used to develop band diagrams of complex heterostructures and nanostructures. Examples in electronic and photonic applications will be used to motivate the materials science of crystal growth, doping, and fabrication."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1160)",
+        "Date & Time": "Mo 09:00AM - 11:50AM",
+        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Instructor": [
+          "WONG, Man Hoi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "6950A",
+    "name": "Departmental Seminar",
+    "units": 0,
+    "info": {
+      "vector": "[1-0-0:0]",
+      "previous code": "ELEC 695A",
+      "description": "Series of seminar topics presented by students, faculty and guest speakers. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1162)",
+        "Date & Time": "Tu 01:30PM - 02:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "TU, Fengbin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 54,
+        "Enrol": 0,
+        "Avail": 54,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 54,
+            "Enrol": 0,
+            "Avail": 54
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "6950B",
+    "name": "Departmental Seminar",
+    "units": 0,
+    "info": {
+      "vector": "[1-0-0:0]",
+      "previous code": "ELEC 695B",
+      "description": "Series of seminar topics presented by students, faculty and guest speakers. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1163)",
+        "Date & Time": "Tu 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TU, Fengbin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 32,
+        "Enrol": 0,
+        "Avail": 32,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 32,
+            "Enrol": 0,
+            "Avail": 32
+          }
+        },
+        "Remarks": [
+          "Classes held in Room 2503"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Carry out Master's thesis research supervised by a faculty member.</td></tr><tr><td>2.</td><td>Defend the thesis research conducted by the Thesis Examination Committee.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1164)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 25,
+        "Avail": 75,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 100,
+            "Enrol": 25,
+            "Avail": 75
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Carry out original and independent doctoral thesis research.</td></tr><tr><td>2.</td><td>Defend the thesis research conducted by the Thesis Examination Committee.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1165)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 160,
+        "Enrol": 149,
+        "Avail": 11,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ECE": {
+            "Quota": 100,
+            "Enrol": 103,
+            "Avail": 0
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  }
+]

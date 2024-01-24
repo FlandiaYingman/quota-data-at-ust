@@ -1,0 +1,450 @@
+[
+  {
+    "program": "CIEM",
+    "code": "5160",
+    "name": "Construction Financial Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Estimate, tendering strategy, budgetary control, contract account, cash flow management, depreciation, taxation effects, annual reports, strategic management, benefit cost analysis, life cycle costing, value engineering.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the characteristics of the construction industry.</td></tr><tr><td>2.</td><td>Identify fundamental knowledge in construction project planning.</td></tr><tr><td>3.</td><td>Estimate construction costs.</td></tr><tr><td>4.</td><td>Control construction costs.</td></tr><tr><td>5.</td><td>Conduct cash flow analysis of construction projects.</td></tr><tr><td>6.</td><td>Analyze the financial and operational performance of a construction company.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1609)",
+        "Date & Time": "We 07:00PM - 09:50PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "ZHANG, Xueqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIEM": {
+            "Quota": 83,
+            "Enrol": 0,
+            "Avail": 83
+          },
+          "EVEM": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
+          "MCEE": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIEM",
+    "code": "5240",
+    "name": "Advanced Concrete Technology",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CIVL 5840",
+      "description": "Green concrete, concrete rheology and its tuning, concrete failure and fracture mechanics, durability of concrete under various environments, steel corrosion in concrete, non-destructive evaluation of concrete, concrete repair, special concretes (high strength, high stiffness, fiber reinforced, lightweight).",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the proper selection of concrete raw materials to enhance greenness.</td></tr><tr><td>2.</td><td>Identify factors affecting concrete rheology, failure and durability.</td></tr><tr><td>3.</td><td>Explain steel corrosion in concrete, including its control and inspection.</td></tr><tr><td>4.</td><td>Define non-destructive methods for concrete members.</td></tr><tr><td>5.</td><td>Explain repair methods and repair materials for concrete members.</td></tr><tr><td>6.</td><td>Analyze the design and application of various special concretes.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1610)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "LEUNG, Christopher Kin Ying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIEM": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIEM",
+    "code": "5320",
+    "name": "Computer Aided Design Optimization of Tall Buildings",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CIVL 5380 (prior to 2019-20)",
+      "description": "This course provides consolidated theoretical background and practical knowledge on the analysis, computer aided modeling and design optimization of modern tall building structures. Topics include behavior of different forms of tall building structures; finite element modeling and analysis; principles and practice of structural optimization for tall building design.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize the challenges of building taller structures and the development of modern structural systems for tall buildings.</td></tr><tr><td>2.</td><td>Define computer modelling principles and applications of finite element analysis for tall building structures.</td></tr><tr><td>3.</td><td>Describe advanced knowledge of numerical optimization methodology for structural design of tall buildings.</td></tr><tr><td>4.</td><td>Apply the state-of-the-art computer based techniques for engineering analysis and design optimization of real-life typical high-rise building projects.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1611)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 3207, Lift 21",
+        "Instructor": [
+          "CHAN, Chun Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIEM": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIEM",
+    "code": "5420",
+    "name": "Biological Waste Treatment and Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CIVL 5420, JEVE 5420",
+      "co-list with": "JEVE 5420",
+      "description": "Principles of secondary, biological treatment processes, including sewage sand filters, trickling filters, activated sludge plants, lagoons, ponds, rotating biological contactors, aerobic and anaerobic digesters, and biological nutrient removal. Management of waste treatment systems and works.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Define the fundamental and advanced knowledge of current solid wastes and wastewater treatment and disposal systems and their problems in Hong Kong and beyond.</td></tr><tr><td>2.</td><td>Identify key problems of water and wastewater treatment processes, and propose fundamental engineering and management solution.</td></tr><tr><td>3.</td><td>Professionally judge and assess the advantages and disadvantages of various sewage treatment technologies such as MEL, AGS, BABY, Anammox, etc.</td></tr><tr><td>4.</td><td>Select the treatment processes/technologies for meeting a more stringent discharge requirement for water pollution control with focus of tertiary treatment.</td></tr><tr><td>5.</td><td>Design basic treatment units and systems for municipal wastewater treatment.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1612)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "CHEN, Guanghao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIEM": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIEM",
+    "code": "5620",
+    "name": "Travel Demand Analysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CIVL 5620",
+      "description": "Overview of transportation planning process, population/employment forecasting techniques, discrete choice models, simplified transportation demand models.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Evaluate the advanced theories and methods of traffic and transportation engineering and transportation systems planning.</td></tr><tr><td>2.</td><td>Utilize mathematical or quantitative methods to model components of transportation system.</td></tr><tr><td>3.</td><td>Identify transportation system planning and management problems and propose feasible solutions.</td></tr><tr><td>4.</td><td>Apply key transportation planning principles to the analysis, modeling and operation of transportation system, including traffic impact analysis and transportation demand forecasting.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1613)",
+        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "YANG, Hai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIEM": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIEM",
+    "code": "5760",
+    "name": "Engineering Geology and Rock Mechanics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "CIEM 6000M",
+      "description": "The course provides fundamental knowledge in engineering geology and rock mechanics as applied to rock engineering design and practice. Topics include: major rock types, weathering process and local geological setting; mapping geologic structures and stereonet analysis; rock mass classification, stress-strain-strength properties of rock mass and joints; analysis and design methods for rock slopes, rock foundations and underground tunnels. A field trip will be arranged to visit Hong Kong GeoPark.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify local geological setting and geological process.</td></tr><tr><td>2.</td><td>Identify major rock types including weathered rock profiles.</td></tr><tr><td>3.</td><td>Map geologic structures and analyze discontinuities using stereonet.</td></tr><tr><td>4.</td><td>Classify rock mass.</td></tr><tr><td>5.</td><td>Describe stress-strain-strength behaviours of rock and joint.</td></tr><tr><td>6.</td><td>Analyze slope stability, underground opening and foundation in rocks.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1614)",
+        "Date & Time": "Tu 07:00PM - 09:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "WANG, Gang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIEM": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIEM",
+    "code": "5790",
+    "name": "Slope Engineering and Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "CIEM 6000B",
+      "description": "This course will introduce in detail the slope safety management system in Hong Kong, including its background, past development, as well as its key components, e.g. geotechnical control and landslide prevention and mitigation programme. The course will also cover basic knowledge on engineering geology, Hong Kong landslides, fundamentals and methods of slope stability assessment, slope stabilisation and landslide mitigation measures as well as the advanced subjects of quantitative risk assessments and use of novel technologies in landslide assessment.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize the background and past development of the slope safety management system in Hong Kong and describe the two key components of slope safety management system in Hong Kong, viz. (a) geotechnical control, and (b) landslide prevention and mitigation programme.</td></tr><tr><td>2.</td><td>Describe the geology of Hong Kong, common types of landslides in Hong Kong and their key causal factors.</td></tr><tr><td>3.</td><td>Analyze stability condition of slopes.</td></tr><tr><td>4.</td><td>Analyze mobility of landslide debris.</td></tr><tr><td>5.</td><td>Undertake design of common slope stabilisation works.</td></tr><tr><td>6.</td><td>Undertake design of common landslide mitigation works.</td></tr><tr><td>7.</td><td>Conduct quantitative risk assessment for use in slope safety management.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1615)",
+        "Date & Time": "Sa 02:30PM - 05:20PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "CHUNG, Wai Keung Philip",
+          "HO, Kin Sang Kenneth",
+          "LAW, Pak Hei",
+          "WONG, Chun Fai Jeffrey"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIEM": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIEM",
+    "code": "5810",
+    "name": "Engineering Risk, Reliability and Decision",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CIVL 5110",
+      "description": "Bayesian methods, reliability evaluation, system reliability, reliability-based design, probabilistic risk analysis, probabilistic observational methods, Monte Carlo Simulation, Fault and Event Tree models, elementary utility theory, decision with multiple objectives. Emphasis will be placed on applications. Practical examples will be used extensively to demonstrate application of these methods.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the fundamental knowledge in probability and statistics.</td></tr><tr><td>2.</td><td>Develop basic skill sets to perform probabilistic calculations with commercial toolboxes.</td></tr><tr><td>3.</td><td>Define the concepts of engineering risk assessment and decision making.</td></tr><tr><td>4.</td><td>Conduct useful analyses related to the subject, such as Monte Carlo Simulation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1616)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "LEUNG, Anthony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIEM": {
+            "Quota": 73,
+            "Enrol": 0,
+            "Avail": 73
+          },
+          "EVEM": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "IBTM": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
+          "MCEE": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIEM",
+    "code": "6000R",
+    "name": "Alternative Dispute Resolution (ADR): Law and Practice",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course provides a complete introduction to the subject of dispute resolution in construction and engineering including: the legal background to and foundation for contractual claims and disputes; standard forms and conditions of contract; the various modes of ADR; the nature of, practice and hearings before ADR tribunals; and the role of engineers serving as expert witnesses and adjudicators."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1617)",
+        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "MCINNIS, Duncan Arthur"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIEM": {
+            "Quota": 70,
+            "Enrol": 0,
+            "Avail": 70
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIEM",
+    "code": "6000T",
+    "name": "Seismic Analysis and Design of Structures",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "The purpose of this course is to introduce the fundamental, and indispensable for (professional) structural engineers, principles of seismic analysis and design of structures. The course also provides students with an understanding of the basic concepts and methods adopted by most contemporary seismic design codes worldwide. To this end, it briefly presents elements of seismology, earthquake engineering and structural dynamics. The course focuses on applications and includes multiple practical examples with the use of finite element software."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1618)",
+        "Date & Time": "We 07:00PM - 09:50PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "DIMITRAKOPOULOS, Ilias"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIEM": {
+            "Quota": 70,
+            "Enrol": 0,
+            "Avail": 70
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIEM",
+    "code": "6000U",
+    "name": "Climate, Weather, and Water",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course delves deep into the intricate relationships between climate systems, weather patterns, and water resources. The curriculum is thoughtfully structured to instill a comprehensive understanding of water-related processes within the Earth's environmental system. It covers five central topics: climate systems, water resources, engineering design, data science applications in water sustainability, and the potential of artificial intelligence. By exploring these areas, students will grasp the interconnectedness of these components and learn how to utilize this knowledge in the development of strategic solutions for climate change adaptation and environmental sustainability. This course equips students with the ability to tackle complex water resources challenges emerging from shifting climatic conditions, using a data-driven approach and innovative AI technologies. The ultimate aim is to prepare students to contribute effectively towards achieving water sustainability in our changing world. The course assessment is based on three key components: active participation in class discussions, in-class written Quizzes, detailed presentations on assigned topics, and comprehensive reports on relevant subject matter. This comprehensive approach ensures that students are engaged, articulate, and able to critically analyze and apply the concepts learned throughout the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1619)",
+        "Date & Time": "Tu 07:00PM - 09:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "LU, Mengqian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIEM": {
+            "Quota": 70,
+            "Enrol": 0,
+            "Avail": 70
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIEM",
+    "code": "6980",
+    "name": "MSc Project",
+    "units": 6,
+    "info": {
+      "vector": "[6 credits]",
+      "description": "An independent project carried out under the supervision of a faculty member.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop and apply self-learning and task management skills to effectively manage an independent project.</td></tr><tr><td>2.</td><td>Critically analyze a selected topic to identify, formulate and solve problems and apply solutions to practical implementations.</td></tr><tr><td>3.</td><td>Communicate effectively in writing, using accurate technical and scientific terminology, and demonstrating logical organization of relevant content and information.</td></tr><tr><td>4.</td><td>Communicate effectively in oral presentation, demonstrating logical organization of relevant content and information, using appropriate style, pacing and body language, proper handling of questions, and effective time management.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4312)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 190,
+        "Enrol": 149,
+        "Avail": 41,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

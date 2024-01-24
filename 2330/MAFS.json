@@ -1,0 +1,238 @@
+[
+  {
+    "program": "MAFS",
+    "code": "5040",
+    "name": "Quantitative Methods for Fixed-Income Instruments",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "MATH 5520",
+      "description": "Bonds and bond yields. Bond markets. Bond portfolio management. Fixed-income derivatives markets. Term structure models and Heath-Jarrow-Morton framework for arbitrage pricing. Short-rate models and lattice tree implementations. LIBOR Market models. Hedging. Bermudan swaptions and Monte Carlo methods. Convexity adjustments. Mortgage-backed securities. Asset-backed securities. Collateralized debt obligations.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the operation of fixed-income markets and the roles of the fixed-income derivative.</td></tr><tr><td>2.</td><td>Apply major mathematical tools for fixed-income modeling.</td></tr><tr><td>3.</td><td>Formulate major classes of fixed-income models and apply them for fixed-income pricing and risk management.</td></tr><tr><td>4.</td><td>Evaluate the effectiveness of popular models for different sectors of derivatives.</td></tr><tr><td>5.</td><td>Analyze exotic derivatives and choose pricing models.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1434)",
+        "Date & Time": "Tu 07:30PM - 10:20PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "WU, Lixin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(MAFM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MAFS",
+    "code": "5130",
+    "name": "Quantitative Analysis of Financial Time Series",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "MSBD 5006, MSDM 5053",
+      "co-list with": "MSBD 5006",
+      "description": "Analysis of asset returns: autocorrelation, predictability and prediction. Volatility models: GARCH-type models, long range dependence. High frequency data analysis: transactions data, duration. Markov switching and threshold models. Multivariate time series: cointegration models and vector GARCH models.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize market indexes, financial time series and their features.</td></tr><tr><td>2.</td><td>Recognize the foundation of time series and basic time series models.</td></tr><tr><td>3.</td><td>Formulate time series models to study financial data, including market returns and volatility.</td></tr><tr><td>4.</td><td>Evaluate the relationships of different markets via the cointegration time series and ECM models.</td></tr><tr><td>5.</td><td>Analyze the real financial data with the statistical techniques from this course via a course project.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1435)",
+        "Date & Time": "We 07:30PM - 10:20PM",
+        "Room": "Rm 2407, Lift 17-18 (126)",
+        "Instructor": [
+          "LING, Shiqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 0,
+        "Avail": 120,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(MAFM) students only.",
+          "MAFS 5130 is not co-listing with MSBD 5006 in Spring 2023-24"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MAFS",
+    "code": "5210",
+    "name": "Mathematical Models of Investment",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Utility theory, stochastic dominance.  Portfolio analysis: mean-variance approach, one-fund and two-fund theorems.  Capital asset pricing models.  Arbitrage pricing theory.  Consumption-investment problems.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply investment models in financial applications.</td></tr><tr><td>2.</td><td>Formulate quantitative investment with Mean-Variance Optimization and Black-Litterman models.</td></tr><tr><td>3.</td><td>Analyze equity valuation using asset pricing models.</td></tr><tr><td>4.</td><td>Evaluate the effectiveness of investment strategies.</td></tr><tr><td>5.</td><td>Design and implement asset management strategies and structured solutions.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1436)",
+        "Date & Time": "04-FEB-2024 - 24-MAR-2024<br>Su 09:30AM - 12:20PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "WU, Shanle"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 0,
+        "Avail": 120,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(MAFM) students only."
+        ]
+      },
+      {
+        "Section": "L1 (1436)",
+        "Date & Time": "07-APR-2024 - 05-MAY-2024<br>Su 09:30AM - 12:20PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "WU, Shanle"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 0,
+        "Avail": 120,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(MAFM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MAFS",
+    "code": "5330",
+    "name": "Structured Products: Analysis and Pricing",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "MAFS 6010N",
+      "description": "Structured solutions including payoff design / packaging / distribution / pricing / hedging / funding; The popular structures in practice across the asset classes (Equity, Funds, FX, Interest Rate, Credit and Commodities); The customized index business based on factors, portfolio theory and other trading models with up-to-date industry practices; Computational methods for derivatives and structured products, including lattice tree methods, finite difference approach for PDE, multi-dimensional and American Monte Carlo simulation.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design computer algorithms for pricing structured derivatives.</td></tr><tr><td>2.</td><td>Devise and compute hedging strategies for monitoring risks in derivatives.</td></tr><tr><td>3.</td><td>Construct numerical algorithms for performing model calibration in pricing models of financial derivatives.</td></tr><tr><td>4.</td><td>Provide solution using structural derivatives in wealth management.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1437)",
+        "Date & Time": "Sa 06:30PM - 09:20PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "GUO, Yves Zhiyi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 0,
+        "Avail": 120,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(MAFM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MAFS",
+    "code": "5340",
+    "name": "Machine Learning and Its Applications",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "MAFS 6010S",
+      "description": "This course is designed for those who are interested in learning from data. It emphasizes the seamless integration of models and algorithms for real applications. Topics include linear methods for regression and classification, tree-based methods, kernel methods, expectation and maximization algorithm, variational auto-encoder, and generative adversarial networks. This course aims to make connections among these topics rather than treating them separately, laying a solid foundation for machine learning and its applications.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe and explain machine learning methods.</td></tr><tr><td>2.</td><td>Conduct data analysis with computer programming languages such as R and/or Python.</td></tr><tr><td>3.</td><td>Analyze problems with real industry data (such as trading data).</td></tr><tr><td>4.</td><td>Interpret the data analysis results.</td></tr><tr><td>5.</td><td>Derive machine learning algorithms.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1438)",
+        "Date & Time": "Th 07:30PM - 10:20PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "YANG, Can"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 0,
+        "Avail": 120,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(MAFM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MAFS",
+    "code": "5370",
+    "name": "Reinforcement Learning with Financial Applications",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "MAFS 6010Y",
+      "description": "With the application of artificial intelligence (AI) growing rapidly in finance industries and related sectors, this course introduces the use of reinforcement learning techniques in financial applications. Topics include finite action space and finite state space problem, classical RL algorithms, Q learning, policy gradient methods, and deep Q learning.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply mathematical theories to derive models of reinforcement learning in finance applications.</td></tr><tr><td>2.</td><td>Apply programming techniques in implementing the reinforcement learning models.</td></tr><tr><td>3.</td><td>Analyze problems with real industry data (such as trading data).</td></tr><tr><td>4.</td><td>Draw meaningful implications to capture market behaviors in trading.</td></tr><tr><td>5.</td><td>Conduct independent research to handle the complexities in real-world trading applications.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1439)",
+        "Date & Time": "Sa 02:30PM - 05:20PM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "WONG, Chak Kei Jack"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 0,
+        "Avail": 120,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(MAFM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MAFS",
+    "code": "6000",
+    "name": "Capstone Project in Financial Mathematics",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "previous code": "MAFS 6010Q",
+      "description": "In this course, financial firms will be invited to offer projects covering a broad range of essential topics for the training of professionals in quantitative finance. The capstone projects involve a combination of quantitative skills (e.g., mathematical models, statistical analysis, machine learning techniques, etc.) and emerging technologies adopted in the field of financial mathematics. Students will be working in a group of 2 to 4 to complete a project. The normal duration of a project is one regular term.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop and evaluate quantitative models/strategies for emerging financial technologies.</td></tr><tr><td>2.</td><td>Perform effective scenario simulations using statistical techniques in financial mathematics.</td></tr><tr><td>3.</td><td>Program and develop applications for analysis of financial data and design numerical methods for calibration of model parameters from market data.</td></tr><tr><td>4.</td><td>Analyze problems from finance in quantitative terms and develop strategies for effective solution of the problems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1440)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEN, Kani"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(MAFM) students only.",
+          "Students should seek the instructor's approval to take this course.",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

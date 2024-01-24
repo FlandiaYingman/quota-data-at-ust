@@ -1,0 +1,329 @@
+[
+  {
+    "program": "BEHI",
+    "code": "5003",
+    "name": "Molecular and Cellular Bioengineering",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course will introduce the fundamentals in the molecular and cellular bases of life from an engineering perspective. Topics include analysis and engineering of biomolecular structure and dynamics, enzyme function, molecular interactions, metabolic pathways, signal transduction, synthetic biology, and cellular mechanics, etc. The lectures will be complemented by tutorials in protein engineering, AAV preparation, bioinformatics and machine learning, and structure visualization.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe and be familiar with biomolecular terminologies, molecules, cellular mechanisms, and networks.</td></tr><tr><td>2.</td><td>Perform quantitative analysis in biological systems using a programming language (MATLAB, R, Python, etc.).</td></tr><tr><td>3.</td><td>Apply modern-day machine learning tools for biomolecules (protein, virus) prediction and design.</td></tr><tr><td>4.</td><td>Analyze and critique literature in related research areas and write professional report in the style of a journal article.</td></tr><tr><td>5.</td><td>Apply problem solving and experimental thought processes in a wide range of settings.</td></tr><tr><td>6.</td><td>Communicate scientific knowledge via oral presentation and written reports.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1603)",
+        "Date & Time": "Th 06:00PM - 08:50PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "ZHU, Bonnie Danqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BEHI": {
+            "Quota": 55,
+            "Enrol": 0,
+            "Avail": 55
+          },
+          "MCEE": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BEHI",
+    "code": "5006",
+    "name": "Synthetic Biology",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "BIEN 5070",
+      "description": "Synthetic biology, which echoes the assertion “What I cannot create, I do not understand” made by Richard Feynman, has been hailed as a revolution for modern science and technology. Unfledged as it is, the field, arising from the synergistic combination of chemistry, biology, engineering, data science, and information/control theory, has already shown great promise in addressing energy and health-related global challenges. This course aims to expose students with diverse backgrounds to this highly interdisciplinary field and furnish them with necessary guidance and ideas for taking on synthetic biology projects.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the basic technical concepts, scientific and engineering principles in synthetic biology.</td></tr><tr><td>2.</td><td>Describe the ramifications of synthetic biology for real-world problems.</td></tr><tr><td>3.</td><td>Analyze the impacts of synthetic biology on other research areas such as materials science, developmental biology, and regenerative medicine.</td></tr><tr><td>4.</td><td>Identify the key elements contributing to synthetic biology.</td></tr><tr><td>5.</td><td>Recognize, evaluate, and criticize research topics in synthetic biology.</td></tr><tr><td>6.</td><td>Communicate technical ideas more effectively.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1604)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "LAI, Yong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BEHI": {
+            "Quota": 55,
+            "Enrol": 0,
+            "Avail": 55
+          },
+          "MCEE": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BEHI",
+    "code": "5007",
+    "name": "Genomics, Proteomics and Metabolomics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course will introduce the theory and practice of omics technologies for the high-throughput characterization of complex mixtures of biomolecules, including DNAs, RNAs, proteins and metabolites. Applications of omics approaches in life science research and clinical practice will also be covered.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the basic principles of information flow in biology, and the molecular basis of biological information.</td></tr><tr><td>2.</td><td>Describe the working principles behind high-throughput technologies for nucleic acid sequencing.</td></tr><tr><td>3.</td><td>Describe the working principles of biological mass spectrometry for the high-throughput identification and quantification of proteins and metabolites.</td></tr><tr><td>4.</td><td>Discuss the benefits and challenges of various omics analysis, and evaluate the applicability of each technology to a particular biological problem.</td></tr><tr><td>5.</td><td>Analyze and interpret data generated from omics experiments with sound statistical principles.</td></tr><tr><td>6.</td><td>Formulate experimental strategies for leveraging omics technologies to address biological questions, and to design omics experiments with appropriate controls and quality control measures.</td></tr><tr><td>7.</td><td>Develop an appreciation of omics technologies’ impact on life science research and clinical practice, as well as the possibilities of the future.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1605)",
+        "Date & Time": "Fr 06:00PM - 08:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "CHEUNG, Tom",
+          "LAM, Henry Hei Ning",
+          "WU, Angela Ruohao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BEHI": {
+            "Quota": 55,
+            "Enrol": 0,
+            "Avail": 55
+          },
+          "MCEE": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BEHI",
+    "code": "5008",
+    "name": "Pharmaceutical Engineering",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "CBME 5900, CBME 6000B",
+      "description": "This course aims to equip students with broad knowledge in pharmaceutical engineering. The topics span from early drug discovery to late commercial manufacturing. Theory and practice of the chemical synthesis and the manufacture of active pharmaceutical ingredients (APIs), solid-state characterization of APIs, and formulation of various pharmaceutical dosage forms are covered. The course also introduces students to some of the main challenges in current pharmaceutical research and development related to selected topics such as continuous manufacturing and advanced process analytical technologies.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain key mechanisms for drug action, measurement, and administration routes.</td></tr><tr><td>2.</td><td>Explain the SELECT criteria for commercial API synthesis and workup.</td></tr><tr><td>3.</td><td>Classify and identify different solid forms of APIs and explain their importance for the manufacture and product quality of drugs.</td></tr><tr><td>4.</td><td>Design and analyze pharmaceutical crystallization processes and workup steps.</td></tr><tr><td>5.</td><td>Describe several key trends of innovation in the pharmaceutical industry.</td></tr><tr><td>6.</td><td>Synthesize and explain the formulation of various liquid-dosage forms.</td></tr><tr><td>7.</td><td>Synthesize and explain formulations of oral solid-dosage forms and design a process sequence for tablet manufacturing.</td></tr><tr><td>8.</td><td>Synthesize and explain the main formulation strategies and the manufacture of controlled-release formulations.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1606)",
+        "Date & Time": "Tu 06:00PM - 08:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "LAKERVELD, Richard"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BEHI": {
+            "Quota": 55,
+            "Enrol": 0,
+            "Avail": 55
+          },
+          "MCEE": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BEHI",
+    "code": "5010",
+    "name": "Advanced Biochemical Engineering",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "MCEE 5610",
+      "co-list with": "MCEE 5610",
+      "previous code": "CBME 5610",
+      "description": "The course will cover the advanced concepts of bioprocessing, including fermentation, bioreactor design, and product recovery. It will explore the production of bioenergy from renewable sources, such as biomass, biogas, and biofuels. Students will gain an understanding of the technical, economic, and environmental aspects of bioproducts and bioenergy production.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the principles of bioprocess engineering and bioenergy production.</td></tr><tr><td>2.</td><td>Explain how microorganisms and biochemical processes can be applied for various bioproducts and bioenergy.</td></tr><tr><td>3.</td><td>Select, compare or design a reactor, fermentation processes or bioseparations used for various products, based on cost, safety, operability, etc.</td></tr><tr><td>4.</td><td>Evaluate the production and potential of bioenergy from economic and environmental aspects.</td></tr><tr><td>5.</td><td>Communicate biochemical engineering concepts through the use of engineering media, verbally and in writing.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4225)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BEHI": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "Venue: Room 2306"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "BEHI",
+    "code": "6000A",
+    "name": "Deep Learning for Chemical and Biological Engineering",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Artificial Intelligence has revolutionized many fields in science. Deep learning methods have been proved powerful in approximating highly complex patterns from masses amount of data. In recent years, increasing interest has been drawn to the application of deep learning methods in chemical and biological engineering problems, including molecular and reaction property prediction, drug discovery, protein structure prediction, model predictive control, etc. Deep learning is viewed as an essential skill for the next generation of chemical engineers and as a promising solution to many challenges in chemistry, biology, energy and health. This course introduces the basic concepts and methods in deep learning, including deep neural networks, backpropagation, convolutional and recurrent neural networks, generative models, with a focus on their applications in the problems mentioned above. At the end of this course, students will be able to apply these methods to solve real-world problems in industry or academic research."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1607)",
+        "Date & Time": "Mo 06:00PM - 08:50PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "GAO, Hanyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BEHI": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "Co-list with MCEE 6000C"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "BEHI",
+    "code": "6101A",
+    "name": "Independent Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "An independent research project carried out under the supervision of a faculty member. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4309)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "BEHI",
+    "code": "6101B",
+    "name": "Independent Project",
+    "units": 6,
+    "info": {
+      "vector": "[6 credits]",
+      "description": "An independent research project carried out under the supervision of a faculty member. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4310)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 30,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "BEHI",
+    "code": "6102B",
+    "name": "Integrated Design Project",
+    "units": 6,
+    "info": {
+      "vector": "[6 credits]",
+      "description": "A design project on a topic in the realm of biomolecular engineering and/or health informatics carried out as a team effort under the supervision of a faculty member. It focuses on design thinking and getting hands-on experience with the engineering design process in a broad sense, and aims to accommodate students with more industry-oriented interests. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4311)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 2,
+        "Enrol": 2,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

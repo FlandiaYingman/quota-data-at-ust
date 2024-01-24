@@ -1,0 +1,372 @@
+[
+  {
+    "program": "SCIE",
+    "code": "1000",
+    "name": "Science School Induction",
+    "units": 0,
+    "info": {
+      "description": "This is a one-year course designed for year 1 science students. It provides induction activities to help students adapt to university life, and to understand the program structure of the school and the meaning of university education. Led by faculties, staffs, and peers, students will learn and practice skills such as teamwork, communication, time management, and goal setting. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (4085)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 1,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "SCIE",
+    "code": "1090D",
+    "name": "Community Services Project: Underwater Robot Community Engagement Project",
+    "units": 2,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "alternate code(s)": "ENGG 2900D, SBMT 2100H",
+      "description": "This Project course gives HKUST undergraduate students the opportunity to work in teams from different schools, to serve identified community group (i.e. primary and secondary school students/South Asian youths etc.), to understand limitations on the served groups and to learn how to apply theoretical knowledge on the building of under-water robots. Throughout the project, HKUST undergraduate students will act as teachers by transferring their skills of under-water robot building to primary and secondary school students and/or South Asian youths. HKUST undergraduate students will also learn the skills of event management throughout the project. Approval from the course coordinator is needed prior to enrolling in the course. Graded PP, P or F."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (4086)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Pak Wo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a experiential learning mode",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "SCIE",
+    "code": "1102",
+    "name": "Designing Your Life for Science Students",
+    "units": 1,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "description": "Originated from Stanford University’s Life Design Lab (Bill Burnett and Dave Evans), this course employs a method called “design thinking” to help students from any program develop a constructive and effective approach to finding and designing their vocation after university. Through small group discussions, in-class activities, personal reflections and individual coaching, this course teaches students to use design thinking to explore many of life’s major challenges, such as pursuing careers they love and finding personal fulfillment. Topics include the integration of work and worldviews, ideation techniques, a portfolio approach to thriving, designing to increase balance and energy and how to prototype all aspects of your life. We also touch on the realities of engaging the workplace, and practices that support vocation formation throughout your life. The capstone assignment is the creation of an “Odyssey Plan” focusing on taking actions in the 3-5 years following your HKUST graduation. For Science students only. Graded P or F."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (4087)",
+        "Date & Time": "Fr 09:30AM - 11:20AM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "SIU, Wai Sze Grace"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a experiential learning mode"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "SCIE",
+    "code": "1120",
+    "name": "Chemistry and Life",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SSC-S&T) for 36-credit program<br>Common Core (S) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "exclusion": "Any 2000-level or above courses in CHEM, LIFS, CENG, BIEN",
+      "description": "The course aims to introduce students without an extensive science background into the chemistry of life and in life as well as some elementary units and mechanisms of life shaped by core chemical molecules and other compounds. Co-taught by lecturers from chemistry and life science, respectively, approximately one half of the course deals with an introduction into the chemical universe that makes life possible; simple sugars and complex carbohydrates, amino acids, peptides and proteins, DNA, RNA and lipids. Interactions and laws governing these substances and ways we can observe what they are doing are covered. The other half of the course is about how these compounds are involved in some of the basic mechanisms of life; from the functions and evolution of membranes to cells all the way up to humans and other organisms; areas covered include genetics and genomics, diseases, food and health, and biotechnology."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (4088)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Lecture Theater J (300)",
+        "Instructor": [
+          "NAGL, Stefan",
+          "ZHU, Guang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 0,
+        "Avail": 150,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "SCIE",
+    "code": "1500",
+    "name": "Guided Study on Research I",
+    "units": 1,
+    "info": {
+      "description": "Studies under the directed guidance of a faculty member on a life science / chemistry / environmental science / mathematics / physics topic which serves as the first step in exploring and being exposed to knowledge of different disciplines and fields to build a foundation of interdisciplinary knowledge. An individual general written report and/or presentations of exploratory nature on self-discovery of future directions of research and/or various disciplines by young scientists are required. For IRE students only. Non-IRE students may enroll in the course upon instructor's approval only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4089)",
+        "Date & Time": "Tu 06:00PM - 07:50PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "LEUNG, Pak Wo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 15,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "SCIE",
+    "code": "2500",
+    "name": "Guided Study on Research II",
+    "units": 1,
+    "info": {
+      "pre-requisite": "SCIE 1500",
+      "description": "Studies under the directed supervision of a faculty member on a life science / chemistry / environmental science / mathematics / physics topic which serves as the first step in equipping the students with hands-on experience in supervised independent study. An individual written report and/or presentations on a chosen topic are required. For IRE students only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4090)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Pak Wo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 23,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "SCIE",
+    "code": "3110",
+    "name": "Teaching Science Using Innovative Teaching Tools",
+    "units": 3,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "pre-requisite": "Level 4 or above in HKDSE (1x Physics OR 1x Chemistry OR Mathematics M1/M2 )",
+      "description": "This course presents a unique opportunity for students to experience the process of preparing learning activities in contrast to being taught. The experiential program will provide a preview to potential students who wish to pursue a teaching career. Students will develop teaching tools for secondary school students under the guidance of instructors. They will participate in organizing a science camp in which they will deliver their teaching tools through innovative learning activities such as analyzing movie clips using the knowledge of science. The experiential course also serves to strengthen students' concepts in science, and improves their organization and presentation skills which are important in future success. Instructor's consent is required for enrollment."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (4091)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "KU, Yin Bon",
+          "LAM, Ka Sin Cindy",
+          "NG, Yee Fai",
+          "SHEONG, Frederick Fu Kit"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 0,
+        "Avail": 24,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CHEM": {
+            "Quota": 6,
+            "Enrol": 0,
+            "Avail": 6
+          },
+          "MATH": {
+            "Quota": 6,
+            "Enrol": 0,
+            "Avail": 6
+          },
+          "OCES": {
+            "Quota": 6,
+            "Enrol": 0,
+            "Avail": 6
+          },
+          "PHYS": {
+            "Quota": 6,
+            "Enrol": 0,
+            "Avail": 6
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a experiential learning mode",
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "T1 (4093)",
+        "Date & Time": "Sa 09:00AM - 11:50AM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "KU, Yin Bon",
+          "LAM, Ka Sin Cindy",
+          "NG, Yee Fai",
+          "SHEONG, Frederick Fu Kit"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 0,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "LA1 (4092)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "KU, Yin Bon",
+          "LAM, Ka Sin Cindy",
+          "NG, Yee Fai",
+          "SHEONG, Frederick Fu Kit"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 0,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "SCIE",
+    "code": "3500",
+    "name": "IRE Research Project I",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(for IRE students in LIFS, MATH, PHYS and OST) SCIE 2500; (for IRE students in CHEM) SCIE 2500 AND CHEM 3550",
+      "co-requisite": "(for IRE students in LIFS) LIFS 3110",
+      "description": "This course is a one-term research project course specially designed for students in the IRE track. Together with SCIE 4500, these two courses comprise of two terms of research experience on a non-textbook specialized topic under the supervision of a faculty member, aiming to equip students with hands-on laboratory experience or independent studies and doing research reports. The course also aims at training  students’  research  communication  and collaboration skills through discussion on their research topics and presentation of findings to peers and faculty members in different disciplines / areas of research. For IRE students only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4094)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Pak Wo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 3,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "SCIE",
+    "code": "3900",
+    "name": "International Research Experience",
+    "units": 3,
+    "info": {
+      "pre-requisite": "SCIE 1500 AND (SCIE 3500 OR PHYS 3090)",
+      "co-requisite": "LANG 3027",
+      "description": "Research project under the direct supervision of a local faculty member and a co-supervising foreign faculty member in a foreign institution/national laboratory, which aims to guide students to explore advanced cutting-edge research opportunities with international visions and hands-on experience. Assessments comprise an individual written report and a presentation on a chosen topic. For IRE students only. Graded DI, PA or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4095)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Pak Wo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 3,
+        "Enrol": 0,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "SCIE",
+    "code": "4500",
+    "name": "IRE Research Project II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "SCIE 3500",
+      "description": "This course is a one-term research project course specially designed for students in the IRE track. Together with SCIE 3500, these two courses comprise of two terms of research experience on a non-textbook specialized topic under the supervision of a faculty member, aiming to equip students with hands-on laboratory experience or independent studies and doing research reports. The course also aims at training students’ research communication and collaboration skills through discussion on their research topics and presentation of findings to peers and faculty members in different disciplines / areas of research. For IRE students only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4096)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Pak Wo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

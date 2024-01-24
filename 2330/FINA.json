@@ -1,0 +1,3890 @@
+[
+  {
+    "program": "FINA",
+    "code": "1303",
+    "name": "Introduction to Financial Markets and Institutions",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (SA) for 36-credit program<br>Common Core (SA) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "exclusion": "FINA 3103, CORE 1330",
+      "description": "A broad introduction to financial institutions and financial markets, providing students with an understanding of how financial systems work, the functions of various financial institutions and the role of financial regulation."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2450)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "LAFON-VINAIS, Veronique J A"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "2203",
+    "name": "Fundamentals of Business Finance",
+    "units": 3,
+    "info": {
+      "exclusion": "FINA 2303",
+      "description": "For BIBU and non-SB&M students. This course provides an introduction to corporate finance for students who may not have background in accounting and business statistics. Topics include financial statement analysis, time value of money, bond and stock valuation, capital budgeting, risk and return concepts and cost of capital."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2451)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "PI, Lynn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 28,
+        "Avail": 42,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM (minor)": {
+            "Quota": 25,
+            "Enrol": 0,
+            "Avail": 25
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2452)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "PI, Lynn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 29,
+        "Avail": 41,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM (minor)": {
+            "Quota": 25,
+            "Enrol": 0,
+            "Avail": 25
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "2303",
+    "name": "Financial Management",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ACCT 2010 AND (CIVL 2160 OR IEDA 2520 OR IEDA 2540 OR ISOM 2500 OR LIFS 3150 OR MATH 2411)",
+      "exclusion": "FINA 2203",
+      "description": "For SB&M students only. This course provides an introduction to corporate finance. Topics include time value of money, bond and stock valuation, capital budgeting, risk and return concepts and cost of capital."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2453)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "MACKAY, Peter"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 64,
+        "Avail": 6,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 70,
+            "Enrol": 64,
+            "Avail": 6
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2454)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "MACKAY, Peter"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 64,
+        "Avail": 6,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 70,
+            "Enrol": 64,
+            "Avail": 6
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (2455)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "MACKAY, Peter"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 64,
+        "Avail": 6,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 70,
+            "Enrol": 64,
+            "Avail": 6
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L4 (2456)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "MACKAY, Peter"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 64,
+        "Avail": 6,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 70,
+            "Enrol": 64,
+            "Avail": 6
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L5 (2457)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 1010, LSK Bldg (80)",
+        "Instructor": [
+          "MACKAY, Peter"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 63,
+        "Avail": 7,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 70,
+            "Enrol": 63,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L6 (2458)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "XIONG, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 63,
+        "Avail": 7,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 70,
+            "Enrol": 63,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L7 (2459)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "XIONG, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 63,
+        "Avail": 7,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 70,
+            "Enrol": 63,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "3001",
+    "name": "Key Skills for Finance Professionals (A)",
+    "units": 1,
+    "info": {
+      "pre-requisite": "FINA 2303",
+      "description": "The course aims to develop students' competitive edge so they are well prepared for their internships and future careers. Graded P, PP, or F. For students with major in FINA only. Students are required to complete the course within four regular terms."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2460)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "PI, Lynn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 400,
+        "Enrol": 292,
+        "Avail": 108,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 400,
+            "Enrol": 292,
+            "Avail": 108
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "3103",
+    "name": "Intermediate Investments",
+    "units": 3,
+    "info": {
+      "pre-requisite": "FINA 2203 or FINA 2303",
+      "description": "This course studies the concepts and evidence relevant to the management of investment portfolios. Topics include diversification, asset allocation, portfolio optimization, factor models, the relation between risk and return, trading, passive (e.g., index-fund) and active (e.g., hedge-fund, long-short) strategies, mutual funds, performance evaluation, long-horizon investing and simulation."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2461)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "BHATTACHARYA, Utpal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 37,
+        "Avail": 23,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 1,
+            "Enrol": 1,
+            "Avail": 0
+          },
+          "FINA": {
+            "Quota": 59,
+            "Enrol": 36,
+            "Avail": 23
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2462)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "BHATTACHARYA, Utpal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 38,
+        "Avail": 22,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 38,
+            "Avail": 22
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (2463)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "NOH, Don"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 38,
+        "Avail": 22,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 21,
+            "Enrol": 21,
+            "Avail": 0
+          },
+          "ECON": {
+            "Quota": 7,
+            "Enrol": 7,
+            "Avail": 0
+          },
+          "FINA": {
+            "Quota": 32,
+            "Enrol": 10,
+            "Avail": 22
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L4 (2464)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "NOH, Don"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 36,
+        "Avail": 24,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 3,
+            "Enrol": 3,
+            "Avail": 0
+          },
+          "ECON": {
+            "Quota": 31,
+            "Enrol": 31,
+            "Avail": 0
+          },
+          "FINA": {
+            "Quota": 26,
+            "Enrol": 2,
+            "Avail": 24
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "3203",
+    "name": "Derivative Securities",
+    "units": 3,
+    "info": {
+      "pre-requisite": "FINA 2203 OR FINA 2303",
+      "description": "This course covers options, forward contracts, futures contracts and swaps. By the end of this course, students will have a good knowledge of how derivative contracts work, how they are used and how they are priced."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2465)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "JI, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 34,
+        "Avail": 26,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 34,
+            "Avail": 26
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2466)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "JI, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 34,
+        "Avail": 26,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 34,
+            "Avail": 26
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (2467)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "TIAN, Di"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 32,
+        "Avail": 28,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 32,
+            "Avail": 28
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L4 (2468)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "TIAN, Di"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 34,
+        "Avail": 26,
+        "Wait": 0,
+        "QuotaDetail": {
+          "SBM": {
+            "Quota": 29,
+            "Enrol": 29,
+            "Avail": 0
+          },
+          "FINA": {
+            "Quota": 31,
+            "Enrol": 5,
+            "Avail": 26
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L5 (2469)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 1005, LSK Bldg (70)",
+        "Instructor": [
+          "CHIU, Chun Wah Andrew"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 34,
+        "Avail": 26,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 34,
+            "Avail": 26
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "3303",
+    "name": "Intermediate Corporate Finance",
+    "units": 3,
+    "info": {
+      "pre-requisite": "FINA 2203 OR FINA 2303",
+      "description": "The course provides an in-depth treatment of long-term financing decisions, including estimation of the cost of capital, financial leverage, corporate distress, raising financing, dividend policy, and working capital analysis."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2470)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "XIONG, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "3810",
+    "name": "Bloomberg Market Concepts Certification",
+    "units": 0,
+    "info": {
+      "description": "The course aims to provide students with knowledge of financial markets and Bloomberg functionality. The course consists of four modules: economic indicators, currencies, fixed income and equities. Students will need to complete all four modules to receive the Bloomberg Market Concepts certification. Graded P or F. For students with major in FINA, QFIN and SGFN only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (2471)",
+        "Date & Time": "Tu 12:00PM - 12:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LO, George"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 160,
+        "Enrol": 127,
+        "Avail": 33,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 135,
+            "Enrol": 102,
+            "Avail": 33
+          },
+          "SBM": {
+            "Quota": 25,
+            "Enrol": 25,
+            "Avail": 0
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "3820",
+    "name": "Refinitiv Certification Program",
+    "units": 0,
+    "info": {
+      "pre-requisite": "FINA 2303",
+      "description": "This course will enable students to learn more about market information and the functionality of a Refinitiv data product most commonly used by financial professionals. It begins with the first module of basic overview and is followed by four core modules on data, screen design, graphics, analysis tools of various instruments, which includes one module of data retrieval in Excel. Students will be eligible in attending the Refinitiv Certification Assessment upon completion of the course. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (2472)",
+        "Date & Time": "Mo 09:30AM - 10:20AM",
+        "Room": "G010, LSK Bldg",
+        "Instructor": [
+          "LO, George"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 0,
+        "Avail": 35,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 35,
+            "Enrol": 0,
+            "Avail": 35
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "4203",
+    "name": "Mergers, Acquisitions, and Corporate Restructuring",
+    "units": 3,
+    "info": {
+      "pre-requisite": "FINA 3303",
+      "description": "This course analyzes mechanisms underlying the creation of value in mergers, acquisitions and corporate restructuring. Students will learn analytical techniques and tools to analyze (a) strategy behind corporate restructuring transactions, whether and what to acquire, (b) evaluation and financing of acquisitions, and (c) decisions and processes that impact value creation in mergers."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2473)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "NASH, John"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "4403",
+    "name": "International Finance",
+    "units": 3,
+    "info": {
+      "pre-requisite": "FINA 3103",
+      "description": "An introduction to the fundamental principles of international financial management and investment.  Topics include: international financial markets and instruments; foreign exchange markets; foreign currency derivatives and currency risk; international capital budgeting; international bond and equity markets."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2474)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "WANG, Xiaoliang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2475)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "WANG, Xiaoliang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "4423",
+    "name": "Family Office",
+    "units": 3,
+    "info": {
+      "pre-requisite": "FINA 2203 OR FINA 2303",
+      "previous code": "FINA 4929P",
+      "description": "This course provides students with a comprehensive and most up-to-date understanding of family office, as well as insiders’ view and practical aspects of family office. For university students who are about to graduate and are interested in entering into family office related sectors, having an in-depth understanding of family office will definitely help them better prepared for the future."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2476)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 1005, LSK Bldg (70)",
+        "Instructor": [
+          "PENG, Qian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "4503",
+    "name": "Banking and Financial Intermediation",
+    "units": 3,
+    "info": {
+      "pre-requisite": "FINA 2203 OR FINA 2303",
+      "description": "This course examines financial intermediaries with a particular emphasis on banks. It introduces students to the nature, purpose, and management of these institutions. The course also brings together the upstream issues in risk measurement and the regulative environment surrounding banks. By the end of this course, students will be able to understand the role of banks in the economy and the effects of frictions such as information asymmetry and agency costs on bank behavior. The course will start with the review of basic game theory."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2477)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "G012, LSK Bldg (199)",
+        "Instructor": [
+          "OKAT, Deniz"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "4603",
+    "name": "Venture Capital Financing",
+    "units": 3,
+    "info": {
+      "pre-requisite": "FINA 3303",
+      "description": "This course covers the application of financial tools and techniques to the funding and valuation of an entrepreneurial venture. The course seeks to provide students with a background on the venture capital industry, the economic intuition underlying its features, and the basic tools required to work in the industry."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2478)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "NASH, John"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2479)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "NASH, John"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "4723",
+    "name": "Responsible Finance",
+    "units": 3,
+    "info": {
+      "pre-requisite": "FINA 2203 OR FINA 2303",
+      "previous code": "FINA 4929Q",
+      "description": "This course is designed to give students a thorough overview of responsible finance and ESG. The first part covers fundamental topics related to ESG. The second part focuses more on project and firm valuation with an ESG perspective. It also covers financial models that will allow one to understand how to incorporate ESG factors in financial decisions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2480)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 1014, LSK Bldg (80)",
+        "Instructor": [
+          "YEGEN, Eyub"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "4803",
+    "name": "Quantitative Trading",
+    "units": 3,
+    "info": {
+      "exclusion": "FINA 4810, FINA 4814",
+      "description": "For QFIN students in their fourth year of study only. This is a capstone course for final year students in the BSc Quantitative Finance program. Working in groups, the students will bring together all the knowledge learned in the program to develop and execute a quantitative trading strategy through a simulated platform. The instructor will guide the students through the following stages: (1) idea generation, (2) strategy backtesting, (3) risk management planning, (4) system development, (5) trade execution, and (6) performance evaluation. Students will also have the opportunity to develop their leadership and presentation skills."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2481)",
+        "Date & Time": "We 09:00AM - 11:50AM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "CHIU, Chun Wah Andrew"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 36,
+        "Avail": 29,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 65,
+            "Enrol": 36,
+            "Avail": 29
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5110",
+    "name": "Central Bank Operations",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "previous code": "FINA 6910F",
+      "description": "This course is designed for students who intend to work in the finance industry as economists or strategists (e.g. rates strategist), both on the sell-side or the buy-side. This course starts from the fundamentals of central banks, particularly the balance sheet and relates it to central bank operations and the money creation process. The course will the deep dive the Federal Reserve, covering both traditional and non-conventional policy tools. By incorporating macroeconomic diagnostics, students are encouraged to put themselves in the shoes of policymakers and predict policy decisions. This course will also study the monetary policy transmission mechanism and the link between financial and real sectors. In addition, this course links policy decisions to the pricing of assets, such as rates. The core principle of this course is “Learning by Doing”: students will be given a plenty of opportunities to conduct data analysis to study the monetary policy impact to financial markets and real economy.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Execute Federal Open Market Committee (FOMC) cycle and policy communications.</td></tr><tr><td>2.</td><td>Recognize the changing market structure of the Treasury securities.</td></tr><tr><td>3.</td><td>Evaluate how stock market react to the FOMC announcement and macroeconomic news.</td></tr><tr><td>4.</td><td>Use Federal Funds Futures, Eurodollar Futures to predict interest rates.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1257)",
+        "Date & Time": "06-APR-2024 - 25-MAY-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Rm 1003, LSK Bldg (70)",
+        "Instructor": [
+          "JIN, Shuang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5120",
+    "name": "Corporate Finance",
+    "units": 2,
+    "info": {
+      "attributes": "[BLD] Blended learning",
+      "vector": "[2-0-0:2]",
+      "exclusion": "IMBA 5070",
+      "description": "Valuation of cash flow streams (PV of cash flow streams, annuities, and perpetuities); valuation of bonds; valuation of stocks using dividend discount model; capital budgeting decisions (NPV, IRR, payback); capital structure; limits to the use of debt (trade-off models); estimation of cost of debt and equity; WACC; terminal value.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify and analyze the objective of the firm.</td></tr><tr><td>2.</td><td>Apply the concept of time value of money and discounting cash flows to situations when the cash flows and the discount rate is known.</td></tr><tr><td>3.</td><td>Analyze the pros and cons of the common methods used in firms to evaluate and pick investment projects, and explain why the net present value (NPV) rule is the only one that is consistent with maximizing firm value.</td></tr><tr><td>4.</td><td>Define the principles for identifying the cash flows that need to be discounted to calculate the NPV of a project.</td></tr><tr><td>5.</td><td>Calculate the weighed average cost of capital and apply this to a real company.</td></tr><tr><td>6.</td><td>Apply the above tools to cases that involve deciding whether to take a project and to merger decisions.</td></tr></table>"
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1256)",
+        "Date & Time": "06-APR-2024 - 06-APR-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 65,
+            "Enrol": 60,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1256)",
+        "Date & Time": "06-APR-2024 - 06-APR-2024<br>Sa 02:30PM - 05:50PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 65,
+            "Enrol": 60,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1256)",
+        "Date & Time": "20-APR-2024 - 20-APR-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 65,
+            "Enrol": 60,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1256)",
+        "Date & Time": "20-APR-2024 - 20-APR-2024<br>Sa 02:30PM - 05:50PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 65,
+            "Enrol": 60,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1256)",
+        "Date & Time": "11-MAY-2024 - 11-MAY-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 65,
+            "Enrol": 60,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1256)",
+        "Date & Time": "11-MAY-2024 - 11-MAY-2024<br>Sa 02:30PM - 05:50PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 65,
+            "Enrol": 60,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1256)",
+        "Date & Time": "25-MAY-2024 - 25-MAY-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 65,
+            "Enrol": 60,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1256)",
+        "Date & Time": "25-MAY-2024 - 25-MAY-2024<br>Sa 02:30PM - 05:50PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 65,
+            "Enrol": 60,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For MBA(Bi-weekly) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1235)",
+        "Date & Time": "03-FEB-2024 - 03-FEB-2024<br>Sa 09:00AM - 12:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 66,
+        "Enrol": 66,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 66,
+            "Enrol": 66,
+            "Avail": 0
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For PT-MBA Year 1 students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1235)",
+        "Date & Time": "17-FEB-2024 - 30-MAR-2024<br>Sa 09:00AM - 12:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 66,
+        "Enrol": 66,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 66,
+            "Enrol": 66,
+            "Avail": 0
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For PT-MBA Year 1 students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L3 (1229)",
+        "Date & Time": "01-FEB-2024 - 14-MAR-2024<br>Th 09:30AM - 12:50PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 57,
+        "Enrol": 55,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For MSc(GO) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L3 (1229)",
+        "Date & Time": "21-MAR-2024 - 21-MAR-2024<br>Th 02:00PM - 05:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 57,
+        "Enrol": 55,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For MSc(GO) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L4 (1230)",
+        "Date & Time": "01-FEB-2024 - 21-MAR-2024<br>Th 02:00PM - 05:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 56,
+        "Enrol": 53,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a conventional face-to-face mode",
+          "For MSc(GO) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5190",
+    "name": "Family Business",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "This course is tailored for individuals who are currently working in or are contemplating to work in a family business, either as a family member or a non-family executive. The material covered also gives greater understanding of the dynamics of family business for current or future private and investment bankers, family office professionals, accountants, lawyers and other service professionals working closely with families of wealth in the region.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Summarize the fundamentals of family business including its definition, importance, complexity, and how it differs from non-family business.</td></tr><tr><td>2.</td><td>Analyze the factors contributing to the longevity of family businesses, and the causes for the potential early demise, especially for ethnic Chinese family businesses.</td></tr><tr><td>3.</td><td>Design suitable wealth management strategies, structure and governance systems for wealth creators to preserve family wealth, family legacy, and harmony across generations.</td></tr><tr><td>4.</td><td>Prepare future leaders of family businesses.</td></tr><tr><td>5.</td><td>Identify the similarities of and differences between Chinese family businesses and those from other ethnic groups around the world.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1221)",
+        "Date & Time": "31-JAN-2024 - 20-MAR-2024<br>We 02:00PM - 05:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "PENG, Qian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 22,
+        "Avail": 38,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 55,
+            "Enrol": 22,
+            "Avail": 33
+          },
+          "MBA": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "For MSc(FA); MSc(IM); MSc(FINA); FT-MBA and PT-MBA students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5210",
+    "name": "Investment Analysis",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "An introduction to fundamental concepts in investment analysis. The first part covers risk and return tradeoff, portfolio diversification, and modern portfolio theory including the capital asset pricing model and arbitrage pricing theory. The second part covers basic analytical tools used in analyzing fixed income securities. Topics include interest rates and yield curve mathematics, duration and convexity.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply Utility theory in finance, identifying the risk-return tradeoff, and derive the ‘correct’ price for financial assets using models such as the CAPM.</td></tr><tr><td>2.</td><td>Practically apply CAPM and other models (e.g. Fama-French 3 factor model) in Excel-based applications.</td></tr><tr><td>3.</td><td>Explain efficient markets, behavioral finance, and some trading strategies based on perceived violations of efficient market theory.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1236)",
+        "Date & Time": "03-FEB-2024 - 03-FEB-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "YU, Jialin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 1,
+        "Avail": 49,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
+          "MBA Bi-weekly": {
+            "Quota": 15,
+            "Enrol": 0,
+            "Avail": 15
+          },
+          "Digital MBA": {
+            "Quota": 30,
+            "Enrol": 1,
+            "Avail": 29
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a real-time online mode",
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly) and Digital MBA Year 2 or above students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1236)",
+        "Date & Time": "17-FEB-2024 - 30-MAR-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "YU, Jialin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 1,
+        "Avail": 49,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
+          "MBA Bi-weekly": {
+            "Quota": 15,
+            "Enrol": 0,
+            "Avail": 15
+          },
+          "Digital MBA": {
+            "Quota": 30,
+            "Enrol": 1,
+            "Avail": 29
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a real-time online mode",
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly) and Digital MBA Year 2 or above students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1255)",
+        "Date & Time": "03-APR-2024 - 10-APR-2024<br>We 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "YU, Jialin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 59,
+        "Enrol": 0,
+        "Avail": 59,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "Digital MBA": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "MBA": {
+            "Quota": 55,
+            "Enrol": 0,
+            "Avail": 55
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1255)",
+        "Date & Time": "24-APR-2024 - 29-MAY-2024<br>We 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "YU, Jialin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 59,
+        "Enrol": 0,
+        "Avail": 59,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "Digital MBA": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "MBA": {
+            "Quota": 55,
+            "Enrol": 0,
+            "Avail": 55
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA and MBA Exchange students only",
+          "Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5270",
+    "name": "Portfolio Management with Fintech Applications",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120",
+      "previous code": "FINA 6900Y",
+      "description": "This course will focus on the key dimensions of Portfolio Management with FinTech Applications, and will give a predominant place to Artificial Intelligence, as a way to process and leverage the “Big Data” and automate the Portfolio and Wealth Management processes. The course will begin by a brief review of the fundamentals of Portfolio Management, FinTech and Artificial Intelligence and the advances in technology and data that has led the industry to where it is today. It will then delve into the Asset Management and Wealth Management value chains through a series of applications that enable students the critical skills they need to operate as expert actors in FinTech. The course will also expose students to the existing FinTech landscape and ecosystem within the portfolio management industry and will also touch upon on how Artificial Intelligence augments humans to make them better portfolio and wealth managers.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the fundamentals of portfolio management with FinTech applications.</td></tr><tr><td>2.</td><td>Recognize the FinTech landscape within the Portfolio Management space.</td></tr><tr><td>3.</td><td>Use Artificial Intelligence in Portfolio Management to solve applied Business Problems.</td></tr><tr><td>4.</td><td>Present the future trends that are coming to Portfolio Management.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1254)",
+        "Date & Time": "02-APR-2024 - 21-MAY-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "HUANG, Seth"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(FinTech) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5280",
+    "name": "Smart Applications of Distributed Ledger Technology",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "previous code": "FINA 6910B",
+      "description": "Blockchain and Distributed Ledger Technology (DLT) are growing in use. This course covers the fundamental concept, design and implementation of the distributed ledgers and blockchain technologies in FinTech, InsurTech and other business areas. The characteristics and properties, as well as misconceptions, of blockchains will be discussed.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand what is Distributed Ledger Technology (DLT) / Blockchain that supports the disruptive business strategies/models in banking and finance.</td></tr><tr><td>2.</td><td>Explore and critically examine the deployment of any one or more of the DLTs, i.e. Blockchain, Ethereum, Hyperledger, R3 Corda and Stella in different environments.</td></tr><tr><td>3.</td><td>Design the FinTech/InsurTech/RegTech business using BIDT and LoNG PESTEL model.</td></tr><tr><td>4.</td><td>Analyze the socio-economic impact in the deployment of DLT instead of the traditional model.</td></tr><tr><td>5.</td><td>Acquire the fundamental and practical knowledge to be entrepreneur or project management in the FinTech and Innovation industry.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1251)",
+        "Date & Time": "28-MAR-2024 - 28-MAR-2024<br>Th 06:00PM - 09:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "CHAN, Hilton Kwok Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1251)",
+        "Date & Time": "11-APR-2024 - 16-MAY-2024<br>Th 06:00PM - 09:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "CHAN, Hilton Kwok Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1251)",
+        "Date & Time": "21-MAY-2024 - 21-MAY-2024<br>Tu 06:00PM - 09:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "CHAN, Hilton Kwok Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5330",
+    "name": "Investment and Finance in China and Asia",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "This course provides a practical understanding of foreign investment in China and Asia, and how financing is used for trade and investment in the region. Students will be able to develop ability to successfully complete deals in China and other Asian markets through taking this course.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>To compare different kinds of financial structures in the Chinese and Asian contexts.</td></tr><tr><td>2.</td><td>To analyze new situations to identify which techniques and contextual factors are the most critical.</td></tr><tr><td>3.</td><td>To design and implement strategies using financial techniques in order to structure, negotiate and close deals in a variety of Chinese and Asian contexts.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1215)",
+        "Date & Time": "29-JAN-2024 - 05-FEB-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "FRANKLIN, Laurence Craig"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 49,
+        "Enrol": 0,
+        "Avail": 49,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "Digital MBA": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "MBA": {
+            "Quota": 45,
+            "Enrol": 0,
+            "Avail": 45
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA Year 2 or above and MBA Exchange students only",
+          "Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1215)",
+        "Date & Time": "19-FEB-2024 - 25-MAR-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "FRANKLIN, Laurence Craig"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 49,
+        "Enrol": 0,
+        "Avail": 49,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA Bi-weekly": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "Digital MBA": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "MBA": {
+            "Quota": 45,
+            "Enrol": 0,
+            "Avail": 45
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA Year 2 or above and MBA Exchange students only",
+          "Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5370",
+    "name": "Equity Valuation",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120",
+      "exclusion": "FINA 5350 (prior to 2023-24)",
+      "description": "Basic valuation approaches including dividend discount model, free cash flows model, and valuation by multiples; measures of company performance and value added; valuation in special situations such as emerging markets, closely held companies, mergers, and divestitures.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Use standard equity valuation models, like discounted cash flow (DCF) , to assess the value of a firm or a project.</td></tr><tr><td>2.</td><td>Understand the value driving factors, for example, management team, market monopolistic power, and technological barrier, from the angle of a private equity manager.</td></tr><tr><td>3.</td><td>Understand the difference in the equity pricing/valuation practice between the western world and the Greater China region.</td></tr><tr><td>4.</td><td>Use certain models to detect the potential frauds in financial statements.</td></tr><tr><td>5.</td><td>Use real options in assessing the value of firm or project when facing high uncertainty.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1247)",
+        "Date & Time": "26-MAR-2024 - 07-MAY-2024<br>Tu 02:00PM - 05:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1247)",
+        "Date & Time": "14-MAY-2024 - 14-MAY-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1248)",
+        "Date & Time": "26-MAR-2024 - 14-MAY-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "SAENYASIRI, Ekkachai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 30,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 30,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5390",
+    "name": "Venture Capital and Private Equity",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120",
+      "description": "Topics include: (1) An overview of the venture capital and private equity markets in Asia; (2) Deal structuring; (3) Valuation techniques; (4) Due diligence and post-investment management; (5) Understanding the terms in term sheets; (6) Negotiating term sheets; (7) Going public, trade sale and other exit strategies.  Real-world examples from throughout Asia will be used to illustrate these topics.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the world of VCPE investments.</td></tr><tr><td>2.</td><td>Analyze challenges associated with each cycle of the VCPE process from pre-investment to post-investment.</td></tr><tr><td>3.</td><td>Implement VCPE key screening criteria to identify and screen prospective investee companies.</td></tr><tr><td>4.</td><td>Develop skills and understanding necessary to perform VCPE due diligence for prospective investee firms.</td></tr><tr><td>5.</td><td>Evaluate term sheet structure, key terms and understand their limitations and challenges.</td></tr><tr><td>6.</td><td>Apply VCPE fund governance, management, and return measures in practice.</td></tr><tr><td>7.</td><td>Apply valuation techniques to value private firms, including market, income, and asset-based approaches.</td></tr><tr><td>8.</td><td>Describe practical limitations of various valuation techniques and the importance of understanding assumptions of the underlying business valuations.</td></tr><tr><td>9.</td><td>Administer the highly practical approach to mitigating, adjusting VCPE risks.</td></tr><tr><td>10.</td><td>Draft investment memo to address investment rationale, risks, and rewards in practice.</td></tr><tr><td>11.</td><td>Evaluate routes of VCPE exits, including trade sale, secondary buyout, IPO, among others.</td></tr><tr><td>12.</td><td>“Experience” the realm of being a VCPE professional by engaging in a “hackathon” way of negotiation between the buyer (VCPE) and the seller (investee firm) that aims to mimic the real world environment.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1232)",
+        "Date & Time": "02-FEB-2024 - 02-FEB-2024<br>Fr 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LAI, Marvin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 29,
+        "Avail": 31,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 29,
+            "Avail": 31
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 12-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1232)",
+        "Date & Time": "16-FEB-2024 - 22-MAR-2024<br>Fr 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LAI, Marvin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 29,
+        "Avail": 31,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 29,
+            "Avail": 31
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 12-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1232)",
+        "Date & Time": "05-APR-2024 - 05-APR-2024<br>Fr 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LAI, Marvin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 29,
+        "Avail": 31,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 29,
+            "Avail": 31
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 12-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1243)",
+        "Date & Time": "05-FEB-2024 - 05-FEB-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LAI, Marvin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 28,
+        "Avail": 32,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 28,
+            "Avail": 32
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 12-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1243)",
+        "Date & Time": "19-FEB-2024 - 25-MAR-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LAI, Marvin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 28,
+        "Avail": 32,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 28,
+            "Avail": 32
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 12-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1243)",
+        "Date & Time": "05-APR-2024 - 05-APR-2024<br>Fr 07:00PM - 10:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "LAI, Marvin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 28,
+        "Avail": 32,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 28,
+            "Avail": 32
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 12-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L3 (1253)",
+        "Date & Time": "01-APR-2024 - 08-APR-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "FRANKLIN, Laurence Craig"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA and MBA Exchange students only",
+          "Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L3 (1253)",
+        "Date & Time": "22-APR-2024 - 27-MAY-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "FRANKLIN, Laurence Craig"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MBA": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA and MBA Exchange students only",
+          "Venue : B-School Central, 15/F, HK Club Bldg, 3A Charter Rd, Central",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5410",
+    "name": "Market Microstructure",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5210",
+      "description": "The course is designed to provide students with an overview of how supply equals demand in real-world financial markets. After taking this course , students would be able to appreciate the frictions existing in actual financial markets - bid-ask spreads, trade impact on price, brokerage commissions, quantity limitations, time delays, market manipulation, etc. - and be able to devise trading strategies that minimize these frictions.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Broaden and deepen their understanding of finance, explain how financial markets actually work and minimize trading costs when they trade for themselves or their employers.</td></tr><tr><td>2.</td><td>Apply practical skills to explain real-time quotes and analyze the costs of trading.</td></tr><tr><td>3.</td><td>Demonstrate effective communication in oral English through group presentations.</td></tr><tr><td>4.</td><td>Develop creative and critical thinking through the group project of developing their original trading strategy or analysis of a brewing trading controversy.</td></tr><tr><td>5.</td><td>Work effectively in multi-cultural settings.</td></tr><tr><td>6.</td><td>Recognize ethical and professional responsibility of finance professionals; in particular through the discussions of the dark side of trading.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1258)",
+        "Date & Time": "06-APR-2024 - 25-MAY-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Rm 1001, LSK Bldg (70)",
+        "Instructor": [
+          "BHATTACHARYA, Utpal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 34,
+        "Avail": 26,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 34,
+            "Avail": 26
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5440",
+    "name": "Risk Management for Financial Institutions",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120 or FINA 5210",
+      "description": "Brief overview of financial intermediaries and their functions.  Measures of interest rate risk: periodic (re-pricing) gap, duration gap.  Management of interest rate risk using appropriate composition of assets and liabilities, futures, options, caps, floors, collars, swaps.  Market risk: value at risk measures.  Management of credit risk, off-balance sheet risk, liquidity risk, capital adequacy.  Deposit insurance.  With selected case studies.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand how a bank organizes itself to manage different types of risks.</td></tr><tr><td>2.</td><td>Critically review structures and proposals to identify key risks and think about potential mitigants.</td></tr><tr><td>3.</td><td>Understand the latest concepts in risk management.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1240)",
+        "Date & Time": "03-FEB-2024 - 23-MAR-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "YOO, Hyek"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1240)",
+        "Date & Time": "02-MAR-2024 - 02-MAR-2024<br>Sa 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "YOO, Hyek"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5450",
+    "name": "Hedge Funds",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120 or FINA 5210",
+      "description": "Alternative investments are the fastest growing sector of the financial industry, and probably the least understood, including by several market professionals.  Although the range of sophistication in people associated with alternative investments varies substantially, it is more and more common to use them in investment strategies, either as direct investments or through funds of funds or structured products.  The purpose of this course is to give participants a good understanding and workable knowledge of the techniques that should be part of the tool kit of anyone investing in, analyzing and/or advising private and institutional clients on the inclusion of alternative investments - and more specifically hedge funds - in their portfolios.  Furthermore, this course will enable the participants to absorb the analytical arguments in the technical publications - the in-house research notes of financial institutions and in practitioner oriented journal - that deal with alternative investments and to apply them.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand what hedge funds are and how they are structured.</td></tr><tr><td>2.</td><td>Understand the major hedge fund strategies, their potential risks and expected rewards.</td></tr><tr><td>3.</td><td>Understand how to analyze hedge funds qualitatively and quantitatively.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1216)",
+        "Date & Time": "29-JAN-2024 - 05-FEB-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "LHABITANT, Francois-Serge"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1216)",
+        "Date & Time": "19-FEB-2024 - 18-MAR-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "LHABITANT, Francois-Serge"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1216)",
+        "Date & Time": "22-MAR-2024 - 22-MAR-2024<br>Fr 07:00PM - 10:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "LHABITANT, Francois-Serge"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1231)",
+        "Date & Time": "01-FEB-2024 - 21-MAR-2024<br>Th 09:30AM - 12:50PM",
+        "Room": "Rm 2001, LSK Bldg",
+        "Instructor": [
+          "LHABITANT, Francois-Serge"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 29,
+        "Avail": 31,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 29,
+            "Avail": 31
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1231)",
+        "Date & Time": "22-MAR-2024 - 22-MAR-2024<br>Fr 07:00PM - 10:20PM",
+        "Room": "Rm 2001, LSK Bldg",
+        "Instructor": [
+          "LHABITANT, Francois-Serge"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 29,
+        "Avail": 31,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 29,
+            "Avail": 31
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L3 (1233)",
+        "Date & Time": "02-FEB-2024 - 09-FEB-2024<br>Fr 09:30AM - 12:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LHABITANT, Francois-Serge"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 38,
+        "Avail": 22,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 38,
+            "Avail": 22
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L3 (1233)",
+        "Date & Time": "19-FEB-2024 - 19-FEB-2024<br>Mo 09:30AM - 12:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LHABITANT, Francois-Serge"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 38,
+        "Avail": 22,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 38,
+            "Avail": 22
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L3 (1233)",
+        "Date & Time": "23-FEB-2024 - 22-MAR-2024<br>Fr 09:30AM - 12:50PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LHABITANT, Francois-Serge"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 38,
+        "Avail": 22,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ACCT": {
+            "Quota": 60,
+            "Enrol": 38,
+            "Avail": 22
+          }
+        },
+        "Remarks": [
+          "For MSc(ACCT) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5470",
+    "name": "Mergers, Acquisitions and Restructuring",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120",
+      "description": "Focuses on the design, analysis, and implementation of financial strategies aimed at repositioning and revitalizing companies.  Corporate value creation by restructuring a company or by undergoing a business combination.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Measure the value created by M&A/Restructuring.</td></tr><tr><td>2.</td><td>Evaluate the tactics and the effect of management opposition to M&A.</td></tr><tr><td>3.</td><td>Understand the role of Private Equity, activists/raiders in corporate restructuring.</td></tr><tr><td>4.</td><td>Implement merger arbitrage tactics.</td></tr><tr><td>5.</td><td>Understand the role of corporate governance in M&A/Restructuring decisions.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1222)",
+        "Date & Time": "31-JAN-2024 - 20-MAR-2024<br>We 07:00PM - 10:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "ROSENFELD, Ahron"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 55,
+            "Enrol": 39,
+            "Avail": 16
+          },
+          "MBA": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "For MSc(FA); MSc(IM); MSc(FINA); FT-MBA and PT-MBA students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1234)",
+        "Date & Time": "02-FEB-2024 - 15-MAR-2024<br>Fr 09:30AM - 12:50PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "ROSENFELD, Ahron"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 31,
+        "Avail": 29,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 31,
+            "Avail": 29
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1234)",
+        "Date & Time": "20-MAR-2024 - 20-MAR-2024<br>We 07:00PM - 10:20PM",
+        "Room": "Rm 2001, LSK Bldg",
+        "Instructor": [
+          "ROSENFELD, Ahron"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 31,
+        "Avail": 29,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 31,
+            "Avail": 29
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5480",
+    "name": "Commodities, Trade Finance and Infrastructures",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120 AND FINA 5290",
+      "previous code": "FINA 6900V",
+      "description": "This course will focus on three alternative \"asset classes\", namely commodities, trade finance and infrastructures. The purpose of this course is to give participants a good understanding and workable knowledge of the techniques that should be part of the toolkit of anyone investing in, trading, hedging, analyzing and/or advising private and institutional clients on these three alternative asset classes. Furthermore, this course will enable the participants to absorb the analytical arguments in the technical publications – the in-house research notes of financial institutions and in practitioner oriented journals – that deal with commodities and their markets, and to apply them.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify and explain the types and nature of commodities in general, their pricing mechanisms and the methods by which these commodities are traded.</td></tr><tr><td>2.</td><td>Implement commodity trades and size them appropriately.</td></tr><tr><td>3.</td><td>Explain the contractual principles underpinning trade finance.</td></tr><tr><td>4.</td><td>Describe and explain infrastructure investing.</td></tr><tr><td>5.</td><td>Present a research topic about these alternative investments.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1228)",
+        "Date & Time": "01-FEB-2024 - 08-FEB-2024<br>Th 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LHABITANT, Francois-Serge"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 38,
+        "Avail": 22,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 38,
+            "Avail": 22
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1228)",
+        "Date & Time": "17-FEB-2024 - 17-FEB-2024<br>Sa 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LHABITANT, Francois-Serge"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 38,
+        "Avail": 22,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 38,
+            "Avail": 22
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1228)",
+        "Date & Time": "22-FEB-2024 - 21-MAR-2024<br>Th 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LHABITANT, Francois-Serge"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 38,
+        "Avail": 22,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 38,
+            "Avail": 22
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5490",
+    "name": "Advanced Venture Capital Investing",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5210 AND FINA 5290",
+      "previous code": "FINA 6910D",
+      "description": "This course is a follow-up of FINA 5390 Venture Capital and Private Equity, with a particular focus on early-stage venture companies. Students will be able to experience and practice all the learned materials, particularly those related to the venture capital (VC) endeavors, in real-world VC settings. Students will “invest” alongside VC practitioners as well as being guided by them on various topics such as screening prospective investee companies in a live pitch session and drafting and compiling due diligence lists, term sheets, the required closing documentations, and valuation assessments, in addition to presenting early-read memos to industry professionals (e.g., members of the investment committee (IC)) for deal approvals, among other topics. The professor will frequently relate concepts discussed in class to transactions currently in the news to illustrate their application and limitations.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Use venture capital (VC) investing fundamentals in the real world.</td></tr><tr><td>2.</td><td>Interact with investee companies.</td></tr><tr><td>3.</td><td>Select investee companies and enhance themselves using advanced evaluation matrices.</td></tr><tr><td>4.</td><td>Generate due diligence list and explain the rationale behind it.</td></tr><tr><td>5.</td><td>Conduct due diligence on investee companies and explain how Investment Committee (IC) members approve investment deals.</td></tr><tr><td>6.</td><td>Value investee companies using methods recommended by International Private Equity Valuation\r\nGuidelines (IPEVG), including option pricing.</td></tr><tr><td>7.</td><td>Negotiate term sheets and explore deal structures with investee companies.</td></tr><tr><td>8.</td><td>Close deals (or not) with investee companies, draft closing reports, and conduct post-deal analyses.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1261)",
+        "Date & Time": "13-APR-2024 - 05-MAY-2024<br>SaSu 02:00PM - 05:20PM",
+        "Room": "Rm 1003, LSK Bldg (70)",
+        "Instructor": [
+          "LAI, Marvin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 25,
+        "Avail": 35,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 25,
+            "Avail": 35
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 14-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5500",
+    "name": "VC Entrepreneurships",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120",
+      "previous code": "FINA 6910E",
+      "description": "This course will cover how the Venture Capital (VC) industry works, all the parties involved, and the dynamics therein. By illustrating real world examples in some of the largest and most respected and successful VC firms in the world, students will learn how VCs raise money, how they construct a fund portfolio, how they make investment decisions, how VC returns are calculated, and how to land a job in this mysterious sector of high finance.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand the latest industry best practices to launch and manage a VC fund</td></tr><tr><td>2.</td><td>Construct a VC fund portfolio</td></tr><tr><td>3.</td><td>Decide the most appropriate valuation method for a startup</td></tr><tr><td>4.</td><td>Conduct a due diligence process on a startup company</td></tr><tr><td>5.</td><td>Construct a best-practice term sheet that reflects considerations to all parties</td></tr><tr><td>6.</td><td>Determine the most appropriate exit strategy for an investment</td></tr><tr><td>7.</td><td>Answer the question: is venture capital the right career choice for me?</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1239)",
+        "Date & Time": "03-FEB-2024 - 16-MAR-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "ZHANG, James"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1239)",
+        "Date & Time": "06-FEB-2024 - 06-FEB-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "ZHANG, James"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1239)",
+        "Date & Time": "23-MAR-2024 - 23-MAR-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "ZHANG, James"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5510",
+    "name": "Decision Making in Financial Institutions",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "previous code": "FINA 6900Z",
+      "description": "In this course, students will be able to examine the nature of main financial institutions (i.e., banks, insurance companies, mutual funds, and hedge funds) as well as the incentives of decision makers in these institutions. The course also covers the purpose of bank regulation and financial crises.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Examine the nature of main financial institutions (i.e., banks, insurance companies, mutual funds, and hedge funds)</td></tr><tr><td>2.</td><td>Examine the incentives of decision makers in main financial institutions</td></tr><tr><td>3.</td><td>Understand the role of main financial institutions in the economy</td></tr><tr><td>4.</td><td>Understand the effects of informational problems in main financial institutions</td></tr><tr><td>5.</td><td>Understand the effects of agency costs on behavior of agents in main financial institutions</td></tr><tr><td>6.</td><td>Critically evaluate the incentives of different economic actors in development of financial crises</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1219)",
+        "Date & Time": "30-JAN-2024 - 06-FEB-2024<br>Tu 02:00PM - 05:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "OKAT, Deniz"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1219)",
+        "Date & Time": "15-FEB-2024 - 15-FEB-2024<br>Th 02:00PM - 05:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "OKAT, Deniz"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1219)",
+        "Date & Time": "20-FEB-2024 - 19-MAR-2024<br>Tu 02:00PM - 05:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "OKAT, Deniz"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1249)",
+        "Date & Time": "27-MAR-2024 - 24-APR-2024<br>We 02:00PM - 05:20PM",
+        "Room": "Rm 2001, LSK Bldg",
+        "Instructor": [
+          "OKAT, Deniz"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 29,
+        "Avail": 31,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 29,
+            "Avail": 31
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1249)",
+        "Date & Time": "30-APR-2024 - 30-APR-2024<br>Tu 02:00PM - 05:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "OKAT, Deniz"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 29,
+        "Avail": 31,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 29,
+            "Avail": 31
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1249)",
+        "Date & Time": "08-MAY-2024 - 08-MAY-2024<br>We 02:00PM - 05:20PM",
+        "Room": "Rm 2001, LSK Bldg",
+        "Instructor": [
+          "OKAT, Deniz"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 29,
+        "Avail": 31,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 29,
+            "Avail": 31
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L2 (1249)",
+        "Date & Time": "14-MAY-2024 - 14-MAY-2024<br>Tu 02:00PM - 05:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "OKAT, Deniz"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 29,
+        "Avail": 31,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 29,
+            "Avail": 31
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5540",
+    "name": "Alternative Investment Management",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120",
+      "description": "This course aims to provide students a holistic introduction to the alternative investment ecosystem, covering sectors such as private equity, real estate, infrastructure, credit, hedge funds, secondaries, and others.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the overall Alternative Investment (AI) ecosystem, including the various market participants and investment strategies.</td></tr><tr><td>2.</td><td>Develop an Investment Policy Statement from the perspective of the different Asset Owners.</td></tr><tr><td>3.</td><td>Compare and contrast across the different AI strategies in terms of the relative risk and return profiles, strengths and weaknesses, and relevance for different market participants.</td></tr><tr><td>4.</td><td>Describe the different methods for accessing, evaluating, and selecting different AI strategies and investment opportunities.</td></tr><tr><td>5.</td><td>Develop, prepare, and present marketing materials for different investment strategy and products.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1237)",
+        "Date & Time": "03-FEB-2024 - 03-FEB-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "NG, Wing Chung Vincent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1237)",
+        "Date & Time": "06-FEB-2024 - 06-FEB-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "NG, Wing Chung Vincent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1237)",
+        "Date & Time": "20-FEB-2024 - 20-FEB-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "NG, Wing Chung Vincent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1237)",
+        "Date & Time": "24-FEB-2024 - 23-MAR-2024<br>Sa 09:30AM - 12:50PM",
+        "Room": "Rm 1034, LSK Bldg (80)",
+        "Instructor": [
+          "NG, Wing Chung Vincent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5550",
+    "name": "Carbon Management Basics for Financial Institutions",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "The world needs to reach net zero emission by 2050 to keep global warming within 1.5 °C by the end of this century. Financial sector plays an important role in this net zero transition. This course equips the students with the basic knowledge and practical tools of net zero strategy for financial institutions. It elaborates the concepts on climate change, the measurement tool of greenhouse emissions, the low-carbon roadmap for financial institutions and the development of sustainable finance products related to climate change.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand the climate change risks and impacts.</td></tr><tr><td>2.</td><td>Understand the financial institutions’ roles in net zero transition.</td></tr><tr><td>3.</td><td>Master the practical skills of carbon measurement and climate reporting.</td></tr><tr><td>4.</td><td>Develop the climate finance products.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1241)",
+        "Date & Time": "03-FEB-2024 - 23-MAR-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "ZHOU, Shelley"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 25,
+        "Avail": 35,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 25,
+            "Avail": 35
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1241)",
+        "Date & Time": "20-FEB-2024 - 20-FEB-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "ZHOU, Shelley"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 25,
+        "Avail": 35,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 25,
+            "Avail": 35
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5600",
+    "name": "Real Estate Financing",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120",
+      "previous code": "FINA 6900S",
+      "description": "This course focuses on how real estate financing is undertaken and the key considerations for the borrower and the lender. This is achieved through a master case study which runs through the duration of the course and evolves as different aspects of real estate financing are discussed. The course will focus on the key steps in a transaction life-cycle and require participants to prepare basic cash-flow models, approval memos and negotiate term-sheets. The course also includes additional case studies around hedging and considerations around cross border real estate financings.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the typical deal life-cycle of a financing transaction and how they differ for different type of clients, situations and products.</td></tr><tr><td>2.</td><td>Undertake due diligence of a real estate transaction.</td></tr><tr><td>3.</td><td>Write a credit approval memo for internal bank discussions.</td></tr><tr><td>4.</td><td>Negotiate a term sheet.</td></tr><tr><td>5.</td><td>Evaluate financing proposals from a borrower's perspective.</td></tr><tr><td>6.</td><td>Identify the different financing situations and markets available to borrowers.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1242)",
+        "Date & Time": "03-FEB-2024 - 23-MAR-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "HO, Ho Ming Stan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 35,
+        "Avail": 25,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 35,
+            "Avail": 25
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1242)",
+        "Date & Time": "20-FEB-2024 - 20-FEB-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "Rm 1001, LSK Bldg (70)",
+        "Instructor": [
+          "HO, Ho Ming Stan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 35,
+        "Avail": 25,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 35,
+            "Avail": 25
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5670",
+    "name": "Wealth Management",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120 AND FINA 5210",
+      "previous code": "FINA 6900M",
+      "description": "With an introduction to the principles of wealth management and the financial planning process, this course progresses to cover various wealth management topics including consumption planning, investment planning and retirement planning. In particular, this course emphasizes on the provision of investment advisory services. It discusses client expectations and concerns including risk and other cognitive issues before applying the concepts and techniques to construct and manage investment portfolios for individual clients.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply personal profiling and risk profiling techniques to comprehend the unique situation and preferences of the client.</td></tr><tr><td>2.</td><td>Prioritize goals for client given their unique situations and determine the feasibility of achieving these goals.</td></tr><tr><td>3.</td><td>Construct personal financial statements and use ratios and other techniques to analyze the client's financial situation.</td></tr><tr><td>4.</td><td>Construct optimal portfolios and make asset allocation decisions which match goals, risk tolerance and other client characteristics.</td></tr><tr><td>5.</td><td>Clearly discuss and justify recommendations.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1245)",
+        "Date & Time": "25-MAR-2024 - 25-MAR-2024<br>Mo 02:00PM - 05:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "PI, Lynn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1245)",
+        "Date & Time": "08-APR-2024 - 20-MAY-2024<br>Mo 02:00PM - 05:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "PI, Lynn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5680",
+    "name": "Asia's Stock Markets",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5210",
+      "description": "This course is highly relevant to students interested to become macro-traders, portfolio managers, buy/sell-side analysts or work at a hedge fund, with a particular focus on Asia. The course will teach students the characteristics of the larger, liquid stock markets across Asia, from China and Hong Kong to Korea, Taiwan, India and ASEAN markets. Students will learn what drives these markets, what they have in common and how they behave.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the differences in composition and architecture of the major Asian stock markets.</td></tr><tr><td>2.</td><td>Explain “top-down” (macro) and “bottom-up” drivers of the major Asian stock markets.</td></tr><tr><td>3.</td><td>Narrate recent dynamics in Asian equities and map these to a concrete investment plan.</td></tr><tr><td>4.</td><td>Formulate an Asian stock market outlook.</td></tr><tr><td>5.</td><td>Adapt an existing Asian market outlook to reflect changes in investment views.</td></tr><tr><td>6.</td><td>Present a complex investment view in a concise and clear format.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1244)",
+        "Date & Time": "31-MAR-2024 - 28-APR-2024<br>Su 02:00PM - 05:20PM",
+        "Room": "Rm 1001, LSK Bldg (70)",
+        "Instructor": [
+          "VAN DER LINDE, Herald"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 25-Mar-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1244)",
+        "Date & Time": "08-APR-2024 - 22-APR-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "VAN DER LINDE, Herald"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 25-Mar-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5690",
+    "name": "Family Office",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "previous code": "FINA 6910H",
+      "description": "This course will provide students with a comprehensive and most up-to-date understanding of family office, as well as insiders’ view and practical aspects of family offices, especially Asian family offices. The course will address questions based on the extensive research and the latest case studies on family offices in Asia and around the world by the instructor.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Manage the wealth and achieve greater meaning of the wealth.</td></tr><tr><td>2.</td><td>Understand fundamentals and wealth management role of family office.</td></tr><tr><td>3.</td><td>Understand the impact investing and risk management of family office.</td></tr><tr><td>4.</td><td>Understand the concepts of family trust and family governance.</td></tr><tr><td>5.</td><td>Understand the family philanthropy and the family office development in China.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1250)",
+        "Date & Time": "27-MAR-2024 - 08-MAY-2024<br>We 02:00PM - 05:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "PENG, Qian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1250)",
+        "Date & Time": "22-MAY-2024 - 29-MAY-2024<br>We 02:00PM - 05:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "PENG, Qian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5700",
+    "name": "Responsible Finance",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120",
+      "previous code": "FINA 6910I",
+      "description": "The aim of this course is to develop a deep understanding why the economic doctrine that the only social responsibility of corporations is to maximize profits does no longer work in today’s capital markets. The course provides theoretical and empirical findings that illustrate that financial decisions need to incorporate environmental, social, and governance (ESG) factors to ensure long-term financial success of firms. The course also covers new trends, such as U.S. political polarization and the important role of China in establishing a global leadership role in green finance, which may impact how corporations are becoming more responsible.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the fundamental driving forces of responsible finance.</td></tr><tr><td>2.</td><td>Compare and contrast responsible finance and Environmental, Social and Governance (ESG) in relation to corporate objectives.</td></tr><tr><td>3.</td><td>Explain how investors may engage with firms in effective manners.</td></tr><tr><td>4.</td><td>Work in teams on cases to apply responsible finance theory to practice.</td></tr><tr><td>5.</td><td>Utilize the tools and data sets used in evaluating ESG performance.</td></tr><tr><td>6.</td><td>Propose a novel corporate project that grows the pie.</td></tr><tr><td>7.</td><td>Broaden firm performance evaluation encompassing ESG methods.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4120)",
+        "Date & Time": "29-JAN-2024 - 05-FEB-2024<br>Mo 02:00PM - 05:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "YEGEN, Eyub"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (4120)",
+        "Date & Time": "14-FEB-2024 - 14-FEB-2024<br>We 02:00PM - 05:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "YEGEN, Eyub"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (4120)",
+        "Date & Time": "19-FEB-2024 - 18-MAR-2024<br>Mo 02:00PM - 05:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "YEGEN, Eyub"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 33,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 33,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L2 (4121)",
+        "Date & Time": "25-MAR-2024 - 20-MAY-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "YEGEN, Eyub"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 16,
+        "Avail": 44,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 16,
+            "Avail": 44
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L3 (4122)",
+        "Date & Time": "30-JAN-2024 - 06-FEB-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "YEGEN, Eyub"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 2,
+        "Avail": 58,
+        "Wait": 0,
+        "QuotaDetail": {
+          "Digital MBA": {
+            "Quota": 15,
+            "Enrol": 2,
+            "Avail": 13
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          },
+          "MBA Bi-weekly": {
+            "Quota": 15,
+            "Enrol": 0,
+            "Avail": 15
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA Year 2 or above and MBA Exchange students only",
+          "Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L3 (4122)",
+        "Date & Time": "20-FEB-2024 - 26-MAR-2024<br>Tu 07:00PM - 10:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "YEGEN, Eyub"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 2,
+        "Avail": 58,
+        "Wait": 0,
+        "QuotaDetail": {
+          "Digital MBA": {
+            "Quota": 15,
+            "Enrol": 2,
+            "Avail": 13
+          },
+          "MBA": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          },
+          "MBA Bi-weekly": {
+            "Quota": 15,
+            "Enrol": 0,
+            "Avail": 15
+          }
+        },
+        "Remarks": [
+          "For FT-MBA; PT-MBA; MBA (Bi-weekly); Digital MBA Year 2 or above and MBA Exchange students only",
+          "Venue : United Conference Centre, 10/F, United Centre, 95 Queensway, Admiralty, Hong Kong",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5710",
+    "name": "Green Finance and Capital Markets",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120",
+      "previous code": "FINA 6910J",
+      "description": "This course will cover sustainable and green finance with a focus in Hong Kong and China. Various green finance instruments, how green elements are factored in credit ratings and assessments, and the major external green review approaches are covered. This course will empower the students with the most updated knowledge, market trends and direct first-hand cases (rather than the public domain) in the green finance and capital market fields.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Compare and contrast various green finance and capital market products.</td></tr><tr><td>2.</td><td>Describe and quantify the costs and benefits of green finance as it impacts credit ratings.</td></tr><tr><td>3.</td><td>Explain and critique the green bond assessment process performed by credit rating agencies.</td></tr><tr><td>4.</td><td>Apply the green certification approaches to the green bonds performed by certification service providers.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4119)",
+        "Date & Time": "06-APR-2024 - 25-MAY-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "HO, Ho Ming Stan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5840",
+    "name": "Financial Modeling",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "FINA 5120, FINA 5210 and FINA 5290",
+      "description": "This is a course about financial modeling.  The goal is to make financial models that produce useful answers to economic questions.  Selected topics which lend themselves to financial modeling will be covered, such as (but not limited to) loan amortization schedules; valuation and private equity; equity derivatives; mutual fund performance and style analysis; fixed income derivatives, and optimal portfolio selection.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Use Excel formulas, functions and commands in finance-related applications.</td></tr><tr><td>2.</td><td>Implement in spreadsheet format concepts from finance theory, with emphasis on portfolio choice and valuation of derivatives and fixed income securities.</td></tr><tr><td>3.</td><td>Gain hands-on experience in designing finance models.</td></tr><tr><td>4.</td><td>Critically evaluate the strengths and limitations of the output of various financial models in principle, and those implemented in a spreadsheet in particular.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1252)",
+        "Date & Time": "30-MAR-2024 - 30-MAR-2024<br>Sa 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LAW, Keith"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1252)",
+        "Date & Time": "20-APR-2024 - 01-JUN-2024<br>Sa 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "LAW, Keith"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "5870",
+    "name": "Big Data in Finance",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "pre-requisite": "ISOM 5510 OR ISOM 5520 (prior to 2022-23) OR FINA 5240 OR FINA 5250",
+      "previous code": "FINA 6900R",
+      "description": "This course introduces students to the concepts of big data and machine learning with a special focus on how these tools can be applied in a financial context. During the course students will learn Python and how it can be used to build and estimate some of the most commonly used machine learning models such as regression, clustering and classification. Students will also learn the basics of cloud computing and how the cloud can be employed to quickly estimate complex models with very large data sets.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Define what big data is and how it relates to finance.</td></tr><tr><td>2.</td><td>Work with Python.</td></tr><tr><td>3.</td><td>Use Python to produce basic statistics and visualize data.</td></tr><tr><td>4.</td><td>Describe the basic mathematical rationale for state-of-the-art machine learning models.</td></tr><tr><td>5.</td><td>Use Python to estimate machine learning models on real-world data.</td></tr><tr><td>6.</td><td>Explain how cloud computing technologies can be employed to facilitate quick estimation of complex.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1218)",
+        "Date & Time": "29-JAN-2024 - 05-FEB-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "PEREIRA, Kevin Charles"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1218)",
+        "Date & Time": "09-FEB-2024 - 09-FEB-2024<br>Fr 07:00PM - 10:20PM",
+        "Room": "G001, LSK Bldg (70)",
+        "Instructor": [
+          "PEREIRA, Kevin Charles"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1218)",
+        "Date & Time": "19-FEB-2024 - 18-MAR-2024<br>Mo 07:00PM - 10:20PM",
+        "Room": "Rm 2003, LSK Bldg",
+        "Instructor": [
+          "PEREIRA, Kevin Charles"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "6910M",
+    "name": "Structured Product",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "Structured products (e.g., principal-protected notes) are one of the major products manufactured and distributed by investment banks given the increasing demand from institutional and individual investors. In order to support and grow the structured product business, a variety of functions or roles are developed in the financial industry, including traders, quants, structurers, and sales, etc. at investment banks or relationship managers and product specialists at private banks. As a result, all the financial practitioners are assumed to have basic and practical knowledge about structured products. This course is designed for students who are pursuing front-office careers at investment banks, private banks, or asset management companies. It covers basic concepts of structured products, introduces popular products in the market (e.g., principal protected notes and equity-linked notes), and discusses the landscape of product manufacturing and distribution process. It focuses on applications rather than theory by illustrating real-world examples as well as their practical implementations in the industry."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1238)",
+        "Date & Time": "03-FEB-2024 - 03-FEB-2024<br>Sa 04:00PM - 07:20PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1238)",
+        "Date & Time": "17-FEB-2024 - 23-MAR-2024<br>Sa 04:00PM - 07:20PM",
+        "Room": "Rm 1009, LSK Bldg (80)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1238)",
+        "Date & Time": "03-MAR-2024 - 03-MAR-2024<br>Su 04:00PM - 07:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "6910N",
+    "name": "Navigating Capital Markets: A Practitioners Guide to Capital Flows",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "This course offers and in-depth exploration into the realm of global capital markets in practice. Together we will delve into the inner workings of financial markets, including primary and secondary markets, trading floors and market dynamics. Students will apply analytical skills to learn to identify opportunities across capital markets including synthesizing information, identifying capital uses and interpreting market sentiment and behaviour. This course is designed to bridge the gap between academic knowledge and practical application. The focus is on equipping students with the insights needed to excel in the complex world of capital markets providing a foundation for exploring more advanced subjects."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1260)",
+        "Date & Time": "06-APR-2024 - 25-MAY-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 1007, LSK Bldg (80)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 28,
+        "Avail": 32,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 28,
+            "Avail": 32
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "vector": "[0-0-0:0]",
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate a broad based knowledge of core business functions.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1223)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": [
+          "For MPhil(FINA) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "7900A",
+    "name": "Doctoral Seminar: Theoretical Corporate Finance",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "FINA 790I prior to 2011-12",
+      "description": "The course will emphasize theoretical frameworks that underlie some of the important ideas in modern corporate finance.  Topics covered will be (i) Financial Contracting, (ii) Capital Structure and Corporate Strategy , (iii) Agency Problems, Investment Distortions, and Discipline, (iv) Information Asymmetry and Financing,(v) Corporate Governance. The theory will be motivated by and connected to empirical facts, although we will not go into details of empirical papers on the topics. An important goal is to help students learn how to write down a basic model to capture an idea."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1224)",
+        "Date & Time": "Fr 01:30PM - 04:20PM",
+        "Room": "Rm 1026, LSK Bldg (28)",
+        "Instructor": [
+          "OKAT, Deniz"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": [
+          "For MPhil(FINA) and PhD(FINA) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "7900B",
+    "name": "Doctoral Seminar: Theoretical Asset Pricing",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "FINA 790E prior to 2011-12",
+      "description": "The course discusses fundamental theories in asset pricing."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1225)",
+        "Date & Time": "Th 03:00PM - 05:50PM",
+        "Room": "Rm 2127A, Lift 19 (28)",
+        "Instructor": [
+          "JI, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": [
+          "For MPhil and PhD students in SBM only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "7980Z",
+    "name": "Finance Workshops",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "Papers presented by faculty, students and visitors. Mandatory for all PhD students.  May be repeated for credit. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1226)",
+        "Date & Time": "Fr 10:00AM - 11:50AM",
+        "Room": "Rm 1003, LSK Bldg (70)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MPhil(FINA) and PhD(FINA) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "FINA",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply their specialized knowledge to solve related business problems in an innovative fashion.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1227)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 2,
+        "Avail": 8,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 10,
+            "Enrol": 2,
+            "Avail": 8
+          }
+        },
+        "Remarks": [
+          "For PhD(FINA) students only"
+        ]
+      }
+    ]
+  }
+]

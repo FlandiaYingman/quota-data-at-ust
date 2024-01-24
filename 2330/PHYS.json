@@ -1,0 +1,2278 @@
+[
+  {
+    "program": "PHYS",
+    "code": "1001",
+    "name": "Physics and the Modern Society",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (S) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "exclusion": "Level 3 or above in HKDSE 1/2x Physics or HKDSE 1x Physics; any PHYS courses at 1100-level or above",
+      "previous code": "CORE 1110",
+      "description": "This course is for students with no physics background. Course content: Principle of scientific theories and methods, Aristotle's law, Newtonian mechanics. Thermal physics, heat engine, energy crisis and global warming. Nature of waves and the physics of hearing and vision. Electricity and magnetism, electromagnetic waves and telecommunication. Relativity, quantum physics, nuclear energy and semiconductor. Developments and outlook of contemporary physics. Students without HKDSE qualifications may seek instructor’s approval for enrolment."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3727)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "LIN, Nian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3729)",
+        "Date & Time": "Fr 11:30AM - 12:20PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "LIN, Nian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3731)",
+        "Date & Time": "Fr 10:30AM - 11:20AM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "LIN, Nian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "1002",
+    "name": "Introduction to Astrophysics and Astronomy",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (S) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "exclusion": "PHYS 1006, PHYS 3071",
+      "description": "This course addresses the origin of modern astronomy, the solar system, seasons, moon & eclipses, motion & gravity, light & telescopes, star light & atoms, stars (binary, formation, evolution and death), neutron stars & black holes, normal galaxies, peculiar galaxies, dark matter, dark energy and cosmology."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3732)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "CHEN, Tian Wen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3733)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "ALTMAN, Michael Scott"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3733)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "ALTMAN, Michael Scott"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "1003",
+    "name": "Energy and Related Environmental Issues",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SSC-S&T) for 36-credit program<br>Common Core (S) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "previous code": "CORE 1111",
+      "description": "This course will introduce the basic concepts of the physical principles behind energy. Forms of energy (including fossil energy, nuclear energy and various forms of renewable energy) and their use for electricity generation, as well as their impacts on the environment from both global and regional perspectives will be covered. Issues related to energy conservation and related environmental issues in Hong Kong and the rest of the world will be addressed."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3734)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "SOU, Iam Keong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 1,
+        "Avail": 99,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3735)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "WANG, Xiangrong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3735)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "WANG, Xiangrong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "1007",
+    "name": "Quantum Information for Everyone",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (S) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "exclusion": "PHYS 4812",
+      "previous code": "CORE 1112",
+      "description": "Information cannot exist without a physical system to represent it. Quantum physics enables some fundamental new ways of information processing. In recent years, quantum information processing (QIP) has emerged as one of the “most fiercely competitive in today’s world of technology”. This course offers an introduction to the past, present and future of QIP. The theme is to explain the major ideas and issues in QIP, and how this new technology will change our understanding of information processing. The course starts from a gentle introduction to quantum theory without assuming any physics background, then moves to the key applications of QIP including quantum computing, quantum cryptography, and quantum communication. Besides theory, demonstrations and hands-on experiences with quantum hardware will also be given. Students will benefit from learning quantum information technology in an interdisciplinary environment, with knowledge and skills for comprehending the fast-paced developments in today’s technological world."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3736)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "ZENG, Bei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3736)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "ZENG, Bei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "1101",
+    "name": "Introductory Physics",
+    "units": 4,
+    "info": {
+      "exclusion": "Level 3 or above in HKDSE 1/2x Physics or HKDSE 1x Physics; any PHYS courses at 1100-level or above",
+      "description": "This course is for students with no physics background. It can serve as a standalone introduction to physics or as a preparatory course for students who intend to take PHYS 1112. It is not a preparatory course for PHYS 1111; students with no calculus background who plan to take General Physics should take calculus concurrently with PHYS 1101 so that they meet the prerequisites for PHYS 1112. Topics covered include heat and gases, force and motion, waves, and electricity and magnetism. Students without HKDSE qualifications may seek instructor’s approval for enrolment."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3737)",
+        "Date & Time": "MoWe 10:30AM - 12:20PM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 92,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3739)",
+        "Date & Time": "TuTh 03:00PM - 04:50PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "LI, Jensen Tsan Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 88,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3741)",
+        "Date & Time": "Fr 02:00PM - 02:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "LI, Jensen Tsan Hang",
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 46,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3743)",
+        "Date & Time": "Fr 04:30PM - 05:20PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "LI, Jensen Tsan Hang",
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 45,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T3 (3744)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "LI, Jensen Tsan Hang",
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 42,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T4 (3745)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "LI, Jensen Tsan Hang",
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 47,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "1112",
+    "name": "General Physics I with Calculus",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program",
+      "pre-requisite": "(Level 3 or above in HKDSE 1/2x OR in HKDSE 1x Physics) AND Level 3 or above in HKDSE Mathematics Extended Module M1/M2",
+      "exclusion": "PHYS 1111, PHYS 1312",
+      "description": "PHYS 1111 and PHYS 1112 target students who have learned the most basic knowledge in physics in high school. Students with more advanced physics background should consider taking PHYS 1312. PHYS 1112 employs a calculus-based approach. Students without knowledge of calculus should take PHYS 1111 instead. Key topics include motions and Newton’s Laws, work and energy, conservation of energy and momentum, rotation, rigid body, simple harmonic and damped oscillations, forced oscillations, standing waves and sound waves, kinetic theory and the laws of thermodynamics. Students without the physics prerequisite but who have taken PHYS 1101 or equivalent, and/or without the mathematics prerequisite but who have taken MATH 1012/ MATH 1013/ MATH 1020/ MATH 1023 or equivalent may seek instructor’s approval for enrolling in the course."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3746)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "XU, Qin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 113,
+        "Enrol": 104,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3748)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "PROKOFIEV, Kirill"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 113,
+        "Enrol": 104,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3748)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "PROKOFIEV, Kirill"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 113,
+        "Enrol": 104,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (3750)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "PANT, Nidhi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 113,
+        "Enrol": 104,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L4 (3752)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "NG, Tai Kai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 113,
+        "Enrol": 102,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T01 (3754)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 5620, Lift 31-32 (70)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 40,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T02 (3756)",
+        "Date & Time": "Fr 06:00PM - 06:50PM",
+        "Room": "Rm 4582, Lift 27-28 (66)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 41,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T03 (3757)",
+        "Date & Time": "We 09:30AM - 10:20AM",
+        "Room": "Rm 4582, Lift 27-28 (66)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 44,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T04 (3758)",
+        "Date & Time": "Tu 03:30PM - 04:20PM",
+        "Room": "Rm 5619, Lift 31-32 (60)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 41,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T05 (3759)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 4582, Lift 27-28 (66)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 41,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T06 (3760)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 4582, Lift 27-28 (66)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 42,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T07 (3761)",
+        "Date & Time": "Tu 12:30PM - 01:20PM",
+        "Room": "Rm 5620, Lift 31-32 (70)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 42,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T08 (3762)",
+        "Date & Time": "We 11:00AM - 11:50AM",
+        "Room": "Rm 5620, Lift 31-32 (70)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 41,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T09 (3763)",
+        "Date & Time": "We 01:30PM - 02:20PM",
+        "Room": "Rm 4582, Lift 27-28 (66)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 42,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T10 (3764)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 4582, Lift 27-28 (66)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 40,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "1113",
+    "name": "Laboratory for General Physics I",
+    "units": 1,
+    "info": {
+      "co-requisite": "PHYS 1111 OR PHYS 1112 OR PHYS 1312",
+      "description": "A laboratory course to accompany PHYS 1111/PHYS 1112/PHYS 1312. Experiments in mechanics and heat are chosen to illustrate the experimental foundations of physics presented in the lecture courses."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3769)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 48,
+        "Enrol": 24,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3767)",
+        "Date & Time": "Tu 09:00AM - 10:50AM",
+        "Room": "Rm 6140",
+        "Instructor": [
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 13,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (4249)",
+        "Date & Time": "Tu 01:00PM - 02:50PM",
+        "Room": "Rm 6140",
+        "Instructor": [
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 11,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "1114",
+    "name": "General Physics II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(PHYS 1111 OR PHYS 1112 OR PHYS 1312) AND (level 3 or above in HKDSE Mathematics Extended Module M1/M2 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023)",
+      "exclusion": "PHYS 1314",
+      "description": "This course targets students who have learned the most basic knowledge in physics in high school. Students with more advanced physics background should consider taking PHYS 1314. This course employs a calculus‐based approach. Key topics include Coulomb's law, electric field and potential, Gauss' law, capacitance, circuits, magnetic force and field, Ampere's law, electromagnetic induction, AC circuit, Maxwell's equations, electromagnetic waves, wave optics, interference and diffraction."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3770)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "TSUI, Ophelia K. C."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 48,
+        "Avail": 32,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3772)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "ZHANG, Jingdi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 49,
+        "Avail": 31,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L3 (3774)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "YANG, Sen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 38,
+        "Avail": 42,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L4 (3776)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "CHEUNG, Man Fung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 48,
+        "Avail": 32,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L4 (3776)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "CHEUNG, Man Fung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 48,
+        "Avail": 32,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3778)",
+        "Date & Time": "Fr 06:00PM - 06:50PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 24,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3780)",
+        "Date & Time": "We 01:30PM - 02:20PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 25,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T3 (3781)",
+        "Date & Time": "Th 01:30PM - 02:20PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 21,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T4 (3782)",
+        "Date & Time": "Fr 01:30PM - 02:20PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 22,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T5 (3783)",
+        "Date & Time": "Th 12:30PM - 01:20PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 20,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T6 (3784)",
+        "Date & Time": "Mo 12:00PM - 12:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 23,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T7 (3785)",
+        "Date & Time": "Mo 03:00PM - 03:50PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 25,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T8 (3786)",
+        "Date & Time": "Tu 04:30PM - 05:20PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 23,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "1115",
+    "name": "Laboratory for General Physics II",
+    "units": 1,
+    "info": {
+      "co-requisite": "PHYS 1114 OR PHYS 1314",
+      "description": "A laboratory course to accompany PHYS 1114/1314. Experiments in static and current electricity and magnetism, and optics are chosen to illustrate the experimental foundations of physics presented in the lecture courses."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3793)",
+        "Date & Time": "Mo 05:00PM - 05:50PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 88,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3788)",
+        "Date & Time": "Th 09:00AM - 10:50AM",
+        "Room": "Rm 6137, Lift 19, 22",
+        "Instructor": [
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 20,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (3789)",
+        "Date & Time": "Tu 01:30PM - 03:20PM",
+        "Room": "Rm 6137, Lift 19, 22",
+        "Instructor": [
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 22,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (3790)",
+        "Date & Time": "Tu 09:00AM - 10:50AM",
+        "Room": "Rm 6137, Lift 19, 22",
+        "Instructor": [
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 23,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA4 (3791)",
+        "Date & Time": "Mo 02:00PM - 03:50PM",
+        "Room": "Rm 6137, Lift 19, 22",
+        "Instructor": [
+          "NG, Yee Fai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 23,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "1314",
+    "name": "Honors General Physics II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(Grade A- or above in PHYS 1111 OR PHYS 1112 OR Grade B- or above in PHYS 1312) AND (Level 5 or above in HKDSE Mathematics Extended Module M1/M2 OR MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023)",
+      "exclusion": "PHYS 1114",
+      "description": "This course is a more in-depth version of PHYS 1114. It is intended to provide a solid foundation to students who wish to take more advanced physics courses in the future. Key topics include Coulomb’s law, electric field and potential, Gauss’ law, capacitance, circuits, magnetic force and field, Ampere’s law, electromagnetic induction, AC circuit, Maxwell’s equations, electromagnetic waves, geometric optics, interference and diffraction. Students without the prerequisite may seek instructor’s approval for enrolling in the course. For students under the 4-year degree only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3794)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "JAECK, Berthold"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 35,
+        "Avail": 35,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3795)",
+        "Date & Time": "Fr 06:00PM - 06:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "JAECK, Berthold"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 35,
+        "Avail": 35,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "2010",
+    "name": "Introductory Biological Physics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(LIFS 1901 OR level 3 or above in HKDSE 1xBiology) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)",
+      "previous code": "BIPH 2010",
+      "description": "This course introduces the use of physical methods in the study of biological systems, including macromolecules, membranes, nerves, muscle, photosynthetic systems and visual systems. The biological systems to which the methods are applied will be surveyed and current interpretations of their structure and function will be discussed. The treatment of biological phenomena will be based on physical principles with appropriate mathematics when necessary. The emphasis will be on the applications of physics in biology."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3796)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "PARK, Hyo Keun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 2,
+        "Avail": 58,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3796)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "PARK, Hyo Keun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 2,
+        "Avail": 58,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3797)",
+        "Date & Time": "We 01:30PM - 02:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "PARK, Hyo Keun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 2,
+        "Avail": 58,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "2080",
+    "name": "Physics Seminar and Tutorial I",
+    "units": 1,
+    "info": {
+      "description": "Appropriate seminars and small group tutorials are scheduled to expose students to a variety of issues in science and society, and to enhance students' communication with faculties and among themselves. For Physics students in their second year of study under the four-year degree only. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (4243)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 1,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "2090A",
+    "name": "Directed Studies in Physics I",
+    "units": 1,
+    "info": {
+      "pre-requisite": "CGA at 2.70 or above",
+      "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in the second year of study under the four-year degree only. Instructor's approval is required for enrollment in the course. May be repeated for credits."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3798)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WONG, Kam Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "2090B",
+    "name": "Directed Studies in Physics I",
+    "units": 1,
+    "info": {
+      "pre-requisite": "CGA at 2.70 or above",
+      "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in the second year of study under the four-year degree only. Instructor's approval is required for enrollment in the course. May be repeated for credits."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3799)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WONG, Kam Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "2124",
+    "name": "Mathematical Methods in Physics I",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 2023 AND (MATH 2121 OR MATH 2131)",
+      "exclusion": "MATH 2350, MATH 2351, MATH 2352",
+      "description": "This course will cover most of the mathematical tools required for studying classical mechanics, electromagnetism, quantum mechanics and statistical mechanics. Key topics include complex numbers, vector analysis, Fourier series and transform, ordinary differential equations and series solutions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3800)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "JO, Gyu Boong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 60,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3802)",
+        "Date & Time": "Fr 11:30AM - 12:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "JO, Gyu Boong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 30,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3804)",
+        "Date & Time": "We 12:30PM - 01:20PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "JO, Gyu Boong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 30,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3032",
+    "name": "Classical Mechanics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(PHYS 1111 OR PHYS 1112 OR PHYS 1312) AND MATH 2023",
+      "description": "Newtonian mechanics, including rigid bodies; oscillating systems; gravitation and planetary motion; Lagrange equations; Hamilton's equations; normal modes and small oscillations."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3805)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "CHEUNG, Man Fung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 65,
+        "Avail": 35,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3807)",
+        "Date & Time": "Th 01:30PM - 02:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "CHEUNG, Man Fung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 33,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3809)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "CHEUNG, Man Fung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 32,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3034",
+    "name": "Electricity and Magnetism II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "PHYS 3033 OR PHYS 3053",
+      "description": "Electrodynamics: applications of Maxwell's equations, propagation in various media, radiation, relativistic electrodynamics, transmission lines and wave guides."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3810)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 2126D, Lift 19 (34)",
+        "Instructor": [
+          "FOREMAN, Bradley Alan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 5,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3036",
+    "name": "Quantum Mechanics I",
+    "units": 3,
+    "info": {
+      "pre-requisite": "PHYS 2022",
+      "exclusion": "PHYS 3037",
+      "co-list with": "PHYS 3037",
+      "description": "Basic properties of Schrodinger equation, bound and scattering states in simple one-dimensional potentials, formulation of quantum mechanics in terms of Hilbert space and Dirac bracket notation, Schrodinger equation in three-dimensions, angular momentum, hydrogen atom wavefunction, systems of identical particles, spin and statistics, multi-electron atoms and the periodic table."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3811)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "CHAN, Ho Bun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 47,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3813)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "CHAN, Ho Bun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 24,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3815)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "CHAN, Ho Bun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 23,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3037",
+    "name": "Honors Quantum Mechanics I",
+    "units": 4,
+    "info": {
+      "pre-requisite": "Grade B- or above in PHYS 2022",
+      "exclusion": "PHYS 3036",
+      "co-list with": "PHYS 3036",
+      "description": "This course is a more in-depth version of PHYS 3036 Elementary Quantum Mechanics I. Topics include: classical mechanics, Schrodinger equation and simple examples in one-dimension, formulation of quantum mechanics in terms of Hilbert space and Dirac bracket notation, real and momentum space representations, Heisenberg and Schrodinger pictures, Schrodinger equation in three-dimensions, angular momentum, hydrogen atom wavefunction, systems of identical particles, the periodic table."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3817)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Ho Bun",
+          "GUO, Dengyang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 2,
+        "Avail": 48,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: Room CYTG010 (WeFr 15:00 - 16:20)"
+        ]
+      },
+      {
+        "Section": "L1 (3817)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "CHAN, Ho Bun",
+          "GUO, Dengyang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 2,
+        "Avail": 48,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: Room CYTG010 (WeFr 15:00 - 16:20)"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3042",
+    "name": "Structure and Properties of Crystalline Solids",
+    "units": 3,
+    "info": {
+      "pre-requisite": "PHYS 2022",
+      "description": "This course covers material structures and physical properties. Topics include the periodic structure of crystals with basic crystallography, symmetry operations and crystalline structures, diffraction and microscopy techniques to determine Bravais lattices and crystal structures, the imperfections in solid materials and their roles in physical properties, physical and mechanical behavior of solid materials based on different bonding types and common defects, the fundamental concepts of mechanical, electrical, optical and magnetic properties and nanomaterials including nanotubes, nanowires, graphene, and 2D semiconductors."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3818)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "G003, CYT Bldg (30)",
+        "Instructor": [
+          "WANG, Ning"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3819)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 5506, Lift 25-26 (30)",
+        "Instructor": [
+          "WANG, Ning"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3071",
+    "name": "Introduction to Stellar Astrophysics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "PHYS 2022",
+      "description": "Stellar radiation, stellar spectrum, binary stars, interiors of stars, star formation, post-main-sequence stellar evolution, stellar remnants."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3820)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "PANT, Nidhi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 1,
+        "Avail": 49,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3821)",
+        "Date & Time": "Tu 11:00AM - 11:50AM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "PANT, Nidhi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 1,
+        "Avail": 49,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3090A",
+    "name": "Directed Studies in Physics II",
+    "units": 1,
+    "info": {
+      "pre-requisite": "CGA at 2.70 or above",
+      "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their third year of study under the four-year degree only. The instructor's approval is required for taking this course. May be repeated for credits."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3822)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WONG, Kam Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3090B",
+    "name": "Directed Studies in Physics II",
+    "units": 1,
+    "info": {
+      "pre-requisite": "CGA at 2.70 or above",
+      "description": "This course covers special topics selected by the instructor on the basis of individual student's request.  For students in their third year of study under the four-year degree only. The instructor's approval is required for taking this course. May be repeated for credits."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3823)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WONG, Kam Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3142",
+    "name": "Computational Methods in Physics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(COMP 1021 OR COMP 1029P) AND (MATH 2352 OR PHYS 2124)",
+      "exclusion": "MATH 3312",
+      "description": "This course provides an introduction to basic numerical and symbolic computation. Topics include methods of interpolation and extrapolation, approximation methods of root finding, numerical integration and solving ordinary differential equations, symbolic algebra and calculus. Students need to write computer codes in laboratory sessions and write lab reports to describe their results."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3824)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "LIU, Junwei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 60,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3826)",
+        "Date & Time": "Fr 04:30PM - 06:20PM",
+        "Room": "Rm 4402, Lift 17-18",
+        "Instructor": [
+          "LIU, Junwei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 30,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (4248)",
+        "Date & Time": "Th 04:00PM - 05:50PM",
+        "Room": "Rm 4402, Lift 17-18",
+        "Instructor": [
+          "LIU, Junwei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 30,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3152",
+    "name": "Methods of Experimental Physics I",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(PHYS 1114 OR PHYS 1314) AND PHYS 2023",
+      "description": "This course will cover the techniques of experimental physics in the area of electronics. Students will complete experiments involving ac circuits and input/output impedance, diodes and transistors, operational amplifiers, frequency analysis and digital electronics."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3829)",
+        "Date & Time": "Mo 09:00AM - 09:50AM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "XU, Qin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 31,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3831)",
+        "Date & Time": "TuTh 09:00AM - 10:50AM",
+        "Room": "Rm 6135, Lift 19, 22",
+        "Instructor": [
+          "XU, Qin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 8,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (3833)",
+        "Date & Time": "TuTh 01:00PM - 02:50PM",
+        "Room": "Rm 6135, Lift 19, 22",
+        "Instructor": [
+          "XU, Qin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 8,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (3834)",
+        "Date & Time": "Mo 02:00PM - 03:50PM",
+        "Room": "Rm 6135, Lift 19, 22",
+        "Instructor": [
+          "XU, Qin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 7,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (3834)",
+        "Date & Time": "Fr 09:30AM - 11:20AM",
+        "Room": "Rm 6135, Lift 19, 22",
+        "Instructor": [
+          "XU, Qin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 7,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA4 (3835)",
+        "Date & Time": "MoWe 11:00AM - 12:50PM",
+        "Room": "Rm 6135, Lift 19, 22",
+        "Instructor": [
+          "XU, Qin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 8,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3153",
+    "name": "Methods of Experimental Physics II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(PHYS 1114 OR PHYS 1314) AND PHYS 2023",
+      "description": "This course will cover the techniques of experimental physics in the area of optics. Students will complete experiments involving basic optical systems, interferometry, waveguides and optical fibers, optical spectroscopy, semiconductor laser diodes, microwave reflection, scattering and diffraction."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3837)",
+        "Date & Time": "Mo 10:00AM - 10:50AM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "LORTZ, Rolf Walter"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 31,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3839)",
+        "Date & Time": "TuTh 09:00AM - 10:50AM",
+        "Room": "TBA",
+        "Instructor": [
+          "LORTZ, Rolf Walter"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 8,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: Room 6135"
+        ]
+      },
+      {
+        "Section": "LA2 (3841)",
+        "Date & Time": "TuTh 01:00PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LORTZ, Rolf Walter"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 8,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: Room 6135"
+        ]
+      },
+      {
+        "Section": "LA3 (3842)",
+        "Date & Time": "Mo 02:00PM - 03:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LORTZ, Rolf Walter"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 8,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: Room 6135"
+        ]
+      },
+      {
+        "Section": "LA3 (3842)",
+        "Date & Time": "Fr 09:30AM - 11:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "LORTZ, Rolf Walter"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 8,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: Room 6135"
+        ]
+      },
+      {
+        "Section": "LA4 (3843)",
+        "Date & Time": "MoWe 11:00AM - 12:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LORTZ, Rolf Walter"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 7,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: Room 6135"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "4071",
+    "name": "Big Bang Cosmology and Inflation",
+    "units": 3,
+    "info": {
+      "pre-requisite": "PHYS 2022 AND (PHYS 2124 OR MATH 2351 OR MATH 2352)",
+      "description": "In this course, a systematic introduction to modern cosmology will be provided, with the topics including: Robertson-Walker metric and Friedmann equation, spacetime evolution of the Universe, thermal history of the Universe, Big-Bang nucleosynthesis, cosmic microwave background, dark matter and dark energy, inflation. It aims at enabling students to catch up with the progress in cosmology in a timely way, and appreciate the beauty of the science on the Universe."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3845)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "LIU, Tao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 2,
+        "Avail": 38,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3845)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "LIU, Tao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 2,
+        "Avail": 38,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "4080",
+    "name": "Physics Seminar and Tutorial II",
+    "units": 1,
+    "info": {
+      "description": "Appropriate seminars and small group tutorials are scheduled to expose students to a variety of issues in science and society, and to enhance students' communication with faculties and among themselves. For Physics students in their fourth year of study under the four-year degree only. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (4244)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 2,
+        "Enrol": 2,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "4090A",
+    "name": "Directed Studies in Physics III",
+    "units": 1,
+    "info": {
+      "pre-requisite": "CGA at 2.70 or above",
+      "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their fourth year of study only. The instructor's approval is required for taking this course. May be repeated for credits."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3846)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WONG, Kam Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 2,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "4090B",
+    "name": "Directed Studies in Physics III",
+    "units": 1,
+    "info": {
+      "pre-requisite": "CGA at 2.70 or above",
+      "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their fourth year of study only. The instructor's approval is required for taking this course. May be repeated for credits."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3847)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WONG, Kam Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "4191",
+    "name": "Capstone Project",
+    "units": 4,
+    "info": {
+      "pre-requisite": "PHYS 3152 AND PHYS 3153",
+      "exclusion": "PHYS 4291",
+      "description": "Under the supervision of a faculty member, students will perform a capstone project based on a selection of advanced modern physics experiments. The students are expected to perform an independent literature search on the historical background, significance and impact of the experiments. Upon completion of the projects, students are required to submit a project report that complies with contemporary scientific standards and perform an oral presentation. For PHYS students under the four-year degree only.  Instructor approval is required."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3848)",
+        "Date & Time": "Mo 11:00AM - 11:50AM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "YANG, Zhi Yu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 22,
+        "Enrol": 17,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "LA1 (3850)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "Rm 6131, Lift 19, 22",
+        "Instructor": [
+          "YANG, Zhi Yu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 22,
+        "Enrol": 17,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "LA1 (3850)",
+        "Date & Time": "Th 11:00AM - 12:50PM",
+        "Room": "Rm 6131, Lift 19, 22",
+        "Instructor": [
+          "YANG, Zhi Yu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 22,
+        "Enrol": 17,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "LA1 (3850)",
+        "Date & Time": "Fr 10:30AM - 01:20PM",
+        "Room": "Rm 6131, Lift 19, 22",
+        "Instructor": [
+          "YANG, Zhi Yu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 22,
+        "Enrol": 17,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "4291",
+    "name": "Capstone Research",
+    "units": 6,
+    "info": {
+      "pre-requisite": "PHYS 3152 AND PHYS 3153",
+      "exclusion": "PHYS 4191",
+      "description": "Under the supervision of a faculty member, students will complete an independent capstone research project. The course is extended over two regular terms. By the end of the course, students need to summarize their results in the form of a short thesis and perform oral presentation. For PHYS students under the four-year degree only. Enrollment in the course requires approval by course instructors and supervisors. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (3853)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "YANG, Zhi Yu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 21,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load is spread in the following pattern: Fall: 3; Spring: 3",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "5170",
+    "name": "Solid State Physics I",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "PHYS 6810A",
+      "description": "This is an introductory course on postgraduate level solid state physics. The topics covered include: electronic band structures of solids, phonons, electron dynamics in crystals, electron interactions in solids, linear response theory, electronic transitions and optical properties of solids, electron phonon interactions, integer quantum Hall effects, superconductivity and magnetism.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Derive the electronic band structures of materials with simple lattices.</td></tr><tr><td>2.</td><td>Calculate phonon band structures.</td></tr><tr><td>3.</td><td>Calculate the energy of electronic systems using Hatree-Fock approximations.</td></tr><tr><td>4.</td><td>Formulate the electron responses to external electric and magnetic fields.</td></tr><tr><td>5.</td><td>Derive the expression of the conductance of Quantum Hall Systems.</td></tr><tr><td>6.</td><td>Calculate physical properties of superconductors and magnets.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1525)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "LAW, Kam Tuen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1525)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "LAW, Kam Tuen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "5310",
+    "name": "Statistical Mechanics I",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "NANO 5320",
+      "co-list with": "NANO 5320",
+      "description": "Laws and applications of thermodynamics, kinetic theory, transport phenomena, classical statistical mechanics, canonical and grand canonical ensemble, quantum statistical mechanics, Fermi and Bose systems, non-equilibrium statistical mechanics.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain how the core principles of thermodynamics can be derived from the statistical mechanics of N-particle systems.</td></tr><tr><td>2.</td><td>Use the basic tools of statistical mechanics (such as the partition function) to predict the macroscopic properties of a system from a given microscopic model.</td></tr><tr><td>3.</td><td>Apply these tools in conjunction with appropriate approximation techniques to solve problems in a variety of physical systems, including (but not limited to) fluids and interacting assemblies of spins in magnetic fields.</td></tr><tr><td>4.</td><td>Use the tools of statistical physics to predict the behaviour of systems in the neighbourhood of a phase transition..</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1526)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "ZHANG, Rui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "5340",
+    "name": "Introduction to Quantum Many-body Theory",
+    "units": 4,
+    "info": {
+      "vector": "[4-0-0:4]",
+      "description": "Introduction to theoretical methods for quantum many-body systems. Perturbative methods, like Green's functions and diagrammatics, will be introduced. Topics in response theory and quantum magnetism will be covered. More modern, entanglement-based approaches, like tensor networks, will also be discussed.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the basic principles for perturbative treatment of a quantum many-body system.</td></tr><tr><td>2.</td><td>Compute physical properties of certain paradigmatic quantum systems.</td></tr><tr><td>3.</td><td>Discuss how simplified models of real materials arise.</td></tr><tr><td>4.</td><td>Identify possible approximate methods for treating an interacting system.</td></tr><tr><td>5.</td><td>Connect the notion of quantum entanglement with quantum phases of matter.</td></tr><tr><td>6.</td><td>Apprehend, assimilate, and articulate latest research developments in quantum science.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1527)",
+        "Date & Time": "TuTh 01:30PM - 03:20PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "PO, Adrian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "5810",
+    "name": "Modern Semiconductor Physics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "NANO 5200",
+      "co-list with": "NANO 5200",
+      "description": "Detailed explanations of the electronic, vibrational, transport, and optical properties of semiconductors based on quantum mechanics. Emphasis on nanostructured heterostructures, quantum size and low-dimensional effects, and application to modern electronics and opto-electronics.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply the fundamental knowledge from Quantum Mechanics and Solid State Physics to explain new physical phenomena and new or improved device operations that low dimensional semiconductor heterostructures can offer.</td></tr><tr><td>2.</td><td>Explain the basic principles of common experimental methods for structural, electrical and optical characterizations of low dimensional semiconductor heterostructures.</td></tr><tr><td>3.</td><td>Demonstrate the team work, independent learning, and scientific presentation skills.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1528)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "WANG, Jiannong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "6100A",
+    "name": "Individual Study in Physics",
+    "units": 1,
+    "info": {
+      "vector": "[1 credit]",
+      "description": "This course covers in-depth study on topics selected by the instructor on the basis of individual postgraduate student's request. The instructor's approval is required for taking this course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1529)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WANG, Yi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 1,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "6100B",
+    "name": "Individual Study in Physics",
+    "units": 1,
+    "info": {
+      "vector": "[1 credit]",
+      "description": "This course covers in-depth study on topics selected by the instructor on the basis of individual postgraduate student's request. The instructor's approval is required for taking this course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1530)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WANG, Yi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "6771",
+    "name": "Professional Development in Physics",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "exclusion": "PHYS 6000, PHYS 6770",
+      "description": "This one-credit course aims at providing physics research postgraduate students discipline-specific trainings such as ethics, teaching skills, research management, career development, entrepreneurship and other professional skills. Graded PP, P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate the basic skills for research management.</td></tr><tr><td>2.</td><td>Apply basic knowledge for teaching.</td></tr><tr><td>3.</td><td>Demonstrate the basic skills for planning career development.</td></tr><tr><td>4.</td><td>Apply knowledge in entrepreneurship and innovation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1531)",
+        "Date & Time": "Tu 03:30PM - 05:20PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "WONG, Kam Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 110,
+        "Enrol": 104,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "6810M",
+    "name": "Soft-condensed Matter Physics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Soft-condensed matter is one of the frontier fields in science nowadays and is the \ngateway to the vast field of bio-related sciences and new materials. Topics \ninclude: theory of solution, polymer chains and gels, surface tension and wetting, \nliquid crystals, colloid and Brownian motion, thermal fluctuations and diffusion. \nUndergraduate knowledge of thermodynamics and statistical physics are pre-\nrequisite. Emphasis will be on establishing the fundamental concepts and \nprinciples as well as training te necessary theoretical tools for research in soft-\nmatter systems."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1532)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2126D, Lift 19 (34)",
+        "Instructor": [
+          "LAI, Pik Yin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 34,
+        "Enrol": 0,
+        "Avail": 34,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate research contriutions in form of a thesis.</td></tr><tr><td>2.</td><td>Demonstrate research achievements, on knowledge in advanceing a research field related to physics, in the form of thesis.</td></tr><tr><td>3.</td><td>Defend the research achievements and contributions through seminar or oral examination.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1533)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate research contriutions in form of a thesis.</td></tr><tr><td>2.</td><td>Demonstrate original research achievements with impact on a research field related to physics, in the form of thesis.</td></tr><tr><td>3.</td><td>Defend the research achievements and contributions through seminar or oral examination.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1534)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 73,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,933 @@
+[
+  {
+    "program": "OCES",
+    "code": "1001",
+    "name": "The Earth as a Blue Planet",
+    "units": 3,
+    "info": {
+      "attributes": "[BLD] Blended learning",
+      "description": "The ocean is the largest life supporting habitat on Earth, and yet, it is less explored than the surface of the moon. This survey course introduces students to the fundamental, cross-disciplinary knowledge of our ocean from its formation, to the physics in circulation and climate modulation, to the chemistry and biology of the living systems within."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3708)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "LAM, Ka Sin Cindy",
+          "LI, Jiying",
+          "MAK, Julian",
+          "USHIO, Masayuki",
+          "WU, Longjun",
+          "YAU, Sin Ting Cynthia",
+          "YUNG, Charmaine",
+          "ZHANG, Qiong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 83,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "1010",
+    "name": "Principles and Applications of Environmental Science",
+    "units": 3,
+    "info": {
+      "exclusion": "OCES 1030",
+      "description": "This course aims to provide students with a science background to learn and address the environmental issues caused by humans. Key topics include emerging global, regional and local environmental issues; renewable and non-renewable energy; life-supporting systems of our planet and its biodiversity; atmosphere, air pollution and global climate change; water resources and water pollution; ocean plastics and solid waste management; environmental health and toxicology. Through the course, students will be able to understand fundamental knowledge of the inter-relationship between life and our environment, the characteristics of the environmental sustainability, pollution and monitoring measures, and technologies used in pollution control and remediation."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3709)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "HE, Ding",
+          "LI, Jiying",
+          "WU, Longjun",
+          "ZHANG, Qiong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 175,
+        "Enrol": 101,
+        "Avail": 74,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "1030",
+    "name": "Environmental Science",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SSC-S&T) for 36-credit program<br>Common Core (S) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "exclusion": "LIFS 1030, OCES 1010",
+      "previous code": "CORE 1140",
+      "description": "The course introduces students without a science background to the general concepts of environment, natural resources, and sustainable development. Topics include pressing global, regional and local environmental issues; renewable and non-renewable energy; life-supporting systems of our planet and its biodiversity; atmosphere, air pollution and global climate change; water resources and pollution; ocean plastics and solid waste management; environmental health and toxicology. Throughout the course, students will gain a sufficient background and a better understanding of the root causes of key environmental issues. They will also become more aware of their role, as individuals, in environmental protection and sustainable development."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3710)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Lecture Theater J (300)",
+        "Instructor": [
+          "LAM, Ka Sin Cindy",
+          "YAU, Sin Ting Cynthia"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 200,
+        "Enrol": 0,
+        "Avail": 200,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "2002",
+    "name": "Marine Chemistry",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 1030",
+      "description": "This course is an introduction to chemical oceanography. It describes the chemistry of the ocean based on distribution and dynamics of elements, isotopes, atoms and molecules. This ranges from fundamental physical, thermodynamic and kinetic chemistry to two-way interactions of ocean chemistry with biological, geological and physical processes. It encompasses both inorganic and organic chemistry, and includes studies of ocean-atmosphere dynamics and marine sediments. Non-OST students may enroll in the course upon instructor’s approval only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3711)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "LI, Jiying",
+          "WYATT, Alex"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 20,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "2003",
+    "name": "Descriptive Physical Oceanography",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(PHYS 1111 OR PHYS 1112 OR PHYS 1312) AND (MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023)",
+      "description": "This course is an introduction to physical oceanography that includes topics such as physical description of the sea, physical properties of seawater, methods and measurements, wind-driven ocean circulation, abyssal ocean circulation, boundary processes, and wave motions. Large-scale distributions and processes that are central to the ocean’s role in Earth’s climate and biosphere will also be addressed and discussed."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3712)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "MAK, Julian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 17,
+        "Avail": 23,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "3001",
+    "name": "Coastal Environmental Monitoring",
+    "units": 3,
+    "info": {
+      "pre-requisite": "OCES 2001",
+      "previous code": "ENVS 3001",
+      "description": "Students will gain hands-on experience in field survey and sampling, laboratory studies including physical, chemical and biological analyses, experimental design, as well as data analyses and presentations. Course topics include coastal survey, water quality monitoring, marine sediment quality monitoring, etc."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3714)",
+        "Date & Time": "We 01:30PM - 02:20PM",
+        "Room": "UG002, CYT Bldg",
+        "Instructor": [
+          "LAM, Ka Sin Cindy"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 41,
+        "Enrol": 41,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3713)",
+        "Date & Time": "We 02:30PM - 05:20PM",
+        "Room": "UG002, CYT Bldg",
+        "Instructor": [
+          "LAM, Ka Sin Cindy"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 41,
+        "Enrol": 41,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "3201",
+    "name": "Biological Oceanography",
+    "units": 3,
+    "info": {
+      "pre-requisite": "OCES 2001 AND (OCES 3160 OR LIFS 3160 (prior to 2021-22))",
+      "description": "This course examines major patterns and processes in coastal, benthic, and upper ocean pelagic ecosystems. We will explore mechanisms that control abundances and distribution of organisms, from plankton to fishes, including a brief survey of ecosystem models. This course will also cover human-impacts on the ocean and highlight interdisciplinary management tools."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3715)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 5506, Lift 25-26 (30)",
+        "Instructor": [
+          "LIU, Hongbin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 3,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "3203",
+    "name": "Physical Oceanography",
+    "units": 3,
+    "info": {
+      "pre-requisite": "OCES 2003 AND {MATH 2350 OR [(MATH 2111 OR MATH 2121 OR MATH 2131)\r\nAND (MATH 2351 OR MATH 2352)]}",
+      "description": "This course adopts mathematical tools and laws of physics to unlock various oceanic motions with different temporal and spatial scales. Students will learn thermodynamic properties of seawater, equations of motion of stratified and rotating fluid, boundary current and Ekman transport, planetary waves, and eddy-mean flow interactions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3717)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "WANG, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "3301",
+    "name": "Data Analysis in Ocean Science",
+    "units": 3,
+    "info": {
+      "pre-requisite": "COMP 1021 OR COMP 1029P",
+      "description": "The goal of the course is to learn basic numerical analysis tools needed to compute and practice simple techniques for analyzing oceanographic data. These analysis include basic statistics, curve fitting, and simple graphics. Students will learn these techniques through examples from ocean data sets. Students will learn to conduct these analyses with Python or R and are not assumed to have experience in programming."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3718)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "Rm 4402, Lift 17-18",
+        "Instructor": [
+          "MAK, Julian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 6,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "4001",
+    "name": "Ocean and Climate Change",
+    "units": 3,
+    "info": {
+      "pre-requisite": "OCES 2001 AND OCES 2003",
+      "previous code": "ENVS 3004",
+      "description": "Ocean is the largest carbon reservoir on the Earth. It plays a central role in regulating the global climate but is currently under severe anthropogenic stress. This course provides students with relevant scientific background in ocean and climate, which enables them to understand the past, present and future climate changes. The impacts of human-induced changes of ocean and climate will also be investigated."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3719)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "LI, Jiying",
+          "WANG, Yan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 19,
+        "Avail": 21,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "4103",
+    "name": "Fisheries and Aquaculture",
+    "units": 3,
+    "info": {
+      "description": "Fisheries and Aquaculture introduces the science behind capture fisheries and aquaculture production, from both a global and local perspective. Topics covered include the different types of fishing gears and methods commonly employed, the biology of fisheries resources (including finfish and shellfish), stock assessment, the basics of fish population modeling, and some emerging techniques such as environmental DNA-based fish monitoring methods. Students will learn about the diversity of fishery resources, as well as the status, operation, and sustainable management of capture fisheries. They will also explore the role of aquaculture in food production, its economics, and mariculture operations."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3720)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 2126D, Lift 19 (34)",
+        "Instructor": [
+          "USHIO, Masayuki",
+          "YAU, Sin Ting Cynthia"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3720)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 2126D, Lift 19 (34)",
+        "Instructor": [
+          "USHIO, Masayuki",
+          "YAU, Sin Ting Cynthia"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "4202",
+    "name": "Marine Biotechnology",
+    "units": 3,
+    "info": {
+      "description": "The goal of this course is provide the students a comprehensive understanding of marine biotechnology. The students will be able to learn the basic concepts of marine biodiversity, biotechnology, and the production of different compounds. At the end of this course, the students will be able to evaluate the importance of marine resources and propose a sustainable way to utilize them."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3721)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "ZENG, Qinglu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 1,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "4204",
+    "name": "Coral Reef Ecosystem Science",
+    "units": 4,
+    "info": {
+      "pre-requisite": "OCES 3003 AND OCES 3160",
+      "description": "This course provides a grounding in the theory required for comprehensive multi-disciplinary study of subtidal coastal ecosystems. Using coral reefs as an example, lectures will explore global values and threats on coral reefs, the physical, biogeochemical and ecological factors controlling their structure and function, and how to study these factors using integrative, multi-disciplinary research based on the concepts of ecosystem science. For OST students in their third or fourth year of study only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3722)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "G003, CYT Bldg (30)",
+        "Instructor": [
+          "WYATT, Alex"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 3,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "4205",
+    "name": "Chemical Oceanography",
+    "units": 3,
+    "info": {
+      "pre-requisite": "OCES 2001 AND OCES 2002",
+      "previous code": "OCES 3202",
+      "description": "This course focuses on the major biogeochemical processes in the coastal, benthic, and upper ocean pelagic ecosystems that control the abundances, distribution and transformation of chemical substances. The impacts of human activities and climate change on these processes will be discussed. The use of isotope tracers as a tool to investigate the age and sources of water masses will be illustrated."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4261)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "LI, Jiying",
+          "WYATT, Alex"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Co-list with OCES 5300"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "4301",
+    "name": "Environmental Conservation",
+    "units": 3,
+    "info": {
+      "pre-requisite": "OCES 3160 OR [LIFS 3160 (prior to 2021-22)]",
+      "previous code": "ENVS 4301",
+      "description": "This course covers the essential topics of environmental conservation, which includes biodiversity, ecosystems, environmental ethics and economics, environmental policy, resource management, and conservation biology. Case studies from Hong Kong and other regions will be investigated. For LIFS and OST students in their third or fourth year of study only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3723)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "LAM, Ka Sin Cindy",
+          "YAU, Sin Ting Cynthia"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 2,
+        "Avail": 38,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "4320",
+    "name": "Marine Toxicology",
+    "units": 3,
+    "info": {
+      "pre-requisite": "OCES 2002",
+      "description": "Marine toxicology aims to provide fundamental concepts in the toxicology of marine pollution, with focuses on the general properties and principles of persistent and or toxic substances commonly encountered in the marine environment and in the biota, and their effects on humans and their actions and movement in the marine environment. How chemicals are absorbed, distributed, metabolized, and eliminated by the biological organisms in the marine environment will be examined. The biological response to the toxicants and its mechanisms will be covered. Knowledge and techniques in the monitoring, measurement and management of toxicants and pollutants in the marine environment will be discussed."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3724)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "HE, Ding",
+          "ZHANG, Qiong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 3,
+        "Avail": 27,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "4964",
+    "name": "Ocean Science and Technology Capstone Project Research",
+    "units": 3,
+    "info": {
+      "description": "Under the supervision of a faculty member, students will undertake a project about ocean science and technology. The project can be delivered through the format of literature review or research. Students are required to submit a written report. Subject to the nature of the project, students may be required to give oral presentation as well. For OST students in their third and fourth year of study only. Instructor’s approval is needed for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (3725)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "4984",
+    "name": "Ocean Science and Technology Research Project II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "OCES 4974",
+      "description": "This course is a continuation of OCES 4974 in which students will undertake a research project about ocean science and technology under faculty supervision. Through the reading of scientific literature, field/laboratory studies, meetings with supervisors, and presentations in laboratory meetings, students will learn the latest knowledge in their chosen field of research and the skills in hypothesis synthesis and testing, experimental design, data collection and analysis, and scientific communication. Students will be evaluated for their performance through continuous assessment by the supervisor and a written report to be submitted at the end of the course. For OST students in their fourth year of study only. Instructor’s approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (3726)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "5100",
+    "name": "Biological Oceanography",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This is an advanced biological oceanography course aimed at first-year post-graduate students. The objectives of this course are to introduce the field of biological oceanography and explore how interactions between biology, chemistry and physics regulate the structure, function and productivity of marine ecosystems.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe major processes in biological oceanography.</td></tr><tr><td>2.</td><td>Identify the biotic and abiotic factors controlling primary productivity.</td></tr><tr><td>3.</td><td>Understand the principles and methodologies of marine genomics.</td></tr><tr><td>4.</td><td>Demonstrate knowledge and ability to read and critically evaluate research articles in biological oceanography.</td></tr><tr><td>5.</td><td>Communicate scientific ideas effectively in written and oral formats.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1499)",
+        "Date & Time": "Th 09:00AM - 11:50AM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "YUNG, Charmaine",
+          "ZENG, Qinglu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "5200",
+    "name": "Physical Oceanography",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "OCES 5001",
+      "description": "An advanced physical oceanography course aimed at first-year post-graduate students. It covers fundamental concepts including quasi-geostrophic approximation, barotropic and baroclinic instabilities, eddy-mean ﬂow interactions, ocean gyres and western intensification, and meridional overturning circulations. The course will lay a solid theoretical foundation for scientific researches in physical oceanography.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe various oceanic processes and the associated physical mechanisms.</td></tr><tr><td>2.</td><td>Identify dynamic regimes and scalings in physical oceanography.</td></tr><tr><td>3.</td><td>Analyze the interactions between oceanic processes using mathematical and numerical tools.</td></tr><tr><td>4.</td><td>Evaluate and implement theories of physical oceanography via numerical tools.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1500)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "MAK, Julian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 0,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "5300",
+    "name": "Chemical Oceanography",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "OCES 5001",
+      "description": "This course provides a detailed foundation in chemical oceanography, which is an essential interdisciplinary component of understanding ocean processes across a multitude of different spatial and temporal scales. It will examine the ocean as a chemical system in which the inputs, outputs, and internal cycling of the elements determine their concentrations and distributions. It will also cover chemical processes that are essential in biological systems, control the geology of the planet, and provide key tracers for understanding past, present and future ocean conditions.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate an understanding of the physical, chemical and biological processes affecting the distribution of chemical parameters in the ocean.</td></tr><tr><td>2.</td><td>Demonstrate an understanding of the importance, major forms, distribution, measurement and cycling of inorganic nutrients, dissolved organic matter and trace elements in the oceans.</td></tr><tr><td>3.</td><td>Explain how chemical tracers are used to determine the geological, physical and biological characteristics of present and past oceans.</td></tr><tr><td>4.</td><td>Identify how chemical processes interact with other fundamental areas of oceanography (physical, biological) and inform marine environmental science.</td></tr><tr><td>5.</td><td>Understand and think critically about recent research in biogeochemical oceanography and able to integrate the latest information into ongoing research.</td></tr><tr><td>6.</td><td>Demonstrate familiarity with biogeochemical oceanographic approaches for data collection and interpretation.</td></tr><tr><td>7.</td><td>Use written and oral communication to clearly explain biogeochemical processes in the ocean and related contemporary research questions.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1501)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "HE, Ding",
+          "LI, Jiying",
+          "WYATT, Alex"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: Room 1410",
+          "Co-list with OCES 4205"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "5320",
+    "name": "Ecotoxicology",
+    "units": 4,
+    "info": {
+      "vector": "[3-1-0:4]",
+      "exclusion": "ENVS 5113",
+      "previous code": "LIFS 5320",
+      "description": "To study the impact and toxic effects of pollutants on diversity, growth and metabolism of living organisms and the ecosystem as a whole.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Define the scope of ecotoxicology study and recognize the major classes of pollutants.</td></tr><tr><td>2.</td><td>Describe the major concepts in ecotoxicology study, such as the entry and fate, bioaccumulation and bioavailability.</td></tr><tr><td>3.</td><td>Describe the ecological and biological responses of pollutants at different levels.</td></tr><tr><td>4.</td><td>Demonstrate methods in conducting ecotoxicology research, such as the kinetic modelling, biomonitoring, toxicity testing, biomarkers and toxicity mechanisms study.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1502)",
+        "Date & Time": "We 12:00PM - 02:50PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "HE, Ding",
+          "ZHANG, Qiong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1503)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "HE, Ding",
+          "ZHANG, Qiong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "5401",
+    "name": "Sustainable Fisheries and Aquaculture",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "The course gives an overview of marine capture fisheries and aquaculture with case studies from around the world and from Hong Kong, exploring the diversity and biology of exploited fish and invertebrate species important in commercial production. The inter-relationship between the marine environment, biological oceanographic processes, and fish productivity is examined. Basic principles of stock assessment and management methods are introduced, with emphasis on how to ensure long-term sustainability of fishery and aquaculture resources.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the diversity and biology of some exploited fishery resources.</td></tr><tr><td>2.</td><td>Recognize the importance of fisheries and aquaculture to human society in terms of food security and socioeconomics.</td></tr><tr><td>3.</td><td>Comprehend the relationship between fisheries productivity and marine ecological processes.</td></tr><tr><td>4.</td><td>Explain how fisheries and aquaculture production impacts marine populations and communities.</td></tr><tr><td>5.</td><td>Apply basic knowledge of common fishing and aquaculture techniques.</td></tr><tr><td>6.</td><td>Describe the principles of fish stock assessment and management models.</td></tr><tr><td>7.</td><td>Summarize and critically evaluate the impacts of various fisheries and aquaculture practices.</td></tr><tr><td>8.</td><td>Explain the concept of sustainable fisheries and appreciate why fisheries need to be managed.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1504)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 2131C, Lift 19 (28)",
+        "Instructor": [
+          "YAU, Sin Ting Cynthia"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GMRM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "5402",
+    "name": "Marine Resources Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course will cover a broad spectrum of concepts and practices in marine resources management. It starts with the types of resources available in different kinds of coastal environments, fundamental concepts and elements in integrated coastal management (ICM), followed by various aspects in resources utilization. Intergovernmental, institutional, legal and financial considerations in marine resources management will be covered.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify in-depth and up-to-date knowledge in the field of marine resources management.</td></tr><tr><td>2.</td><td>Recognize the importance of managing marine resources sustainably.</td></tr><tr><td>3.</td><td>Recognize the advanced methodologies and technologies employed in ocean surveying and ocean spatial planning.</td></tr><tr><td>4.</td><td>Apply the knowledge learnt to evaluate current coastal policies and maritime strategies; and to recommend new policies in response to local and global emerging threats.</td></tr><tr><td>5.</td><td>Critically assess and evaluate new research ideas, communicate effectively with scientific community on marine resources management topics.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1505)",
+        "Date & Time": "Tu 02:00PM - 04:50PM",
+        "Room": "Rm 2126B, Lift 19 (28)",
+        "Instructor": [
+          "LAU, Stanley Chun Kwan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GMRM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "5403",
+    "name": "Deep Sea Resources",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course is designed for first-year postgraduate students. The objective of this course is to introduce the geology of the deep sea, the mining of deep sea resources, the diversity of organisms in the deep sea, the sampling of deep sea organisms, and how the deep sea resources should be regulated and protected.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the major resources in the deep sea.</td></tr><tr><td>2.</td><td>Explain the interactions between the geological, biological and chemical components in the deep sea environment.</td></tr><tr><td>3.</td><td>Identify the right methodology of utilizing resources in the deep sea.</td></tr><tr><td>4.</td><td>Explain the ecological importance of deep sea resources.</td></tr><tr><td>5.</td><td>Analyze data and to take samples from the deep sea.</td></tr><tr><td>6.</td><td>Communicate scientific ideas effectively on deep sea management and regulation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1506)",
+        "Date & Time": "Mo 02:00PM - 04:50PM",
+        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Instructor": [
+          "LAU, Stanley Chun Kwan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GMRM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "6011F",
+    "name": "Postgraduate Seminar",
+    "units": 1,
+    "info": {
+      "vector": "[1 credit]",
+      "description": "Advanced seminar series presented by postgraduate students, faculty and guest speakers on selected topics in marine environmental science offered in Fall/Spring terms. This course may be repeated for credit. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1507)",
+        "Date & Time": "Th 05:00PM - 05:50PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "HE, Ding",
+          "YUNG, Charmaine",
+          "ZHANG, Qiong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "6111",
+    "name": "Research Project in Global Marine Resources Management I",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "This course enables students to conduct an independent project in selected areas of marine resources management under the supervision of one or more faculty members. This course is the first part of a two-term research project. Students shall consult the list of topics provided by the faculty members and choose to perform a research project and formulate an individual study plan. This course is for MSc(GMRM) students only.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify research questions related to marine resources management.</td></tr><tr><td>2.</td><td>Use relevant scientific literature.</td></tr><tr><td>3.</td><td>Collect data for evaluation and for statistical treatment, if relevant.</td></tr><tr><td>4.</td><td>Formulate an individual research plan.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1508)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LAU, Stanley Chun Kwan",
+          "LEUNG, Shui Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GMRM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "6770",
+    "name": "Professional Development in Marine Science",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "exclusion": "ENVS 6770",
+      "description": "This course aims at providing research postgraduate students basic training in scientific ethics in marine research studies, research management, professional career development, and related professional skills. Guest speakers from various professional areas will be invited to share their career paths in professional career developments. Students will have chances to connect to talents in various professional areas. Graded PP, P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify marine science research study topics at HKUST.</td></tr><tr><td>2.</td><td>Apply marine science research resources and facilities at HKUST.</td></tr><tr><td>3.</td><td>Recognize the importance of scientific ethics in marine science research.</td></tr><tr><td>4.</td><td>Explain specific research skills in marine science.</td></tr><tr><td>5.</td><td>Demonstrate basic job hunting skills.</td></tr><tr><td>6.</td><td>Explain academic/industrial career opportunities in marine science.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1509)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "ZENG, Qinglu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "previous code": "ENVS 6990",
+      "description": "Master's thesis research supervised by a faculty member. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate understanding of the fundamentals of ocean science and an ability to identify critical scientific questions in a subfield of ocean science.</td></tr><tr><td>2.</td><td>Develop scientific hypotheses through literature review.</td></tr><tr><td>3.</td><td>Develop research methodology through laboratory or field experiments, or model simulations.</td></tr><tr><td>4.</td><td>Execute reliable data collection and analysis using laboratory, theoretical, and/or computational techniques necessary to test the hypotheses developed.</td></tr><tr><td>5.</td><td>Demonstrate a capability to solve real problems and achieve scientific goals by presenting results in a research seminar, a scientific conference, or an international academic journal.</td></tr><tr><td>6.</td><td>Make a contribution to the advancement of a subfield of ocean science.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1510)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 22,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "OCES",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "previous code": "ENVS 7990",
+      "description": "Original and independent doctoral thesis research. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate understanding of the fundamentals of ocean science and an ability to identify critical scientific questions in a subfield of ocean science.</td></tr><tr><td>2.</td><td>Develop scientific hypotheses through comprehensive literature review.</td></tr><tr><td>3.</td><td>Develop research methodology through independent laboratory and field experiments, or model simulations, using innovative technologies or novel approaches.</td></tr><tr><td>4.</td><td>Execute reliable data collection and analysis using laboratory, theoretical, and/or computational techniques, and demonstrate the ability to interpret and synthesise the results through critical thinking in the context of the hypotheses developed.</td></tr><tr><td>5.</td><td>Demonstrate a capability to solve complex scientific questions and achieve significant advancements in a subdiscipline of ocean science by successfully defending the dissertation.</td></tr><tr><td>6.</td><td>Develop skills to communicate concepts and research results such as through presentation in scientific conferences and publication of research papers in high impact academic journals.</td></tr><tr><td>7.</td><td>Make a significant contribution to the advancement of a subfield of ocean science and explore its potential impact beyond basic science in terms of benefits to nature and the society.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1511)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 63,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+    "program": "CHMS",
+    "code": "5050",
+    "name": "Optical and Electrical Methods",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Molecular spectroscopies; Vibrational (IR and Raman) and Electronic (UV-vis) spectroscopy; Fluorescence; Electrochemical analysis; REDOX chemistry and bio-chemistry; Electrochemical measurements; pH measurements; Design and use of sensors.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Assess the utility of various spectroscopies based on molecular vibrations, rotations and electronic transitions, for the detailed analytical information they provide.</td></tr><tr><td>2.</td><td>Apply symmetry analysis, where necessary, to aid interpretation of molecular spectra, such as IR and Raman.</td></tr><tr><td>3.</td><td>Select appropriate spectroscopic protocols based on the nature of the sample - whether solid, liquid or gas, and the concentration of analyte to be detected.</td></tr><tr><td>4.</td><td>Explain the nature of REDOX reactions and how these can be applied to analytical titrations, ion sensing or biochemical analyses.</td></tr><tr><td>5.</td><td>Compare the physical and working principles behind different types of electrochemical sensors. </td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1073)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 2407, Lift 17-18 (126)",
+        "Instructor": [
+          "NAGL, Stefan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ANCHEM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHMS",
+    "code": "5111",
+    "name": "Environmental Analysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CHMS 5110 (prior to 2021-22)",
+      "description": "Environmental sampling; Trace analysis; Air analysis; Water analysis; Soils analysis; Gas-phase components and major air pollutants; Toxins and pesticides; Aerosols and particulates; Assessing general health of water and soil systems; Recent advances in environmental techniques; Numerical analysis of environmental problems.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Analyze general air, water, and soil quality parameters.</td></tr><tr><td>2.</td><td>Identify and quantify trace components in an environmental sample.</td></tr><tr><td>3.</td><td>Differentiate appropriate sampling techniques for environmental analytes.</td></tr><tr><td>4.</td><td>Appraise measurement protocols for environmental analytes.</td></tr><tr><td>5.</td><td>Compare classical methods of environmental analysis with modern alternatives.</td></tr><tr><td>6.</td><td>Critique and environmental analytical case study by oral presentation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1074)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "NAGL, Stefan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ANCHEM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHMS",
+    "code": "5112",
+    "name": "Food and Drug Analysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CHMS 5110 (prior to 2021-22)",
+      "description": "Chemical Analysis of Food and Beverages; Food composition; Food contaminants; Food Preservation; Analytical Methods in Food Analysis; Food Safety and Labeling; Drug and Pharmaceutical Analysis; Physio-chemical Properties of Drugs; Analytical Methods in Pharmaceutical Analysis; Biomedical and Forensic analysis of Drugs; Analysis of Traditional Chinese Medicine; Drug formulation.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Classify parts of food composition including major components, additives and contaminants.</td></tr><tr><td>2.</td><td>Appraise methods of food and drug analysis for purpose.</td></tr><tr><td>3.</td><td>Identify and quantify food components, additives, contaminants and toxins by relying on instrumental methods.</td></tr><tr><td>4.</td><td>Analyze active pharmaceutical ingredients and common excipients.</td></tr><tr><td>5.</td><td>Qualify and quantify pharmaceutical in biological fluids, environmental systems and forensic samples.</td></tr><tr><td>6.</td><td>Characterize Traditional Chinese Medicines, their components and contaminants.</td></tr><tr><td>7.</td><td>Prepare an oral critique of a food or pharmaceutical analytical case study.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1075)",
+        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "CHAN, Simon Wan",
+          "GUO, Zhihong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ANCHEM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHMS",
+    "code": "5120",
+    "name": "Macromolecular Analysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Polymer and Bio-molecular Techniques; Polymer separation; Gel permeation chromatography; Affinity chromatography; Polymer characterization; Molecular weight and distribution; DNA and protein analysis.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Classify the major types of polymer and how their structure and physical properties affect the approach to their characterization and analysis.</td></tr><tr><td>2.</td><td>Contrast the separation methods applied to macromolecular samples with those for mixtures of small molecules.  </td></tr><tr><td>3.</td><td>Describe approaches to polymer molecular weight analysis and distinguish information on average molecular weight from molecular weight distribution.</td></tr><tr><td>4.</td><td>Illustrate the main methods for protein separations and amino-acid sequencing. </td></tr><tr><td>5.</td><td>Explain how protein 3D structural details can be derived from modern X-ray crystallography.</td></tr><tr><td>6.</td><td>Compare the main methods for poly-nucleic acid (DNA, RNA) analysis and base-pair sequencing.</td></tr><tr><td>7.</td><td>Illustrate how functional groups or residues in polymers or biopolymers can be detected spectroscopically and assist in characterization.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1076)",
+        "Date & Time": "Mo 01:30PM - 04:20PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "LI, Arnold",
+          "TSANG, Ming Wai Emily"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ANCHEM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHMS",
+    "code": "5130",
+    "name": "Materials Analysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Electron Microscopies: TEM; Electron diffraction; SEM; STEM; STM; AFM. Nano-materials characterization. Thin film characterization. X-ray diffraction; powder XRD; Single crystal structure determination; SAXS.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Classify materials based on their nature and composition and identify the most appropriate techniques for their characterization and analysis.</td></tr><tr><td>2.</td><td>Compare and contrast the use of various types of microscopy to analyze materials.</td></tr><tr><td>3.</td><td>Discuss the use of appropriate techniques to study and analyze thin films, nanoparticular materials and defects in solids.</td></tr><tr><td>4.</td><td>Describe the main structure types for crystalline metals, ceramic and organic molecular compounds and explain how they and defects within them can be analyzed.</td></tr><tr><td>5.</td><td>Demonstrate the principle behind the use of X-ray diffraction in crystal structure determination of materials.</td></tr><tr><td>6.</td><td>Illustrate how powder X-ray diffraction is a useful fingerprint analysis tool for crystalline solids from metal alloys to minerals to pharmaceuticals.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1077)",
+        "Date & Time": "Th 01:30PM - 04:20PM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "HALPERT, Jonathan Eugene",
+          "WILLIAMS, Ian Duncan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ANCHEM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHMS",
+    "code": "5140",
+    "name": "Laboratory Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Good lab practices (GLP); Laboratory Safety; Risk assessment; Lab waste management; Computer-assisted Lab Info Systems; Professional development case studies: Safety officer; Lab Manager.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Assess whether a commercial, academic or government laboratory is following Good Laboratory Practices (GLP) with appropriate regard to safety, environmental and legal compliance issues.</td></tr><tr><td>2.</td><td>Evaluate existing risk assessment protocols for an experimental procedure, and where appropriate, propose modifications for improvement.</td></tr><tr><td>3.</td><td>Devise new laboratory protocols and guidelines for safe operation of hazardous equipment, and instigate appropriate engineering controls for the handling of hazardous substances, and wherever possible, their minimization or substitution.</td></tr><tr><td>4.</td><td>Re-design existing procedures for the reduction (or elimination) of hazardous waste, and where necessary, implement plans for its safe handling and legal disposal.</td></tr><tr><td>5.</td><td>Identify shortcomings of existing analytical procedures, and where necessary, modify them to meet local or international accreditation standards. </td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1078)",
+        "Date & Time": "We 07:00PM - 09:50PM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "LI, Arnold"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ANCHEM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHMS",
+    "code": "5201",
+    "name": "Analytical Instrumentation Laboratory I",
+    "units": 3,
+    "info": {
+      "vector": "[0-1-6:3]",
+      "description": "Students will choose from an array of experiments involving modern analytical techniques that have been introduced in the core courses. These will include, but not be limited to, separation of mixtures, gc-ms, lc-ms, atomic spectroscopy and elemental analysis, IR and UV spectroscopy, electrochemistry, NMR, powder XRD. Students must attend and write up experimental reports for at least eight laboratory sessions to complete the course. Maybe graded PP.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply a variety of chromatographic methods to separate and analyze compounds.</td></tr><tr><td>2.</td><td>Use various spectroscopic and other analytical methods to identify unknown components of a sample.</td></tr><tr><td>3.</td><td>Establish appropriate calibration curves to enable more accurate analysis results.</td></tr><tr><td>4.</td><td>Combine experimental data to derive qualitative and quantitative analytical results, with appropriate statistical handling of errors and uncertainties based on multiple measurements.</td></tr><tr><td>5.</td><td>Fully report experimental protocols and correlate, tabulate and present analytical results clearly in a written report.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1080)",
+        "Date & Time": "Sa 10:00AM - 10:50AM",
+        "Room": "TBA",
+        "Instructor": [
+          "LI, Arnold",
+          "TUNG, Joanne Wai Ting"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1079)",
+        "Date & Time": "Sa 11:00AM - 04:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LI, Arnold",
+          "TUNG, Joanne Wai Ting"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ANCHEM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHMS",
+    "code": "5202",
+    "name": "Analytical Instrumentation Laboratory II",
+    "units": 3,
+    "info": {
+      "vector": "[0-1-6:3]",
+      "pre-requisite": "CHMS 5201",
+      "description": "Students will choose from a further array of experiments, complementary to CHMS 5201, involving analytical techniques that have been introduced in either the core and the elective courses. Students must attend and write up experimental reports for at least eight laboratory sessions to complete the course. Maybe graded PP.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Critically analyze experimental protocols and procedures for likely or possible sources of error.</td></tr><tr><td>2.</td><td>Apply and extend existing analytical protocols to the analysis of new compounds or mixtures. </td></tr><tr><td>3.</td><td>Formulate the design, testing and validation of new analytical procedures or protocols.</td></tr><tr><td>4.</td><td>Carry out a risk assessment exercise for new experiments and analyses.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1082)",
+        "Date & Time": "Sa 10:00AM - 10:50AM",
+        "Room": "TBA",
+        "Instructor": [
+          "LI, Arnold",
+          "TUNG, Joanne Wai Ting"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1081)",
+        "Date & Time": "Sa 11:00AM - 04:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LI, Arnold",
+          "TUNG, Joanne Wai Ting"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ANCHEM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHMS",
+    "code": "6980",
+    "name": "Analytical Research Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Students will undertake a research project in an area related to analytical chemistry under the supervision of a faculty member. Expected time spent on the project (background, planning, execution and write-up/presentation) is 100 hours. Students will submit a written report and the results will be orally presented on completion.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Execute an experimental plan to test a scientific hypothesis and modify this plan based on the results obtained.</td></tr><tr><td>2.</td><td>Critically analyze the experimental data they have developed through the course of their project.</td></tr><tr><td>3.</td><td>Summarize the results of a research project in a written report, highlighting the rationale, methodology and comparison to existing work.</td></tr><tr><td>4.</td><td>Carry out independent research involving various analytical techniques.</td></tr><tr><td>5.</td><td>Conduct a risk assessment exercise for a new research project.</td></tr><tr><td>6.</td><td>Present results of a research project making appropriate use of figures, tables and graphs, with summary of background to the work, discussion of the key findings and their relevance. </td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1083)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "NAGL, Stefan",
+          "WILLIAMS, Ian Duncan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(ANCHEM) students only."
+        ]
+      }
+    ]
+  }
+]

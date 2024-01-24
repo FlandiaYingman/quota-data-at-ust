@@ -1,0 +1,115 @@
+[
+  {
+    "program": "BIBU",
+    "code": "1010",
+    "name": "Biotechnology and Business Seminar",
+    "units": 1,
+    "info": {
+      "description": "Study on selected current topics in biotechnology and business through attending seminars in related areas. This course provides a platform for students to interact and learn from different academic and practitioner leaders in both biotechnology and business fields. Graded P or F. For BIBU students only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1760)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHUNG, Kenny K",
+          "SULLIVAN, Bilian NI"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BIBU",
+    "code": "4830",
+    "name": "Biotechnology Management",
+    "units": 3,
+    "info": {
+      "description": "This course provides students with a general outlook of the roles and responsibilities in managing the biotech business. Business constraints like sales and marketing, partnerships, critical success factors in operations, market entry barriers, risk management and relationships with stakeholders will be covered in this course, with special focus on strategic development in the biotech business. Guest speakers will contribute their personal experience to offer a professional view of the key issues, pitfalls and opportunities in their daily business activity. A large use of case studies and other process management techniques will simulate potential scenarios in which students may be called to operate soon after they completed their university career. For BIBU students in their fourth year of study only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1761)",
+        "Date & Time": "We 09:00AM - 11:50AM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "LEE, Hong Seng Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 40,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BIBU",
+    "code": "4840",
+    "name": "Biotechnology and Business Capstone Project",
+    "units": 3,
+    "info": {
+      "description": "Under the supervision of faculty members, students in small groups will undertake a project to investigate selected topics relevant to the biotechnology industry and its business operations. The project will be delivered through the format of literature review. Course assessment will be based on students’ written report and oral presentation that documents the project work and learning experiences. For BIBU students with approval of the course instructor for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1762)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHUNG, Kenny K",
+          "SULLIVAN, Bilian NI"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 12,
+        "Enrol": 12,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "BIBU",
+    "code": "4850",
+    "name": "Biotechnology and Business Project Research",
+    "units": 6,
+    "info": {
+      "pre-requisite": "LIFS 3110",
+      "description": "This is a one-year course. With a one-on-one supervision by faculty member, students will undertake a research project of their choice in biotechnological innovation/ideas: design of experiments, analysis of data, submission of a business plan/proposal in order to commercialize the selected biotechnological innovation/ideas. Credit load will be spread over the year. For BIBU students with approval of the course instructor for enrolling in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (1763)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHUNG, Kenny K",
+          "SULLIVAN, Bilian NI"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 6,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load is spread in the following pattern: Fall: 3; Spring: 3",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

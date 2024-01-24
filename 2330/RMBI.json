@@ -1,0 +1,558 @@
+[
+  {
+    "program": "RMBI",
+    "code": "1020",
+    "name": "Business Intelligence for Data-Driven Decisions",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (T) for 30-credit program<br>[BLD] Blended learning",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "description": "Business intelligence is a discipline that comprises a set of theories, methodologies and processes to analyze business data with the aim of improving an organization's decision making, business planning and projection. Tomorrow’s employees and executives may not need the advanced skills of a data scientist, but they must be data literate. Therefore, there is a need to bring together data skills and business management by introducing a common core course, specializing at applying data analytics techniques to business scenarios for the implementation of business intelligence. The aim of this course is to introduce the general workflow of business intelligence and various applications of data analytics models in business scenarios. The course also focuses on an analysis of the strengths, limitations, causes and benefits of the use of business intelligence. The course also includes hands-on practical exercises by using data mining and statistics models on real business data sets."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      },
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3854)",
+        "Date & Time": "Mo 04:00PM - 05:50PM",
+        "Room": "G021, LSK Bldg",
+        "Instructor": [
+          "WANG, Jiying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 0,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode"
+        ]
+      },
+      {
+        "Section": "L2 (3856)",
+        "Date & Time": "Mo 01:30PM - 03:20PM",
+        "Room": "G021, LSK Bldg",
+        "Instructor": [
+          "WANG, Jiying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 0,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode"
+        ]
+      },
+      {
+        "Section": "T1 (3858)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WANG, Jiying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 0,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3860)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WANG, Jiying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 0,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "RMBI",
+    "code": "2001",
+    "name": "Academic and Professional Development in Risk Management and Business Intelligence",
+    "units": 0,
+    "info": {
+      "description": "This course is designed to provide academic advising to students throughout their studies in the RMBI program, to enhance their understanding of the industries relevant to Risk Management and Business Intelligence and the related techniques expected by the market. Students are required to attend seminars and discussion sessions. For RMBI students only. Graded P/PP/F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3861)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEN, Kani",
+          "CHEUNG, Ki Ling",
+          "KWOK, James Tin Yau",
+          "WANG, Jiying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 180,
+        "Enrol": 135,
+        "Avail": 45,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "RMBI",
+    "code": "3110",
+    "name": "Introduction to Risk Management and Business Intelligence",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ISOM 2500 or MATH 2411",
+      "description": "This course presents basic concepts and techniques for risk management and business intelligence. Various types of risk such as market risk, credit risk and operational risk are discussed with business applications and regulatory issues. Modern development of business intelligence, data management techniques and related applications like financial analysis, risk assessment, customer relationship management and human capital productivity analysis are also presented."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3862)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 55,
+        "Enrol": 43,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3862)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Rm 1011, LSK Bldg (80)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 55,
+        "Enrol": 43,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3863)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "YIN, Zhendong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 55,
+        "Enrol": 43,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "RMBI",
+    "code": "4110",
+    "name": "Financial Service Operations Management",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(ISOM 2500 OR MATH 2411) AND ISOM 2700",
+      "alternate code(s)": "ISOM 4840",
+      "description": "This course focuses on the products, processes and delivery channels in the financial industries. It analyzes and evaluates the designs and performances of the internal operations and the different distribution channels of the financial institutions, and identifies opportunities for continuous improvement in productivity, efficiency and service quality. Issues like operational risk management, application of IT, automation, outsourcing and new trends in the financial service operations for both financial institutions and non‐financial institutions will be explored."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3864)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "LU, Lijian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 0,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "RMBI",
+    "code": "4220",
+    "name": "Life Contingencies Models and Insurance Risk",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ELEC 2600 OR ISOM 3540 OR MATH 2421 OR MATH 2431",
+      "alternate code(s)": "MATH 4513",
+      "description": "The topics discussed in this course include survival models, life tables and selection, insurance benefits, annuities, premium calculation, and insurance policy values."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3865)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "DENG, Shuoqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (3865)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "DENG, Shuoqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3866)",
+        "Date & Time": "Tu 07:00PM - 07:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "DENG, Shuoqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Venue: Room 2302"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "RMBI",
+    "code": "4310",
+    "name": "Advanced Data Mining for Risk Management and Business Intelligence",
+    "units": 3,
+    "info": {
+      "pre-requisite": "COMP 4331 or ISOM 3360",
+      "co-list with": "COMP 4332",
+      "description": "This course will explore some advanced principles and techniques of data mining, with emphasis on applications in risk management and business intelligence. Topics include data mining process for data transformation and integration, data preprocessing, data mining algorithms and evaluation of data mining models and results. Advanced topics include data stream analysis, using data warehouse for decision support, supervised, semi-supervised and unsupervised learning techniques in data mining. We will cover advanced data mining applications in credit risk analysis, scale up methods for mining massive customer data and various novel applications such as data mining applications in social network analysis. Projects are aimed at familiarize the students with the entire data mining process rather than isolated applications."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3867)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "SONG, Yangqiu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 31,
+        "Avail": 19,
+        "Wait": 0,
+        "QuotaDetail": {
+          "RMBI": {
+            "Quota": 50,
+            "Enrol": 31,
+            "Avail": 19
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3868)",
+        "Date & Time": "Tu 10:30AM - 11:20AM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "SONG, Yangqiu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 31,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "RMBI",
+    "code": "4980",
+    "name": "Risk Management and Business Intelligence Capstone Project I",
+    "units": 4,
+    "info": {
+      "pre-requisite": "COMP 4331 OR ISOM 3360",
+      "description": "Student conducts an in-depth study on selected topics in Risk Management and Business Intelligence under the supervision of a faculty. Scope may include the identification of a non-reference problem, followed by subsequent analysis and solution of the problem. Creative and critical thinking in the decision processes made under uncertainty are expected to be demonstrated in the project."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3870)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 15,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3869)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 15,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "RMBI",
+    "code": "4990",
+    "name": "Risk Management and Business Intelligence Capstone Project II",
+    "units": 4,
+    "info": {
+      "pre-requisite": "RMBI 4980",
+      "description": "This is the continuation of RMBI 4980. Student conducts an in-depth study on selected topics in Risk Management and Business Intelligence under the supervision of a faculty. Scope may include the identification of a non-reference problem, followed by subsequent analysis and solution of the problem. Creative and critical thinking in the decision processes made under uncertainty are expected to be demonstrated in the project."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3891)",
+        "Date & Time": "Fr 06:00PM - 08:20PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "WONG, Nick"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 18,
+        "Enrol": 13,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3893)",
+        "Date & Time": "Sa 10:00AM - 12:20PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "WONG, Nick"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 18,
+        "Enrol": 15,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T3 (3894)",
+        "Date & Time": "Sa 02:00PM - 04:20PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "WONG, Nick"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 18,
+        "Enrol": 10,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T4 (3895)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WONG, Nick"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 1,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA01 (3871)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEUNG, Ki Ling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 6,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA02 (3873)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WANG, Jiying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA03 (3875)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "PAN, Baoqian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 8,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA04 (3877)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEN, Kani"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 5,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA05 (3879)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "MAK, Brian Kan Wing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 3,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA06 (3881)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHENG, Siu Wing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 3,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA07 (3883)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "ZHANG, Charles Chuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 2,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA08 (3885)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "YANG, Yi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 1,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA09 (3887)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "HUANG, Allen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 6,
+        "Enrol": 2,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA10 (3889)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 1,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,1176 @@
+[
+  {
+    "program": "CHEM",
+    "code": "1004",
+    "name": "Chemistry in Everyday Life",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (S) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "exclusion": "Level 3 or above in HKDSE Chemistry, a passing grade in GCE-A/AS Level Chemistry, CHEM 1008, CHEM 1010, CHEM 1020, CHEM 1030, any CHEM courses at or above 2000-level",
+      "previous code": "CORE 1120",
+      "description": "This common core course takes students on a chemical journey, through which they will learn what is chemistry and how chemistry connects with every part of our daily life. Students will engage in an experiential learning study project and a mini-research task; they will also learn chemical concepts through many real-life case studies. The basic ideas and principles of chemistry, as well as many chemical topics of everyday relevance will be discussed in this course: such as air, water, metals, minerals, air pollution, global warming, ozone depletion, batteries, fire and fuels, food and drinks, household chemical products and plastics. Students taking this course are not required to have studied Chemistry before."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1803)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 2407, Lift 17-18 (126)",
+        "Instructor": [
+          "TSANG, Ming Wai Emily"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "1008",
+    "name": "Introductory Chemistry",
+    "units": 3,
+    "info": {
+      "exclusion": "Level 3 or above in HKDSE 1/2x Chemistry OR HKDSE 1x Chemistry, any CHEM courses at or above 1004-level, CORE 1120",
+      "description": "This course targets science or engineering students with very little to no chemistry background. It provides a general introduction to basic principles of chemistry. Key topics include state of matters, atoms and elements, molecules and compounds, atomic structures and periodicity, molecular structures, quantities in chemical reactions, bonding theories, acids and bases, and solution chemistry. Students without HKDSE qualifications may seek instructor's approval for enrolment."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1804)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "TSANG, Ming Wai Emily"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 200,
+        "Enrol": 71,
+        "Avail": 129,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "1020",
+    "name": "General Chemistry I",
+    "units": 3,
+    "info": {
+      "pre-requisite": "Level 3 or above in HKDSE 1/2x OR level 3 or above in HKDSE 1x Chemistry OR CHEM 1004 OR CHEM 1008",
+      "exclusion": "CHEM 1010",
+      "description": "This course targets at students who have acquired more advanced knowledge in fundamental Chemistry in high school. Key topics include atomic structure and periodicity, bonding theories, chemical energy, and properties of gases, liquids and solids. Other topics such as chemical kinetics, chemical equilibrium and organic molecules will be briefly reviewed."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1805)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "JIA, Guocheng",
+          "LU, Haipeng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 200,
+        "Enrol": 94,
+        "Avail": 106,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1806)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "JIA, Guocheng",
+          "LU, Haipeng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 200,
+        "Enrol": 94,
+        "Avail": 106,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "1030",
+    "name": "General Chemistry II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "Grade C+ or above in CHEM 1008 OR Level 4 or above in HKDSE 1x Chemistry OR CHEM 1010 OR CHEM 1020",
+      "description": "This course is designed for students who have taken General Chemistry I and want to continue to expand their chemistry knowledge. It will cover topics related to stoichiometry and chemical reactions, properties of aqueous solutions, acids and bases, thermodynamics and equilibrium, electrochemistry, general aspects in chemistry of the main-group elements, and introduction to transition metal elements and coordination compounds."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1807)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Lecture Theater J (300)",
+        "Instructor": [
+          "LIN, Zhenyang",
+          "SHEONG, Frederick Fu Kit"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 200,
+        "Enrol": 116,
+        "Avail": 84,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1808)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "LIN, Zhenyang",
+          "SHEONG, Frederick Fu Kit"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 200,
+        "Enrol": 118,
+        "Avail": 82,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "1050",
+    "name": "Laboratory for General Chemistry I",
+    "units": 1,
+    "info": {
+      "co-requisite": "CHEM 1010 OR CHEM 1020",
+      "description": "This course is the laboratory class designed for students who are enrolled in CHEM 1010 or CHEM 1020. With laboratory experience acquired in this course, students will be able to relate the physical and chemical principles and theories in practice, perform basic chemical laboratory techniques, and develop their data analyzing skills. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (1809)",
+        "Date & Time": "Tu 10:30AM - 01:20PM",
+        "Room": "Rm 1004, CYT Bldg",
+        "Instructor": [
+          "CHEUNG, Man Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 13,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (1810)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "Rm 1004, CYT Bldg",
+        "Instructor": [
+          "CHEUNG, Man Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 14,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (1811)",
+        "Date & Time": "We 10:30AM - 01:20PM",
+        "Room": "Rm 1004, CYT Bldg",
+        "Instructor": [
+          "CHEUNG, Man Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 13,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA4 (1812)",
+        "Date & Time": "We 01:30PM - 04:20PM",
+        "Room": "Rm 1004, CYT Bldg",
+        "Instructor": [
+          "CHEUNG, Man Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 14,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA5 (1813)",
+        "Date & Time": "Th 10:30AM - 01:20PM",
+        "Room": "Rm 1004, CYT Bldg",
+        "Instructor": [
+          "CHEUNG, Man Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 10,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA6 (1814)",
+        "Date & Time": "Th 01:30PM - 04:20PM",
+        "Room": "Rm 1004, CYT Bldg",
+        "Instructor": [
+          "CHEUNG, Man Sing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 14,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "1055",
+    "name": "Laboratory for General Chemistry II",
+    "units": 1,
+    "info": {
+      "pre-requisite": "CHEM 1010 OR CHEM 1020",
+      "co-requisite": "CHEM 1030",
+      "description": "This course is the laboratory class designed for students who enrolled in CHEM 1030. Students will perform experiments based on the theory they learned in courses. By conducting experiments independently, students are able to experience the whole process, from pre-lab and studying Material Safety Data Sheet (MSDS), to using suitable labwares, experimental techniques and data treatment. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (1815)",
+        "Date & Time": "Tu 10:30AM - 01:20PM",
+        "Room": "UG001, CYT Bldg",
+        "Instructor": [
+          "TSE, Veronica Wai Pui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 37,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (1816)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "UG001, CYT Bldg",
+        "Instructor": [
+          "TSE, Veronica Wai Pui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 37,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (1817)",
+        "Date & Time": "We 10:30AM - 01:20PM",
+        "Room": "UG001, CYT Bldg",
+        "Instructor": [
+          "TSE, Veronica Wai Pui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 38,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA4 (1818)",
+        "Date & Time": "We 01:30PM - 04:20PM",
+        "Room": "UG001, CYT Bldg",
+        "Instructor": [
+          "TSE, Veronica Wai Pui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA5 (1819)",
+        "Date & Time": "Th 10:30AM - 01:20PM",
+        "Room": "UG001, CYT Bldg",
+        "Instructor": [
+          "TSE, Veronica Wai Pui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 35,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA6 (1820)",
+        "Date & Time": "Th 01:30PM - 04:20PM",
+        "Room": "UG001, CYT Bldg",
+        "Instructor": [
+          "TSE, Veronica Wai Pui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 37,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "2111",
+    "name": "Fundamentals of Organic Chemistry",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 1010 OR CHEM 1020",
+      "exclusion": "CHEM 2110",
+      "description": "Various classes of organic compounds, emphasizing organic chemical reactions and mechanisms of major functionalities and their importance in the area of biological chemistry. For engineering students under the four-year degrees who prefer to learn organic chemistry in a single term."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1821)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "VONG, Kenward"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 14,
+        "Avail": 46,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "2155",
+    "name": "Fundamental Organic Chemistry Laboratory",
+    "units": 1,
+    "info": {
+      "pre-requisite": "(CHEM 1010 OR CHEM 1020) AND CHEM 1050",
+      "co-requisite": "CHEM 2110 OR CHEM 2111",
+      "exclusion": "CHEM 2150, CHEM 2550",
+      "description": "This is the laboratory course designed for non-CHEM students who enrolled in CHEM 2110 or CHEM 2111. Students will perform a series of organic experiments related to the theories learnt in the related lecture courses. Students will be trained to practice a wide range of fundamental organic laboratory techniques, operate chemical instruments, relate the physical and chemical principles and theory in practice, and develop their data interpretation and analytical skills. For non-CHEM students in programs that designate this course as required course/specified elective only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (1822)",
+        "Date & Time": "Tu 10:30AM - 01:20PM",
+        "Room": "Rm 1003, CYT Bldg",
+        "Instructor": [
+          "CHAN, Dennis Ho Wai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 48,
+        "Enrol": 10,
+        "Avail": 38,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (1823)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "Rm 1003, CYT Bldg",
+        "Instructor": [
+          "CHAN, Dennis Ho Wai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 11,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "2311",
+    "name": "Analytical Chemistry",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 1010 OR CHEM 1020",
+      "exclusion": "CHEM 2310",
+      "description": "Fundamental and practical aspects of chemical analysis, including titrimetric, electrical, optical and mass spectroscopic methods, analytical separations by chromatography. For students in the programs under the four-year degree that designate this course as required course/specified elective only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1824)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "WILLIAMS, Ian Duncan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 200,
+        "Enrol": 87,
+        "Avail": 113,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "2355",
+    "name": "Fundamental Analytical Chemistry Laboratory",
+    "units": 1,
+    "info": {
+      "pre-requisite": "(CHEM 1010 OR CHEM 1020) AND CHEM 1050",
+      "co-requisite": "CHEM 2310 OR CHEM 2311",
+      "exclusion": "CHEM 2350, CHEM 2555",
+      "description": "This is the laboratory course corresponding to the lecture courses of CHEM 2310 and CHEM 2311. Experiments covered in this course will be closely connected with the topics covered in the lecture courses, including calibration principle, and some basic optical and chromatographic instrumental techniques. For non-CHEM students in programs that designate this course as required course/specified elective only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (1825)",
+        "Date & Time": "Tu 10:30AM - 01:20PM",
+        "Room": "Rm 3007, CYT Bldg",
+        "Instructor": [
+          "TUNG, Joanne Wai Ting"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 2,
+        "Avail": 38,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (1826)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "Rm 3007, CYT Bldg",
+        "Instructor": [
+          "TUNG, Joanne Wai Ting"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 38,
+        "Enrol": 1,
+        "Avail": 37,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "3120",
+    "name": "Organic Chemistry II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 2110",
+      "description": "Continuation of CHEM 2110.  Dienes, resonance and aromaticity; electrophilic aromatic substitution and nucleophilic aromatic substitution; benzylic and allylic reactivity; the chemistry of carbonyl compounds and carboxylic acid derivatives; the chemistry of amines; pericyclic reactions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1827)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "NAKAMURA, Hugh",
+          "SUN, Jianwei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 72,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "3220",
+    "name": "Inorganic Chemistry II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 2210",
+      "description": "Mechanism of inorganic reactions, organometallic and bioinorganic chemistry, catalysis."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1828)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 2465, Lift 25-26 (122)",
+        "Instructor": [
+          "QUAN, Yangjian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 71,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "3320",
+    "name": "Instrumental Analysis",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 2310",
+      "description": "Continuation of CHEM 2310.  Topics covered include electrochemistry, mass spectrometry and separation sciences."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1829)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "WU, Hongkai",
+          "YU, Jianzhen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 69,
+        "Avail": 21,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "3420",
+    "name": "Physical Chemistry II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 2410",
+      "description": "Basic quantum theory, atomic and molecular structure, equilibrium statistical thermodynamics."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1830)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "CHEN, Tengteng",
+          "HUANG, Jinqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 67,
+        "Avail": 23,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1830)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "CHEN, Tengteng",
+          "HUANG, Jinqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 67,
+        "Avail": 23,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "3550",
+    "name": "Synthetic Chemistry Laboratory II",
+    "units": 2,
+    "info": {
+      "pre-requisite": "CHEM 2550",
+      "co-requisite": "CHEM 3120 AND CHEM 3220",
+      "description": "This is the laboratory course corresponding to the lecture courses CHEM 3120 and CHEM 3220. The topics of experiments covered in the laboratory course will be related to those taught in the lecture courses, such as electrophilic aromatic substitution and coordination chemistry, etc. For CHEM students under the four-year degree only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (1831)",
+        "Date & Time": "We 12:30PM - 04:20PM",
+        "Room": "Rm 1003, CYT Bldg",
+        "Instructor": [
+          "CHAN, Dennis Ho Wai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 34,
+        "Enrol": 34,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (1832)",
+        "Date & Time": "Th 12:30PM - 04:20PM",
+        "Room": "Rm 1003, CYT Bldg",
+        "Instructor": [
+          "CHAN, Dennis Ho Wai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 33,
+        "Enrol": 32,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "3555",
+    "name": "Molecular Characterization Chemistry Laboratory II",
+    "units": 2,
+    "info": {
+      "pre-requisite": "CHEM 2555",
+      "co-requisite": "CHEM 3320 AND CHEM 3420",
+      "description": "This is the laboratory course corresponding to the lecture courses CHEM 3320 and CHEM 3420. The topics of experiments covered in the laboratory course will be related to those taught in the lecture courses, such as quantum chemistry,  chemical instrumental analysis, etc. For CHEM students under the four-year degree only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (1833)",
+        "Date & Time": "We 10:30AM - 02:20PM",
+        "Room": "Rm 3007, CYT Bldg",
+        "Instructor": [
+          "TUNG, Joanne Wai Ting"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 34,
+        "Enrol": 34,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (1834)",
+        "Date & Time": "Th 10:30AM - 02:20PM",
+        "Room": "Rm 3007, CYT Bldg",
+        "Instructor": [
+          "TUNG, Joanne Wai Ting"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 34,
+        "Enrol": 33,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "4110",
+    "name": "Structural Elucidation in Organic Chemistry",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 3120",
+      "description": "Use of modern ID- and 2D-NMR, IR, and Mass Spectrometric techniques for structure determination of organic molecules; theory of each technique with emphasis on development of problem-solving techniques."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1835)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "TONG, Rongbiao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "4230",
+    "name": "Materials Characterization Method",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 2310 AND CHEM 2410",
+      "description": "This course will introduce a selected series of materials characterization methods with an emphasis on the characterization methods of nanomaterials, especially chemically processed nanomaterials. The characterization methods will include electron spectroscopies, electron microscopies, scanning probe microscopies, and optical, thermal, mechanical, scattering and diffraction methods. The course will provide a balanced mix of physical principles, application considerations, and practical examples of the characterization methods. For CHEM students and students with instructor's approval only"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1836)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "HALPERT, Jonathan Eugene"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "4240",
+    "name": "Intermediate Inorganic Chemistry",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 3220",
+      "description": "Selected advanced topics in inorganic chemistry including spectroscopy (multinuclear NMR, IR and UV/visible), solid state chemistry, bioinorganic chemistry and catalysis."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1837)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "LEUNG, Wa Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "4330",
+    "name": "Separation Science",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 2310 or CHEM 2311",
+      "description": "This course aims to provide an in-depth understanding of the working principles in separating substances by chemical and physical techniques. Topics in this course include: sample preparation for chromatographic analysis; instrumentation for gas and liquid chromatography; mass spectrometry, and etc. Applications of various separation techniques for forensic, environmental, biological, pharmaceutical, food and drink analyses are provided as illustrating examples."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1838)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "CHAN, Simon Wan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 1,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "4420",
+    "name": "Statistical Machine Learning Methods for Chemical Data Analysis",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 2409 AND CHEM 2410",
+      "exclusion": "COMP 4211, MATH 4432",
+      "description": "The basic knowledge of probability and statistics, chemical data preparation and visualization; numerical methods for chemical data analysis: regression, classification, feature selection and neural network."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1839)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "SU, Haibin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "4430",
+    "name": "Symmetry in Chemistry and Spectroscopy",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 2110 AND CHEM 2210 AND CHEM 2410",
+      "description": "Symmetry principle and group theory, molecular spectroscopy, advanced topics in molecular orbital theory and bonding, chemical kinetics."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1840)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "LI, Xiaoyuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "4680",
+    "name": "Undergraduate Research",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 2550",
+      "description": "Students do original research in accordance with their ability and background, and under the supervision of a faculty. The final course grade is determined based on an oral presentation and a written report to be submitted to a judging committee, which includes the faculty supervisor plus at least one other faculty. Enrollment in the course requires approval of the faculty supervisor."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1841)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "4689",
+    "name": "Capstone Project",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 3550 AND CHEM 3555",
+      "exclusion": "CHEM 4691",
+      "description": "Under the supervision of a faculty member or teaching staff, students will complete a capstone project which requires the integration of the chemical knowledge learnt from their previous courses. The project can be delivered through the format of literature review, research, or practical study. A written report and an oral presentation are required to document their learning experiences. For CHEM students under the four-year degree only. Students should seek instructor's approval prior to enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (1842)",
+        "Date & Time": "Fr 09:30AM - 10:20AM",
+        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Instructor": [
+          "TSANG, Ming Wai Emily"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 10,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "4691",
+    "name": "Capstone Research I",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 3550 AND CHEM 3555",
+      "exclusion": "CHEM 4689",
+      "description": "Students will carry out a research project in one of the Chemistry research laboratories under the supervision of a faculty member. This research-based course provides students an opportunity to integrate and apply their chemical knowledge learnt in regular lecture and laboratory courses. At the end of the course, students are required to submit a written report and deliver an oral presentation to document their learning experiences. For CHEM students only. Students should seek instructor's approval prior to enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (1843)",
+        "Date & Time": "Fr 09:30AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 4,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "4692",
+    "name": "Capstone Research II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 4691",
+      "description": "Continuation of research project started in CHEM 4691 and to be conducted under the supervision of a faculty member/teaching staff. A written report and oral presentation are required to document their learning experiences. Students should seek instructor's approval prior to enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (1844)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "5130",
+    "name": "Asymmetric Catalysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course teaches the basic concepts and general modes of action of asymmetric catalysis and synthesis. Asymmetric catalysis is an essential tool in organic synthesis, which is used daily in various industries, such as pharmaceutical, chemical, agriculture, materials, etc. The course will provide in-depth explanation of how catalysts work in organic reactions and how asymmetric control is accomplished in different scenarios. Lectures will focus on mechanistic details of chirality control using case studies. Students are expected to be able to use this important tool to solve various synthetic problems.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the basic principles of asymmetric synthesis.</td></tr><tr><td>2.</td><td>Classify modes of action and infer catalyst design.</td></tr><tr><td>3.</td><td>Explain factors affecting enantioselectivity and common strategies to perform asymmetric synthesis.</td></tr><tr><td>4.</td><td>Design and propose routes to synthesize common chiral fragments.</td></tr><tr><td>5.</td><td>Analyze stereochemical control in organic reactions.</td></tr><tr><td>6.</td><td>Review frontier topics such as organocatalysis, photoredox catalysis, etc.</td></tr><tr><td>7.</td><td>Communicate effectively in writing and by oral presentation on scientific topics of organic chemistry.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1067)",
+        "Date & Time": "We 01:30PM - 04:20PM",
+        "Room": "Rm 5506, Lift 25-26 (30)",
+        "Instructor": [
+          "HUANG, Yong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "5160",
+    "name": "Advanced Medicinal Chemistry",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Drug design, structure-activity relations, chemistry and biological effects of major classes of physiologically active and psycho-active drugs.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Classify the origins of human diseases and the molecular basis for their treatment.</td></tr><tr><td>2.</td><td>Demonstrate capability to select or discover a molecular target for therapeutic intervention.</td></tr><tr><td>3.</td><td>Identify leads for therapeutic targets using diverse chemical strategies.</td></tr><tr><td>4.</td><td>Propose optimization of drug properties  through structural modifications.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1068)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "GUO, Zhihong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "6000A",
+    "name": "Chemistry Seminar",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "Series of seminar topics presented by students, faculty and visiting speakers; may be repeated for credit. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1069)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "HUANG, Yong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 0,
+        "Avail": 150,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "6772",
+    "name": "Professional Development in Chemistry",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "exclusion": "CHEM 6770, CHEM 6771",
+      "description": "This one-credit course aims at providing research postgraduate students basic training in teaching skills, research management, career development, and related professional skills in chemistry. This course normally lasts for one year, and is composed of a number of mini-workshops or tasks which are coordinated by the department. Graded PP, P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Efficiently use on-line and off-line academic resources to support their research.</td></tr><tr><td>2.</td><td>Efficiently use various instruments in their research.</td></tr><tr><td>3.</td><td>Understand and conform to regulations regarding the safe use of chemicals and related instruments.</td></tr><tr><td>4.</td><td>Perform risk assessment and safely use chemicals and related apparatuses in research projects.</td></tr><tr><td>5.</td><td>Supervise and teach undergraduate students in chemistry experiments and part of course activities.</td></tr><tr><td>6.</td><td>Professionally present research outputs to chemists in the research and development community.</td></tr><tr><td>7.</td><td>Demonstrate a clearer understanding of the career exploration process in chemistry-related industries.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1070)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "GUO, Zhihong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "6980A",
+    "name": "Research Project",
+    "units": 1,
+    "info": {
+      "vector": "[1 credit]",
+      "description": "An independent research project carried out under the supervision of a faculty member. This course is only available for exchange, visiting and visiting internship students."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4239)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate up-to-date and in-depth knowledge of their area(s) of specialization.</td></tr><tr><td>2.</td><td>Apply practical or computational techniques/skills for chemical investigations.</td></tr><tr><td>3.</td><td>Conduct directed chemical research, develop experimental protocols and interpret results.</td></tr><tr><td>4.</td><td>Communicate effectively the results of scientific research in writing and by oral presentation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1071)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 22,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CHEM",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate up-to-date and in-depth knowledge of their area(s) of specialization and chemistry in general.</td></tr><tr><td>2.</td><td>Apply practical and/ or computational techniques/skills for chemical investigations.</td></tr><tr><td>3.</td><td>Conduct independent chemical research, propose experiments, develop protocols, evaluate results and formulate hypotheses.</td></tr><tr><td>4.</td><td>Communicate effectively the results of scientific research in writing and by oral presentation.</td></tr><tr><td>5.</td><td>Evaluate and critique current research, approaches and methodologies in chemistry.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1072)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 141,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

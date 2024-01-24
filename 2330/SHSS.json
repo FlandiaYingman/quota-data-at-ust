@@ -1,0 +1,163 @@
+[
+  {
+    "program": "SHSS",
+    "code": "1030",
+    "name": "Career Building for GCS and QSA Students",
+    "units": 1,
+    "info": {
+      "exclusion": "GNED 2510",
+      "description": "Co-offered by the School of Humanities and Social Science and the Career Center of the Dean of Students' Office, this course helps students in exploring careers within the arena of Humanities and Social Science and beyond. To achieve this, it guides students to develop basic knowledge of the career planning process, the current job market and employers' expectation in different fields. This course also equips students with practical job application skills, such as the skills of resume writing, aptitude tests, interviews, group discussions, etc. Experiential learning opportunities and individual feedback will be provided to actively engage students in the learning process. Instructor's approval is required for enrolling in the course. Graded DI, PA or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (4000)",
+        "Date & Time": "Tu 02:00PM - 03:50PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "SIU, Wai Sze Grace",
+          "YOUSAF, Syeda Noor-ul-ain"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "SHSS",
+    "code": "4991",
+    "name": "Capstone Project",
+    "units": 3,
+    "info": {
+      "co-requisite": "LANG 4070",
+      "exclusion": "SHSS 4992",
+      "description": "The capstone project aims to prepare students for research in humanities and social science, and may serve as an introduction to conducting research and writing a quality research project. For those students that do not wish to do a senior thesis, it will still enable them to learn the skills associated with a detailed research project and the presentation of research results. Enrollment in the course requires approval of the course coordinator."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (4001)",
+        "Date & Time": "Tu 04:00PM - 05:50PM",
+        "Room": "Rm 2612A, Lift 31-32 (29)",
+        "Instructor": [
+          "CHUNG, Shek Yan",
+          "FU, Li-tsui",
+          "KU, Shuk Mei Agnes"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "T2 (4002)",
+        "Date & Time": "Th 04:00PM - 05:50PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "CHUNG, Shek Yan",
+          "FU, Li-tsui",
+          "KU, Shuk Mei Agnes"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "T3 (4003)",
+        "Date & Time": "Fr 01:00PM - 02:50PM",
+        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Instructor": [
+          "CHUNG, Shek Yan",
+          "FU, Li-tsui",
+          "KU, Shuk Mei Agnes"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "SHSS",
+    "code": "4992",
+    "name": "Honors Thesis",
+    "units": 6,
+    "info": {
+      "exclusion": "SHSS 4991, SHSS 4993",
+      "description": "Qualified students in the SHSS Global China Studies program are provided the option of writing a Senior Theses on an academic topic in a field of their own choice during the final year of study. The senior thesis is based on independent research conducted under the close supervision of a faculty member from SHSS. Enrollment in the course requires approval of the course coordinator."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (4004)",
+        "Date & Time": "We 01:30PM - 03:20PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "CHUNG, Shek Yan",
+          "FU, Li-tsui",
+          "KU, Shuk Mei Agnes"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "SHSS",
+    "code": "4993",
+    "name": "Honors Research",
+    "units": 3,
+    "info": {
+      "pre-requisite": "SHSS 4991",
+      "exclusion": "SHSS 4992",
+      "description": "The honors research teaches the student to utilize relevant theories and methodologies in a concrete research task. It requires the student to conduct more in-depth research based on the capstone project, to collect and analyze relevant material and to complete a thesis that meets academic standards of using citations and references, statement of a problem or an issue, and a clearly identified theoretical point. Enrollment in the course requires approval of the course coordinator."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (4005)",
+        "Date & Time": "Th 01:00PM - 02:50PM",
+        "Room": "Rm 2611, Lift 31-32 (28)",
+        "Instructor": [
+          "CHUNG, Shek Yan",
+          "FU, Li-tsui",
+          "KU, Shuk Mei Agnes"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

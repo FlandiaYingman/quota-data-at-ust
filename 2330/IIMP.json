@@ -1,0 +1,141 @@
+[
+  {
+    "program": "IIMP",
+    "code": "2000",
+    "name": "Academic and Professional Development",
+    "units": 0,
+    "info": {
+      "description": "This course is designed to assist students in developing attributes necessary for professional growth throughout their studies in the IIM program. It will also provide academic advising to students, to enhance their job hunting skills and, to improve their communication skills. Students are required to attend discussion sessions with advisors and selected workshops. For IIM students only. Graded P/PP/F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (2677)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHOW, King Lau"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 4,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IIMP",
+    "code": "4990",
+    "name": "Interdisciplinary Capstone Project II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "IIMP 4980",
+      "description": "Continuation of IIMP 4980. For IIM students only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2678)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHOW, King Lau"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IIMP",
+    "code": "6090",
+    "name": "Postgraduate Seminar",
+    "units": 0,
+    "info": {
+      "vector": "[0-1-0:0]",
+      "description": "Seminar topics presented by students, faculty and guest speakers. MPhil in Individualized Interdisciplinary Program (IIP) students must register and pass this course in their first term of study. PhD (IIP) students must register and pass this course for two terms in their first year of study. Graded PP, P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand current research trends and applications.</td></tr><tr><td>2.</td><td>Demonstrate effective presentation skills in seminar presentations.</td></tr><tr><td>3.</td><td>Gain insight into research on topics that are directly related to their own research.</td></tr><tr><td>4.</td><td>Gain insight into research and research methodologies used by other scholars working on areas not directly related to their own focus area.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1293)",
+        "Date & Time": "Mo 04:30PM - 05:20PM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "XUE, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IIMP",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis is research supervised by a faculty member. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct a research proposal in their research area.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1294)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 12,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": [
+          "For MPhil(IIP) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "IIMP",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct a research proposal in their research area.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1295)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 23,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": [
+          "For PhD(IIP) students only"
+        ]
+      }
+    ]
+  }
+]

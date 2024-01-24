@@ -1,0 +1,146 @@
+[
+  {
+    "program": "UROP",
+    "code": "1100L",
+    "name": "Undergraduate Research Opportunities Series 1",
+    "units": 1,
+    "info": {
+      "description": "This is the first course of a four-course series under the Undergraduate Research Opportunities Program (UROP), which allows students to engage in faculty-led research projects that can span up to four terms. Successful completion of UROP 1100 is a pre-requisite for proceeding to UROP 2100, which can involve either the same or a different project led by the same faculty supervisor. Progression from UROP 1100 to UROP 4100, regardless of whether it is on the same or a different research project, must be under the guidance of the same faculty supervisor. In case of a change in faculty supervisor, students need to restart from UROP 1100. Approval by faculty supervisor(s) is required. Students are required to submit a written report upon completion of each course. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4100)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 220,
+        "Enrol": 0,
+        "Avail": 220,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "UROP",
+    "code": "2100L",
+    "name": "Undergraduate Research Opportunities Series 2",
+    "units": 1,
+    "info": {
+      "pre-requisite": "UROP 1100",
+      "description": "This is the second course of the four-course Undergraduate Research Opportunities Program (UROP) series, which allows students to engage in faculty-led research projects that can span up to four terms. Successful completion of UROP 1100 is a prerequisite for proceeding to UROP 2100, which can involve either the same or a different project led by the same faculty supervisor. Progression from UROP 1100 to UROP 4100, regardless of whether it is on the same or a different research project, must be under the guidance of the same faculty supervisor. In case of a change in faculty supervisor, students need to restart from UROP 1100. Approval by faculty supervisor(s) is required. Students are required to submit a written report upon completion of the course. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4101)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "UROP",
+    "code": "3100L",
+    "name": "Undergraduate Research Opportunities Series 3",
+    "units": 1,
+    "info": {
+      "pre-requisite": "UROP 2100 OR UROP 3200",
+      "description": "This is the third course of the four-course Undergraduate Research Opportunities Program (UROP) series, which allows students to engage in faculty-led research projects that can span up to four terms. Successful completion of UROP 2100 or UROP 3200 is a prerequisite for proceeding to UROP 3100, which can involve either the same or a different project led by the same faculty supervisor. Progression from UROP 1100 to UROP 4100, regardless of whether it is on the same or a different research project, must be under the guidance of the same faculty supervisor. In case of a change in faculty supervisor, students need to restart from UROP 1100. Approval by faculty supervisor(s) is required. Students are required to submit a written report upon completion of the course. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4102)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "UROP",
+    "code": "3200",
+    "name": "Undergraduate Research Opportunities with Mini-conference Experience",
+    "units": 1,
+    "info": {
+      "pre-requisite": "(TWO passing grades in UROP 1100) OR (a passing grade in UROP 1100 and UROP 2100)",
+      "description": "This course provides a platform on which students can gain hands-on research experience and have a continued Undergraduate Research Opportunities Program (UROP) experience by taking the same research project or different project led by the same faculty supervisor. Students are required to participate in a mini- conference to deliver project presentations and to submit a final report. Approval by faculty supervisor(s) is required. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (4103)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "UROP",
+    "code": "4100L",
+    "name": "Undergraduate Research Opportunities Series 4",
+    "units": 1,
+    "info": {
+      "pre-requisite": "UROP 3100 OR UROP 3200",
+      "description": "This is the final course of the four-course Undergraduate Research Opportunities Program (UROP) series, which allows students to engage in faculty-led research projects that can span up to four terms. Successful completion of UROP 3100 or UROP 3200 is a prerequisite for proceeding to UROP 4100, which can involve either the same or a different project led by the same faculty supervisor. Progression from UROP 1100 to UROP 4100, regardless of whether it is on the same or a different research project, must be under the guidance of the same faculty supervisor. In case of a change in faculty supervisor, students need to restart from UROP 1100. Approval by faculty supervisor(s) is required. Students are required to submit a written report upon completion of the course. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4106)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "program": "CSIC",
+    "code": "5011",
+    "name": "Topological and Geometric Data Reduction and Visualization",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "MATH 5473",
+      "co-list with": "MATH 5473",
+      "description": "This course is a mathematical introduction to data analysis and visualization with a perspective of topology and geometry. Topics covered include: classical linear dimensionality reduction, the principal component analysis (PCA) and its dual multidimensional scaling (MDS), as well as extensions to manifold learning, topological data analysis, and sparse models in applied math/high dimensional statistics. Extensive application examples in biology, finance, and information technology are presented along with course projects.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the basics concept of dimensional reduction.</td></tr><tr><td>2.</td><td>Use Compressed Sensing and High Dimensional Statistics techniques for data analysis.</td></tr><tr><td>3.</td><td>Use Maniford learning approach for applications</td></tr><tr><td>4.</td><td>Apply the data analysis method in applications</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1427)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "YAO, Yuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

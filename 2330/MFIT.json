@@ -1,0 +1,192 @@
+[
+  {
+    "program": "MFIT",
+    "code": "5001",
+    "name": "AI for FinTech",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "This course covers the basic theory of artificial intelligence and machine learning, and their applications to FinTech. Topics include natural language understanding and sentiment analysis using various deep learning architectures. The course also covers basic natural language processing methods for applications such as event and anomaly detection, fraud and fake news detection. The course will also relate sentiment and affect analysis to stock market trading, market monitoring, and to compliance and regulatory-related adverse events.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe and explain basic concepts of Machine Learning and Natural Language Processing (NLP).</td></tr><tr><td>2.</td><td>Implement Machine Learning and NLP algorithm in the FinTech domain.</td></tr><tr><td>3.</td><td>Analyze different financial related problems and their possible solutions.</td></tr><tr><td>4.</td><td>Explain how and when an NLP solution (e.g. Sentiment Analysis) can be used in the FinTech industry.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1265)",
+        "Date & Time": "05-APR-2024 - 24-MAY-2024<br>Fr 07:00PM - 10:20PM",
+        "Room": "Rm 1001, LSK Bldg (70)",
+        "Instructor": [
+          "JIA, Jia"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 57,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor: CHOW, Alan Kin San",
+          "For MSc(FinTech) students only",
+          "Add/Drop Deadline : 08-Apr-2024",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MFIT",
+    "code": "5004",
+    "name": "Financial Data Mining",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "exclusion": "CSIT 5210, MSBD 5002",
+      "description": "In this course, students will first learn basic concepts and techniques about data mining, including data preprocessing, data cleaning, clustering, classification and outlier detection. Then, students will learn how to apply these techniques to financial data, such as sentiment analysis and social networking mining.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Define data preprocessing.</td></tr><tr><td>2.</td><td>Explain clustering, classification and frequent pattern mining.</td></tr><tr><td>3.</td><td>Describe outlier and anomaly detection.</td></tr><tr><td>4.</td><td>Apply sentiment analysis and community detection.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1262)",
+        "Date & Time": "31-JAN-2024 - 20-MAR-2024<br>We 07:00PM - 10:20PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "KWOK, James Tin Yau"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 64,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(FinTech) students only",
+          "Add/Drop Deadline : 05-Feb-2024",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MFIT",
+    "code": "5009",
+    "name": "Optimization in FinTech",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course introduces the basic theory of convex optimization and illustrates its practical employment in a wide range of FinTech applications. Techniques and applications of nonconvex optimization are also considered. Examples of the problems considered include Markowitz portfolio optimization and its many variations (e.g., maximum Sharpe ratio portfolio, risk-parity portfolio, robust portfolio, sparse portfolio), data fusion, machine learning for classification/estimation, imputation of missing data, big data analysis, outlier detection, data clustering, and deep learning.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design a portfolio based on optimization.</td></tr><tr><td>2.</td><td>Clean data (outlier detection and imputation of missing data).</td></tr><tr><td>3.</td><td>Perform data fusion from different sources via optimization.</td></tr><tr><td>4.</td><td>Analyze high-dimensional data via clustering and low-rank fitting methods.</td></tr><tr><td>5.</td><td>Employ deep learning methods in a financial context.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1263)",
+        "Date & Time": "Th 07:30PM - 10:20PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "PEREZ PALOMAR, Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(FinTech) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MFIT",
+    "code": "5010",
+    "name": "Statistical Machine Learning",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "MATH 5470, MSDM 5054",
+      "description": "This course provides students with an extensive exposure to the elements of statistical machine learning in supervised and unsupervised learning with real world datasets. Topics include basic models in regression and classification, resampling methods, model selection/assessment, and some standard techniques in unsupervised learning such as clustering and dimensionally reduction.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize a wide variety of learning algorithms.</td></tr><tr><td>2.</td><td>Execute the application of algorithms to data.</td></tr><tr><td>3.</td><td>Develop the skill to perform evaluation of learning algorithms.</td></tr><tr><td>4.</td><td>Differentiate strength and weakness for different algorithms.</td></tr><tr><td>5.</td><td>Implement well at least one programming language.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1264)",
+        "Date & Time": "Mo 07:30PM - 10:20PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "YANG, Can"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(FinTech) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MFIT",
+    "code": "5012",
+    "name": "FinTech Enrichment Workshops",
+    "units": 0,
+    "info": {
+      "vector": "[0 credit]",
+      "previous code": "SBMT 6020A",
+      "description": "The course aims to broaden MSc(FinTech) students’ horizon and develop students’ essential knowledge and skills related to financial technology through participating in a series of enrichment activities. Different speakers, practitioners, or FinTech professionals may be invited to conduct the workshops or engagement activities. Students are required to attend at least six enrichment activities recognized by the program in order to pass this course. Graded PP, P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the updated development and the current market trend in different sectors of Financial Technology industry.</td></tr><tr><td>2.</td><td>Apply the knowledge and practical skills attained from the enrichment activities in the real business world.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4306)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 72,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(FinTech) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MFIT",
+    "code": "5013",
+    "name": "Capstone FinTech Cases and Analysis",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "previous code": "MFIT 6000A",
+      "description": "This course aims to expose students to various “FinTech” and “TechFin” management issues in both financial services and technology companies from 2016 to present. Whether it is about resolving technology issues at financial services companies or addressing financial or regulatory issues confronting technology firms, this course will put students in the manager’s or protagonist’s role in gathering and analyzing information before ultimately making decisions. We begin with case studies at traditional financial firms before evolving to more non-traditional firms. The financial or regulatory issues challenging technology companies, and the emerging categories of digital assets like crypto currencies in the context of alternative strategy in investment management will also be investigated and studied.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Compare the difference between technology strategy in financial institutions vs. financial services offered by technology companies.</td></tr><tr><td>2.</td><td>Identify core competencies of successful and unsuccessful FinTech companies.</td></tr><tr><td>3.</td><td>Identify and analyze risk factors in FinTech industry, such as regulatory, scientific / technological and human factors.</td></tr><tr><td>4.</td><td>Apply case study concepts to real-life professional environment and career development.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4257)",
+        "Date & Time": "06-APR-2024 - 25-MAY-2024<br>Sa 02:30PM - 05:50PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "LEE, Christopher"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(FinTech) students only",
+          "Add/Drop Deadline : 08-Apr-2024"
+        ]
+      }
+    ]
+  }
+]

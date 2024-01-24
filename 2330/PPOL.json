@@ -1,0 +1,1132 @@
+[
+  {
+    "program": "PPOL",
+    "code": "5120",
+    "name": "Research Methods in Public Policy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "SOSC 5790",
+      "co-list with": "SOSC 5790",
+      "description": "This course is required for all first-year MPhil/PhD students in Public Policy. The purposes of the course are to introduce to students the key concepts in research methods, and to help them develop skills in the design of empirical research used in the analysis of policy problems. The course aims to train students to be able to apply various research designs in conducting rigorous policy research in their chosen fields, as well as develop the ability to critically evaluate policy research products. A specific emphasis will be on the use of  quasi-experimental designs in policy research, as well as on their potentials and limitations.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the logic of policy research on causal relationship.</td></tr><tr><td>2.</td><td>Demonstrate solid knowledge on key research designs for generalized causal inference and their potentials and limitations.</td></tr><tr><td>3.</td><td>Design and develop a research proposal on a given research topic in their chosen fields.</td></tr><tr><td>4.</td><td>Apply practical experiences and techniques in conducting qualitative analysis.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1535)",
+        "Date & Time": "Mo 01:30PM - 04:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "MATUS, Kira",
+          "ZHU, Pengyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5150",
+    "name": "Public Policy Analysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course provides students with practical methods for analyzing public policy issues. It develops a policy research and modeling skillset in considering complex, real-world issues involving multiple actors with diverse interests, information uncertainty, institutional complexity, and ethical controversy. The analytical framework used in this course is inter- and multi-disciplinary. The course builds such an understanding of the complexity of policy problems in which the different branches of economics and social sciences have equal roles.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the importance of political, administrative and analytical capacity in shaping policy development.</td></tr><tr><td>2.</td><td>Explain key challenges in various key tasks in policy development.</td></tr><tr><td>3.</td><td>Sharpen their analytical skills in leading and managing key tasks in policy development.</td></tr><tr><td>4.</td><td>Improve their skills in crafting policy messages and communicating more effectively with different stakeholders in policy development and policy process.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1536)",
+        "Date & Time": "Mo 09:00AM - 11:50AM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "ZHAO, Xiaofan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MPP": {
+            "Quota": 45,
+            "Enrol": 0,
+            "Avail": 45
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1537)",
+        "Date & Time": "Mo 01:30PM - 04:20PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "ZHAO, Xiaofan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MPP": {
+            "Quota": 45,
+            "Enrol": 0,
+            "Avail": 45
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5160",
+    "name": "Evidence in Public Policy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "PPOL 5140",
+      "description": "What kind of evidence is used to support policy decision making? This course will introduce students to the different sorts of data and evidence used by policy analysts, including census data, spatial data, surveys, interviews, focus groups, case studies, and policy experiments. Students will also be introduced to some basic modeling approaches used in policy analysis (statistical models, economic models, systems dynamics etc). Students will learn about the strengths and weaknesses of different types of information, and different analytical and visualization techniques that analysts use to incorporate evidence into their work.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Define the terminology that is used in public policy research.</td></tr><tr><td>2.</td><td>Identify the methods of data collecting for policy analysis.</td></tr><tr><td>3.</td><td>Design and conduct research to analyze policy problems.</td></tr><tr><td>4.</td><td>Use cost-benefit analysis to analyze policy problems.</td></tr><tr><td>5.</td><td>Present policy research findings with reasons and evidence.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1538)",
+        "Date & Time": "Mo 10:30AM - 01:20PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "LEJANO, Raul Perez"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MPP": {
+            "Quota": 45,
+            "Enrol": 0,
+            "Avail": 45
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1539)",
+        "Date & Time": "Tu 10:30AM - 01:20PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "LEJANO, Raul Perez"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MPP": {
+            "Quota": 45,
+            "Enrol": 0,
+            "Avail": 45
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5170",
+    "name": "Public Management and Leadership",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course offers an applied introduction to the field of public management and leadership. The course is designed to allow students to explore the challenges of implementing policy and to facilitate critical questioning of the techniques used by central and local governments to achieve these policies in both developed and developing countries. It will have a particular focus on public management and leadership in policy contexts that are characterized by complex systems, and policy areas that are characterized by a highly scientific/technical nature (energy systems, large scale infrastructure engineering projects/management, sustainable development, emergence of new technologies and risks, etc.).",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify key concepts and doctrinal debates in public management and leadership.</td></tr><tr><td>2.</td><td>Compare the conceptual differences across literature and their application in public management.</td></tr><tr><td>3.</td><td>Analyze some of the most important areas in public management with an applied approach.</td></tr><tr><td>4.</td><td>Apply public management concepts to real world cases, especially those characterized by complexity and uncertainty.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1540)",
+        "Date & Time": "We 10:30AM - 01:20PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "MATUS, Kira"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MPP": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1541)",
+        "Date & Time": "Th 10:30AM - 01:20PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "BERNAL, Marie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MPP": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5220",
+    "name": "Complex Systems for Policy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Many of the problems facing policy makers are considered to be complex, dynamic, socio-technical systems that display emergent structures and behaviors. This requires policy makers and administrators to develop competencies in both analysis and management. The course will focus on applications in policy, with a focus on science and technology such as natural systems with policy making, and complex engineering systems. Students will be introduced to some of the key elements of complex systems, including non-linearities, emergence, networks, and system dynamics. They will also learn about management techniques, specifically learning and adaptive management, that are needed for policy related to complex systems.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain how decision-makers and professionals (individually and in groups) process uncertain scientific and engineering knowledge.</td></tr><tr><td>2.</td><td>Critically assess the importance of decision and policy analysis (including evaluation and impact assessment), in particular in the context of managing risks in complex systems.</td></tr><tr><td>3.</td><td>Interpret both quantitative and qualitative data derived from natural, technical and social components of socio-technical systems.</td></tr><tr><td>4.</td><td>Apply methods of 'integrated assessment' to policy scenarios.</td></tr><tr><td>5.</td><td>Use different analytical tools in complex policy problems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1542)",
+        "Date & Time": "Tu 01:30PM - 04:50PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "LOW, Donald"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5240",
+    "name": "Advanced Analytical Methods for Public Policy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "PPOL 5140",
+      "description": "This course will build on the core methodology and data analysis courses, and enable students to develop the ability to use a range of different analytical methodologies for the assessment of public policies for recommendation, decision making and evaluation. The emphasis is on application in policy problems, and a focus on dealing with complexity and uncertainty. Methods presented in the course will include both quantitative and qualitative approaches, and will be taught using case studies and modeling exercises.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Assess a range of techniques, in order to choose the best approach(es) for a particular policy analysis problem of interest.</td></tr><tr><td>2.</td><td>Critique the analytical approaches used in existing policy analysis.</td></tr><tr><td>3.</td><td>Apply techniques and frameworks presented in the course to actual policy analysis problems.</td></tr><tr><td>4.</td><td>Integrate considerations of complexity and uncertainty into analytical problems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1543)",
+        "Date & Time": "We 10:30AM - 01:20PM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "ZHU, Pengyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5260",
+    "name": "Public Management: Theories and Practices",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course combines theoretical training with practical applications. It introduces students to key concepts in the discipline of public management and covers major approaches to management in the public sector. The course begins with a review of the evolution of thinking from public administration to public management. It allows students to explore the changes of responsibilities and skills of public managers. From that basis, we move to look at tools in important functional areas of public management and investigate how to critically apply a range of mechanisms to improve the performance of public managers.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Analyze the strengths and weaknesses of key theories in public management.</td></tr><tr><td>2.</td><td>Define the types of management capacity required to implement public policy.</td></tr><tr><td>3.</td><td>Identify the institutional, organizational and structural challenges that public organizations face when managing and implementing complex policy portfolios.</td></tr><tr><td>4.</td><td>Apply scholarly theories and perspectives to real-world cases and own experiences, to enhance problem solving capacity and improve public management practice.</td></tr><tr><td>5.</td><td>Develop and apply public management skills required for senior management roles.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1544)",
+        "Date & Time": "We 06:30PM - 09:20PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "MATUS, Kira"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MPM": {
+            "Quota": 45,
+            "Enrol": 0,
+            "Avail": 45
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5270",
+    "name": "Finance, Financial Crises and Economic Development",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "The global financial crisis was not just an economic calamity. It also precipitated a crisis in economic and political ideas. The pre-crisis faith that free markets produce optimal outcomes has been significantly eroded. A decade on, global policymakers still struggle to engage with a more empirically-grounded and less dogmatic brand of economics, and the differing prescriptions that it might suggest. Students of economics need to have an overview of the causes and consequences of the crisis, the ideas that contributed to it, and how those ideas and their policy implications are being challenged and debated. Most importantly, students of public policy need to be able to understand what went wrong – both in economics, and in policy.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain key concepts in finance and the major market failures that characterize this industry and justify government regulation/intervention.</td></tr><tr><td>2.</td><td>Analyze the multiple causes of the global financial crisis.</td></tr><tr><td>3.</td><td>Describe how global finance has evolved after the financial crisis.</td></tr><tr><td>4.</td><td>Analyze financial and macroeconomic risks in a country.</td></tr><tr><td>5.</td><td>Analyze the relationship between finance and economic development.</td></tr><tr><td>6.</td><td>Define complexity science and its applications in finance and public policy.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1545)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "LOW, Donald"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5290",
+    "name": "Managing for Sustainability",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Sustainable development problems pose some of the greatest challenges for both private and public sector organizations around the world, and effective policy design requires manager with strong subject matter understanding, creativity, and the ability to incorporate diverse perspectives and approaches to sustainability. The goal of this course is to advance students’ abilities to apply managerial principle, tools and methods to ensure sustainable development at organizational, sector and system levels.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the complex nature of sustainability issues</td></tr><tr><td>2.</td><td>Identify the government’s role in managing for sustainability</td></tr><tr><td>3.</td><td>Classify and apply analytical tools to the social, economic and environmental aspects of sustainability</td></tr><tr><td>4.</td><td>Work effectively with stakeholders on sustainability</td></tr><tr><td>5.</td><td>Competently deal with uncertainties and transition in sustainability</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1546)",
+        "Date & Time": "Mo 06:30PM - 09:20PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "YARIME, Masaru"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MPM": {
+            "Quota": 45,
+            "Enrol": 0,
+            "Avail": 45
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5320",
+    "name": "Urban Economics and Urban Policy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course focuses on urban policy as it is examined in the context of general economic, social and spatial trends in metropolitan settings. Particular attention is placed on the decision-making process and how it affects policy choices. Students will develop an understanding of relevant urban theories, and apply them in the exploration of various urban issues around the world.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain  contemporary urban theories and concepts.</td></tr><tr><td>2.</td><td>Apply them to explore various urban issues in the real world.</td></tr><tr><td>3.</td><td>Explore the way land use, transportation and economic development are connected to each other.</td></tr><tr><td>4.</td><td>Explain the way various urban policies may be implemented to change people’s behavior and choices.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1547)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "ZHU, Pengyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5350",
+    "name": "Local and Regional Development",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "PPOL 6100C",
+      "description": "This course provides students with a background in the theories of local and regional development, examines the rationales for the use of different approaches and introduces the policy instruments used to stimulate local and regional development. Students discover, compare and critique the use of local and regional policy instruments across the Greater Bay Area.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Exemplify the concepts of Public Policy through a problem-based experiential learning pedagogy.</td></tr><tr><td>2.</td><td>Explain and classify the various approaches and topics related to local and regional development.</td></tr><tr><td>3.</td><td>Develop effective skills in communication, analysis, information collection and presentation within the team to discuss the pressing local and regional topics related to public policy.</td></tr><tr><td>4.</td><td>Explain the meaning and significance of public policy with regards to local and regional development.</td></tr><tr><td>5.</td><td>Attribute the existing special topics related to local and regional development to public policy.</td></tr><tr><td>6.</td><td>Use technical problem solving skills, solution design and stakeholder engagement to explore solutions to address and enhance the problem or issues.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1548)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "PATCHELL, Gerald Roe"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5351",
+    "name": "Environmental Economics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "ECON 5351, ENVR 5250",
+      "co-list with": "ECON 5351",
+      "description": "This course is an introduction to an economics perspective of environmental problems, with attention to public policy solutions to pollution and climate change challenges. Part I will cover the ways in which markets fail to efficiently allocate resources in the presence of pollution along with the class of Pigouvian policies used to correct those failures. Part II will focus on the empirical techniques used by economists to assess the cost and benefits of environmental policies.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply economic analysis to the management of the environment and natural resources.</td></tr><tr><td>2.</td><td>Appreciate theoretical and empirical research in environmental economics.</td></tr><tr><td>3.</td><td>Use economic principles and non-market valuation techniques to address a variety of continuing and contemporary environmental issues.</td></tr><tr><td>4.</td><td>Explain the method in policy evaluation and develop policy evaluation report(s).</td></tr><tr><td>5.</td><td>Demonstrate effective writing and communication skills in report preparation and presentation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1565)",
+        "Date & Time": "01-FEB-2024 - 08-FEB-2024<br>TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "LIN, Yatang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "Will have normal class on 04-Apr-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1565)",
+        "Date & Time": "20-FEB-2024 - 09-MAY-2024<br>TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "LIN, Yatang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "Will have normal class on 04-Apr-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5360",
+    "name": "Emerging Markets in Comparative Perspective",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Emerging markets are now the main engine of global GDP growth; most have also made rapid progress in poverty reduction and other development outcomes over the last three decades. At the same time, the pandemic has raised doubts about the prospects of emerging markets. Both the pandemic-induced global recession and the possible reversal of globalization threaten the gains emerging markets have made in recent decades. Using growth diagnostics, this course examines the economic prospects of the key emerging markets in Asia – China, India, the ASEAN-5 (Indonesia, Malaysia, Philippines, Singapore, and Thailand), draws lessons for development policy, and examines the implications for emerging markets in a pandemic-disrupted world.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Think, reason, and argue as development economists.</td></tr><tr><td>2.</td><td>Apply key concepts in development economics and political economy.</td></tr><tr><td>3.</td><td>Explain growth diagnostics and how to use it.</td></tr><tr><td>4.</td><td>Evaluate key emerging markets in Asia and speak intelligently about their prospect and risks.</td></tr><tr><td>5.</td><td>Analyze the interconnections between development and technology and sustainability.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1549)",
+        "Date & Time": "Th 10:30AM - 01:20PM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "TYRALA, Michael"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5380",
+    "name": "Technology Disruptions and Public Policy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "PPOL 6100B",
+      "description": "Rapid advances in disruptive technologies over the last two decades have significantly altered our lives. They have upended old business models, disintermediated incumbent firms in many industries, and disrupted supply chains. This module gives students a broad introduction to the key disruptive technologies that are likely to transform our economy and society in the next decade or so. We will examine the practical applications of these technologies and discuss their policy implications and socioeconomic impacts. We will also look at the potential for governments to leverage new digital technologies to deliver new services or improve existing ones and enhance public value. Above all, we will examine the implications for public policy and how government should respond.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize and identify the key emerging disruptive technologies, their potential applications in business and government, and the attendant policy implications.</td></tr><tr><td>2.</td><td>Exemplify and classify how the operating environment might change as a result of technology disruptions, and reflected on the policy or regulatory responses that would be required of governments.</td></tr><tr><td>3.</td><td>Define, differentiate and analyze the various roles of the state in dealing with technology disruptions, and the policy options corresponding to each of these roles.</td></tr><tr><td>4.</td><td>Apply the concepts/frameworks of public policy process to the applications of technological disruptions.</td></tr><tr><td>5.</td><td>Apply and construct policy analysis and other analytical frameworks in assessing the effectiveness and efficacy of different policy options to disruptive technologies in a given context.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1550)",
+        "Date & Time": "Tu 06:30PM - 09:20PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "YARIME, Masaru"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5410",
+    "name": "Public Management through the Lens of the Asian Development Bank",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "PPOL 6100G",
+      "description": "Taught by a former Asian Development Bank (ADB) Head of the Risk Management Unit of the Private Sector Operations Department, this course enables its students to go deep-dive to examine and discuss current public management strategies in dealing with major social issues at the ADB. Specific questions to be explored include: How are policies and processes formulated? How are projects and programs recommended, approved, implemented, monitored, and independently evaluated in an MDB (Multilateral Development Bank)? How results orientation is emphasized at ADB in achieving better quality projects and programs? And how institutional reforms take place at MDBs such as ADB which ensure improved staff resource reallocation and skills-mix changes in meeting evolving operational needs with efficiency and effectiveness? Specific cases will also be discussed to enhance professional skills valued at MDBs.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop and generate social issues in a constantly changing institutional and political context of public affairs.</td></tr><tr><td>2.</td><td>Attribute to the agenda to deal with social issues among stakeholders including nations and civil society.</td></tr><tr><td>3.</td><td>Exemplify country partnership and regional cooperation strategies at the Asian Development Bank (ADB).</td></tr><tr><td>4.</td><td>Analyze and appraise how projects and programs are prepared, approved, implemented, monitored and evaluated.</td></tr><tr><td>5.</td><td>Develop and execute professional skills at Multilateral Development Banks (MDBs), such as leadership, management, teamwork and communication, based on respect, openness and integrity.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1566)",
+        "Date & Time": "03-FEB-2024 - 16-MAR-2024<br>Sa 02:00PM - 04:50PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "CHEN, Shih Ta Michael"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": [
+          "Add/Drop Deadline : 08-Feb-2024",
+          "Extended Drop Deadline : 22-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1566)",
+        "Date & Time": "03-FEB-2024 - 23-MAR-2024<br>Sa 09:30AM - 12:20PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "CHEN, Shih Ta Michael"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": [
+          "Add/Drop Deadline : 08-Feb-2024",
+          "Extended Drop Deadline : 22-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5420",
+    "name": "Environmental Politics and Policy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "PPOL 6100H",
+      "description": "This course introduces students to the political dimensions of environmental policy. It explores how various political actors and institutions interact with each other in shaping environmental policy. The course is divided into two parts. First, it presents the normative and ideational foundations for environmental politics and discusses the major forms of collective action. Second, it analyzes the government’s policy responses to environmental ideas and collective action in the context of capitalist political economy. Students will benefit from the ability to think politically about the environment, which is essential for successful environmental policymaking in practice.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the key ideas and issues in environmental politics and policy.</td></tr><tr><td>2.</td><td>Analyze the roles and impacts of actors and institutions in environmental collective action and policy making.</td></tr><tr><td>3.</td><td>Apply concepts and theories to evaluate the debates in environmental politics and policy.</td></tr><tr><td>4.</td><td>Exercise independent and critical judgements as well as formulate and communicate arguments effectively.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1551)",
+        "Date & Time": "Th 01:30PM - 04:20PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "WONG, James K."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5430",
+    "name": "Research, Analysis and Evaluation Methods: Survey and Interview Design",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course aims to equip students with the essential knowledge and skills for designing and conducting survey and interview research in various policy contexts and domains at a foundational level. Students will learn the theoretical foundations and practical applications of survey and interview methods, and how to use them to collect primary data from the public, stakeholders, and experts on diverse and contemporary policy issues and problems. Students will also learn how to critically evaluate the quality and validity of survey and interview data, and how to identify and address the sources of error and bias that may affect the results and their interpretation.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the theoretical foundations and practical applications of survey and interview methods in policy research.</td></tr><tr><td>2.</td><td>Design effective and ethical surveys and interviews that address specific policy issues and problems.</td></tr><tr><td>3.</td><td>Apply appropriate sampling techniques and data collection strategies to ensure the validity, reliability, and representativeness of survey and interview data.</td></tr><tr><td>4.</td><td>Analyze and interpret quantitative and qualitative data from surveys and interviews using various statistical and thematic methods.</td></tr><tr><td>5.</td><td>Evaluate the strengths and limitations of different survey and interview methods and their implications for policy decisions and outcomes.</td></tr><tr><td>6.</td><td>Communicate clearly and respectfully with different audiences using survey and interview data.</td></tr><tr><td>7.</td><td>Apply relevant perspectives and links to the professional practice of public policy and public management using survey and interview data.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4256)",
+        "Date & Time": "We 06:30PM - 09:20PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "BERNAL, Marie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "5770",
+    "name": "Professional Development for Taught Postgraduate Students",
+    "units": 0,
+    "info": {
+      "vector": "[0 credit]",
+      "description": "This course aims at equipping taught postgraduate students with transferrable skills conducive to their professional and career developments. Students are required to attend a mandatory training session on topics including plagiarism, group work and approaching the case study methods as well as a series of compulsory and optional sessions of career talks, presentation skills and English enhancement workshops in their course of program study. Graded PP, P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop a comprehensive set of essential transferrable skills to enhance professional development in the discipline.</td></tr><tr><td>2.</td><td>Recognize the major issues and updated development in the area of public policy.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1553)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "MATUS, Kira",
+          "SHARIF, Naubahar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 200,
+        "Enrol": 0,
+        "Avail": 200,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MPP": {
+            "Quota": 200,
+            "Enrol": 0,
+            "Avail": 200
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "R2 (1554)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "MATUS, Kira",
+          "SHARIF, Naubahar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MPM": {
+            "Quota": 80,
+            "Enrol": 0,
+            "Avail": 80
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "6100K",
+    "name": "Science and Global Security",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Advances in science and technology over the past century have created many unprecedented and still unresolved global security challenges for policy makers and the public. The invention of nuclear weapons during World War II led Einstein to conclude that “the unleashed power of the atom has changed everything save our modes of thinking.” Security concerns and government-sponsored research programs later combined to shape the Cold War arms race between the United States and Soviet Union. Many military and technical innovations resulted; these include precision-guided intercontinental ballistic missiles, spy satellites, and global navigation satellite systems, but also the modern electronic computer and computer networks, which became the basis for the internet. Recent developments in biotechnology and digital communication and control raise the prospect of possible new kinds of warfare. This course will provide students with a basic technical understanding of some of the critical technologies that are relevant to national and global security and will equip them with the skills to better assess the challenge of developing effective policies to manage such technologies. Case studies will include nuclear weapons and their proliferation, delivery systems for weapons of mass destruction, biotechnology and biosecurity, cyberwarfare, quantum technologies, autonomous weapons and human-level machine intelligence."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1555)",
+        "Date & Time": "Tu 04:30PM - 07:20PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "DE TROULLIOUD DE LANVERSIN, Julien"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "6100M",
+    "name": "Green and Sustainable Finance",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "The impact of climate change on humanity and ecosystems is broader and more severe than anticipated. Urgent and systemic transitions are required to ensure a future with net zero emissions and climate resilience, aiming to limit global warming to 1.5 degrees Celsius. However, achieving climate goals faces significant challenges, one of most important being the investment gap. First, existing funding flows fall far below the required scale for the future. Second, the growth momentum of the private sector remains insufficient. Third, limitations in fund allocation result in inadequate support for the most vulnerable sectors, industries and groups of population, with over 90% of funds directed toward climate mitigation and less than 10% toward adaptation. In short, accelerating climate action is only feasible with a several-fold increase in financing. The first part of this course introduces students to the foundations of green and sustainable finance, such as its definition, markets and instruments. The second part of this course follows the CFA Institute’s Certificate in ESG Investing curriculum to make sure that the students are equipped with the most up to date information on green and sustainable finance. At the end of the semester, students should have a strong background to be able to study for the certification, which will give them a cutting edge when applying for jobs related to ESG and sustainability."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1556)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "ZHAO, Xiaofan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "6100N",
+    "name": "The Rise, Fall, and Contemporary Resurgence of the East Asian Developmental State Model",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "The East Asian developmental state model represents a unique blend of state-led macroeconomic planning, heavily interventionist industrial policies, severe labor suppression, and capitalist markets. Despite intermittent financial crises, cronyism, and corruption, it has been credited with producing the most impressive economic growth miracles of the 20th century, including but not limited to that of Japan, South Korea, Taiwan, Singapore, and even Mainland China since Deng Xiaoping’s experiments with reform and opening up, leading many experts and policymakers to refer to the region as the “growth driver” and “anchor of stability” of the global economy. The model has dominated the political and economic landscape of East Asia from the end of World War II to the mid-1980s, when the rise of neoliberalism gradually shrunk the policy space for state intervention, and successive waves of democratization, as incomplete and flawed as they sometimes were, placed limits on the severity of labor suppression, putting in question the continued feasibility and even desirability of the model. However, in the 21st century, at least three major developments have resulted in the contemporary resurgence of the East Asian developmental state model, albeit in an evolved form: (1) greater acceptance and even demand for increased state intervention following neoliberalism’s retreat in the aftermath of the global financial crisis; (2) increased protectionism as an integral part of the new Cold War race for technological supremacy between the United States and Mainland China (especially in terms of advanced semiconductors and artificial intelligence); and (3) the deglobalization and regionalization of value chains following the Covid-19 pandemic. In this course, we will analyze the historical and contemporary application of the East Asian developmental state model in a wide variety of political and economic contexts, its merits and demerits in these contexts, and its potential to further evolve and adapt to new geopolitical and geoeconomic realities. The course will be useful to those pursuing a career in the public and private sectors, international organizations, journalism, or academia, with a particular focus on state-market relations, industrial and labor policies, and technological upgrading."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4167)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "TYRALA, Michael"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "6100O",
+    "name": "Prevention and Combating of Corruption in Public and Private Sectors",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "As one of the earliest concerns of moral and political discourse, corruption has long blighted human affairs, and it represents one of the most serious global threats of our time. Its effects are wide-ranging, with corruption having been found to distort human judgment, warp the organizational cultures of governmental and business institutions, undermine economic and political development, increase poverty, compromise human rights, corrode the integrity of economic and political systems, cause extreme inequalities, destroy public confidence in governments and markets, and undercut environmental protection and climate change policies. In this course, we will connect theory with practice to identify the causes and consequences of public and private sector corruption in different policy areas and contexts, and analyze the effectiveness of a wide variety of responses, measures, and strategies designed to prevent and combat it. The course will be useful to those pursuing a career in the public and private sectors, international organizations, civil society organizations, journalism, or academia, with a particular focus on ethics and integrity, good governance, and the role of modern technologies in both facilitating and fighting corruption."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4168)",
+        "Date & Time": "Tu 10:30AM - 01:20PM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "TYRALA, Michael"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "6100P",
+    "name": "Urban Studies, Disaster Governance and Resilience",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "The course aims to equip the students with solid scientific research ability and a profound understanding of the political institutions, processes, and strategies for public policy-making in the field of urban studies and disaster governance and resilience. This course is designed to help students develop the analytical skills required to address policy issues, articulate relevant criteria for policy choice, and evaluate policy impacts. Throughout the course, students will think about, discuss, and understand the crucial components of public policy and major approaches to public policy in urban studies and disaster governance and resilience. The course will include topics related to public policy theories and practices in cities, Asia’s urban transition, competing models or frameworks for Asia’s urban future, and global climate change and disaster governance."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4169)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "YI, Fangxin Francine"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "6100Q",
+    "name": "Energy Policy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course addresses three fundamental questions about energy policy: Why do we need energy policy? How do governments influence energy systems and their socio-economic and environmental impacts? What is the role of innovation in driving energy transitions? The class begins with an overview of the context in which today’s energy policies are designed: climate change, environmental degradation, the global competition for natural resources, as well as major successes and gaps in energy innovation. Policy types are introduced through the lens of energy technologies and their past and ongoing development. Students examine the role of data, models, and uncertainties in policy decisions and acquire basic literacy in energy technology and policy assessment methods."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4170)",
+        "Date & Time": "Th 01:30PM - 04:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "KLEMUN, Magdalena"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "6110",
+    "name": "Policy Analysis Project",
+    "units": 6,
+    "info": {
+      "vector": "[6 credits]",
+      "description": "An independent group project carrying 6 credits cover two consecutive regular terms for students to work on selected topics in public policy under the supervision of a faculty member. The project is designed to help student learn how to identify some public policy problem and prepare, design and select public policy measure or program to mitigate/solve it. Participation of both internal communities of the university and external organizations in these projects will be highly encouraged. The responsibility of control, administration and assessment of the projects rest with the University. Students will hone their ability to work in team, analyze policy issues and develop concise report of their findings and recommendations. The paper should be written as though for a particular decision-maker in government or a nonprofit organization, with the writer assuming the role of a staff assistant to this decision-maker. This course is for MPP students only. May be graded PP.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Analyze the background of a policy problem from multiple perspectives and also the needs of the client.</td></tr><tr><td>2.</td><td>Develop research questions and plans that articulate the client's needs.</td></tr><tr><td>3.</td><td>Demonstrate clear and sound reasons for their literature selection and consideration for their methods adoption; which at the same time are adequate to address their client's policy problem.</td></tr><tr><td>4.</td><td>Collect data that is appropriate to address the client's policy problem.</td></tr><tr><td>5.</td><td>Systematically sort out collected data and use a comprehensive analytical framework to interpret the data.</td></tr><tr><td>6.</td><td>Draw practical and theoretical inferences from the data analysis.</td></tr><tr><td>7.</td><td>Construct cogent argument for policy decision.</td></tr><tr><td>8.</td><td>Present confidently and persuasively.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1561)",
+        "Date & Time": "Fr 03:00PM - 05:50PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "YARIME, Masaru",
+          "ZHU, Pengyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MPP": {
+            "Quota": 100,
+            "Enrol": 0,
+            "Avail": 100
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "6770",
+    "name": "Professional Development in Public Policy",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "This one-credit course aims at providing research postgraduate students with basic training in career development and related professional skills. This course consists of a number of division-specific workshops. Graded PP, P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop a comprehensive set of essential transferrable skills to enhance professional development in the discipline.</td></tr><tr><td>2.</td><td>Recognize the major issues and updated development in the area of public policy.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1562)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "YARIME, Masaru"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct a research proposal on science/technology-based public policy research in their chosen fields.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1563)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "YARIME, Masaru"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 3,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 30,
+            "Enrol": 3,
+            "Avail": 27
+          }
+        },
+        "Remarks": [
+          "For MPhil(PP) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PPOL",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct a research proposal on science/technology-based public policy research in their chosen fields.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1564)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "YARIME, Masaru"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 22,
+        "Avail": 8,
+        "Wait": 0,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 30,
+            "Enrol": 22,
+            "Avail": 8
+          }
+        },
+        "Remarks": [
+          "For PhD(PP) students only"
+        ]
+      }
+    ]
+  }
+]

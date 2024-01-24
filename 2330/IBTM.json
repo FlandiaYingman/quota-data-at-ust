@@ -1,0 +1,299 @@
+[
+  {
+    "program": "IBTM",
+    "code": "5060",
+    "name": "Building Internet of Things: Technologies, Big Data and Strategies for the Building Manager",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "IBTM 6010E",
+      "description": "Going beyond building automation, the Building Internet of Things (BIoT) is a development which will herald in a new breed of intelligent buildings that are driving real value and greater performance for all stakeholders. This multi-faceted drive encompasses technologies in building services installations, hardware infrastructure and data connectivity. Combined with tools from big data analytics and economic, behavioral and environmental considerations, it enables better strategic decisions for building managers and property owners to consider the building in the context of smart cities and smart occupants.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Evaluate appropriateness of scope of work in ICT contracts for buildings.</td></tr><tr><td>2.</td><td>Incorporate loT in building designs.</td></tr><tr><td>3.</td><td>Apply data analytic and Al tools to building data.</td></tr><tr><td>4.</td><td>Apply loT to interface with Smart Cities initiatives.</td></tr><tr><td>5.</td><td>Provide better experience to their clients through building-human interactions.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1632)",
+        "Date & Time": "We 07:00PM - 09:50PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "CHEUNG, Chi Tong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "QuotaDetail": {
+          "IBTM": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          },
+          "MESF": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IBTM",
+    "code": "5200",
+    "name": "Advanced Energy Conversion Systems",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Theory and development state of advanced energy conversion systems including fuel cells, solar energy, heat pipes, heat pumps, thermoelectrical cooling, and other advanced systems.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the working principles of various energy devices such as fuel cells, heat pump, thermoelectric devices.</td></tr><tr><td>2.</td><td>Identify the different design requirements and performance evaluation criteria for different energy devices.</td></tr><tr><td>3.</td><td>Apply the first and second laws of thermodynamics in analyzing the energy-related problems.</td></tr><tr><td>4.</td><td>Identify the potential applications of different energy conversion devices.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1633)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "Rm 2465, Lift 25-26 (122)",
+        "Instructor": [
+          "HUANG, Baoling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "IBTM": {
+            "Quota": 80,
+            "Enrol": 0,
+            "Avail": 80
+          },
+          "MESF": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IBTM",
+    "code": "5430",
+    "name": "Indoor Air Quality Technology and Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "MECH 4350",
+      "description": "Discussion of the various air contaminants in the indoor environment and their transport phenomena, sick building syndrome, building related diseases, thermal comfort, ventilation theory, advanced ventilation systems, air treatment systems, indoor air quality assessment and mitigation strategy, indoor air quality management in intelligent buildings.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize the fundamental knowledge and emerging topics in indoor air quality in buildings and enclosed spaces, including the various types and effects of indoor air pollutants, transport dynamics of the various pollutants with respect to building ventilation systems and indoor/outdoor flow characteristics, the response of indoor air quality on air handling system designs, etc.</td></tr><tr><td>2.</td><td>Identify key issues in indoor air quality management and challenges, indoor pollution sources, thermal comfort, sick building syndrome and odor theory, designing ventilation and air cleaning systems, other mitigation strategies in dealing with the problems.</td></tr><tr><td>3.</td><td>Apply building environmental assessment methods, modern demand control technology and state-of-the-art air treatment technologies with cost consideration in achieving energy efficient and green building design and operation, to promote sustainable building design in intelligent building development.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1634)",
+        "Date & Time": "Sa 10:00AM - 12:50PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "LAW, Anthony"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 95,
+        "Enrol": 0,
+        "Avail": 95,
+        "Wait": 0,
+        "QuotaDetail": {
+          "IBTM": {
+            "Quota": 80,
+            "Enrol": 0,
+            "Avail": 80
+          },
+          "EVEM": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "MESF": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IBTM",
+    "code": "5530",
+    "name": "Risk Management and Decision-Making in Intelligent Building",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course aims to provide an understanding of the definition of risk, perception of risk, social acceptability of risk, risk assessment and management techniques, principle and process of risk management, contingency plans and disaster recovery, principle and process of risk-informed decision, multi-attribute utility theory, analytical hierarchical process and cost-risk benefit analysis in intelligent building management.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Communicate their ideas effectively and intelligently using risk-informed thinking.</td></tr><tr><td>2.</td><td>Evaluate the cost-effectiveness of intelligent building designs and services using quantitative decision-making tools.</td></tr><tr><td>3.</td><td>Take on management responsibilities.</td></tr><tr><td>4.</td><td>Support senior management in the decision-making process.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1635)",
+        "Date & Time": "Sa 03:00PM - 05:50PM",
+        "Room": "Rm 2465, Lift 25-26 (122)",
+        "Instructor": [
+          "HO, Vincent"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "IBTM": {
+            "Quota": 80,
+            "Enrol": 0,
+            "Avail": 80
+          },
+          "MESF": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IBTM",
+    "code": "5650",
+    "name": "Project Engineering and Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "IBTM 6010G",
+      "description": "This course covers important concepts, theories and tools for project engineering and management, including project planning and scheduling, value engineering, tendering processes, contract administration, risk allocation and liability sharing, site organization and safety management, cost estimation and control, change management, integrated project delivery, alternative dispute resolution, and decision making techniques.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Conduct project value engineering, tendering and contract administration.</td></tr><tr><td>2.</td><td>Carry out project planning, scheduling, cost estimation and control.</td></tr><tr><td>3.</td><td>Undertake risk management, site organization and safety management activities.</td></tr><tr><td>4.</td><td>Apply change management, alternative dispute resolution, and decision-making techniques to solving engineering problems.</td></tr><tr><td>5.</td><td>Appreciate the breadth of engineering problems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1636)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "ZHANG, Xueqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "IBTM": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IBTM",
+    "code": "5660",
+    "name": "Utility Services",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "IBTM 6010H",
+      "description": "This course covers important design concepts, principles and engineering calculations of the utility services systems that are essential to proper operation of buildings and facilities. The utility services systems include plumbing installation, cold and hot water supply, sanitation and drainage, steam systems, fuel gas supply, telecommunication services, extra low voltage systems, and vertical transportation.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the important design concepts, principles and engineering calculations of utility services systems.</td></tr><tr><td>2.</td><td>Evaluate the design practice and operation of different types of utility services systems.</td></tr><tr><td>3.</td><td>Develop practical design skills for plumbing installation, cold and hot water supply, sanitation and drainage.</td></tr><tr><td>4.</td><td>Apply the design practice for steam systems and fuel gas supply.</td></tr><tr><td>5.</td><td>Assess the telecommunication services and extra low voltage systems in buildings.</td></tr><tr><td>6.</td><td>Appraise the design and operation of vertical transportation systems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1637)",
+        "Date & Time": "Tu 07:00PM - 09:50PM",
+        "Room": "Rm 2465, Lift 25-26 (122)",
+        "Instructor": [
+          "HUI, Chun Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "IBTM": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IBTM",
+    "code": "6950A",
+    "name": "Independent Studies",
+    "units": 3,
+    "info": {
+      "vector": "[0-0-0:3]",
+      "description": "An independent project carried out under the supervision of a faculty member. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4316)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "IBTM",
+    "code": "6950B",
+    "name": "Independent Studies",
+    "units": 6,
+    "info": {
+      "vector": "[0-0-0:6]",
+      "description": "An independent project carried out under the supervision of a faculty member. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4317)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 52,
+        "Avail": 38,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "program": "MASS",
+    "code": "5010",
+    "name": "Research Methods in Social Science",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "SOSC 5110",
+      "previous code": "SSMA 5010",
+      "description": "This is an introduction to research methodology in the social science. It is intended to provide foundational training in the major approaches in the social sciences to the collection and analysis of quantitative and qualitative data, and the specification and testing of theories. The course overs the logic of scientific inquiry and various research techniques such as experimentation, scientific sampling, survey research, field methods, archival data, and quantitative analysis that are commonly used by researchers in economics, education, political science, psychology, and sociology.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the relationship between theory, hypothesis, data collection, and analysis in social science research.</td></tr><tr><td>2.</td><td>Plan a research study, including specification of hypothesis and selection of data and methods.</td></tr><tr><td>3.</td><td>Assess whether evidence is indicative of a cause and effect relationship.</td></tr><tr><td>4.</td><td>Suggest approaches for assessing causal relationships when it is not possible to conduct a traditional experiment.</td></tr><tr><td>5.</td><td>Describe the most important sources of data used in social science research.</td></tr><tr><td>6.</td><td>Develop a sampling strategy according to the needs of a research study.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1717)",
+        "Date & Time": "Th 10:30AM - 01:20PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Kwan To"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MA(SOSC) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MASS",
+    "code": "5020",
+    "name": "Social Statistics I",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "exclusion": "MGCS 5010, SOSC 4610, SOSC 5090",
+      "co-list with": "MGCS 5010",
+      "previous code": "SSMA 5020",
+      "description": "This course teaches basic concepts and skills required to conduct quantitative research in social science. Students will learn to design and conduct statistical analyses to test hypotheses. They will acquire experience in the use of statistical software to carry out analysis of social data.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the fundamental concepts and practices in statistics for social science.</td></tr><tr><td>2.</td><td>Recognize graphic and numerical summary of data with respect to distribution of variables and association between them; data-generating processes and study design; probability theory; probability distributions of continuous variables with a special emphasis on the normal distribution; sampling distributions; principles of statistical inference, including confidence intervals and hypothesis testing; inference for population means and proportions; statistical tests of relationship between two categorical variables; and simple linear regression (OLS).</td></tr><tr><td>3.</td><td>Operate a popular statistical package for data management and statistical analysis.</td></tr><tr><td>4.</td><td>Conduct more advanced statistical analysis which is useful in the academic career, financial industries, marketing and consulting.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1718)",
+        "Date & Time": "Fr 12:00PM - 01:50PM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "SIU, Nicolson"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MA(SOSC) students only",
+          "MASS 5020 is not co-listing with MGCS 5010 in Spring 2023-24"
+        ]
+      },
+      {
+        "Section": "T1 (1719)",
+        "Date & Time": "Fr 02:00PM - 03:50PM",
+        "Room": "Rm 4402, Lift 17-18",
+        "Instructor": [
+          "SIU, Nicolson"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MASS",
+    "code": "5050",
+    "name": "Economic Transformations in Post-Mao China",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "SSMA 5050",
+      "description": "This course offers a comprehensive account of the transformations in the economic institution of China since the late 1970s.\r",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Critique major works on China’s political economy.</td></tr><tr><td>2.</td><td>Develop theoretically informed and empirically grounded research papers on important issues in China’s economic transformation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1720)",
+        "Date & Time": "Th 03:00PM - 05:50PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "LIN, Yi-Min"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MA(SOSC) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MASS",
+    "code": "5060",
+    "name": "Political Changes and Political Participation",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "MGCS 5021, SOSC 5480",
+      "previous code": "SSMA 5060",
+      "description": "This course introduces to students basic theories about political changes, such as democratization and reform, or their absence.  It also discusses the dynamics of such political changes by examining the interactions among different social forces and political actors, including citizens.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the theories on social changes, including reform.</td></tr><tr><td>2.</td><td>Analyze the dynamics of social and political changes in different political systems.</td></tr><tr><td>3.</td><td>Identify the problems faced by authoritarian regimes, like China, in managing social changes.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1721)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "CAI, Yongshun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MA(SOSC) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MASS",
+    "code": "5110",
+    "name": "Social Statistics II",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "pre-requisite": "MGCS 5010 OR MASS 5020",
+      "exclusion": "MGCS 5011 (Prior to 2019-20)",
+      "previous code": "SSMA 5110",
+      "description": "This course provides students with hands-on training on how to use statistical software to analyze non-experimental quantitative data from the real world, to draw sensible conclusions, to convey results, and write a research report.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain theoretical foundations of modern regression analysis.</td></tr><tr><td>2.</td><td>Conduct applied regression analysis using statistical software.</td></tr><tr><td>3.</td><td>Write academic research paper with a quantitative orientation.</td></tr><tr><td>4.</td><td>Develop a broader scope for regression analysis in light of further study.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1722)",
+        "Date & Time": "Tu 10:30AM - 12:20PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "WONG, Kwan To"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MA(SOSC) students only"
+        ]
+      },
+      {
+        "Section": "T1 (1723)",
+        "Date & Time": "Tu 12:30PM - 01:20PM",
+        "Room": "Rm 4402, Lift 17-18",
+        "Instructor": [
+          "WONG, Kwan To"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MASS",
+    "code": "5180",
+    "name": "Migration and Globalization",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "SOSC 5660 (prior to 2023-24)",
+      "previous code": "SSMA 5180",
+      "description": "This course aims to explore the interrelationship between population changes/ migration and economic development in the era of globalization. Special attention is given to labor migration in China and international migration in China/HKSAR.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Conduct simple demographic analyses, such as population forecast, as well as tempo and international comparison of levels of fertility or mortality.</td></tr><tr><td>2.</td><td>Apply models and theories of migration to labor migration in and from developing countries, as well as transnational human capital transfer.</td></tr><tr><td>3.</td><td>Conduct PowerPoint presentation of research of social science topics.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1724)",
+        "Date & Time": "Tu 03:00PM - 05:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "MA, John Zhongdong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MA(SOSC) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MASS",
+    "code": "5210",
+    "name": "Economic Development",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "SOSC 6030I",
+      "previous code": "SSMA 5210",
+      "description": "This course examines the economic situations of low and middle-income economies, considering many important topics in the field of development economics. It addresses questions such as what factors help explain why some countries are rich and others poor and whether economic policies can affect these factors. We will study key aspects of life for poor households in the developing world, such as inequality, gender and the intra-household division of resources, education, health, savings and credit, institutions and globalization. Students will also study recent research in the field and examine empirical evidence on these topics.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify critical issues in the developing world.</td></tr><tr><td>2.</td><td>Apply core concepts of economics to critically analyze significant social phenomena and interpret important events related to the developing world.</td></tr><tr><td>3.</td><td>Analyze the core issues in economic development strategies.</td></tr><tr><td>4.</td><td>Use simple statistical methods to study some issues related to development.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1725)",
+        "Date & Time": "We 10:30AM - 01:20PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "HAN, Li"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MA(SOSC) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MASS",
+    "code": "5981",
+    "name": "Environment and Human Behavior",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "MASS 5220, SSMA 5220",
+      "description": "This course examines the interactions between humans and physical environments from a psychological perspective. It discusses how human behavior is affected by, and affects, their natural and built surroundings. It also explores the human dimension of environmental issues.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize the interactions between humans and physical environments and explain them with reference to theories in psychology and other social sciences.</td></tr><tr><td>2.</td><td>Analyze the human dimension of environmental issues from psychological and behavioral perspectives.</td></tr><tr><td>3.</td><td>Analyze their own experience and everyday encounters regarding physical environments.</td></tr><tr><td>4.</td><td>Understand, explain, and evaluate research studies that examine human-environment relationships.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1726)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "TAM, Kevin Kim-Pong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MA(SOSC) students only"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "program": "MSBD",
+    "code": "5002",
+    "name": "Data Mining and Knowledge Discovery",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "COMP 5331, CSIT 5210, MFIT 5004",
+      "co-list with": "CSIT 5210",
+      "description": "Data mining has recently emerged as a major field of research and applications. Aimed at extracting useful and interesting knowledge from large data repositories such as databases and the Web, data mining integrates techniques from the fields of database, statistics and AI.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply the clustering techniques to find clusters within the data.</td></tr><tr><td>2.</td><td>Use the classification techniques to conduct classification and predication.</td></tr><tr><td>3.</td><td>Use the knowledge of frequent pattern mining to discover patterns from the data.</td></tr><tr><td>4.</td><td>Conduct mining over social media and text data and detect outliers from the data.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1657)",
+        "Date & Time": "Sa 10:00AM - 12:50PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "WONG, Raymond Chi Wing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 130,
+        "Enrol": 107,
+        "Avail": 23,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BDT": {
+            "Quota": 130,
+            "Enrol": 107,
+            "Avail": 23
+          }
+        },
+        "Remarks": [
+          "MSBD 5002 is not co-listing with CSIT 5210 in Spring 2023-24"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MSBD",
+    "code": "5003",
+    "name": "Big Data Computing",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Big data systems, including Cloud Computing and parallel data processing frameworks, emerge as enabling technologies in managing and mining the massive amount of data across hundreds or even thousands of commodity servers in datacenters. This course exposes students to both the theory and hands-on experience of this new technology. The course will cover the following topics. (1) Basic concepts of Cloud Computing and production Cloud services; (2) MapReduce - the de facto datacenter-scale programming abstraction - and its open source implementation of Hadoop. (3) Apache Spark - a new generation parallel processing framework - and its infrastructure, programming model, cluster deployment, tuning and debugging, as well as a number of specialized data processing systems built on top of Spark.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Build a Hadoop Ecosystem.</td></tr><tr><td>2.</td><td>Manage the data over Spark systems.</td></tr><tr><td>3.</td><td>Apply the knowledge of Spark and Hadoop Ecosystems for maintaining and monitoring Big Data Computing Systems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1658)",
+        "Date & Time": "Mo 07:30PM - 10:20PM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "YI, Ke"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 130,
+        "Enrol": 104,
+        "Avail": 26,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BDT": {
+            "Quota": 130,
+            "Enrol": 104,
+            "Avail": 26
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MSBD",
+    "code": "5005",
+    "name": "Data Visualization",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course will introduce visualization techniques for data from everyday life, social media, business, scientific computing, medical imaging, etc. The topics include human visual system and perception, visual design principles, open- source visualization tools and systems, visualization techniques for CT/MRI data, computational fluid dynamics, graphs and networks, time-series data, text and documents, Twitter data, and spatio-temporal data.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply human visual system and perception on designing a visual system.</td></tr><tr><td>2.</td><td>Use open-source visualization tools and systems to complete various design and visualization tasks.</td></tr><tr><td>3.</td><td>Visualize different types of data including graphs, networks, texts, documents, social media and spatio-temporal data with the visualization techniques.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1659)",
+        "Date & Time": "Fr 07:30PM - 10:20PM",
+        "Room": "Rm 2465, Lift 25-26 (122)",
+        "Instructor": [
+          "QU, Huamin",
+          "ZHANG, Rong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BDT": {
+            "Quota": 80,
+            "Enrol": 0,
+            "Avail": 80
+          },
+          "BEHI": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MSBD",
+    "code": "5007",
+    "name": "Optimization and Matrix Computation",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "The course will introduce basic techniques about optimization, including unconstrained optimization and constrained optimization, and matrix computation, including matrix analysis, linear systems, orthogonalization and least squares and eigenvalue problems.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply unconstrained optimization and constrained optimization techniques on data optimization problems.</td></tr><tr><td>2.</td><td>Carry out various data analysis tasks over Matrixes by using Matrix computation techniques.</td></tr><tr><td>3.</td><td>Use optimization and Matrix computation techniques together to solve real-life optimization problems, such as community detection or leadership discovery.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1660)",
+        "Date & Time": "We 07:30PM - 10:20PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "CAI, Jianfeng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BDT": {
+            "Quota": 93,
+            "Enrol": 0,
+            "Avail": 93
+          },
+          "CSIT": {
+            "Quota": 7,
+            "Enrol": 0,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MSBD",
+    "code": "5008",
+    "name": "Introduction to Social Computing",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course is an introduction to social information network analysis and engineering. Students will learn both mathematical and programming knowledge for analyzing the structures and dynamics of typical social information networks (e.g. Facebook, Twitter, and MSN). They will also learn how social metrics can be used to improve computer system design as people are the networks. It will cover topics such as small world phenomenon; contagion tipping and influence in networks; models of network formation and evolution; the web graph and PageRank; social graphs and community detection; measuring centrality; greedy routing and navigations in networks; introduction to game theory and strategic behavior; social engineering; and principles of computer system design.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Use the knowledge of social networks to discover influential nodes and communities.</td></tr><tr><td>2.</td><td>Identify human behavior on social networks and recommend events or users based on user profiles and connections.</td></tr><tr><td>3.</td><td>Recognize the influence of nodes and edges and design viral marketing based on social influence analysis.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1661)",
+        "Date & Time": "Th 07:30PM - 10:20PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "KWOK, James Tin Yau"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BDT": {
+            "Quota": 93,
+            "Enrol": 0,
+            "Avail": 93
+          },
+          "CSIT": {
+            "Quota": 7,
+            "Enrol": 0,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MSBD",
+    "code": "5010",
+    "name": "Image Processing and Analysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course will introduce the basic techniques for image data processing and analysis. Topics include image processing and analysis in spatial and frequency domains, image restoration and compression, image segmentation and registration, morphological image processing, representation and description, feature description, face recognition, iris recognition, fingerprint recognition, image analysis topics, such as medical image analysis.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Enhance image quality or effect by applying image representation, restoration and filtering.</td></tr><tr><td>2.</td><td>Apply segmentation, registration and compression techniques to reduce the volume of images.</td></tr><tr><td>3.</td><td>Apply various image analysis techniques on different recognition tasks and pattern discovery on media images.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1662)",
+        "Date & Time": "Tu 07:30PM - 10:20PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "CHUNG, Albert Chi Shing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 1,
+        "Avail": 99,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BDT": {
+            "Quota": 93,
+            "Enrol": 0,
+            "Avail": 93
+          },
+          "CSIT": {
+            "Quota": 7,
+            "Enrol": 0,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MSBD",
+    "code": "5013",
+    "name": "Statistical Prediction",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course will introduce statistical predication models and algorithms, including regression models, classification, additive models, graphical models and network, model assessment and selection, model inference and model averaging.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Conduct prediction based on statistical models.</td></tr><tr><td>2.</td><td>Investigate different predication tasks and apply different models.</td></tr><tr><td>3.</td><td>Revise the current statistical models to meet the requirements of real-life predication problems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1663)",
+        "Date & Time": "We 07:30PM - 10:20PM",
+        "Room": "Rm 2465, Lift 25-26 (122)",
+        "Instructor": [
+          "YANG, Can"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BDT": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MSBD",
+    "code": "5014A",
+    "name": "Independent Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "An independent project carried out under the supervision of a faculty member. This course may be repeated for credit."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4323)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MSBD",
+    "code": "5014B",
+    "name": "Independent Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "An independent project carried out under the supervision of a faculty member. This course may be repeated for credit."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4324)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MSBD",
+    "code": "6000O",
+    "name": "FinTech",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This FinTech course dives into the evolving landscape of financial technology. Students will gain a thorough understanding of the diverse participants within the financial industry, from traditional banks to disruptive start-ups. The curriculum emphasizes practical application, equipping learners with the skills to harness cutting-edge technology in various financial practice areas. Through a blend of case studies, hands-on projects, and interactive discussions, students will explore the integration of technology in financial services, ensuring they are well-prepared to drive innovation in this dynamic sector."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1665)",
+        "Date & Time": "Sa 03:00PM - 05:50PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "BDT": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          }
+        },
+        "Remarks": [
+          "Instructor: ZHOU, Sammy Min En"
+        ]
+      }
+    ]
+  }
+]

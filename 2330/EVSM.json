@@ -1,0 +1,237 @@
+[
+  {
+    "program": "EVSM",
+    "code": "5240",
+    "name": "GIS for Environmental Professionals",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "ENVR 5330",
+      "description": "Introducing GIS concepts, working with spatial data, managing GIS data, integrating GIS data with Google Earth/Map, remote sensing and model data, applying GIS technology to support environmental planning and management.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Distinguish different data models in GIS to perform environmental analysis.</td></tr><tr><td>2.</td><td>Generate dedicated spatial functions in GIS to assess and reveal the environmental impacts in graphical manner (such as finding the place to install wind turbines, producing the marine emission spatial map and studying the correlation between the frontal areas and pm2.5 along the tramway).</td></tr><tr><td>3.</td><td>Apply GIS and other programming tools to integrate the spatial data to various scientific models to support environmental management and decision-making.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1208)",
+        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Room": "Rm 4402, Lift 17-18",
+        "Instructor": [
+          "CHAN, Jimmy Wai Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 0,
+        "Avail": 35,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ENVR": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          },
+          "GMRM": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": [
+          "For EVSM and GMRM students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EVSM",
+    "code": "5280",
+    "name": "Introduction to Atmospheric Aerosols",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Atmospheric aerosols, also known as, airborne particulate matter, are important air pollutants affecting our health, visibility, and global climate change. This course aims to provide a survey of the physical and chemical properties, the source identification, the atmospheric transformation, the sampling of atmospheric aerosols, and the determination of their chemical compositions.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Evaluate the air pollution problem, in particular that in Hong Kong and PRD, and the main contributing factors.</td></tr><tr><td>2.</td><td>Explain and use the basic concepts and terminology in atmospheric aerosols and particulate matter for communication and discussion.</td></tr><tr><td>3.</td><td>Identify the common aerosol parameters and atmospheric processes governing the changes of atmospheric aerosols.</td></tr><tr><td>4.</td><td>Apply the concepts and knowledge to analyze aerosol related air pollution issues.</td></tr><tr><td>5.</td><td>Work in a team to analyze and comment on an aerosols-related air pollution issue, like those reported in scientific papers, and present and communicate the findings to a group of audience.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1209)",
+        "Date & Time": "Sa 09:30AM - 12:20PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "WANG, Zhe"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ENVR": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": [
+          "For MPhil/PhD (AES/ESPM) and MSc/PGD (EVSM) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EVSM",
+    "code": "5300",
+    "name": "Corporate Environmental Strategy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "ENVR 6040D",
+      "description": "The global environment will continue to degrade until there are significant changes in business practices and consumer behavior. This course will explore how environmental forces are creating threats and opportunities for business. It looks at \"best practices\" of numerous companies in different industries in order to understand how firms can reduce environmental harm and also be profitable. It explores how current business practices evolved to be environmentally harmful and why they are so “sticky” and resistant to change. The course uses readings, lectures and case studies for its delivery.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the conceptual relationships between a firm’s business strategy and the natural environment. </td></tr><tr><td>2.</td><td>Assess the efficacy of the incorporation of environmental perspectives into business design. </td></tr><tr><td>3.</td><td>Analyze business situations to identify alternative environmental strategies and recommend environmentally responsible solutions.</td></tr><tr><td>4.</td><td>Apply an understanding of environmental issues to business decision-making processes.</td></tr><tr><td>5.</td><td>Synthesize an environmentally sustainable business model for a business.</td></tr><tr><td>6.</td><td>Demonstrate professional behavior and teamwork.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1210)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "MOREAU, Quentin Bertrand Arthur"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ENVR": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": [
+          "For EVSM students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EVSM",
+    "code": "6070",
+    "name": "Environmental Impact Assessment",
+    "units": 4,
+    "info": {
+      "vector": "[3-1-0:4]",
+      "exclusion": "ENVS 5116",
+      "description": "Introduction to environmental impact assessment (EIA) and the EIA process in Hong Kong. The components of an EIA report including air, noise, water, waste management, environmental risk, ecological impact, and socio-economic impact assessments will be analyzed. Environmental law, environmental management and the importance of public participation will also be discussed. Case studies from Hong Kong will be used and comparison with EIA in Mainland China will be made.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Critically examine a broad range of environmental impacts in the EIA processes.</td></tr><tr><td>2.</td><td>Identify the complex interactions among the various key components in the assessment processes.</td></tr><tr><td>3.</td><td>Develop analytical and presentation skills to locate and evaluate the interactive dynamics between environment and scientific principles.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1211)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "LAU, Pui Sang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "ENVR": {
+            "Quota": 70,
+            "Enrol": 0,
+            "Avail": 70
+          },
+          "EVEM": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
+          }
+        },
+        "Remarks": [
+          "For MPhil/PhD (AES/MES/ESPM) and MSc/PGD (EVSM/EVEM) students only"
+        ]
+      },
+      {
+        "Section": "T1 (1212)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LAU, Pui Sang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EVSM",
+    "code": "6950A",
+    "name": "MSc Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "An independent project on selected topics in environmental science under the supervision of a faculty member. Participation of external organizations in these projects will be particularly encouraged. The responsibility of control, administration and assessment of the projects rests with the University. The course may be repeated once for credits. This course is for MSc students only. Approval from instructor is required."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1213)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 13,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(EVSM) students only",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EVSM",
+    "code": "6950B",
+    "name": "MSc Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "An independent project on selected topics in environmental science under the supervision of a faculty member. Participation of external organizations in these projects will be particularly encouraged. The responsibility of control, administration and assessment of the projects rests with the University. The course may be repeated once for credits. This course is for MSc students only. Approval from instructor is required."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1214)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 13,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(EVSM) students only",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,784 @@
+[
+  {
+    "program": "ENGG",
+    "code": "1010",
+    "name": "Academic Orientation",
+    "units": 0,
+    "info": {
+      "description": "This course is designed specifically for engineering students of the First Year of 4Y curriculum. This year-long course aims at providing an induction to the School of Engineering for the freshmen year. It will cover topics such as learning and time-management skills, purposes of university and engineering education, and planning for personal and professional development. Graded PP, P or F. For Year 1 Engineering students only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3936)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "1110",
+    "name": "Engineering Solutions to Grand Challenges of the 21st Century",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SSC-S&T) for 36-credit program<br>Common Core (T) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "previous code": "CORE 1202",
+      "description": "Throughout human history, engineering has driven the advance of civilization. In the past century engineering has recorded its greatest accomplishments, but for all these accomplishments the century ahead poses formidable problems sustaining civilization advancement. This course will broaden and raise student's awareness of challenges faced by coming generations such as climate change, clean water and healthcare. Students will work in small groups in a collaborative learning environment to explore in details and in multiple dimensions the key issues around selected major challenges with experts in the areas. Suggested and proposed engineering solutions based on advances in science and technology will be explored and discussed. Students will be encouraged to develop and present their own innovative engineering approaches to address these major challenges."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3937)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 6581, Lift 27-28",
+        "Instructor": [
+          "CHAN, Yui Bun",
+          "LAVIGNE, Paul David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "1150",
+    "name": "Information Technology Revolution: Past, Present and Future",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SSC-S&T) for 36-credit program<br>Common Core (T) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "previous code": "CORE 1203",
+      "description": "This course introduces the basic concepts in information technology and explores the many applications of information technology in our daily life from consumer electronics to internet to various sectors including medicine, business, and social networking, etc. Key technology breakthroughs throughout the development of information technology and its impact to various aspect of our society will be studied. These include the invention of the 1st transistor, concept of computing machine, representation of information in digital formats, miniaturization via Very-Large-Scale Integration (VLSI) technology, computer systems and software, electronic communications from telephony and mobile phones over the telecom network to email, instant messaging and video skype over the internet, protection of information, and emerging applications including social networking, big data, and autonomous and intelligent systems. The focus is to identify the key technological advances in information Technology and understand how these advances led to revolutionary changes in our life and society."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3938)",
+        "Date & Time": "Mo 12:00PM - 01:20PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "WONG, Kai Sun Albert"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 96,
+        "Enrol": 0,
+        "Avail": 96,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3940)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Rm 4582, Lift 27-28 (66)",
+        "Instructor": [
+          "WONG, Kai Sun Albert"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 48,
+        "Enrol": 0,
+        "Avail": 48,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3942)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 4582, Lift 27-28 (66)",
+        "Instructor": [
+          "WONG, Kai Sun Albert"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 48,
+        "Enrol": 0,
+        "Avail": 48,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "1200",
+    "name": "Engineering Team Design Experience",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SSC-S&T) for 36-credit program<br>Common Core (T) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "previous code": "CORE 1200",
+      "description": "The Engineering Team Design Experience course allows students to explore various areas of engineering in order to design and work towards a final road show\ndemonstration before the end of the term. Students in this course will be divided into design teams with a common goal: construct their project artifact or virtual 3D model, taken from a wide range of engineering and design contexts. There will be three main aspects: engineering skills, design/creativity, and teamwork. Fundamental engineering skills will be introduced in different engineering fields, such as 3D modelling or hands-on prototyping skills, along with exposure to various kinds of advanced technology available. Some class sessions will focus on design thinking and creativity. They are key to creating practical and interesting products. Students will work together in teams to realize their common idea of their final roadshow project, to have a real-world experience working with a design team."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "T1 (3943)",
+        "Date & Time": "Fr 01:30PM - 04:20PM",
+        "Room": "Rm 4582, Lift 27-28 (66)",
+        "Instructor": [
+          "CHAN, Yui Bun",
+          "CHONG, Nga Shun",
+          "LAVIGNE, Paul David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "1400",
+    "name": "Designing Your Life for Engineering Students",
+    "units": 1,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "description": "Originated from Stanford University’s Life Design Lab (Bill Burnett and Dave Evans), this course employs a method called “design thinking” to help students from any program develop a constructive and effective approach to finding and designing their vocation after university. Through small group discussions, in-class activities, personal reflections and individual coaching, this course teaches students to use design thinking to explore many of life’s major challenges, such as pursuing careers they love and finding personal fulfillment. Topics include the integration of work and worldviews, ideation techniques, a portfolio approach to thriving, designing to increase balance and energy and how to prototype all aspects of students’ life. The course also touches on the realities of engaging the workplace, and practices that support vocation formation throughout the career of students. The capstone assignment is the creation of an “Odyssey Plan” focusing on taking actions in the 3-5 years following their graduation. For Engineering students only. Graded P or F."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "T1 (3944)",
+        "Date & Time": "Tu 10:00AM - 11:50AM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "SIU, Wai Sze Grace",
+          "YOUSAF, Syeda Noor-ul-ain"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "2010",
+    "name": "Engineering Seminar Series",
+    "units": 0,
+    "info": {
+      "description": "This course is designed for non-freshman students in the School of Engineering to promote the awareness of the role of engineers and the impact of engineering in the society. As a continuation of ENGG 1010, students are required to attend a few seminars from a series of seminars offered by the school each year. The seminars cover areas including the ethical and environmental responsibilities as an engineer, the importance and the considerations of safety and health related issues in engineering designs and solutions, and in general the impact of engineering to the society. This course helps to provide the needed components for meeting the accreditation requirement and also helps to broaden the students' horizon in different engineering disciplines. For SENG students not in their first year of study only. Graded P or F. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (3945)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LAM, Henry Hei Ning",
+          "MOW, Wai Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 900,
+        "Enrol": 821,
+        "Avail": 79,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3946)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LAM, Henry Hei Ning",
+          "MOW, Wai Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 900,
+        "Enrol": 424,
+        "Avail": 476,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "2900D",
+    "name": "Community Services Project: Underwater Robot Community Engagement Project",
+    "units": 2,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "alternate code(s)": "SBMT 2100H, SCIE 1090D",
+      "description": "This Project course gives HKUST undergraduate students the opportunity to work in teams from different schools, to serve identified community group (i.e. primary and secondary school students/South Asian youths etc.), to understand limitations on the served groups and to learn how to apply theoretical knowledge on the building of under-water robots. Throughout the project, HKUST undergraduate students will act as teachers by transferring their skills of under-water robot building to primary and secondary school students and/or South Asian youths. HKUST undergraduate students will also learn the skills of event management throughout the project. Students must obtain prior approval from course coordinator for enrolling in the course. May be repeated for credits, if different topics are taken. Graded P or F. May be graded PP."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3948)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "2991E",
+    "name": "Undergraduate Student-initiated Experiential Learning",
+    "units": 1,
+    "info": {
+      "description": "This course shall encourage students to carry our projects of their own ideas under guidance of faculty supervisors to apply engineering knowledge they learnt and integrate other expertise. In the end of the term, students are required to submit reports/demonstrations in an open house to show what they have achieved. Project and budget proposal should be submitted to the School of Engineering for application approval. May be repeated for credits if different topics are taken. Graded PP, P or F. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (3949)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "MOW, Wai Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "2992E",
+    "name": "Undergraduate Student-initiated Experiential Learning",
+    "units": 2,
+    "info": {
+      "description": "This course shall encourage students to carry our projects of their own ideas under guidance of faculty supervisors to apply engineering knowledge they learnt and integrate other expertise. In the end of the term, students are required to submit reports/demonstrations in an open house to show what they have achieved. Project and budget proposal should be submitted to the School of Engineering for application approval. May be repeated for credits if different topics are taken. Graded PP, P or F. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (3950)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "MOW, Wai Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "2993E",
+    "name": "Undergraduate Student-initiated Experiential Learning",
+    "units": 3,
+    "info": {
+      "description": "This course shall encourage students to carry our projects of their own ideas under guidance of faculty supervisors to apply engineering knowledge they learnt and integrate other expertise. In the end of the term, students are required to submit reports/demonstrations in an open house to show what they have achieved. Project and budget proposal should be submitted to the School of Engineering for application approval. May be repeated for credits if different topics are taken. Graded PP, P or F. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (3951)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "MOW, Wai Ho"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "3960Z",
+    "name": "Robotics Special Project: RoboMasters 2024 Robot Contest",
+    "units": 4,
+    "info": {
+      "description": "RoboMasters Robot Contest is a robot competition platform created for young engineers. Participating teams will get out of the classroom and independently develop and manufacture robots for the shooting confrontation. The contest will provide them with an opportunity to obtain precious practical skills and use strategic thinking, combine theories with practice and create advanced smart robots through fierce competition. Each year, new game field, rules of competition\n(https://www.robomaster.com/en-US/robo/rm) and a new technical challenge are introduced to the competition. Enrollment in the project course may require instructor's approval."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4166)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Suk Wai Winnie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "3961A",
+    "name": "Robotics Special Project: ABU Robocon 2024",
+    "units": 4,
+    "info": {
+      "description": "The Asia-Pacific Robot Contest (ABU Robocon) is an Asian Oceanian College robot competition for young engineers. Student teams will design and manufacture robots for tackling different missions and challenges which are provided by the organizer. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4283)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "3961B",
+    "name": "Robotics Special Project: MATE ROV Competition 2024",
+    "units": 4,
+    "info": {
+      "description": "The Marine Advanced Technology Education (MATE) Remotely Operated Vehicle (ROV) Competition is an international competition for young engineers. Student teams will design and manufacture the underwater robot for tackling different missions and challenges which are provided by the organizer. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4284)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "3961C",
+    "name": "Robotics Special Project: RoboGames 2024 & SmartCar Challenge",
+    "units": 4,
+    "info": {
+      "description": "The RoboGames is an international competition for young engineers. Student teams will design and manufacture racing model car for tackling different missions and challenges which are provided by the organizer. SmartCar Challenge is a national competition held in late July to August. Student teams will design a programmable car and to completed with other school teams. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4301)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "3961D",
+    "name": "Robotics Special Project: Unmanned Aerial Vehicle Competition 2024",
+    "units": 4,
+    "info": {
+      "description": "There are various of Unmanned Aerial Vehicle Competition in the world. Student teams will design and manufacture the drones for tackling different missions and challenges which are provided by the organizer. Normally, a project report is required. Enrollment in the project course may require instructor's approval. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4302)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WOO, Kam Tim"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "4901",
+    "name": "Integrated Final Year Project - First Major",
+    "units": 3,
+    "info": {
+      "co-requisite": "ENGG 4902",
+      "description": "Student who enrolled in this course should have declared additional major and both majors are BEng majors. The project would be an integrated, tailor-made project which can fulfill both majors’ program intended learning outcomes. It should be conducted under the supervision of faculty members from both majors. This course would be assessed by criteria set by first major. Student should use this course to substitute FYP requirement for both majors. Student enrolled in this course must concurrently enroll in ENGG 4902. May be graded PP. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (3952)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 2; Spring: 1",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "4902",
+    "name": "Integrated Final Year Project - Second Major",
+    "units": 3,
+    "info": {
+      "co-requisite": "ENGG 4901",
+      "description": "Student who enrolled in this course should have declared additional major and both majors are BEng majors. The project would be an integrated, tailor-made project which can fulfill both majors’ program intended learning outcomes. It should be conducted under the supervision of faculty members from both majors. This course would be assessed by criteria set by second major. Student should use this course to substitute FYP requirement for both majors. Student enrolled in this course must concurrently enroll in ENGG 4901. May be graded PP. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (3953)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "4903",
+    "name": "Integrated Final Year Thesis - First Major",
+    "units": 3,
+    "info": {
+      "co-requisite": "ENGG 4904",
+      "description": "Student who enrolled in this course should have declared additional major and both majors are BEng majors. The thesis would be an integrated, tailor-made thesis which can fulfill both majors’ program intended learning outcomes. It should be conducted under the supervision of faculty members from both majors. This course would be assessed by criteria set by first major. Student should use this course to substitute FYT requirement for both majors. Student enrolled in this course must concurrently enroll ENGG 4904. May be graded PP. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (3954)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 2; Spring: 1",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "4904",
+    "name": "Integrated Final Year Thesis - Second Major",
+    "units": 3,
+    "info": {
+      "co-requisite": "ENGG 4903",
+      "description": "Student who enrolled in this course should have declared additional major and both majors are BEng majors. The thesis would be an integrated, tailor-made thesis which can fulfill both majors’ program intended learning outcomes. It should be conducted under the supervision of faculty members from both majors. This course would be assessed by criteria set by second major. Student should use this course to substitute FYT requirement for both majors. Student enrolled in this course must concurrently enroll in ENGG 4903. May be graded PP. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (3955)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "4930G",
+    "name": "Design for Global Health",
+    "units": 3,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "description": "A group / individual special project supervised by one or a group of faculty members. Students are required to conduct a project on a specified topic related to Global Health. Team will set objectives at the beginning of the term. There will be several task-based assessments throughout the term to check their progress. At the end of term students need to show case their output in a form of roadshow and submit the final report to the teaching team. Students may repeat the course for credits for at most three times. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3956)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "ABEYNAYAKE, H.I. Malinda M.",
+          "CHAU, Ying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode",
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L2 (3957)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode",
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L3 (3958)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode",
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L4 (3959)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode",
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L5 (3960)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode",
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L6 (3961)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENGG",
+    "code": "6780",
+    "name": "Career Development for Engineering Research Students",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "This course aims at equipping SENG RPg students with the skills conducive to their professional career development. Students are required to attend the 3 hours' training focusing on personality self-exploration and discipline-specific training at the department level, and another 10 hours' training at the school level, at their own choice. Graded PP, P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify their own future career direction.</td></tr><tr><td>2.</td><td>Develop effective job searching strategies.</td></tr><tr><td>3.</td><td>Appropriately network with professionals and human resource personnel.</td></tr><tr><td>4.</td><td>Present competitiveness through application materials and interview.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1631)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "ZHOU, Catherine"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 800,
+        "Enrol": 751,
+        "Avail": 49,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

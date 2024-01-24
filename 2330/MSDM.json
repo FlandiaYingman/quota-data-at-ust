@@ -1,0 +1,311 @@
+[
+  {
+    "program": "MSDM",
+    "code": "5004",
+    "name": "Numerical Methods and Modeling in Science",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "PHYS 5410 (prior to 2022-23)",
+      "description": "Fundamental numerical techniques: error, speed and stability, integrals, derivatives, interpolation and extrapolation, least squares ﬁtting, solution of linear algebraic equations, mathematical optimization, ordinary differential equations, partial differential equations; Fourier and spectral applications, random processes, Monte Carlo simulations, simulated annealing.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply numerical methods for derivatives and integrals and explain their errors.</td></tr><tr><td>2.</td><td>Apply numerical methods for interpolation, extrapolation, and least squares fitting.</td></tr><tr><td>3.</td><td>Apply numerical methods to solve linear algebraic equations.</td></tr><tr><td>4.</td><td>Apply numerical methods to solve ordinary differential equations and partial differential equations.</td></tr><tr><td>5.</td><td>Apply mathematical optimization.</td></tr><tr><td>6.</td><td>Explain Fourier and spectral methods.</td></tr><tr><td>7.</td><td>Apply Monte Carlo simulations.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1512)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "CHEN, Tian Wen",
+          "XIANG, Yang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(DDM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MSDM",
+    "code": "5005",
+    "name": "Innovation in Practice",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "description": "Three topics will be selected each term. For each topic, specialists from the industry will be invited to introduce the industrial landscape and related issues. Students will then form groups to explore methodology of collecting useful data and propose innovative solutions related to the topics based on real data. This course enables students to apply mathematical theories to real context and gives students hands-on experience on data science.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the use of data science as a platform to impact the society and business decisions.</td></tr><tr><td>2.</td><td>Identify and describe the common themes and topics in data science in modern business and society.</td></tr><tr><td>3.</td><td>Conduct experiential workshops using data from industries under real life or simulated situation.</td></tr><tr><td>4.</td><td>Apply data analytics model, coding in real life situations.</td></tr><tr><td>5.</td><td>Apply Web scraping, Web robots, and other Ai automation tools.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1513)",
+        "Date & Time": "We 07:00PM - 08:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "HUANG, Erwin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(DDM) students only."
+        ]
+      },
+      {
+        "Section": "T1 (1514)",
+        "Date & Time": "We 09:00PM - 09:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "HUANG, Erwin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MSDM",
+    "code": "5053",
+    "name": "Quantitative Analysis of Time Series",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "MSBD 5006, MAFS 5130",
+      "description": "The course introduces some fundamental concepts of time series, including strict stationarity and weak stationarity, and series correlation. Students will study some classical time series models, including autoregressive model, moving averages model and ARMA model, seasonal ARIMA models, multivariate time series models, and some new financial time series models, including ARCH and GARCH models. Students will also learn the forecasting techniques based on those time series models and build up time series models for real time series data in natural science, engineering and economics.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Check if a data set is from white noise/series correlation.</td></tr><tr><td>2.</td><td>Identify relevant models of time series.</td></tr><tr><td>3.</td><td>Perform estimation and model selection.</td></tr><tr><td>4.</td><td>Make forecasts based on time series.</td></tr><tr><td>5.</td><td>Model volatilities.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1515)",
+        "Date & Time": "Sa 02:00PM - 04:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "LING, Shiqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(DDM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MSDM",
+    "code": "5055",
+    "name": "Deep Learning for Modeling: Concepts, Tools, and Techniques",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "exclusion": "CSIT 5910",
+      "description": "This course introduces deep learning methodologies, including basic concepts, programming frameworks, and practical techniques. Topics include regression neural network, convolutional neural network, generative adversarial network, variational autoencoder, normalizing flow, reinforcement learning, and sequential models. Students will learn to implement typical models in PyTorch and apply them to various datasets in many real-world applications.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain and use appropriately important concepts in deep learning.</td></tr><tr><td>2.</td><td>Explain important algorithms in deep learning.</td></tr><tr><td>3.</td><td>Assess programming frameworks, such as NumPy and PyTorch.</td></tr><tr><td>4.</td><td>Apply appropriate deep learning algorithms in real data analysis cases.</td></tr><tr><td>5.</td><td>Implement important algorithms in deep learning.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1516)",
+        "Date & Time": "Fr 07:00PM - 08:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "LI, Shuohui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(DDM) students only."
+        ]
+      },
+      {
+        "Section": "T1 (1517)",
+        "Date & Time": "Fr 09:00PM - 09:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "LI, Shuohui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MSDM",
+    "code": "5058",
+    "name": "Information Science",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "description": "This course will cover: (1) decision theory and its applications to ﬁnance; options and payoff diagrams, binomial trees; (2) portfolio management of financial time series using mean variance analysis; (3) evolutionary computation for optimization, with applications in ﬁnding good prediction rules in finance; (4) measure of information, various information entropies, and methods of maximum entropy; (5) game theory and its applications in competitive situations; (6) multi-agent systems modeling and applications to social networks and financial systems.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the concept information measure, mutual information, and various types of information entropy.</td></tr><tr><td>2.</td><td>Describe and explain the method of Bayesian decision criterion and other common tools in decision theory.</td></tr><tr><td>3.</td><td>Explain association rule in prediction using decision theory and data pre-procession.</td></tr><tr><td>4.</td><td>Define options with examples in payoff diagrams and binomial tree.</td></tr><tr><td>5.</td><td>Explain the method of mean variance analysis in portfolio management.</td></tr><tr><td>6.</td><td>Assess the financial time series database to form new tools of FinTech.</td></tr><tr><td>7.</td><td>Describe and explain the method of evolutionary computation (genetic algorithm) and its applications.</td></tr><tr><td>8.</td><td>Explain and apply the game theory (zero and non-zero sum games, Nash equilibrium and Pareto optimum).</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1518)",
+        "Date & Time": "Sa 09:30AM - 11:20AM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "LI, Sai Ping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(DDM) students only."
+        ]
+      },
+      {
+        "Section": "T1 (1519)",
+        "Date & Time": "Sa 11:30AM - 12:20PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "LI, Sai Ping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MSDM",
+    "code": "5059",
+    "name": "Operations Research and Optimization",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "description": "This course will introduce the concepts and techniques of optimization and modeling in systems and applications with many variables and constraints. Topics to be discussed include pivot tables, linear programming, network flow models, project management, support vector algorithms, kernel methods, convex sets, duality, Lagrange multipliers, 1-D optimization algorithms, unconstrained optimization, guided random search methods, and constrained optimization.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the underlying principles of optimization techniques and algorithms.</td></tr><tr><td>2.</td><td>Assess the differences and pros and cons of different optimization techniques and algorithms.</td></tr><tr><td>3.</td><td>Select the appropriate optimization methods for solving various optimization problems.</td></tr><tr><td>4.</td><td>Apply software tools to solve optimization problems.</td></tr><tr><td>5.</td><td>Formulate real-world problems in terms of models and solve them.</td></tr><tr><td>6.</td><td>Assess whether optimization techniques used in applications are used effectively.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1520)",
+        "Date & Time": "Tu 07:00PM - 08:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "CHEN, Tian Wen",
+          "WONG, Kwok Yee Michael"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(DDM) students only."
+        ]
+      },
+      {
+        "Section": "T1 (1521)",
+        "Date & Time": "Tu 09:00PM - 09:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "CHEN, Tian Wen",
+          "WONG, Kwok Yee Michael"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MSDM",
+    "code": "6771",
+    "name": "Data-Driven Modeling Seminars and Tutorials",
+    "units": 1,
+    "info": {
+      "vector": "[0-1-0:1]",
+      "description": "All students in the MSc in Data-Driven Modeling program are required to take this course. Appropriate seminars and small group tutorials are scheduled to expose students to a variety of issues in data science and industry, and to enhance students' communication with industry experts and faculty. This course lasts for one year. The students are required to attend the seminars and tutorials in two regular terms. For students of MSc in Data-Driven Modeling only. Graded PP, P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Formulate the future plans about their careers and explain them to faculty members and fellow students in both small and large group settings.</td></tr><tr><td>2.</td><td>Identify the latest key developments in data industry from the expert sharing seminars.</td></tr><tr><td>3.</td><td>Participate in small group discussions with confidence on various topical issues.</td></tr><tr><td>4.</td><td>Apply communication skills at work, both as individuals and when in large groups.</td></tr><tr><td>5.</td><td>Search for and retrieve information on a variety of topics relevant to career development and lifelong learning in data science.</td></tr><tr><td>6.</td><td>Apply basic skills for preparing successful resumes, cover letters and job interviews.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1522)",
+        "Date & Time": "Th 12:00PM - 12:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "CHEN, Tian Wen",
+          "LIU, Junwei",
+          "PAN, Ding",
+          "QIAN, Tiezheng",
+          "WANG, Yi",
+          "WONG, Kwok Yee Michael",
+          "ZHANG, Rui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(DDM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MSDM",
+    "code": "6980",
+    "name": "Computational Modeling and Simulation Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Under the supervision of a faculty member, students will carry out an independent research project on computational modeling and simulation. At the end of the course, students need to summarize their results in the form of short theses and give oral presentations. Enrollment in the course requires approval by the course coordinator and supervisor.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Initiate new research areas, identify goals of significant importance, search relevant literature, and collect new data.</td></tr><tr><td>2.</td><td>Construct data-driven models, test hypothesis, write simulation programs, and interpret simulation results.</td></tr><tr><td>3.</td><td>Draw meaningful conclusions, write convincing reports, and propose further directions.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1523)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "WONG, Kwok Yee Michael"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(DDM) students only.",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

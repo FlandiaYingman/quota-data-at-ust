@@ -1,0 +1,102 @@
+[
+  {
+    "program": "SUST",
+    "code": "1000",
+    "name": "Sustainability Fundamentals",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SA) for 36-credit program<br>Common Core (SSC-S&T) for 36-credit program<br>Common Core (SSC-SA) for 36-credit program<br>[BLD] Blended learning",
+      "exclusion": "SUST 1010",
+      "description": "This course provides students with an interdisciplinary perspective in comprehending the challenging issues on human sustainability on the limited planet earth. It also provides an overarching framework covering economic development, individual lifestyle and policies to deal with global, regional and local emerging issues to provide students with a good foundation for their sustainability related majors and minors."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2447)",
+        "Date & Time": "Tu 09:00AM - 11:50AM",
+        "Room": "Rm 5619, Lift 31-32 (60)",
+        "Instructor": [
+          "SHI, Xiaoming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode"
+        ]
+      },
+      {
+        "Section": "L2 (2448)",
+        "Date & Time": "Tu 12:30PM - 03:20PM",
+        "Room": "Rm 5619, Lift 31-32 (60)",
+        "Instructor": [
+          "STEUER, Benjamin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "SUST",
+    "code": "1010",
+    "name": "Introduction to Sustainability",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SA) for 36-credit program<br>Common Core (SA) for 30-credit program<br>Common Core (T) for 30-credit program<br>[BLD] Blended learning",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "exclusion": "SUST 1000",
+      "previous code": "CORE 1940",
+      "description": "This course provides students with a holistic, interdisciplinary, evidence-based understanding of the challenge of ensuring the sustainability of humanity on a planet with limited natural and social capacities. The course introduces frameworks, approaches and key trade-offs underpinning efforts to deal with existing and emerging global issues, and considers how these problems relate to our own lifestyles."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      },
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2449)",
+        "Date & Time": "Th 10:30AM - 01:20PM",
+        "Room": "Rm 5620, Lift 31-32 (70)",
+        "Instructor": [
+          "SAUERWEIN, Meike"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode"
+        ]
+      }
+    ]
+  }
+]

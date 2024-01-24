@@ -1,0 +1,397 @@
+[
+  {
+    "program": "EMIA",
+    "code": "2020",
+    "name": "Cross-disciplinary Design Thinking",
+    "units": 3,
+    "info": {
+      "attributes": "[BLD] Blended learning<br>[EXP] Experiential learning",
+      "previous code": "IDPO 2020",
+      "description": "This course focuses on user-collaborative design methods for generating inclusive product solutions that integrate stakeholder and product functionality perspectives. Students will create specified product/ process /policy /protocol /plan (5P) concept models using recursive user feedback engagement methods, experimental prototyping, and divergent and convergent ideation strategies. Featured topics include design thinking; stakeholder research; concept development, screening, and selection; and interaction design. For students enrolling in extended major programs and students with consent from the instructor."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2660)",
+        "Date & Time": "We 12:00PM - 02:50PM",
+        "Room": "Rm 5620, Lift 31-32 (70)",
+        "Instructor": [
+          "MOK, Luisa",
+          "ZHAI, Chengxing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode and experiential learning mode",
+          "For students enrolled in extended major programs only"
+        ]
+      },
+      {
+        "Section": "L2 (2661)",
+        "Date & Time": "Th 10:30AM - 01:20PM",
+        "Room": "Rm 4582, Lift 27-28 (66)",
+        "Instructor": [
+          "MOK, Luisa",
+          "ZHAI, Chengxing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode and experiential learning mode",
+          "For students enrolled in extended major programs only"
+        ]
+      },
+      {
+        "Section": "L3 (2662)",
+        "Date & Time": "Tu 12:00PM - 02:50PM",
+        "Room": "Rm 4582, Lift 27-28 (66)",
+        "Instructor": [
+          "ZHANG, Rong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode and experiential learning mode",
+          "For students enrolled in extended major programs only"
+        ]
+      },
+      {
+        "Section": "L4 (2663)",
+        "Date & Time": "Th 03:00PM - 05:50PM",
+        "Room": "Rm 5619, Lift 31-32 (60)",
+        "Instructor": [
+          "ZHANG, Rong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode and experiential learning mode",
+          "For students enrolled in extended major programs only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EMIA",
+    "code": "2200",
+    "name": "Introduction to Digital Media",
+    "units": 3,
+    "info": {
+      "description": "This course covers a broad range of digital media topics and techniques that equip students with the relevant knowledge and skills to bridge to other courses and opportunities in the Extended Major program in DMCA. This course will focus on both the soft and hard skills of digital media covering the aesthetics, theory and practice of digital photography and cinematography, content creation, visual storytelling, media design, interactive and immersive media, generative arts and their relevant software and hardware operation in areas such as picture and sound editing, digital effects and so on. For students enrolled in the Extended Major Program in DMCA."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2664)",
+        "Date & Time": "Tu 07:00PM - 08:20PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "MA, Alex",
+          "XU, Xian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (2664)",
+        "Date & Time": "Th 07:00PM - 08:20PM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "MA, Alex",
+          "XU, Xian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EMIA",
+    "code": "2500A",
+    "name": "Technical Theater Arts",
+    "units": 3,
+    "info": {
+      "description": "An introductory course that explores the backstage world of theater production. Students will investigate how the various technical disciplines collaborate to develop into a stage production. Knowledge in related front-of house operation will also be covered. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2666)",
+        "Date & Time": "Sa 10:00AM - 12:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 0,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": [
+          "Venue : Main Hall, Shaw Auditorium",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EMIA",
+    "code": "4110",
+    "name": "Practical Machine Learning",
+    "units": 3,
+    "info": {
+      "pre-requisite": "COMP 2011",
+      "exclusion": "COMP 4211, MATH 4432",
+      "previous code": "IDPO 4110",
+      "description": "This course consists of three parts: 1) the foundation of machine learning including its history and core algorithms;  2) the mainstream open platforms and sources for machine learning with an emphasis on practical applications; 3) case studies to illustrate how machine learning can be used to solve the problems from different fields. This course will equip students from different backgrounds with the essential knowledge about machine learning and practical algorithms, systems, and platforms available for solving real-world problems. For students enrolled in extended major programs only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2667)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "XUE, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (2667)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "XUE, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (2669)",
+        "Date & Time": "TuTh 06:00PM - 07:20PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "XUE, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EMIA",
+    "code": "4500A",
+    "name": "Exploring Design Thinking and AI in Smart City Development",
+    "units": 3,
+    "info": {
+      "pre-requisite": "EMIA2020 OR ENGG1300 OR TEMG3950 OR ISDN2000 OR CORE 2261 OR ISDN2200 OR ENVR1070",
+      "description": "This course aims to provide students with foundation knowledge of smart city development and the opportunities of the use of design thinking and artificial intelligence (AI) in various smart city project initiatives. By the end of the course, students should be able to analyze, evaluate and apply design thinking and AI together with open data in addressing urban challenges and demonstrate empathy and knowledge in smart city development. Industry practitioners representing the smart city and start-up ecosystem will be invited to share their projects or case studies with the students. The assessment will be completed with a combination of online quizzes, evidence in participating in online discussions, a reflection report, and a final group project involving the proposal of applying design thinking and AI to solve a urban city problem / challenge."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2674)",
+        "Date & Time": "Tu 06:00PM - 08:50PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "CHUN, Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EMIA",
+    "code": "6500A",
+    "name": "Discontinuous Galerkin Methods",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "As a powerful tool for solving partial differential equations computationally, the discontinuous Galerkin finite element methods have become broadly used to simulate challenging problems in science and engineering during the last decade. This course aims to offer the students an overview of the mathematics and implementation of the methods and their applications in various disciplines."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4332)",
+        "Date & Time": "Tu 03:00PM - 05:50PM",
+        "Room": "Rm 2126A, Lift 19 (28)",
+        "Instructor": [
+          "SU, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EMIA",
+    "code": "6500D",
+    "name": "Advanced Topics in Photonics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "As the rapid evolution of modern technologies, photonics emerges as a pivotal player, shaping our understanding of the related concepts on a daily basis. This course will introduce advanced topics and fundamental knowledge related to silicon photonics, spanning semiconductor physics, advanced fabrication techniques, emerging applications, and future opportunities."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1291)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 2126A, Lift 19 (28)",
+        "Instructor": [
+          "XUE, Ying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EMIA",
+    "code": "6500E",
+    "name": "Introduction to Emerging Applications of Artificial Intelligence",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course provides students with an overview of the field of Artificial Intelligence (AI) focusing on Machine Learning (ML). This course aims to familiarize students with the modern developments in AI including deep learning, generative and adversarial networks, transformer, large language models, and applications in creative media, physical science research, and quantum computing. Throughout the course, students will have hands-on experiences of using modern AI/ML software and collaborate on practical projects involving AI applications."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1292)",
+        "Date & Time": "Tu 11:00AM - 12:20PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "ZHAI, Chengxing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1292)",
+        "Date & Time": "Th 03:00PM - 04:20PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "ZHAI, Chengxing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EMIA",
+    "code": "6500F",
+    "name": "Social Media for Creatives",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This PG-level course introduces art and media students to the various online social media platforms, as well as the fundamentals of producing artistic and creative media content in collaborative group projects. The course covers a wide range of interesting topics related to art and creativity techniques and functions on social media platforms, including but not limited to: digital storytelling, games and gamification, immersive art technologies, presentation, and advertisement. By the end of this course, students will have a better understanding of art and creativity on social media platforms."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4171)",
+        "Date & Time": "Tu 03:00PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "HUI, Pan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EMIA",
+    "code": "6950A",
+    "name": "Independent Study",
+    "units": 1,
+    "info": {
+      "vector": "[1 credit]",
+      "description": "Independent studies or projects under the direct guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. May be graded by letter, P/F or PP for different offerings."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4215)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 1,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

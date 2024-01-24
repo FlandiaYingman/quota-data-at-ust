@@ -1,0 +1,380 @@
+[
+  {
+    "program": "BIEN",
+    "code": "1010",
+    "name": "Introduction to Biomedical Engineering",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program",
+      "description": "This course is designed as an introductory course in biomedical engineering. The aim of this course is to present some of the basic science and human physiology knowledge used by biomedical engineers and illustrates the first steps in applying this knowledge to solve problems in human medicine. The second goal of this course is to link knowledge of basic science and engineering to fields of specialization and current research. This course also introduces the sub-specialties in biomedical engineering and through real-life examples to emphasize the types of problems biomedical engineers solve."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1764)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "WONG, Tsz Wai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 80,
+        "Avail": 70,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BIEN",
+    "code": "2410",
+    "name": "Cellular and Systems Physiology for Engineers",
+    "units": 3,
+    "info": {
+      "pre-requisite": "LIFS 1901 OR Level 3 or above in HKDSE 1x Biology",
+      "exclusion": "LIFS 3040",
+      "description": "Essential cellular and systems physiology for engineers. Hierarchical organization of a complex organism: from organelles to organ systems. Cellular physiology, neurophysiology, vision, muscle and movement, and the cardiovascular system."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1765)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "KUANG, Becki Yi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 24,
+        "Avail": 26,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1766)",
+        "Date & Time": "We 04:30PM - 05:20PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "KUANG, Becki Yi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 24,
+        "Avail": 26,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BIEN",
+    "code": "3320",
+    "name": "Data Science for Biology and Medicine",
+    "units": 3,
+    "info": {
+      "pre-requisite": "{COMP 1021 OR [(COMP 1022P OR COMP 1022Q (prior to 2020-21) OR COMP 2011) AND COMP 1029P]} AND (LIFS 1901 OR level 3 or above in HKDSE 1x Biology)",
+      "co-list with": "LIFS 4320",
+      "description": "This is an introductory course for the application of data science in biology and medicine. The course will introduce the fundamental principles on data science, the technologies and implementations of data mining, as well as the modeling of several practical questions in biomedicine. The topics include introduction to biomedical data, data visualization, regression methods and classification methods."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1767)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "WANG, Jiguang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 27,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1768)",
+        "Date & Time": "Th 01:30PM - 02:20PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "WANG, Jiguang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 27,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BIEN",
+    "code": "4110",
+    "name": "Regulatory Affairs in the Healthcare Industry",
+    "units": 3,
+    "info": {
+      "previous code": "BIEN 4000C",
+      "description": "This course aims to introduce basic concepts of regulatory science, while familiarizing students with product development, manufacturing, medical and engineering operations, and quality control / quality assurance processes in the pharmaceutical and medical device industry. Students will also be introduced to the associated regulatory requirements, with an emphasis on Hong Kong, Great Bay Area, China and beyond, in topics such as Good Manufacturing Practice (GMP), pharmaceutical product registration, pharmacovigilance, and clinical trials."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1769)",
+        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "CHONG, Wing Kit Donald"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BIEN",
+    "code": "4920",
+    "name": "Bioengineering Capstone Design",
+    "units": 6,
+    "info": {
+      "pre-requisite": "BIEN 3910",
+      "exclusion": "BIEN 4930, BIEN 4940",
+      "description": "A final-year project course offers practice of bioengineering design through a group design project chosen to integrate materials covered in the curriculum. Credit load may be spread over a year. May be graded PP. For students in the Bioengineering major only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1770)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAKERVELD, Richard"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 18,
+        "Enrol": 18,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 1104",
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "BIEN",
+    "code": "4930",
+    "name": "Bioengineering Thesis Research",
+    "units": 6,
+    "info": {
+      "pre-requisite": "BIEN 3910 AND (CENG 4980 OR UROP 2100)",
+      "exclusion": "BIEN 4920, BIEN 4940",
+      "description": "A final-year project course offers an opportunity to conduct individual bioengineering research under the direct supervision of a faculty member, which leads to a Bachelor's thesis. Credit load may be spread over a year. May be graded PP. For students in the Bioengineering major with approval from the department only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1771)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAKERVELD, Richard"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 4,
+        "Enrol": 4,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 1104",
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "BIEN",
+    "code": "4940",
+    "name": "Bioengineering Industrial Project",
+    "units": 6,
+    "info": {
+      "pre-requisite": "BIEN 3910",
+      "exclusion": "BIEN 4920, BIEN 4930",
+      "description": "This course is intended to provide final-year bioengineering students with practical hands-on training in the form of a full-time or part-time internship or co-op program in a bioengineering company. Credit load may be spread over a year. May be graded PP. For students in the Bioengineering major with approval from the department only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1772)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 4,
+        "Enrol": 4,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 1104",
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "BIEN",
+    "code": "5010",
+    "name": "Molecular Biology for Bioengineering",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "The course introduces the basics of cell biology, molecular biology techniques, and discusses the principles of macromolecular interactions in those contexts. We will also discuss various applications of these techniques and how combined with engineering concepts, they have contributed to innovations and breakthrough tools in the world of basic research and medicine. Topics to cover include: overview of basic molecular biology and macromolecular interactions; basic biophysical structures, imaging and characterization techniques; molecular engineering; biodevices; and genomics. Active student discussion is required and students will also do a final project team presentation on a current bioengineering topic.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the central dogma of molecular biology, and be able to recall the various molecular components (molecules, proteins/enzymes) involved in the components of the central dogma. Describe their main physical features and select appropriate tools/techniques for characterizing them.</td></tr><tr><td>2.</td><td>Explain the mechanisms and functions of basic molecular biology assays, including PCR, qPCR, gel electrophoresis, molecular cloning, protein separation and purification; be able to analyze and interpret results of above assays.</td></tr><tr><td>3.</td><td>Compare different types of imaging tools, and describe their usage and importance in modern biotechnology/medicine.</td></tr><tr><td>4.</td><td>Explain what a stem cell is, and compare differences between embryonic stem cells, fetal stem cells, adult stem cells, and induced pluripotent cells; recall modern applications of stem cell therapies, and explain the mechanism of action for these therapies; describe current major challenges in using stem cell therapies in the clinic.</td></tr><tr><td>5.</td><td>Explain and critique recent breakthroughs in molecular biology and bioengineering fields, including those outside your research area; be able to suggest potential applications of these new technologies to a relevant clinical challenge.</td></tr><tr><td>6.</td><td>Present and discuss the taught ideas and concepts with peers with clarity and evidence-based reasoning; collaborate with team mates with positive attitude and strong work ethic in a group project setting.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1053)",
+        "Date & Time": "Tu 09:00AM - 11:50AM",
+        "Room": "Rm 5506, Lift 25-26 (30)",
+        "Instructor": [
+          "WU, Angela Ruohao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BIEN",
+    "code": "6800Z",
+    "name": "Bioengineering Seminar",
+    "units": 0,
+    "info": {
+      "vector": "[0-1-0:0]",
+      "description": "Seminar topics presented by students, faculty and guest speakers. Students are expected to attend regularly and demonstrate proficiency in their seminar presentation in accordance with the program requirements. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1054)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "SUN, Fei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in CYTG010"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "BIEN",
+    "code": "6910A",
+    "name": "Bioengineering Colloquia",
+    "units": 1,
+    "info": {
+      "vector": "[1-0-0:1]",
+      "description": "Bioengineering Colloquia is a seminar course that brings prominent researchers in the field of bioengineering to share their research with BIEN colleagues and students. The course aims to provide a platform for discussions and exchange of ideas on the lates advancements in the field of bioengineering. Students will have the opportunity to engage with the speakers and ask questions, fostering a deeper understanding of the research presented. The course will cover a broad range of topics, including chemical engineering, biotechnology, material sciences, synthetic biology and more. Grade P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4285)",
+        "Date & Time": "Fr 04:30PM - 05:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in CYTLTL"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "BIEN",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>To demonstrate a capability to research and development work.</td></tr><tr><td>2.</td><td>To demonstrate the capability to create, analyse and critically evaluate different technical solutions.</td></tr><tr><td>3.</td><td>To demonstrate the capability to critically and systematically integrate knowledge.</td></tr><tr><td>4.</td><td>To demonstrate the capability to clearly present and discuss the conclusions as well as the knowledge and arguments that form the basis for these findings in written and spoken English.</td></tr><tr><td>5.</td><td>To demonstrate a consciousness of the ethical aspects of research and development work.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1055)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 4,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "BIEN",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>To demonstrate a capability to research and development work</td></tr><tr><td>2.</td><td>To demonstrate the capability to create, analyse and critically evaluate different technical solutions.</td></tr><tr><td>3.</td><td>To demonstrate the capability to critically and systematically integrate knowledge.</td></tr><tr><td>4.</td><td>To demonstrate the capability to clearly present and discuss the conclusions as well as the knowledge and arguments that form the basis for these findings in written and spoken English.</td></tr><tr><td>5.</td><td>To demonstrate a consciousness of the ethical aspects of research and development work.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1056)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 23,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

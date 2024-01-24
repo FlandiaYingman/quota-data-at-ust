@@ -1,0 +1,125 @@
+[
+  {
+    "program": "ENEG",
+    "code": "2910",
+    "name": "Industrial Training",
+    "units": 0,
+    "info": {
+      "description": "This course is mainly for the module of internship and plant visits for Sustainable Energy Engineering students, offering practical training to students in the industry sectors.  Students are required to take both internship for a duration in the industry sectors and plant visits, learning solid skills to solve technical problems in the working environment.  For students in the Sustainable Energy Engineering Program only.  Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1799)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LAM, Leung Yuk Frank"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 14,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ENEG",
+    "code": "3910",
+    "name": "Sustainable Energy Laboratory",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(CENG 2210 OR MECH 2310) AND (CENG 2220 OR MECH 2210)",
+      "description": "This course aims to further students' understanding of various energy technologies and systems through laboratory experiments and to provide training in experimental techniques and laboratory procedures, data acquisition, analysis, creative and innovative design of experiments, and technical communication. For students in the Sustainable Energy Engineering program only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1801)",
+        "Date & Time": "Fr 11:00AM - 12:20PM",
+        "Room": "Rm 7252",
+        "Instructor": [
+          "LAM, Leung Yuk Frank"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 12,
+        "Enrol": 8,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1800)",
+        "Date & Time": "Fr 12:30PM - 05:20PM",
+        "Room": "Rm 7252",
+        "Instructor": [
+          "LAM, Leung Yuk Frank"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 12,
+        "Enrol": 8,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ENEG",
+    "code": "4130",
+    "name": "Photovoltaic Materials and Devices",
+    "units": 3,
+    "info": {
+      "description": "This course elaborates the fundamental basics, manufacturing, and process/device engineering of the commercial and near-commercial photovoltaic technologies from the perspective of materials science and chemical engineering. The knowledge imparted from this course will be key to the future chemical/materials engineers for the solar energy industry."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4296)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "ZHOU, Yuanyuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ENEG",
+    "code": "4920",
+    "name": "Final Year Design Project",
+    "units": 6,
+    "info": {
+      "description": "A one-year project course offers practice of engineering design through a group design project chosen to integrate materials covered in the curriculum. Each student will be assigned a component of a large project which may be sponsored by industry. Credit load will be spread over the year. For students in the Sustainable Energy Engineering program in their fourth year of study only. Instructor's approval is required for enrollment in the course. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1802)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAKERVELD, Richard"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 11,
+        "Enrol": 11,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 1104",
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

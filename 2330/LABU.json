@@ -1,0 +1,827 @@
+[
+  {
+    "program": "LABU",
+    "code": "2040",
+    "name": "Business Case Analyses",
+    "units": 3,
+    "info": {
+      "pre-requisite": "LANG 1403 OR LANG 1404 OR LANG 1003 (prior to 2022-23)",
+      "exclusion": "LABU 2051, LABU 2052",
+      "description": "This course seeks to equip students with persuasive communication skills, both oral and written, through analyzing business cases and presenting solutions to problems identified. It provides students with a solid framework and hands-on practice to communicate persuasively and professionally in business settings. In presenting the case problem, analysis and recommendations, students learn to identify issues, develop and organize key ideas, and eventually to persuade the audience of the validity of the arguments and proposed actions. The course sharpens students' ability to explain and support ideas logically, coherently and cohesively using various techniques, to communicate clearly, concisely and accurately, and in appropriate tone and style. Through a range of learning activities involving reading, discussion, writing and making oral presentations, students also develop critical reading, critical thinking and problem solving skills as well as teamwork and leadership skills. For students who have this course as a program requirement."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T01 (2904)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 2127A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 5,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T02 (2905)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 2126C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 5,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T03 (2906)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 2127A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 5,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T04 (2907)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 2610, Lift 31-32 (26)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 5,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T05 (2908)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 2131A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 5,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T06 (2909)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 2130C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 5,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T07 (2910)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 2126A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 4,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T07 (2910)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 2126A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 4,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T08 (2911)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 2127B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 4,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T08 (2911)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 2127B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 4,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T09 (2912)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2611, Lift 31-32 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 3,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T10 (2913)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 2131C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 4,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T11 (2914)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 2132B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 3,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T12 (2915)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 2132B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 4,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T13 (2916)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 2132C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 4,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T14 (2917)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 2131C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 4,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T15 (2918)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 2131C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 3,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T15 (2918)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 2131C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 3,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T16 (2919)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 2131C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 4,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "LABU",
+    "code": "2052",
+    "name": "Business Case Analyses II",
+    "units": 2,
+    "info": {
+      "pre-requisite": "LABU 2051",
+      "description": "For students who have this course as a program requirement. This course builds on the foundation built in LABU 2051 and further develops students' ability to comprehend and analyze business cases, and eventually to present findings and recommendations clearly and persuasively."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T01 (2920)",
+        "Date & Time": "We 03:30PM - 05:20PM",
+        "Room": "Rm 2132A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 15,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T02 (2921)",
+        "Date & Time": "Fr 09:00AM - 10:50AM",
+        "Room": "Rm 2127C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 15,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T03 (2922)",
+        "Date & Time": "Th 01:30PM - 03:20PM",
+        "Room": "Rm 2126B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 14,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "LABU",
+    "code": "2060",
+    "name": "Effective Communication in Business",
+    "units": 3,
+    "info": {
+      "pre-requisite": "LANG 1403 OR LANG 1404 OR LANG 1003 (prior to 2022-23)",
+      "exclusion": "LABU 2020 (prior to 2019-20)",
+      "description": "The course activates students' previously acquired English language skills into a useful managerial communication toolkit targeted toward specific business applications and strategies. Students will learn how to be an effective communicator in the global workplace. The course is designed and structured to address the learning needs of students in job-seeking and in their early careers. Students will have opportunities to learn and practice how to succeed in business writing, presentations, interviews, meetings, and collaborative assignments. The course also introduces students to strategies for handling the communication challenges which fresh graduates can expect in the global workplace. For students who have this course as a program requirement."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T01 (2923)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 2126C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T02 (2924)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 2132B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T03 (2925)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 2126B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T04 (2926)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 2126B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 10,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T05 (2927)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 2126D, Lift 19 (34)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 10,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T06 (2928)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 2126C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T06 (2928)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 2126C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T07 (2929)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 2126A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T07 (2929)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 2126A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T08 (2930)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 2126C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T09 (2931)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 2132B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T10 (2932)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 2130C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T11 (2933)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 2131A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 10,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T12 (2934)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 2130A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T13 (2935)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 2130B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 6,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T14 (2936)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 2129B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 6,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T15 (2937)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 2129C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 10,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T16 (2938)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 2612A, Lift 31-32 (29)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T17 (2939)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2132C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 10,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T18 (2940)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 2130C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T19 (2941)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 2131A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T20 (2942)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 2131B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T21 (2943)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 2131C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T22 (2944)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 2131B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 10,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T23 (2945)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 2131C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T24 (2946)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 2132A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T25 (2947)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 2127C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T26 (2948)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 2128C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T26 (2948)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 2128C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T27 (2949)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2132B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "LABU",
+    "code": "2060G",
+    "name": "Effective Communication in Business",
+    "units": 3,
+    "info": {
+      "pre-requisite": "LANG 1403 OR LANG 1404 OR LANG 1003 (prior to 2022-23)",
+      "exclusion": "LABU 2020 (prior to 2019-20)",
+      "description": "The course activates students' previously acquired English language skills into a useful managerial communication toolkit targeted toward specific business applications and strategies. Students will learn how to be an effective communicator in the global workplace. The course is designed and structured to address the learning needs of students in job-seeking and in their early careers. Students will have opportunities to learn and practice how to succeed in business writing, presentations, interviews, meetings, and collaborative assignments. The course also introduces students to strategies for handling the communication challenges which fresh graduates can expect in the global workplace. For students who have this course as a program requirement."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T01 (2950)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 2130C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 18,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T02 (2951)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2130C, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 18,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T03 (2952)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 5504, Lift 25-26 (24)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 17,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,373 @@
+[
+  {
+    "program": "JEVE",
+    "code": "5320",
+    "name": "Water Quality and Assessment",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CBME 5320, CENG 5320 (prior to 2020-21)",
+      "description": "Water quality standards, chemical, physical and biological contaminants in water. General laboratory measurements and instrumental analysis based on optical, electrical and chromatography methods. Toxicity and BOD tests. Pathogenic micro-organisms and microbial examination of water. Environment sampling and quality control and assurance.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify and quantify the water pollutants of the conventional wastewaters such as municipal wastewater, industrial wastewater, clinical wastewater, etc.</td></tr><tr><td>2.</td><td>Use the fundamental knowledge to design practical wastewater treatment processes for specific wastewater sources.</td></tr><tr><td>3.</td><td>Quantify and evaluate the wastewater treatment processes' efficiencies via specific characterization techniques like Fourier Transform Infra-Red Spectroscopy for organic group detection, Inductively Coupled Plasma for metal ion quantification, UV-vis Spectroscopy for organic compounds analysis.</td></tr><tr><td>4.</td><td>Conduct and design a quantitative and qualitative methodology for analyzing the water quality via a project-based case study.</td></tr><tr><td>5.</td><td>Strengthen communication skills via written reports and oral presentations. </td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1638)",
+        "Date & Time": "We 07:00PM - 09:50PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "LAM, Leung Yuk Frank"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 70,
+            "Enrol": 0,
+            "Avail": 70
+          },
+          "ENVR": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "JEVE",
+    "code": "5420",
+    "name": "Biological Waste Treatment and Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CIEM 5420, CIVL 5420",
+      "co-list with": "CIEM 5420",
+      "description": "Principles of secondary, biological treatment processes, including sewage sand filters, trickling filters, activated sludge plants, lagoons, ponds, rotating biological contactors, aerobic and anaerobic digesters, and biological nutrient removal. Management of waste treatment systems and works.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Define the fundamental and advanced knowledge of current solid wastes and wastewater treatment and disposal systems and their problems in Hong Kong and beyond.</td></tr><tr><td>2.</td><td>Identify key problems of water and wastewater treatment processes, and propose fundamental engineering and management solution.</td></tr><tr><td>3.</td><td>Professionally judge and assess the advantages and disadvantages of various sewage treatment technologies such as MEL, AGS, BABY, Anammox, etc.</td></tr><tr><td>4.</td><td>Select the treatment processes/technologies for meeting a more stringent discharge requirement for water pollution control with focus of tertiary treatment.</td></tr><tr><td>5.</td><td>Design basic treatment units and systems for municipal wastewater treatment.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1639)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "CHEN, Guanghao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 65,
+            "Enrol": 0,
+            "Avail": 65
+          },
+          "ENVR": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "JEVE",
+    "code": "5430",
+    "name": "Solid Waste Landfill Engineering Design",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CIVL 5460",
+      "description": "Practical aspects of solid waste collection methods and equipment, current available disposal techniques with emphasis on complete engineering design of landfill systems, and landfill leachate treatment will be included.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Define the current solid waste recycling, treatment and disposal systems and examine their problems in Hong Kong.</td></tr><tr><td>2.</td><td>Identify the importance of an integrated solid waste management for sustainable development.</td></tr><tr><td>3.</td><td>Assess the advantages and disadvantages of various thermal technologies such as waste-to-energy incineration.</td></tr><tr><td>4.</td><td>Explain the design concepts and rules of a landfill based on fundamental principles of water and mass balance, hydrogeology, soil mechanics, and environmental engineering.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1640)",
+        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "TSANG, Dan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 75,
+            "Enrol": 0,
+            "Avail": 75
+          },
+          "CIEM": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "JEVE",
+    "code": "5440",
+    "name": "Hazardous Waste Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "JEVE 6000F",
+      "description": "This course aims to provide students with necessary management concepts and skills in addressing the burgeoning intricate problems of hazardous waste created by the rapid urban development. Hazardous waste characterization will be discussed in terms of toxicology and standard test methods. Necessary regulations and legal framework on hazardous waste storage, import/export, transport and disposal/treatment will be covered. The contingency plan for accidental hazardous waste release and the associated remediation methods will be presented. Local and overseas case studies will be discussed as practical examples of the cradle-to-grave hazardous waste management.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the science and engineering fundamentals of hazardous waste characterization.</td></tr><tr><td>2.</td><td>Identify the state-of-the-art hazardous waste regulations, contingency plans of accidental release and treatment technologies.</td></tr><tr><td>3.</td><td>Appreciate the importance of hazardous waste management for sustainable development.</td></tr><tr><td>4.</td><td>Practically handle hazardous waste in the consideration of safety and legal perspectives.</td></tr><tr><td>5.</td><td>Plan and design a basic hazardous waste management system in different industries and treatment facilities.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1641)",
+        "Date & Time": "Tu 07:00PM - 09:50PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "YAN, Dickson"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 65,
+            "Enrol": 0,
+            "Avail": 65
+          },
+          "CIEM": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
+          "MCEE": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
+          "EHS": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "JEVE",
+    "code": "5530",
+    "name": "Environmental Management and Regulatory Compliance",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "JEVE 6000E",
+      "description": "The course aims at teaching students the principles of corporate sustainability and environmental management as well as the major environmental laws and good compliance practices in Hong Kong. The course consists of: Part I on Environmental Management covering essential topics including environmental management for sustainability, corporate environmental challenges and governance, ESG reporting, environmental and energy management systems; and Part ll on Regulatory Compliance covering major environmental laws and compliance practices in Hong Kong.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the essential principles of and worldwide practices towards sustainable development.</td></tr><tr><td>2.</td><td>Recognize corporate environmental challenges and key drivers including climate change towards corporate environmental management.</td></tr><tr><td>3.</td><td>Illustrate different approaches and indicators for analysing corporate environmental performance.</td></tr><tr><td>4.</td><td>Develop corporate environmental management strategy framework.</td></tr><tr><td>5.</td><td>Describe the principles and mechanisms of environmental and energy management including international standards: ISO14000 and ISO50000.</td></tr><tr><td>6.</td><td>Identify the essential elements and requirements of Environmental, Social & Governance (ESG) reporting and analyse published ESG reports.</td></tr><tr><td>7.</td><td>Describe the basic principles and approaches of regulatory control of pollution.</td></tr><tr><td>8.</td><td>Recognize the regulatory control regimes and licensing/permitting requirements of the five major Hong Kong environmental laws and apply good compliance practices.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1642)",
+        "Date & Time": "03-FEB-2024 - 03-FEB-2024<br>Sa 03:00PM - 05:50PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "LAM, Cheuk Fung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          },
+          "CIEM": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "MCEE": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
+          "EHS": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1642)",
+        "Date & Time": "17-FEB-2024 - 23-MAR-2024<br>Sa 03:00PM - 05:50PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "LAM, Cheuk Fung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          },
+          "CIEM": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "MCEE": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
+          "EHS": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1642)",
+        "Date & Time": "13-APR-2024 - 11-MAY-2024<br>Sa 03:00PM - 05:50PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "LAM, Cheuk Fung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          },
+          "CIEM": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "MCEE": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
+          "EHS": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "JEVE",
+    "code": "5820",
+    "name": "Energy, Environment and Sustainable Development",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "MCEE 5820, CENG 5910 (prior to 2021-22), ENEG 5050 (prior to 2021-22)",
+      "co-list with": "MCEE 5820",
+      "description": "This course attempts to highlight the basic issues on the relation between material/energy resources, the environment and sustainable development. Potential directions for technological changes on greater efficiency of energy utilization, exploitation of renewable energy, adoption of cleaner environmental practices and waste reduction that can lead to sustainable development will be explored. Management of energy and environment towards sustainability will be introduced.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the relationship between energy, environment and sustainable development.</td></tr><tr><td>2.</td><td>Conduct energy analysis on energy systems.</td></tr><tr><td>3.</td><td>Relate the global demand for energy with the impact on the environment.</td></tr><tr><td>4.</td><td>Relate global warming with greenhouse gases emission.</td></tr><tr><td>5.</td><td>Explain how various forms of non-renewable and renewable energies are produced and evaluate their impacts on the environment and sustainable development.</td></tr><tr><td>6.</td><td>Propose possible practices and enhancement of energy efficiency in industry and commerce, which can contribute to sustainable development.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1643)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "YUE, Po Lock"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 70,
+            "Enrol": 0,
+            "Avail": 70
+          },
+          "CIEM": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": [
+          "JEVE 5820 is not co-listing with MCEE 5820 in Spring 2023-24"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "JEVE",
+    "code": "6980B",
+    "name": "Independent Project",
+    "units": 6,
+    "info": {
+      "vector": "[0-0-0:6]",
+      "description": "This 3-6 credit project should be supervised by a faculty member who teaches a course in the program, subject to the approval of Program Director."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4318)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 30,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

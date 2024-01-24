@@ -1,0 +1,379 @@
+[
+  {
+    "program": "MCEE",
+    "code": "5110",
+    "name": "Theory and Practice in Heterogeneous Catalysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "CBME 5110",
+      "description": "Catalysis selection, preparation, characterization and testing. Computer-aided design of catalyst, micro-fabricated catalyst and bio-catalyst. Basic design principles for reactors. Innovative reactor design.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify and predict properties of heterogeneous catalysts for chemical reactions.</td></tr><tr><td>2.</td><td>Design catalysts and catalytic reactions for chemical conversion and transformation.</td></tr><tr><td>3.</td><td>Apply fundamental principles of chemistry and chemical engineering in selection, design and preparation of catalytic materials.</td></tr><tr><td>4.</td><td>Create expert knowledge in methodologies and instrumentations for characterizing catalysts.</td></tr><tr><td>5.</td><td>Design process for the manufacture of heterogeneous catalysts.</td></tr><tr><td>6.</td><td>Design catalytic reactor and integrate the use of catalyst in such reactor system.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1644)",
+        "Date & Time": "Th 01:30PM - 04:20PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "YEUNG, King Lun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MCEE": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          },
+          "BEHI": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MCEE",
+    "code": "5120",
+    "name": "Power Generation Technologies",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Basic knowledge of different power generation technologies, including traditional power plants, renewable generation as contemporary favor and emerging concepts such as virtual power plant, and their relevance to climate change and available energy resources in the earth.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the key drivers shaping the power generation industry.</td></tr><tr><td>2.</td><td>Identify the deployment trend of different power generation technologies.</td></tr><tr><td>3.</td><td>Describe the working principles of various power generation technologies.</td></tr><tr><td>4.</td><td>Compare different power generation technologies based on a systematic and consistent approach.</td></tr><tr><td>5.</td><td>Develop interest and basic knowledge on chemical processes related to the power generation and emerging/enabling technologies covered in the course through the group project.</td></tr><tr><td>6.</td><td>Search updated/evolving energy and power generation technology information, data and news from credible sources.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1645)",
+        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 1,
+        "Avail": 99,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MCEE": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          },
+          "BEHI": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": [
+          "Instructor: NGAN, Chi Cheung"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MCEE",
+    "code": "5610",
+    "name": "Advanced Biochemical Engineering",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "BEHI 5010",
+      "co-list with": "BEHI 5010",
+      "description": "The course will cover the advanced concepts of bioprocessing, including fermentation, bioreactor design, and product recovery. It will explore the production of bioenergy from renewable sources, such as biomass, biogas, and biofuels. Students will gain an understanding of the technical, economic, and environmental aspects of bioproducts and bioenergy production.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the principles of bioprocess engineering and bioenergy production.</td></tr><tr><td>2.</td><td>Explain how microorganisms and biochemical processes can be applied for various bioproducts and bioenergy.</td></tr><tr><td>3.</td><td>Select, compare or design a reactor, fermentation processes or bioseparations used for various products, based on cost, safety, operability, etc.</td></tr><tr><td>4.</td><td>Evaluate the production and potential of bioenergy from economic and environmental aspects.</td></tr><tr><td>5.</td><td>Communicate biochemical engineering concepts through the use of engineering media, verbally and in writing.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4258)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MCEE": {
+            "Quota": 70,
+            "Enrol": 0,
+            "Avail": 70
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MCEE",
+    "code": "5750",
+    "name": "Process Safety Management and Risk Analysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "CBME 5750",
+      "description": "Understanding hazard effect, probability and risk. The impacts of some major process accidents - loss of life, economic losses and capital losses. Hazard identification and analysis methods - HAZOP, What If and Index Methods. Fault Tree, Event Tree and Reliability Analysis. Exposures, Fires, and Explosions, Relief System Design. Impact Minimization, Process Safety Management and Designing Processes/Products for Safety.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Effectively describe the process safety management and risk assessment processes.</td></tr><tr><td>2.</td><td>Categorize the key elements constituting to the building blocks of Process Safety Management framework.</td></tr><tr><td>3.</td><td>Write up brief functional description, operation procedure and/or start-up/shut down procedures.</td></tr><tr><td>4.</td><td>Identify and evaluate the risk and hazard by applying the quantitative tools learnt.</td></tr><tr><td>5.</td><td>Critique on the adoption, implementation, integration and improvement of the Process Safety Management framework.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1646)",
+        "Date & Time": "We 07:00PM - 09:50PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "MAK, Andrew T C"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MCEE": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          },
+          "BEHI": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MCEE",
+    "code": "5860",
+    "name": "Chemical Product Engineering",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "CBME 5860",
+      "description": "Chemical process engineering had been instrumental for the success in the manufacture of traditional chemical products in large quantities. The manufacture of these commodities products focused on the design of the production process, This course aims to redress the balance between commodities and high-value-added chemical products by expanding the scope of chemical engineering design to encompass both product design and process design.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Conduct the process of identifying customers' needs and developing ideas that may satisfy these needs.</td></tr><tr><td>2.</td><td>Identify product needs and fundamental design features for products in the energy sector.</td></tr><tr><td>3.</td><td>Identify the critical importance of product purity in the fabrication of microelectronics products and develop process operations that could satisfy these needs.</td></tr><tr><td>4.</td><td>Identify the opportunities for the development of food and personal care products.</td></tr><tr><td>5.</td><td>Demonstrate the design of products and processes for the benefit of the environment.</td></tr><tr><td>6.</td><td>Conduct \"process synthesis\" for the manufacture of chemical products.</td></tr><tr><td>7.</td><td>Discover the basis of using nanotechnology for the manufacture of new products.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1647)",
+        "Date & Time": "Tu 03:00PM - 05:50PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "YUE, Po Lock"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 72,
+        "Enrol": 0,
+        "Avail": 72,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MCEE": {
+            "Quota": 62,
+            "Enrol": 0,
+            "Avail": 62
+          },
+          "BEHI": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MCEE",
+    "code": "6000A",
+    "name": "Solar Energy Science and Engineering",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Solar energy is the most prominent renewable energy option for our carbon-neutral future. If efficiently and cheaply harnessed, the solar energy available on the surface of the earth is sufficient to meet the energy requirements of the entire planet while creating minimum carbon footprint. Therefore, the efforts in the past decades, developing solar energy science and technology, have been significant. This course will elaborate the key science and engineering topics of solar energies, especially focusing on photovoltaic and photothermal devices. The systematic understanding of basic principles, manufacturing processes, and deployment of these devices can play an important role in our students’ future career as an energy engineer."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1648)",
+        "Date & Time": "Tu 07:00PM - 09:50PM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "ZHOU, Yuanyuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 1,
+        "Avail": 99,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MCEE": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          },
+          "BEHI": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MCEE",
+    "code": "6000B",
+    "name": "Energy Policy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course aims to equip the students with the knowledge and skills to understand, analyse and create innovative energy policies for application in public or business sectors. It will give an energy overview and challenges, a detail review of energy management tools available, and a critical understanding of the role of policy that will integrate all these essential elements to achieve a sustainable development."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1649)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "NG, Ying Piu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 1,
+        "Avail": 99,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MCEE": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          },
+          "BEHI": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MCEE",
+    "code": "6000C",
+    "name": "Deep Learning for Chemical and Biological Engineering",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Artificial Intelligence has revolutionized many fields in science. Deep learning methods have been proved powerful in approximating highly complex patterns from masses amount of data. In recent years, increasing interest has been drawn to the application of deep learning methods in chemical and biological engineering problems, including molecular and reaction property prediction, drug discovery, protein structure prediction, model predictive control, etc. Deep learning is viewed as an essential skill for the next generation of chemical engineers and as a promising solution to many challenges in chemistry, biology, energy and health. This course introduces the basic concepts and methods in deep learning, including deep neural networks, backpropagation, convolutional and recurrent neural networks, generative models, with a focus on their applications in the problems mentioned above. At the end of this course, students will be able to apply these methods to solve real-world problems in industry or academic research."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4262)",
+        "Date & Time": "Mo 06:00PM - 08:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "GAO, Hanyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MCEE": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": [
+          "Venue: Room 2302",
+          "Co-list with BEHI 6000A"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MCEE",
+    "code": "6980A",
+    "name": "Independent Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "previous code": "CBME 6980A",
+      "description": "An independent project carried out under the supervision of a faculty member."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4319)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MCEE",
+    "code": "6980B",
+    "name": "Independent Project",
+    "units": 6,
+    "info": {
+      "vector": "[6 credits]",
+      "previous code": "CBME 6980B",
+      "description": "An independent project carried out under the supervision of a faculty member."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4320)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 57,
+        "Avail": 33,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

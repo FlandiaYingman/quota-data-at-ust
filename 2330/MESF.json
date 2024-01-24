@@ -1,0 +1,297 @@
+[
+  {
+    "program": "MESF",
+    "code": "5050",
+    "name": "Fracture Behavior of Polymers",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "AESF 5050",
+      "co-list with": "AESF 5050",
+      "description": "Introduction to both fundamental and practical knowledge on the microstructure, physical and mechanical behaviors, particularly the fracture behavior and toughening mechanisms, of polymers and composites. Discussions and critiques on related research activities in the literature. Case studies to help students prepare for the industry.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the microstructure-property relationships of polymers and select proper polymeric materials for specific engineering applications.</td></tr><tr><td>2.</td><td>Characterize polymer fracture and evaluate fracture toughness of polymers using rigorous fracture mechanics methods under various conditions.</td></tr><tr><td>3.</td><td>Explain the fundamental fractography of polymers and carry out basic failure analysis using microscopes and thermal analysis equipment.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1651)",
+        "Date & Time": "Tu 07:00PM - 09:50PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MESF": {
+            "Quota": 75,
+            "Enrol": 0,
+            "Avail": 75
+          },
+          "IBTM": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MESF",
+    "code": "5450",
+    "name": "Intermediate Heat and Mass Transfer",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "MESF 6910F",
+      "description": "The scope of this course is intended to establish the conservation laws of heat and mass transfer, with the aims to provide the required knowledge for industrial applications. The topics in a sequential sense covers: Concepts of continuum in multiscale thermal and mass flow systems; Definitions of thermodynamics properties; Conservation equations of fluid flow and heat and mass transfer; Dimensional analyses; Heat conduction and mass diffusion; Convective heat and mass transfer; Computational heat and mass transfer; Special topics and industrial applications.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe in-depth the concepts of continuum through statistical physics.</td></tr><tr><td>2.</td><td>Apply the conservation laws to fluid flows and transports of heat and mass.</td></tr><tr><td>3.</td><td>Demonstrate the dimensionless parameters that play the key roles in heat and mass transfer.</td></tr><tr><td>4.</td><td>Illustrate the basic physics of transport phenomena through the analytical solutions of simple heat and mass transfer problems.</td></tr><tr><td>5.</td><td>Apply the numerical technique for solving the practical engineering problems where the analytical solutions are not available.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1652)",
+        "Date & Time": "We 07:00PM - 09:50PM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "ZHOU, Simen, Y."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MESF": {
+            "Quota": 80,
+            "Enrol": 0,
+            "Avail": 80
+          },
+          "IBTM": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
+          "AESF": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MESF",
+    "code": "5550",
+    "name": "Robotics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Introduce the basic concepts related to industrial robots.  Course will cover the following contents: rigid body motion, forward and inverse kinematics, manipulator jacobians, force relation, dynamics and position control robot manipulators, force control and trajectory generation, collision avoidance and motion planning, robot programming languages.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the basics of robotic systems.</td></tr><tr><td>2.</td><td>Define the needs, acquire necessary information and select appropriate robots for various industrial applications.</td></tr><tr><td>3.</td><td>Apply the knowledge learned for the design and development of simple robots.</td></tr><tr><td>4.</td><td>Explain the principles of robot kinematics, dynamics, motion planning, trajectory generation and control.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1653)",
+        "Date & Time": "Sa 03:00PM - 05:50PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "CAI, Lilong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 1,
+        "Avail": 99,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MESF": {
+            "Quota": 95,
+            "Enrol": 0,
+            "Avail": 95
+          },
+          "IBTM": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MESF",
+    "code": "5940",
+    "name": "Advanced Materials Analytics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "MESF 6910L",
+      "description": "This course focuses on advanced materials analytics, including roles of engineering materials, material processing and their properties in products and manufacturing. Process selection analytics with focuses on product type, product volume, designs, precision and usage will be emphasized.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Introduce the relationships among the engineering material properties and process variables in a given manufacturing process.</td></tr><tr><td>2.</td><td>Understand the principles of traditional and recently developed manufacturing processes.</td></tr><tr><td>3.</td><td>Provide process characteristics, capabilities and limitations on related machinery and equipment.</td></tr><tr><td>4.</td><td>Analyze and make decisions in manufacturing and product specifications.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1654)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 2465, Lift 25-26 (122)",
+        "Instructor": [
+          "LAM, David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MESF": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          },
+          "AESF": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MESF",
+    "code": "6910M",
+    "name": "Mechanical Properties and Microstructure of Materials",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course is an introductory course under the umbrella of the materials science topics, specialized for mechanical properties and microstructure characterization. It introduces the fundamental laws and physics of structural and functional materials including atomic structures and bonding, crystal structures and symmetry, mechanical properties and mechanical tests, microstructure characterization, defects in solids, strengthen mechanisms and diffusion. Specifically, we will highlight the metallic materials and their mechanical properties, deformation mechanisms and enhancement mechanisms. By the end of this course, you should be able to: 1. Understand, recognize and analyze the various types of microstructure of materials such as dislocations, grain boundaries and twins. 2. Understand how the mechanical tests are conducted and be able to process the data to obtain the mechanical properties of materials. 3. Explain the underlying mechanism for the specific physical/mechanical property of the material. 4. Explain the relationship between the processing parameters and the associated mechanical properties and phenomena such as modulus, ductility and strengthening of metallic materials."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1655)",
+        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "CHEN, Sherry"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MESF": {
+            "Quota": 80,
+            "Enrol": 0,
+            "Avail": 80
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MESF",
+    "code": "6910O",
+    "name": "Sustainable Engineering and Energy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "What business can generate long-term profit? What is the most important topic in this era? What are the most critical challenges to our human society? All these go to sustainability. From the inception of the Kyoto Protocol in the 1990s to the ambitious goals of achieving carbon neutrality by 2050, the need for sustainable practices has become increasingly apparent. The rise of solar power, the surge in popularity of electric cars, and the debates surrounding genetically modified food are all indicative of the complex and interrelated issues we face today. Extreme weather events and the ever-pressing threat of climate change further compound the urgency of our situation. As an engineer, your role extends beyond acquiring strong technical knowledge and skills. It necessitates an acute awareness of the urgent social, political, and environmental needs that shape our world. This course aims to equip you with the necessary tools to address these challenges. We will introduce and elucidate the fundamental design concepts, methods, tools, and technologies associated with lean and green manufacturing systems, supply chains, and green energy. It will also encompass the evaluation, design, and maintenance of environmentally friendly products, processes, services, and policies. Note that knowledge of Industrial Ecology and Sustainable Engineering is also a requirement outlined by the Hong Kong Institution of Engineers (HKIE) accreditation criteria."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1656)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "YANG, Zhengbao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 1,
+        "Avail": 79,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MESF": {
+            "Quota": 80,
+            "Enrol": 0,
+            "Avail": 80
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MESF",
+    "code": "6950A",
+    "name": "Independent Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "An independent research project on Mechanical Engineeringcarried out under the supervision of a faculty member. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4321)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MESF",
+    "code": "6950C",
+    "name": "Independent Project",
+    "units": 6,
+    "info": {
+      "vector": "[6 credits]",
+      "description": "An independent research project on Mechanical Engineering carried out under the supervision of a faculty member. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4322)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 51,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

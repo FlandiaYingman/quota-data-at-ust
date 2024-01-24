@@ -1,0 +1,147 @@
+[
+  {
+    "program": "NANO",
+    "code": "5200",
+    "name": "Physics of Nanostructured Semiconductors",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "PHYS 5810",
+      "co-list with": "PHYS 5810",
+      "description": "Fundamental physics on electronic, vibrational, transport, and optical properties of semiconductors and nano-scaled solid materials based on quantum mechanics.  Emphasis on nanostructured heterostructures, quantum size and low-dimensional effects, and application to modern electronics and opto-electronics.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply the fundamental knowledge from Quantum Mechanics and Solid State Physics to explain new physical phenomena and new or improved device operations that low dimensional semiconductor heterostructures can offer.</td></tr><tr><td>2.</td><td>Explain the basic principles of common experimental methods for structural, electrical and optical characterizations of low dimensional semiconductor heterostructures.</td></tr><tr><td>3.</td><td>Demonstrate the team work, independent learning, and scientific presentation skills.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1747)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "WANG, Jiannong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "NANO",
+    "code": "5320",
+    "name": "Statistical Mechanics I",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "PHYS 5310",
+      "co-list with": "PHYS 5310",
+      "description": "Laws and applications of thermodynamics, kinetic theory, phase transitions, classical statistical physics foundations, canonical and grand canonical ensemble, quantum statistical physics foundations, Fermi and Bose distributions, introduction to non-equilibrium statistical physics.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain how the core principles of thermodynamics can be derived from the statistical mechanics of Nparticle systems.</td></tr><tr><td>2.</td><td>Use the basic tools of statistical mechanics (such as the partition function) to predict the macroscopic properties of a system from a given microscopic model.</td></tr><tr><td>3.</td><td>Apply these tools in conjunction with appropriate approximation techniques to solve problems in a variety of physical systems, including (but not limited to) fluids and interacting assemblies of spins in magnetic\r\nfields.</td></tr><tr><td>4.</td><td>Use the tools of statistical physics to predict the behaviour of systems in the neighbourhood of a phase transition.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1524)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "ZHANG, Rui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "NANO",
+    "code": "6100",
+    "name": "Independent Study in Nano Science and Technology",
+    "units": 3,
+    "info": {
+      "vector": "[0-3-0:3]",
+      "description": "An individual in-depth study of a current topic in nano science and technology under the supervision of a faculty member.  For students of NANO program only.  The instructor's approval is required for taking this course. Graded P or F.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Conduct literature review.</td></tr><tr><td>2.</td><td>Write professional researh paper or report.</td></tr><tr><td>3.</td><td>Obtain in-depth understanding on a specific research topic in Nano Science or Technology.</td></tr><tr><td>4.</td><td>Explain working principles or apply experimental techniques on a research topic in Nano Science and Technology.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1748)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "The instructor's approval is required for taking this course.",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "NANO",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate research contriutions in form of a thesis.</td></tr><tr><td>2.</td><td>Demonstrate research achievements, on knowledge in advanceing a research field in Nano Science and Technology, in the form of thesis.</td></tr><tr><td>3.</td><td>Defend the research achievements and contributions through seminar or oral examination.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1749)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "NANO",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate research contriutions in form of a thesis.</td></tr><tr><td>2.</td><td>Demonstrate original research achievements with impact on a research field in Nano Science and Technology, in the form of thesis.</td></tr><tr><td>3.</td><td>Defend the research achievements and contributions through seminar or oral examination.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1750)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 7,
+        "Avail": 33,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

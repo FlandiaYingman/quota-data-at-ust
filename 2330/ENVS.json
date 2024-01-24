@@ -1,0 +1,276 @@
+[
+  {
+    "program": "ENVS",
+    "code": "5116",
+    "name": "Environmental Impact and Risk Assessment",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "EVSM 6070",
+      "description": "This course introduces the general principles, processes and methodologies of EIA and ERA in different developmental projects locally and globally. Specific socio-economic impacts, environmental law and policy, as well as problems and constraints of EIA and ERA implementation will also be discussed and compared through various case studies from developed and developing countries.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the relationships between economic development, human health, and environmental sustainability.</td></tr><tr><td>2.</td><td>Associate the legal base and common practice of environmental impact assessment in Hong Kong.</td></tr><tr><td>3.</td><td>Apply the principles and knowledge in environmental and risk impact assessments to solve environmental problems. </td></tr><tr><td>4.</td><td>Compare the practice of environmental impact and risk assessment across different regions, and summarize international trend for assessing the impact of large development project. </td></tr><tr><td>5.</td><td>Exemplify the environmental challenges Hong Kong, China as well as the world is facing and become a responsible citizen to have a positive contribution to the achievement of a sustainable environment.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1739)",
+        "Date & Time": "Fr 06:30PM - 09:20PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "LIU, Hongbin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 0,
+        "Avail": 85,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EHS": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          },
+          "EVEM": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          },
+          "GMRM": {
+            "Quota": 15,
+            "Enrol": 0,
+            "Avail": 15
+          },
+          "OCES": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ENVS",
+    "code": "5117",
+    "name": "Public Health and Hygiene",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course offers new perspectives of public health and hygiene, emphasizing on practical aspects of epidemiological investigations and public health managements. Health risk assessment issues in relation to environmental health will also be covered. Students will review the harmful or toxic effects of drugs on human health and environment, and epidemiological studies on both infectious and non-communicable diseases, which will be relevant to students pursuing a career in the public health sector.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Define fundamental principles of public health and hygiene.</td></tr><tr><td>2.</td><td>Illustrate risk assessments principles for defining environmental toxicants.</td></tr><tr><td>3.</td><td>Interpret the contemporary efforts in controlling environmental health from global perspectives.</td></tr><tr><td>4.</td><td>Recognize important and basic standards in drug developments and manufacturing, and describe the roles interplayed by the pharmaceutical sector.</td></tr><tr><td>5.</td><td>Formulate important skill-set in presentation and reporting from developing collaborative projects.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1740)",
+        "Date & Time": "Tu 06:30PM - 09:20PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "LEUNG, Shui Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(EHS) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENVS",
+    "code": "5118",
+    "name": "Conservation and Sustainable Development",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course aims to address the importance of different elements and practices in conserving our biodiversity. It also introduces the concept of sustainable development to meet the future needs and balance the objectives between society, economy and environment. It explores ways of finding solutions to the challenges through the promotion of sustainable development.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Critique the importance of different elements and practices in conserving our biodiversity.</td></tr><tr><td>2.</td><td>Describe the concepts of sustainable development to meet the future needs and balance the objectives between society, economy and environment.</td></tr><tr><td>3.</td><td>Apply relevant ecological principles and management techniques to solve real-life environmental conservation problems.</td></tr><tr><td>4.</td><td>Critically evaluate the merits, limitations and future trends in environmental conservation and sustainable development.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1741)",
+        "Date & Time": "Th 06:30PM - 09:20PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "LEUNG, Shui Yee"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EHS": {
+            "Quota": 65,
+            "Enrol": 0,
+            "Avail": 65
+          },
+          "GMRM": {
+            "Quota": 15,
+            "Enrol": 0,
+            "Avail": 15
+          }
+        },
+        "Remarks": [
+          "For MSc (EHS/GMRM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENVS",
+    "code": "5119",
+    "name": "Pollution Monitoring and Control",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course introduces environmental consequences of air, water and noise pollution. It also considers theoretical and practical aspects of the design and execution of pollution monitoring programmes. Major issues related to pollution control,  such as pollution types and sources, technological aspects of pollution control, and pollution-related legislation and regulations will be discussed.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Demonstrate environmental consequences of air, water, soil and noise pollution.</td></tr><tr><td>2.</td><td>Evaluate air and water quality objectives and standards in Hong Kong and elsewhere. </td></tr><tr><td>3.</td><td>Develop experimental designs and sampling strategies for monitoring programmes and evaluate their effectiveness in pollution monitoring. </td></tr><tr><td>4.</td><td>Explain the importance and principles of pollution control, including the interactions between production, technology and regulation/legislation. </td></tr><tr><td>5.</td><td>Apply relevant ecological and toxicological principles to problems related to pollution control. </td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1742)",
+        "Date & Time": "Mo 06:30PM - 09:20PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "LAM, Ka Sin Cindy"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 75,
+        "Enrol": 0,
+        "Avail": 75,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EHS": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          },
+          "GMRM": {
+            "Quota": 15,
+            "Enrol": 0,
+            "Avail": 15
+          }
+        },
+        "Remarks": [
+          "For MSc (EHS/GMRM) students only."
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENVS",
+    "code": "5120",
+    "name": "Occupational Health and Safety",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "description": "This course will cover the recognition, evaluation and control of various physical, chemical, biological and ergonomic hazards encountered in the occupational environment. Emphases will focus on the nature and impact of these hazards, assessment methods and corresponding control measures to ensure protection of workers' health and compliance with regulatory requirements.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Anticipate and recognize common hazards of selected work environment.</td></tr><tr><td>2.</td><td>Find suitable instruments to assess such hazards.</td></tr><tr><td>3.</td><td>Interpret/appraise hazard assessment results.</td></tr><tr><td>4.</td><td>Recommend/critique basic control measures.  </td></tr><tr><td>5.</td><td>Describe legal requirements for protection of workers' health and safety.</td></tr><tr><td>6.</td><td>Be recognized for the proficiency in occupational health and safety knowledge and skills via the award of a certificate by HSEO.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1743)",
+        "Date & Time": "We 06:30PM - 08:20PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "KWAN, Joseph Kai Cho",
+          "YU, Samuel Chung Toi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(EHS) students only."
+        ]
+      },
+      {
+        "Section": "T1 (1744)",
+        "Date & Time": "We 08:30PM - 09:20PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "KWAN, Joseph Kai Cho",
+          "YU, Samuel Chung Toi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ENVS",
+    "code": "6111B",
+    "name": "Environmental Health Research Project",
+    "units": 6,
+    "info": {
+      "vector": "[6 credits]",
+      "description": "This course enables students to conduct an independent project in selected areas of environmental health and safety under the supervision of one or more Faculty members. Students shall consult the list of topics provided by the Faculty members and choose to conduct a literature review-based or lab work-based project. A project carrying 3 credits will take place over one regular term. A lab work-based project carrying  6 credits will take place over two consecutive regular terms, and the permitted to proceed (PP) grade will be issued at the end of the first term. Students are required to submit written reports of their works and present the major findings in a symposium attended by peers and faculty members. This course is for MSc students only. Approval from course instructor is required. The course may be repeated for credits."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1745)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Shui Yee",
+          "LIU, Hongbin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(EHS) students only.",
+          "The credit load is spread in the following pattern: Fall: 3; Spring: 3",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENVS",
+    "code": "6111C",
+    "name": "Environmental Health Research Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "This course enables students to conduct an independent project in selected areas of environmental health and safety under the supervision of one or more Faculty members. Students shall consult the list of topics provided by the Faculty members and choose to conduct a literature review-based or lab work-based project. A project carrying 3 credits will take place over one regular term. A lab work-based project carrying  6 credits will take place over two consecutive regular terms, and the permitted to proceed (PP) grade will be issued at the end of the first term. Students are required to submit written reports of their works and present the major findings in a symposium attended by peers and faculty members. This course is for MSc students only. Approval from course instructor is required. The course may be repeated for credits."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1746)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Shui Yee",
+          "ZENG, Qinglu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(EHS) students only.",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

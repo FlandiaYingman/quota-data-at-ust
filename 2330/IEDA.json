@@ -1,0 +1,1001 @@
+[
+  {
+    "program": "IEDA",
+    "code": "1010",
+    "name": "Academic and Professional Development I",
+    "units": 0,
+    "info": {
+      "description": "A compulsory one-year course for IEDA students. This course aims to provide academic and professional advising to students and to develop their technical and non-technical communication skills. Industrial and academic seminars will be offered. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (2606)",
+        "Date & Time": "Fr 12:00PM - 12:50PM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "ZHANG, Jiheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 23,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2607)",
+        "Date & Time": "Fr 12:00PM - 12:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "ZHANG, Jiheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 24,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in LTC"
+        ]
+      },
+      {
+        "Section": "T3 (2608)",
+        "Date & Time": "Fr 12:00PM - 12:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "ZHANG, Jiheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 24,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in LTC"
+        ]
+      },
+      {
+        "Section": "T4 (2609)",
+        "Date & Time": "Fr 12:00PM - 12:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "ZHANG, Jiheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 25,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in LTC"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "1020",
+    "name": "Academic and Professional Development II",
+    "units": 0,
+    "info": {
+      "description": "A compulsory one-year course for IEDA students, which is a continuation of IEDA 1010. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (2610)",
+        "Date & Time": "Fr 12:00PM - 12:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "ZHANG, Jiheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in LTC"
+        ]
+      },
+      {
+        "Section": "T2 (2611)",
+        "Date & Time": "Fr 12:00PM - 12:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "ZHANG, Jiheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in LTC"
+        ]
+      },
+      {
+        "Section": "T3 (2612)",
+        "Date & Time": "Fr 12:00PM - 12:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "ZHANG, Jiheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in LTC"
+        ]
+      },
+      {
+        "Section": "T4 (2613)",
+        "Date & Time": "Fr 12:00PM - 12:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "ZHANG, Jiheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in LTC"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "1901",
+    "name": "Industrial Training and Experience",
+    "units": 0,
+    "info": {
+      "description": "This course is intended to provide UG students with practical hands-on training in the form of either a full-time internship training or industrial training course in an industrial simulated environment. Students who opt for internship training should complete a full-time internship training for a period of at least 4 weeks in an organization or company recognized by the Department for providing qualified internship training relevant to the industrial engineering and decision analytics. Students must also complete the USTSIEB Safety Training module. For IEDA students in their second year of study or above only. Students should seek approval of the internship coordinator for enrollment in the course. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2614)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 63,
+        "Enrol": 56,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "2010",
+    "name": "Introduction of Industrial Engineering and Decision Analytics",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program",
+      "exclusion": "IEDA 2200",
+      "description": "This course provides an introduction to industrial engineering and decision analytics (IEDA). It comprises of two parts. The first part introduces basic IE analytical tools, such as optimization, game theory, probability and statistics, at a conceptual level. In the second part, many of the IEDA practical concepts, including production and operations management, logistics and supply chain management, financial technology are introduced."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2615)",
+        "Date & Time": "Fr 03:00PM - 05:50PM",
+        "Room": "Lecture Theater J (300)",
+        "Instructor": [
+          "QIU, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 79,
+        "Avail": 71,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2617)",
+        "Date & Time": "Mo 12:30PM - 01:20PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "QIU, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 75,
+        "Enrol": 40,
+        "Avail": 35,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (2619)",
+        "Date & Time": "Th 05:00PM - 05:50PM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "QIU, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 75,
+        "Enrol": 39,
+        "Avail": 36,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "2100E",
+    "name": "Computing in Industrial Applications",
+    "units": 3,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "previous code": "IELM 2100E",
+      "description": "Introduction to microprocessor technologies and computer hardware with industrial applications. Computer systems for industrial control. Digital communication, mobile computing and RFID technology."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "T1 (2622)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "SO, Richard Hau Yue"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "T2 (2624)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "SO, Richard Hau Yue"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "LA1 (2620)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "SO, Richard Hau Yue"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "2100S",
+    "name": "Computing in Industrial Applications",
+    "units": 3,
+    "info": {
+      "previous code": "IELM 2100S",
+      "description": "Introduction to microprocessor technologies and computer hardware with industrial applications. Computer systems for industrial control. Digital communication, mobile computing and RFID technology."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2625)",
+        "Date & Time": "We 02:30PM - 04:20PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "CHIN, Jing Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 2,
+        "Avail": 38,
+        "Wait": 0,
+        "QuotaDetail": {
+          "IELM": {
+            "Quota": 38,
+            "Enrol": 0,
+            "Avail": 38
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2627)",
+        "Date & Time": "We 09:00AM - 11:50AM",
+        "Room": "Rm 4223, Lift 23",
+        "Instructor": [
+          "CHIN, Jing Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 2,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2629)",
+        "Date & Time": "Tu 12:00PM - 02:50PM",
+        "Room": "Rm 4223, Lift 23",
+        "Instructor": [
+          "CHIN, Jing Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "2540",
+    "name": "Statistics for Engineers",
+    "units": 3,
+    "info": {
+      "pre-requisite": "IEDA 2520",
+      "exclusion": "MATH 2411, ISOM 2500, LIFS 3150",
+      "description": "This is a systematic introduction to statistics for engineering, including descriptive statistics, point and interval estimation, hypothesis testing and linear regression analysis. In addition to theories, students will be taught a statistical language (R or Python) and have hands on experience of processing and analyzing data."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2630)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "YOU, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 84,
+        "Avail": 36,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2632)",
+        "Date & Time": "Th 06:00PM - 07:50PM",
+        "Room": "Rm 3207, Lift 21",
+        "Instructor": [
+          "YOU, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 43,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (2634)",
+        "Date & Time": "Tu 06:00PM - 07:50PM",
+        "Room": "Rm 3207, Lift 21",
+        "Instructor": [
+          "YOU, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 41,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "3180",
+    "name": "Data-Driven Portfolio Optimization",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(IEDA 2520 OR IEDA 2540 OR ELEC 2600) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)",
+      "alternate code(s)": "ELEC 3180",
+      "description": "Modern portfolio theory started with Harry Markowitz's 1952 seminal paper \"Portfolio Selection.\" He put forth the idea that risk-adverse investors should optimize their portfolio based on a combination of two objectives: expected return and risk. Until today, that idea has remained central in portfolio optimization. However, the vanilla Markowitz portfolio formulation does not seem to behave as expected in practice and most practitioners tend to avoid it. During the past half century, researchers and practitioners have reconsidered the Markowitz portfolio formulation and have proposed countless of improvements and alternatives such as robust optimization methods, alternative measures of risk, regularization via sparsity, improved estimators of the covariance matrix, robust estimators for heavy tails, factor models, volatility clustering models, risk-parity formulations, index tracking, etc. This course will explore the Markowitz portfolio optimization in its many variations and extensions, with special emphasis on Python programming."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2635)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "PEREZ PALOMAR, Daniel"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 0,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "3460",
+    "name": "Demand and Supply Analytics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "IEDA 2540",
+      "description": "This course will introduce students to an array of tools to efficiently manage supply and demand networks. Topics include service and inventory trade offs, stock allocation, pricing, markdown management and contracts, timely product distribution to market while avoiding excess inventory, allocating adequate resources to the most profitable products and selling the right product to the right customer at the right price and at the right time."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2636)",
+        "Date & Time": "Fr 09:00AM - 10:50AM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "JIANG, Jiashuo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 8,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2637)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "JIANG, Jiashuo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 8,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "3560",
+    "name": "Predictive Analytics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "IEDA 2540",
+      "exclusion": "COMP 4211",
+      "description": "This course focuses on how companies identify, evaluate, and capture decision analytic opportunities to create value. Basic analytic methods as well as real corporate cases studies will be covered. The analytical methods include ways to use data to develop insights and predictive capabilities using machine learning, data mining, and forecasting techniques. Some aspects of the use of optimization methods to support decision-making in the presence of a large number of alternatives and business constraints will be covered. The concepts learned in this class should help students identify opportunities in which decision analytics can be used to improve performance and support important decisions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2638)",
+        "Date & Time": "Fr 01:00PM - 02:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "ZHAN, Ruohan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 41,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2639)",
+        "Date & Time": "Mo 03:30PM - 05:20PM",
+        "Room": "Rm 3207, Lift 21",
+        "Instructor": [
+          "ZHAN, Ruohan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 41,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "4000B",
+    "name": "Decision Making with Machine Learning",
+    "units": 3,
+    "info": {
+      "pre-requisite": "IEDA 3010 AND IEDA 3560",
+      "description": "This course introduces students to the fundamental concepts, techniques, and applications of machine learning algorithms in the context of decision making. Through a combination of theoretical lectures, hands-on programming assignments, and real-world case studies, students will gain a comprehensive understanding of how machine learning can be leveraged to enhance decision-making in various domains. Topics covered include data-driven decision-making, integration of prediction and optimization, and reinforcement learning. Students will develop practical skills in implementing and evaluating machine learning models using popular frameworks and tools. By the end of the course, students will be equipped with the knowledge and skills to apply machine learning techniques to make informed decisions, optimize outcomes, and navigate the challenges associated with machine learning-enabled decision-making processes."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2640)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "G003, CYT Bldg (30)",
+        "Instructor": [
+          "ZHANG, Xiaowei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2641)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 3207, Lift 21",
+        "Instructor": [
+          "ZHANG, Xiaowei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "4100",
+    "name": "Integrated Production Systems",
+    "units": 3,
+    "info": {
+      "pre-requisite": "IEDA 2520 AND IEDA 2540 AND IEDA 3010",
+      "exclusion": "ISOM 2700",
+      "description": "Basic concepts and techniques in design and operational control of integrated production systems, including MRP, JIT, forecasting, production planning, inventory control, and shop floor control and scheduling."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2642)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "WU, Chenguang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 37,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2643)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "WU, Chenguang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 37,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "4130",
+    "name": "System Simulation",
+    "units": 3,
+    "info": {
+      "pre-requisite": "IEDA 2520 AND IEDA 2540",
+      "exclusion": "ISOM 4720",
+      "description": "Basic concepts and algorithm of discrete-event simulation, generation of random variates, modeling input distributions, statistical analysis of simulation outputs, verification and validation of simulation models, comparisons and optimization via simulation, simple spreadsheet simulation, intermediate modeling and analysis with a commercial simulation package."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2644)",
+        "Date & Time": "Mo 03:00PM - 04:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "ZHAN, Ruohan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 46,
+        "Enrol": 41,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2645)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "Rm 3207, Lift 21",
+        "Instructor": [
+          "ZHAN, Ruohan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 46,
+        "Enrol": 41,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "4200",
+    "name": "Design of Logistics and Manufacturing Systems",
+    "units": 3,
+    "info": {
+      "pre-requisite": "IEDA 3010",
+      "description": "Facility location, process and material flow analysis, space allocation and plant layout, computerized layout planning, material handling equipment, material handling system design."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2646)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "QIU, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 5,
+        "Avail": 35,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2647)",
+        "Date & Time": "Th 02:30PM - 03:20PM",
+        "Room": "Rm 3207, Lift 21",
+        "Instructor": [
+          "QIU, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 5,
+        "Avail": 35,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "4331",
+    "name": "Quantitative Methods in Financial Engineering",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(FINA 3203 OR IEDA 3330) AND (IEDA 3250 OR ISOM 2500)",
+      "description": "The course covers some quantitative methods commonly used in financial engineering for modeling, analyzing, and solving basic financial engineering problems. The course will start with basic concepts in stochastic calculus and stochastic differential equations. These will be used to introduce some advanced stochastic models such as jump diffusion, regime-switching, and stochastic volatility models. In the final part, some numerical methods for derivatives pricing will be introduced."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2648)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "JIANG, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "QuotaDetail": {
+          "IELM": {
+            "Quota": 12,
+            "Enrol": 0,
+            "Avail": 12
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2649)",
+        "Date & Time": "Mo 10:30AM - 11:50AM",
+        "Room": "Rm 3207, Lift 21",
+        "Instructor": [
+          "JIANG, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "4500",
+    "name": "Engineering Foundations of FinTech",
+    "units": 3,
+    "info": {
+      "pre-requisite": "IEDA 3330 OR FINA 3203",
+      "description": "FinTech, short for financial technology, is a remarkably booming industry that aims at improving traditional financial services by applying novel technologies. In this course, students will acquire an understanding of popular financial technologies and learn how they are employed to enhance the effectiveness and efficiency of the existing financial systems. More specifically, this course will cover important financial technologies and innovations, including investment and financing technologies such as P2P lending, crowdfunding, and microloans, payment technologies such as digital wallets and mobile payments, wealth management technologies such as robo‐advisors, and blockchain technologies such as cryptocurrencies (e.g., bitcoin). For DA and RMBI students with approval of the course instructor for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2650)",
+        "Date & Time": "Tu 04:30PM - 06:20PM",
+        "Room": "Rm 2611, Lift 31-32 (28)",
+        "Instructor": [
+          "JIANG, Jiashuo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "T1 (2651)",
+        "Date & Time": "Th 04:30PM - 05:20PM",
+        "Room": "Rm 2611, Lift 31-32 (28)",
+        "Instructor": [
+          "JIANG, Jiashuo"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "4920",
+    "name": "Decision Analytics Final Year Project",
+    "units": 6,
+    "info": {
+      "exclusion": "IEDA 4901, IEDA 4960",
+      "description": "This is a one-year course undertaken by students in their final year. The course will require students to engage in a company sponsored project that provides practical experience to the students on topics they have learnt in their major courses. The project requires regular involvement by a specific professional in the sponsoring company, and will be supervised by a faculty in the department. Depending on the complexity of the project and the capacity of the sponsoring company, the project may be undertaken by either a single student, or a group with a maximum of four students. For projects with multiple members in a group, the role and deliverables of each student must be clearly laid out at the outset. For DA students in their fourth year of study only. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2652)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 32,
+        "Enrol": 25,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "4960",
+    "name": "Industrial Engineering and Engineering Management Final Year Project",
+    "units": 6,
+    "info": {
+      "exclusion": "IEDA 4901, IEDA 4920, IEDA 4930, IEDA 4990",
+      "description": "A one year long final year project related to industrial engineering and engineering management. Supervised by a faculty member. A project proposal and a final report are required. Credit load will be spread over the year. For IEEM students in their fourth year of study only. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2653)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 34,
+        "Enrol": 28,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "5170",
+    "name": "Production and Operations Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "ISOM 5700",
+      "previous code": "IELM 5170",
+      "description": "The course introduces concepts, principals and techniques related to the design, planning, management and improvement of both manufacturing and service operations. Topics include demand forecasting and estimation, inventory management, production control and process improvement, queueing systems, procurement and supply chain management.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand the basic concepts, principles and approaches in production and operations management.</td></tr><tr><td>2.</td><td>Understand different functions including demand forecasting, aggregate planning, inventory management, production control and scheduling in a production system. </td></tr><tr><td>3.</td><td>Identity problems and opportunities for the improvement of a production system.</td></tr><tr><td>4.</td><td>Apply knowledge of production management concepts and functions to evaluate and improve the performance of an integrated operation system.</td></tr><tr><td>5.</td><td>Apply qualitative frameworks and quantitative models to a firm’s production management problem.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1286)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "Rm 2127B, Lift 19 (28)",
+        "Instructor": [
+          "LIU, Qian"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "5250",
+    "name": "Stochastic Models in Operations Research",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "IELM 5250",
+      "description": "Poisson processes, renewal processes, Markov processes. Fundamental concepts and applications of these stochastic processes demonstrated through examples in queueing, inventory and reliability models.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Master the fundamental theories of Poisson processes, renewal processes, discrete-time Markov chains, and continuous-time Markov chains.</td></tr><tr><td>2.</td><td>Apply various stochastic processes to developing stochastic models for practical problems.</td></tr><tr><td>3.</td><td>Analyze stochastic models to study related quantities of interest.</td></tr><tr><td>4.</td><td>Solve practical problems mathematically via stochastic modelling.</td></tr><tr><td>5.</td><td>Develop stochastic models for solving problems in operations research.</td></tr><tr><td>6.</td><td>Analyze and solve stochastic models used in operations research.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1287)",
+        "Date & Time": "Tu 01:30PM - 04:20PM",
+        "Room": "G001, CYT Bldg (24)",
+        "Instructor": [
+          "ZHANG, Rachel Q."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "6800Z",
+    "name": "Departmental Seminar",
+    "units": 0,
+    "info": {
+      "vector": "[1-0-0:0]",
+      "description": "Series of seminars by faculty and guest speakers, repeated every term. Research postgraduate students are expected to attend regularly and register for at least two terms. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1288)",
+        "Date & Time": "Fr 10:30AM - 11:20AM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "previous code": "IELM 6990",
+      "description": "Master's thesis research supervised by a faculty member. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply theory to research problems.</td></tr><tr><td>2.</td><td>Adopt a self-learning approach to solve problems.</td></tr><tr><td>3.</td><td>Demonstrate an ethical, responsible, and dependable attitude.</td></tr><tr><td>4.</td><td>Use problem solving strategies to think critically and creatively in Industrial Engineering and Decision Analytics problems.</td></tr><tr><td>5.</td><td>Communicate the problem, solution and its application in form of written and oral reports.</td></tr><tr><td>6.</td><td>Recognise relevant research questions and apply appropriate methods and tools to effectively find solutions.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1289)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 3,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "IEDA",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "previous code": "IELM 7990",
+      "description": "Original and independent doctoral thesis research. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply theory to research problems.</td></tr><tr><td>2.</td><td>Adopt a self-learning approach to solve problems.</td></tr><tr><td>3.</td><td>Demonstrate an ethical, responsible, and dependable attitude.</td></tr><tr><td>4.</td><td>Use problem solving strategies to think critically and creatively in Industrial Engineering and Decision Analytics problems.</td></tr><tr><td>5.</td><td>Communicate the problem, solution and its application in form of written and oral reports.</td></tr><tr><td>6.</td><td>Recognise relevant research questions and apply appropriate methods and tools to effectively find solutions.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1290)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 15,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

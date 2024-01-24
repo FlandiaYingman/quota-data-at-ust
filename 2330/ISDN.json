@@ -1,0 +1,888 @@
+[
+  {
+    "program": "ISDN",
+    "code": "1001",
+    "name": "Introduction to Integrative Systems and Design",
+    "units": 3,
+    "info": {
+      "description": "This is a foundation course in which students will learn about the societal, economical, and cultural impact of integrative systems and the importance of integrating design into the creation of integrative systems. Through lectures, discussions, case-study and presentation, hands-on dis-assembly and re-assembly exercises, students will learn about the basic design principles, design terminology, design skill-sets, design thinking and process, and how a good design relates to the design principles. Students will also learn about what is an integrative system and the importance of using technology to build an integrative system and how it is decomposed into different sub-systems that involve multiple technology components, interacting with each other."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2696)",
+        "Date & Time": "Th 03:00PM - 04:50PM",
+        "Room": "Rm 6581, Lift 27-28",
+        "Instructor": [
+          "LEUNG, Jac Ka Lok",
+          "TSUI, Chi Ying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (2697)",
+        "Date & Time": "Tu 03:00PM - 04:50PM",
+        "Room": "Rm 6581, Lift 27-28",
+        "Instructor": [
+          "LEUNG, Jac Ka Lok",
+          "TSUI, Chi Ying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "1006",
+    "name": "Human-centered Innovation",
+    "units": 3,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "co-requisite": "ISDN 1002",
+      "description": "A project-based, experiential course that exposes students to practice the five modules in design thinking - “Empathize”, “Define”, “Ideate”, “Prototype” and ‘Test”. The unmet needs will be identified by observing the daily routine of real services and people. Research on existing solutions and how to conduct the stakeholder and market analyses will be taught for designing the needs screening matrix in needs selection. Students are going to unlock their creativity potentials through the in-class activities.The new ideas of addressing the unmet needs are generated in which the ideas are grouped ad organized into a concept map. To translate a promising concept from an idea into a rudimentary design, the concept exploration is facilitated by prototyping. The prototypes are tested by the potential users. This course aims to develop students’ communication, interpersonal, analytical, design and project management skills."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (2698)",
+        "Date & Time": "Th 10:30AM - 11:50AM",
+        "Room": "G003, CYT Bldg (30)",
+        "Instructor": [
+          "LAU, Brian Hui Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 23,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode"
+        ]
+      },
+      {
+        "Section": "LA1 (2699)",
+        "Date & Time": "Tu 10:30AM - 11:50AM",
+        "Room": "G003, CYT Bldg (30)",
+        "Instructor": [
+          "LAU, Brian Hui Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 23,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "1010",
+    "name": "Academic and Professional Development I",
+    "units": 0,
+    "info": {
+      "description": "This course is designed to provide academic advising to enhance personal and professional skills for ISD students throughout their 4 years of study. Activities involve workshops and a mentoring program. For ISD students only. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (2700)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 20,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "2002",
+    "name": "Second Year Design Project II",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ISDN 2001",
+      "co-requisite": "ISDN 2400",
+      "description": "This course is the second part of a one-year project course offered to second year students. The project requires application and integration of technology and design to develop innovative solutions to a challenging problem. Each student is assigned a component of a large project, which is sponsored by industry. The focus of this course is testing and redesigning of the design concept created in 2001. The process is repeated until a final design emerges. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4107)",
+        "Date & Time": "We 01:30PM - 03:20PM",
+        "Room": "Rm 4223, Lift 23",
+        "Instructor": [
+          "LEUNG, Suk Wai Winnie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 28,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "T1 (4108)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Suk Wai Winnie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 28,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "2010",
+    "name": "Academic and Professional Development II",
+    "units": 0,
+    "info": {
+      "description": "Continuation of ISDN 1010. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (2702)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 28,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "2400",
+    "name": "Physical Prototyping",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ISDN 2300",
+      "description": "The aim of this course is to take design concepts to reality. Students will convert their concepts that were created using sketches or 3D design software to tangible prototypes. Quick prototyping using various materials will provide hands-on experience. The course will also provide knowledge on various 3D prototyping technologies so that students can explore the most suitable means to generate functional and aesthetically pleasing prototypes. Hands-on experience with assembly to generate complete prototypes will be emphasized."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2703)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "SCHARFF, Rob"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 34,
+        "Enrol": 33,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2704)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "SCHARFF, Rob"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 34,
+        "Enrol": 33,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "2602",
+    "name": "Internet of Things: Integrative System Design",
+    "units": 3,
+    "info": {
+      "exclusion": "ELEC 1200",
+      "previous code": "ISDN 4000G",
+      "description": "IoT (Internet of Things) is the key enabling technology for many integrative systems. A design thinking-led approach is used to motivate and engage students to design IoT systems, leading to user-centric solutions. Through the design of IoT systems, students learn fundamental theories and gain hands-on working experience on several key components for IoT systems, including circuits and sensors, signal processing, embedded systems, and communication and networking. In the final project, students will apply design thinking approach to meet the project requirements, specified from users’ perspective."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2705)",
+        "Date & Time": "Mo 02:30PM - 04:20PM",
+        "Room": "Rm 4503, Lift 25-26 (64)",
+        "Instructor": [
+          "SONG, Shenghui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 31,
+        "Enrol": 30,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2706)",
+        "Date & Time": "Fr 04:00PM - 05:50PM",
+        "Room": "Rm 4503, Lift 25-26 (64)",
+        "Instructor": [
+          "SONG, Shenghui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 31,
+        "Enrol": 30,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "3001",
+    "name": "Third Year Design Project I",
+    "units": 3,
+    "info": {
+      "description": "This course is the first part of a one-year project course offered to third year students. Each student is assigned a component of a large project, which is sponsored by industry. The project is expected to be of increased technical complexity compared with the second year project. Project planning. Distribution of tasks among the team members. Identification of the problem through interactions with the staff of the sponsored company. Ideation. Design concept generation. Selection of ideas. Prototyping. Testing and redesigning. In addition, students have to consider sustainability, manufacturability, and marketability of the proposed product solutions, which have to fulfill needs of the client under a budgetary constraint. Students are expected to spend less time on planning and idea generation as they have already gained these experiences in the second year but more time on prototyping and testing, as this project requires application and integration of more advance technologies and design. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4335)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Suk Wai Winnie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "LA1 (4336)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Suk Wai Winnie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "3002",
+    "name": "Third Year Design Project II",
+    "units": 3,
+    "info": {
+      "description": "This course is the second part of the third-year project course offered to third year students. The focus of this course is testing and redesigning of the design concept generated in 3001. The process is repeated until a final design emerges. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2707)",
+        "Date & Time": "Th 09:00AM - 10:50AM",
+        "Room": "Rm 4223, Lift 23",
+        "Instructor": [
+          "JONEJA, Ajay"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 14,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "LA1 (2708)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "JONEJA, Ajay"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 14,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "3004",
+    "name": "Advanced Sketching",
+    "units": 2,
+    "info": {
+      "pre-requisite": "ISDN 1004",
+      "previous code": "ISDN 4000L",
+      "description": "The course enhances the visual communication and creativity skills of students through a palette of advanced sketching skills such as how to draw in perspective and; how to develop visual narratives vis-à-vis scripts and storyboards. A larger spectrum of tools and materials will be introduced such as drawing with markers and other mixed-media. The course contains extensive in-studio sketching sessions where students will explore various advanced sketching approaches under the guidance of the instructor; to further develop their individual creativity and visual communication skills. The course requires basic knowledge on sketching."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4259)",
+        "Date & Time": "Th 12:30PM - 01:20PM",
+        "Room": "Rm 2590, Lift 27-28",
+        "Instructor": [
+          "LAU, Brian Hui Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "T1 (4282)",
+        "Date & Time": "Th 01:30PM - 02:20PM",
+        "Room": "Rm 2590, Lift 27-28",
+        "Instructor": [
+          "LAU, Brian Hui Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "LA1 (4260)",
+        "Date & Time": "Tu 12:30PM - 02:20PM",
+        "Room": "Rm 2590, Lift 27-28",
+        "Instructor": [
+          "LAU, Brian Hui Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "3010",
+    "name": "Academic and Professional Development III",
+    "units": 0,
+    "info": {
+      "description": "Continuation of ISDN 2010. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (2709)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "4000P",
+    "name": "Introduction to Brand Design",
+    "units": 3,
+    "info": {
+      "description": "A project-based, experiential course that introduces students to the basics of Brand Identity Design. Brands and branding are key business tools and techniques. An understanding of how brands are strategically designed and developed can lead to greater coherence between the design disciplines and business development. This course will introduce to the student the basic principles and practices of brand identity design and development through the lens of graphic design and visual communications. Brand assets such as the logo, brand fonts and secondary graphics, brand tone, tools and touchpoints (and much more); and how they are structured, designed and developed via brand frameworks and branding strategies will be explored through a series of lectures and in-class exercises. The course will culminate in an extended hands-on project. Guest speaker(s) will also be invited to give context and insight into the practice and profession."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2712)",
+        "Date & Time": "Th 02:30PM - 04:20PM",
+        "Room": "Rm 2590, Lift 27-28",
+        "Instructor": [
+          "LAU, Brian Hui Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 5,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2713)",
+        "Date & Time": "Tu 02:30PM - 04:20PM",
+        "Room": "Rm 2590, Lift 27-28",
+        "Instructor": [
+          "LAU, Brian Hui Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 5,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "4000S",
+    "name": "Applied Generative AI for Interdisciplinary Projects",
+    "units": 3,
+    "info": {
+      "description": "As industries demand a new generation of professionals who can collaborate across disciplinary lines, challenges arise in search of latest innovations which can facilitate interdisciplinary learning, collaboration, and effective project management in cross-discipline teams. This course will introduce the utilities of generative AI tools (e.g., ChatGPT) in both learning and project management. Students will work in team projects and tackle real design challenges presented by experts in fields such as EduTech, ArtTech, SportsTech, MarineTech, PropertyTech. This special topic aims to let students experiment on leveraging Generative AI to enhance work processes in design thinking and project management. Topics covered will include AI-enhanced design thinking, knowledge sharing principles, agile project management, collaborative learning, and AI in education."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2714)",
+        "Date & Time": "Fr 09:00AM - 10:50AM",
+        "Room": "Rm 5564, Lift 27-28 (30)",
+        "Instructor": [
+          "LEUNG, Jac Ka Lok"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (2715)",
+        "Date & Time": "We 03:30PM - 05:20PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "LEUNG, Jac Ka Lok"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "4000T",
+    "name": "Colour and Form",
+    "units": 3,
+    "info": {
+      "description": "This course highlights the significant role of colour in the design process and offers fundamental insights into design principles. As design embodies creative problem-solving, colour serves as a key element in both the design process and the resulting product. This course will introduce some basic theories for colour application meanwhile examine the concept of human-centric product design. By bridging the gaps between art, engineering, and social science, this course underscores how thoughtful design can significantly enhance the quality of human life. We will begin with the fundamentals: understanding the scientific colour basic circle and colour order system, for instance the NCS colour system and CIE colour system. Meanwhile, we will explore the psychological and cultural implications of colour, learning how different hues can evoke emotions and convey meaning. We’ll examine case studies from graphic design, interior design, architectural design, urban design, industrial design, and more, offering students a broad understanding of how colour theory is applied in real-world context. The second part of this course will be related to form design, it will go through a combination of theoretical discussions, practical exercises, and hands-on projects, students will develop a deep understanding of form and its role in design. The course will include both lectures (theories, history, cases analysis, etc.), field trips, guest lectures from industrial partners, and laboratory works (group work, guided hands-on design projects based on real issues, experiential learning, physical/digital prototyping, presentations). Students will experience experiential learning, cross-disciplinary teamwork, and student-centred learning. For Non-ISD students, you will get a good taste of ISD learning mode. Instructor’s approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2716)",
+        "Date & Time": "Fr 02:00PM - 03:50PM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "XIANG, Changying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "LA1 (2717)",
+        "Date & Time": "Fr 11:00AM - 12:50PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "XIANG, Changying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "4000U",
+    "name": "Design with 3D Visual Communication Technologies",
+    "units": 3,
+    "info": {
+      "description": "This course covers 3D visual communication technologies from modeling and rendering to animation. Through practical examples from industrial design, students will understand the latest 3D modeling, animating, rigging, and rendering techniques. The course emphasizes a design-focused approach to help students create attractive and aesthetically pleasing digital portfolios. Students will learn through project-based learning, allowing them to apply their skills in realistic scenarios. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4153)",
+        "Date & Time": "We 12:00PM - 01:20PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "KOO, Larry",
+          "LI, Mitch"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "T1 (4154)",
+        "Date & Time": "Mo 12:00PM - 01:20PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "KOO, Larry",
+          "LI, Mitch"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "4002",
+    "name": "Final Year Design Project II",
+    "units": 4,
+    "info": {
+      "pre-requisite": "ISDN 4001",
+      "description": "This course is the second part of the final year project course, which continues the project based learning training from the first semester. Students will continue their project and come to a conclusion achieving the project milestones or coming up with the final product prototype by the end of the semester. A final project presentation covers the overall project achievements to the faculty advisor, other ISD faculty members and mentors. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2720)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Jac Ka Lok",
+          "TSUI, Chi Ying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 23,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "4010",
+    "name": "Academic and Professional Development IV",
+    "units": 0,
+    "info": {
+      "description": "Continuation of ISDN 3010. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (2721)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "4200",
+    "name": "Product Management",
+    "units": 3,
+    "info": {
+      "description": "A product manager can be considered the CEO of a product line. Interdisciplinary skills are required to deal with the design, technical and business aspects to make the product successful in the marketplace. In this course, students are introduced to various responsibilities of a product manager and clear examples are used to illustrate how product managers interface with cross functional team members to make decisions, assess markets and financials, develop strategies and product roadmaps, and seek customer input. The course aims to get students ready for a position as a product manager. Instructor's approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2722)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 5506, Lift 25-26 (30)",
+        "Instructor": [
+          "YEE, Terrence Fu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "5400",
+    "name": "Advanced Manufacturing",
+    "units": 3,
+    "info": {
+      "vector": "[1-1-3:3]",
+      "previous code": "ISDN 6810A",
+      "description": "The course introduces advanced manufacturing and characterization skills for fundamental research and emerging applications. This course includes fundamental theory and practical hands-on labs and projects for the students to\nacquire the basic knowledge of advanced manufacturing skills, including laser engraving, transfer and cutting, CNC, waterjet cutting, UV and electron-beam lithography, dry etching, nanoimprint lithography, metal 3D printing, and\nstereolithography. The students will acquire knowledge through lectures and practical hands-on labs, and will be fully prepared for future hands-on research and entrepreneurship projects.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Use key facilities for advanced manufacturing.</td></tr><tr><td>2.</td><td>Identify the suitable manufacturing methods for advanced materials.</td></tr><tr><td>3.</td><td>Carry out fundamental analysis of the experimental fabricated samples.</td></tr><tr><td>4.</td><td>Prepare skillsets for future hands-on research and projects for advanced manufacturing.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1305)",
+        "Date & Time": "We 01:30PM - 02:20PM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "LI, Mitch"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1307)",
+        "Date & Time": "We 02:30PM - 03:20PM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "LI, Mitch"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1306)",
+        "Date & Time": "Mo 01:30PM - 04:20PM",
+        "Room": "Rm 4223, Lift 23",
+        "Instructor": [
+          "LI, Mitch"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "6660E",
+    "name": "Integrative Systems and Design Seminar",
+    "units": 0,
+    "info": {
+      "vector": "[1-0-0:0]",
+      "description": "Series of seminars by faculty and guest speakers. Regular MPhil(ISD) students must register and pass this course in at least two terms. Regular PhD(ISD) students must register and pass this course in at least four terms. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1308)",
+        "Date & Time": "Tu 11:00AM - 11:50AM",
+        "Room": "Rm 4223, Lift 23",
+        "Instructor": [
+          "SCHARFF, Rob"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "6830B",
+    "name": "Extended Reality: Systems, Principles, and Design",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course aims to explore the theories, technologies, and design principles of Augmented Reality (AR) and Virtual Reality (VR). The course aims to develop a deep understanding of AR/VR systems and empower students to contribute to the advancement of immersive technologies. The students will acquire the knowledge through lectures, and practical hands-on labs, and will consolidate their knowledge through a final project."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1309)",
+        "Date & Time": "We 12:00PM - 01:20PM",
+        "Room": "Rm 4223, Lift 23",
+        "Instructor": [
+          "BRAUD, Tristan Camille"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1310)",
+        "Date & Time": "Mo 12:00PM - 01:20PM",
+        "Room": "Rm 4223, Lift 23",
+        "Instructor": [
+          "BRAUD, Tristan Camille"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "previous code": "ENGG 6990",
+      "description": "Master's thesis research supervised by a faculty member. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct research on a cross-disciplinary topic.</td></tr><tr><td>2.</td><td>Demonstrate sufficient knowledge about the state-of-the-art in the areas related to the research problem.</td></tr><tr><td>3.</td><td>Apply principles of design in solving a technical problem.</td></tr><tr><td>4.</td><td>Communicate research findings effectively via written and oral communication.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1311)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 1,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "For MPhil(TLE) or MPhil(ISD) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research. A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct research on a cross-disciplinary topic.</td></tr><tr><td>2.</td><td>Demonstrate sufficient knowledge about the state-of-the-art in the areas related to the research problem and on the broader related topics.</td></tr><tr><td>3.</td><td>Apply principles of design in solving a technical problem.</td></tr><tr><td>4.</td><td>Communicate research findings effectively via written and oral communication.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1312)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 11,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": [
+          "For PhD(ISD) students only"
+        ]
+      }
+    ]
+  }
+]

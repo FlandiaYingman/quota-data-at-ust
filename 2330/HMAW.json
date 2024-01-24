@@ -1,0 +1,1772 @@
+[
+  {
+    "program": "HMAW",
+    "code": "1905A",
+    "name": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (HMW) for 30-credit program",
+      "exclusion": "IDPO 1010",
+      "previous code": "CORE 1905A",
+      "description": "This course will help students adapt to university life through advising, sharing and discussion, and applying the science of well‐being to enhance their personal and interpersonal development. It also aims to foster their self‐understanding and confidence as young adults who can fully enjoy their university education and career thereafter. The course has 3 components: Lectures and Seminars, Self‐Directed Experience, and Advising and Community Meetings. Lectures and Seminars will orientate students to their respective Schools/IPO, provide academic advice and equip them with the scientific bases of well‐being. Self‐Directed Experience will provide opportunities to develop mindsets and habits for students’ physical and social‐emotional wellness and personal enrichment. In Advising and Community Meetings, students will bring knowledge and skills together through reflection and discussion with peers and School/IPO advisors. Topics such as learning and time management skills, purpose of university education, and planning for personal and professional development will be covered. Graded PP, P or F."
+    },
+    "attrs": [
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "T01 (4050)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "KO, Ngan Nei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 24,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T02 (4051)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "NGAI, Shuk Ling Su"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 24,
+        "Enrol": 24,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T03 (4052)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Fred"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 23,
+        "Enrol": 23,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T04 (4053)",
+        "Date & Time": "We 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEUNG, Hiu Tung Josephine"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 18,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T05 (4054)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHUNG, Chi Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 18,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T06 (4055)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "AU, Yee Ching"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 18,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T07 (4056)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Fred"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T08 (4057)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "KO, Ngan Nei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 18,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T09 (4058)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "NGAI, Shuk Ling Su"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T10 (4059)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Fred"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T11 (4060)",
+        "Date & Time": "We 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEUNG, Hiu Tung Josephine"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 22,
+        "Enrol": 22,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T12 (4061)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHUNG, Chi Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 21,
+        "Enrol": 21,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T13 (4062)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "AU, Yee Ching"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 21,
+        "Enrol": 21,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T14 (4063)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Fred"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T15 (4064)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "KO, Ngan Nei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 17,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T16 (4065)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "NGAI, Shuk Ling Su"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 18,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T17 (4066)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Fred"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T18 (4067)",
+        "Date & Time": "Tu 06:00PM - 07:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LI, Wing Kwan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 16,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T19 (4068)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHUNG, Chi Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T20 (4069)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "AU, Yee Ching"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T21 (4070)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEUNG, Hiu Tung Josephine"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 22,
+        "Enrol": 20,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T22 (4071)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHU, Tsz Him"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T23 (4072)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEUNG, Hiu Tung Josephine"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 22,
+        "Enrol": 22,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T24 (4073)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "LI, Wing Kwan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T25 (4074)",
+        "Date & Time": "Tu 06:00PM - 07:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LI, Wing Kwan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 17,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T26 (4075)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "KO, Ngan Nei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 14,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T27 (4076)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "NGAI, Shuk Ling Su"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 18,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T28 (4077)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "LI, Wing Kwan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 21,
+        "Enrol": 21,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T29 (4078)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "LI, Wing Kwan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 22,
+        "Enrol": 22,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T30 (4079)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "AU, Yee Ching"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 18,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T31 (4080)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHUNG, Chi Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T32 (4081)",
+        "Date & Time": "Mo 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEUNG, Hiu Tung Josephine"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 22,
+        "Enrol": 22,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T33 (4082)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHU, Tsz Him"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T34 (4083)",
+        "Date & Time": "Th 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHUNG, Chi Hang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T35 (4084)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 3,
+        "Enrol": 2,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "HMAW",
+    "code": "1905B",
+    "name": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (HMW) for 30-credit program",
+      "exclusion": "IDPO 1010",
+      "previous code": "CORE 1905B",
+      "description": "This course will help students adapt to university life through advising, sharing and discussion, and applying the science of well‐being to enhance their personal and interpersonal development. It also aims to foster their self‐understanding and confidence as young adults who can fully enjoy their university education and career thereafter. The course has 3 components: Lectures and Seminars, Self‐Directed Experience, and Advising and Community Meetings. Lectures and Seminars will orientate students to their respective Schools/IPO, provide academic advice and equip them with the scientific bases of well‐being. Self‐Directed Experience will provide opportunities to develop mindsets and habits for students’ physical and social‐emotional wellness and personal enrichment. In Advising and Community Meetings, students will bring knowledge and skills together through reflection and discussion with peers and School/IPO advisors. Topics such as learning and time management skills, purpose of university education, and planning for personal and professional development will be covered. Graded PP, P or F."
+    },
+    "attrs": [
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "T01 (3962)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T02 (3963)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T03 (3964)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T04 (3965)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T05 (3966)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T06 (3967)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T07 (3968)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T08 (3969)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T09 (3970)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T10 (3971)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T11 (3972)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T12 (3973)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T13 (3974)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T14 (3975)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T15 (3976)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 27,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T16 (3977)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T17 (3978)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T18 (3979)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T19 (3980)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T20 (3981)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T21 (3982)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T22 (3983)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T23 (3984)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T24 (3985)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T25 (3986)",
+        "Date & Time": "Th 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 31,
+        "Enrol": 31,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T26 (3987)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T27 (3988)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T28 (3989)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T29 (3990)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T30 (3991)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T31 (3992)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T32 (3993)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T33 (3994)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T34 (3995)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T35 (3996)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T36 (3997)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T37 (3998)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 10,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "HMAW",
+    "code": "1905C",
+    "name": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (HMW) for 30-credit program",
+      "exclusion": "IDPO 1010",
+      "previous code": "CORE 1905C",
+      "description": "This course will help students adapt to university life through advising, sharing and discussion, and applying the science of well‐being to enhance their personal and interpersonal development. It also aims to foster their self‐understanding and confidence as young adults who can fully enjoy their university education and career thereafter. The course has 3 components: Lectures and Seminars, Self‐Directed Experience, and Advising and Community Meetings. Lectures and Seminars will orientate students to their respective Schools/IPO, provide academic advice and equip them with the scientific bases of well‐being. Self‐Directed Experience will provide opportunities to develop mindsets and habits for students’ physical and social‐emotional wellness and personal enrichment. In Advising and Community Meetings, students will bring knowledge and skills together through reflection and discussion with peers and School/IPO advisors. Topics such as learning and time management skills, purpose of university education, and planning for personal and professional development will be covered. Graded PP, P or F."
+    },
+    "attrs": [
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "T01 (3904)",
+        "Date & Time": "We 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEUNG, Kwok Yip",
+          "MAK, Kelvin P"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 33,
+        "Avail": 17,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T02 (3905)",
+        "Date & Time": "We 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEUNG, Kwok Yip",
+          "MAK, Kelvin P"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 32,
+        "Avail": 18,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T03 (3906)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "SIU, Kam Wing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 42,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T04 (3907)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "SIU, Kam Wing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 43,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T05 (3908)",
+        "Date & Time": "Mo 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "PI, Lynn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 31,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T06 (3909)",
+        "Date & Time": "Mo 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "PI, Lynn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 30,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T07 (3910)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "PI, Lynn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 24,
+        "Avail": 26,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T08 (3911)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 34,
+        "Avail": 16,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T09 (3912)",
+        "Date & Time": "Fr 04:30PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "IEONG, Chao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 26,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T10 (3913)",
+        "Date & Time": "Fr 04:30PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "IEONG, Chao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 26,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T11 (3914)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAU, Ronald"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 5,
+        "Avail": 45,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T12 (3915)",
+        "Date & Time": "We 04:30PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "SALVACRUZ, Joseph"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 29,
+        "Avail": 21,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T13 (3916)",
+        "Date & Time": "We 04:30PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "SALVACRUZ, Joseph"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 28,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T14 (3917)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 25,
+        "Avail": 25,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T15 (3918)",
+        "Date & Time": "Mo 10:30AM - 11:50AM",
+        "Room": "TBA",
+        "Instructor": [
+          "LEUNG, Chi Man"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 26,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T16 (3919)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "KOO, Annka"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 20,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T17 (3920)",
+        "Date & Time": "We 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Lai Fong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T18 (3921)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Lai Fong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T19 (3922)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Lai Fong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T20 (3923)",
+        "Date & Time": "Mo 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Lai Fong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T21 (3924)",
+        "Date & Time": "Mo 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Lai Fong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T22 (3925)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Lai Fong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T23 (3926)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Lai Fong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T24 (3927)",
+        "Date & Time": "Fr 04:30PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAU, Evelyn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T25 (3928)",
+        "Date & Time": "Fr 04:30PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAU, Evelyn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T26 (3929)",
+        "Date & Time": "We 04:30PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAU, Evelyn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 35,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T27 (3930)",
+        "Date & Time": "We 04:30PM - 05:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAU, Evelyn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T28 (3931)",
+        "Date & Time": "We 09:00AM - 10:20AM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAU, Evelyn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T29 (3932)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAU, Evelyn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 35,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      },
+      {
+        "Section": "T30 (3933)",
+        "Date & Time": "We 03:00PM - 04:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAU, Evelyn"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 36,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "HMAW",
+    "code": "1905D",
+    "name": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (HMW) for 30-credit program",
+      "exclusion": "IDPO 1010",
+      "previous code": "CORE 1905D",
+      "description": "This course will help students adapt to university life through advising, sharing and discussion, and applying the science of well‐being to enhance their personal and interpersonal development. It also aims to foster their self‐understanding and confidence as young adults who can fully enjoy their university education and career thereafter. The course has 3 components: Lectures and Seminars, Self‐Directed Experience, and Advising and Community Meetings. Lectures and Seminars will orientate students to their respective Schools/IPO, provide academic advice and equip them with the scientific bases of well‐being. Self‐Directed Experience will provide opportunities to develop mindsets and habits for students’ physical and social‐emotional wellness and personal enrichment. In Advising and Community Meetings, students will bring knowledge and skills together through reflection and discussion with peers and School/IPO advisors. Topics such as learning and time management skills, purpose of university education, and planning for personal and professional development will be covered. Graded PP, P or F."
+    },
+    "attrs": [
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "T01 (3999)",
+        "Date & Time": "Fr 03:00PM - 04:20PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "DROSCHA, Isaac David",
+          "FUNG, Eddy",
+          "HENDRY, David James",
+          "MEGAN, Melissa Jane",
+          "WONG, James K."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 98,
+        "Enrol": 94,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "HMAW",
+    "code": "1905E",
+    "name": "Behavioral Foundations of University Education: Habits, Mindsets, and Wellness",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (HMW) for 30-credit program",
+      "exclusion": "IDPO 1010",
+      "previous code": "CORE 1905E",
+      "description": "This course will help students adapt to university life through advising, sharing and discussion, and applying the science of well‐being to enhance their personal and interpersonal development. It also aims to foster their self‐understanding and confidence as young adults who can fully enjoy their university education and career thereafter. The course has 3 components: Lectures and Seminars, Self‐Directed Experience, and Advising and Community Meetings. Lectures and Seminars will orientate students to their respective Schools/IPO, provide academic advice and equip them with the scientific bases of well‐being. Self‐Directed Experience will provide opportunities to develop mindsets and habits for students’ physical and social‐emotional wellness and personal enrichment. In Advising and Community Meetings, students will bring knowledge and skills together through reflection and discussion with peers and School/IPO advisors. Topics such as learning and time management skills, purpose of university education, and planning for personal and professional development will be covered. Graded PP, P or F."
+    },
+    "attrs": [
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "T01 (2675)",
+        "Date & Time": "Th 06:00PM - 07:20PM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "SAUERWEIN, Meike"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 25,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 1; Spring: 2"
+        ]
+      }
+    ]
+  }
+]

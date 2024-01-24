@@ -1,0 +1,708 @@
+[
+  {
+    "program": "EESM",
+    "code": "5020",
+    "name": "Digital VLSI System Design and Design Automation",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "ELEC 5160",
+      "description": "Structured design styles, specification, synthesis and simulation using hardware descriptive language (HDL), structural chip design and system design, circuit design of system building blocks: arithmetic unit, memory systems, clocking and performance issues in system design, design-automation tools and their applications, introduction to testing.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Recognize and explain the flow of designing complex digital system such as System-on-a-chip (SOC).</td></tr><tr><td>2.</td><td>Identify the use of high-level hardware descriptive language in design digital system.</td></tr><tr><td>3.</td><td>Recognize the design of the VLSI architecture for basic digital arithmetic building blocks.</td></tr><tr><td>4.</td><td>Define the circuit and architecture design of different types of memory blocks.</td></tr><tr><td>5.</td><td>Describe the techniques of designing low-power and high-performance digital circuits and systems.</td></tr><tr><td>6.</td><td>Analyze, design, and debug simple digital systems.</td></tr><tr><td>7.</td><td>Work in a team environment, and demonstrate effective project and time management through course design project.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1118)",
+        "Date & Time": "We 07:00PM - 09:50PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "SARFRAZ, Khawar",
+          "TSUI, Chi Ying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 39,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 60,
+            "Enrol": 39,
+            "Avail": 21
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L2 (1119)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "SARFRAZ, Khawar",
+          "TSUI, Chi Ying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 40,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 40,
+            "Enrol": 40,
+            "Avail": 0
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5120",
+    "name": "Advanced Analog IC Analysis and Design",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "ELEC 5040, EESM 5760",
+      "description": "Noise analysis, advanced op-amp design techniques, analog VLSI building blocks, multipliers, oscillators, mixers, phase-locked loops, A/D and D/A converters, passive filter design, frequency scaling, active filter design.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify, formulate, analyze, and design Advanced Analog Integrated Circuits and Systems (amplifiers, filters, ADCs, DACs, etc.) for various applications.</td></tr><tr><td>2.</td><td>Design and simulate Advanced Analog Integrated Circuits and Systems to meet target specifications subject to practical constraints.</td></tr><tr><td>3.</td><td>Use appropriate simulation tools (including HSPICE, Cadence, Matlab, Switcap, etc.) to help design and simulate Advanced Analog Integrated Circuits and Systems with clear identification of their limitations and optimization.</td></tr><tr><td>4.</td><td>Communicate effectively design choices and considerations via oral presentations and written reports.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1120)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "LUONG, Howard Cam"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 39,
+        "Avail": 11,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 50,
+            "Enrol": 39,
+            "Avail": 11
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L2 (1121)",
+        "Date & Time": "Fr 01:30PM - 04:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "LUONG, Howard Cam"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 40,
+        "Avail": 10,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 50,
+            "Enrol": 40,
+            "Avail": 10
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5310",
+    "name": "Power Management Circuits and Systems",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "The course will cover power management circuits such as voltage references, linear voltage regulators, switched-inductor and switched-capacitor power converters; and power management systems for energy harvesting, RFID and bio-medical implants.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify, formulate, analyze and design power management integrated circuits and systems.</td></tr><tr><td>2.</td><td>Use simulation tools to help design power management integrated circuits and systems.</td></tr><tr><td>3.</td><td>Communicate effectively design choices and considerations via written reports.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1122)",
+        "Date & Time": "Tu 07:00PM - 09:50PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "KI, Wing Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 7,
+        "Avail": 73,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 80,
+            "Enrol": 7,
+            "Avail": 73
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5540",
+    "name": "Introduction to Telecommunication Networks",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Wired and wireless network structures, copper and optical access, transmission and switching, signaling and control, optical communications and wavelength networks, modern packet networking, virtualization, and the telecommunications business.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the key components of the modern telecom network and describe their major underpinning technologies and working principles.</td></tr><tr><td>2.</td><td>Effectively interpret scientific, engineering, and standard literatures related to the telecom industry.</td></tr><tr><td>3.</td><td>Identify some of the major business sectors of the telecom industry and describe their operating characteristics.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1124)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "WONG, Kai Sun Albert"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 56,
+        "Avail": 29,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 85,
+            "Enrol": 56,
+            "Avail": 29
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5546",
+    "name": "Wireless Communication Systems",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Overview of cellular structure and frequency reuse; mobile radio propagation and path loss models; statistical nature of radio channels; coding and time or frequency diversity; spread spectrum CDMA techniques and 3G Systems; OFDM and Wireless LAN standards; fast frequency hopping technology and Bluetooth.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Calculate path loss and receive power based on large-scale radio propagation models.</td></tr><tr><td>2.</td><td>Describe the cellular structure and determine the frequency reuse factor.</td></tr><tr><td>3.</td><td>Describe different small-scale channel variation models, and determine their key parameters.</td></tr><tr><td>4.</td><td>Describe different techniques to combat frequency flat fading.</td></tr><tr><td>5.</td><td>Characterize key parameters for antennas for wireless communications.</td></tr><tr><td>6.</td><td>Describe spread spectrum techniques and their applications in 3G systems, and calculate user capacity for CDMA systems.</td></tr><tr><td>7.</td><td>Describe the basic principles of OFDM and its application in WLAN.</td></tr><tr><td>8.</td><td>Describe basic MIMO techniques, including spatial multiplexing and spatial diversity.</td></tr><tr><td>9.</td><td>Analyze technical papers on an advanced topic on wireless communications and write a report.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1125)",
+        "Date & Time": "We 07:00PM - 09:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "SONG, Shenghui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 56,
+        "Avail": 29,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 85,
+            "Enrol": 56,
+            "Avail": 29
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5547",
+    "name": "Multimedia Signal Processing",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Basic signal processing theory, image and video characteristics and processing, compression techniques, entropy coding, predictive coding, transform coding, vector quantization, subband coding, audio and speech processing, coding standards, real-time processing, watermarking, digital rights management.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify image and video characteristics.</td></tr><tr><td>2.</td><td>Analyze and evaluate multimedia signal compression problems.</td></tr><tr><td>3.</td><td>Integrate theoretical principles and practical implementations to solve multimedia signal compression problems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1126)",
+        "Date & Time": "Tu 07:00PM - 09:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "YU, Weichuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 56,
+        "Avail": 29,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 85,
+            "Enrol": 56,
+            "Avail": 29
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5600",
+    "name": "Photonics Technology and Applications",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course introduces the fundamentals of photonics, as well as provides a survey on the frontiers of optics and photonics technology.  Fundamental topics include: geometric and wave optics, fiber optics, semiconductor light sources, and electro-optics.  Selected special topics include: biophotonics, micro and nano optics, photonic integrated circuits and components, optical switching and RF photonics.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the fundamental concepts of photonics.</td></tr><tr><td>2.</td><td>Strengthen problem-solving and communications skills.</td></tr><tr><td>3.</td><td>Strengthen project management skills.</td></tr><tr><td>4.</td><td>Identify current developments in photonics.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1127)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "QU, Jianan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 0,
+        "Avail": 85,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 85,
+            "Enrol": 0,
+            "Avail": 85
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5670",
+    "name": "Advanced Architectures and Designs for Communication Networks",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "EESM 5539",
+      "description": "Design and implementation of computer architectures; analysis and comparison of different architectures; fundamental concepts including pipelining, instruction-level parallelism, memory hierarchies, input/output architectures, and multiprocessing; modern issues including networking architecture, storage area networking, and VLSI scaling.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the design principles of various modern communication networks.</td></tr><tr><td>2.</td><td>Describe the detailed protocol of IP and wireless cellular networks.</td></tr><tr><td>3.</td><td>Explain why communication systems are designed in the way they are in the industry.</td></tr><tr><td>4.</td><td>Summarize the basic architecture of routers and switches.</td></tr><tr><td>5.</td><td>Identify the future trends of the communication and computer networking.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1128)",
+        "Date & Time": "Tu 07:00PM - 09:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "LAU, Vincent Kin Nang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 0,
+        "Avail": 85,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 85,
+            "Enrol": 0,
+            "Avail": 85
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5740",
+    "name": "Stochastic Learning, Estimation, and Control",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "EESM 5900M",
+      "description": "This course will first cover the basics of linear state estimation starting from an introduction of deterministic and stochastic least square estimation. Then it will focus on Kalman filtering algorithm and its applications in remote state estimation. After that, it will introduce dynamic programming and optimal control (LQR and LQG). It will also present a brief introduction to Markov decision process and reinforcement learning.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Differentiate Bayesian and Non-Bayesian estimation and the associated MAP, MMSE, and ML estimators.</td></tr><tr><td>2.</td><td>Identify the technique of completion-of-squares in deterministic and stochastic least squares and solve general quadratic optimization problems.</td></tr><tr><td>3.</td><td>Recognize the need for and importance of linear state estimation and use the orthogonality principle to solve general linear estimation problems.</td></tr><tr><td>4.</td><td>Derive the five core equations of Kalman filtering algorithm and explain their geometric and physical meanings.</td></tr><tr><td>5.</td><td>Identify the dynamic programming principle and apply it to solve standard optimization problems involving additive cost functions and discrete dynamics constraints.</td></tr><tr><td>6.</td><td>Describe the core idea of Markov decision process and how it is applied in optimal control and reinforcement learning.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1129)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "SHI, Ling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 1,
+        "Avail": 84,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 85,
+            "Enrol": 0,
+            "Avail": 85
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5760",
+    "name": "Integrated Design of RF Wireless Transceiver Systems and Building Blocks",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "EESM 5120, EESM 5320",
+      "previous code": "EESM 5900L",
+      "description": "This course is to introduce design challenges and considerations of radio-frequency transceiver systems for wireless communication, covering RF concepts, RF wireless system architectures, and basic designs of their building blocks. Key blocks include phase-locked-loop-based frequency synthesizers, low-noise amplifiers, mixers, power amplifiers, filters, ADCs, and analog baseband amplifiers. Toward the end, integration of all blocks for complete integrated wireless transceivers will be discussed together with some comprehensive case studies.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Grasp basic concepts in analog and radio-frequency design techniques.</td></tr><tr><td>2.</td><td>Describe design and integration of radio-frequency wireless transceivers.</td></tr><tr><td>3.</td><td>Recognize design of key building blocks in the radio-frequency front-end, including inductors, low-noise amplifiers, mixers, frequency synthesizers, and power amplifiers.</td></tr><tr><td>4.</td><td>Identify design of key building blocks in the analog baseband, including amplifiers, filters, and analog-to-digital converters.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1130)",
+        "Date & Time": "We 07:00PM - 09:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "LUONG, Howard Cam"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 0,
+        "Avail": 85,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 85,
+            "Enrol": 0,
+            "Avail": 85
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5820",
+    "name": "Emerging Technologies in Telecommunications and 6G",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "EESM 5900F",
+      "description": "This course covers different emerging important topics related to telecommunications. Topics covered include 5G and 6G networks. Of particular interest will be the introduction of advanced technologies such as massive MIMO systems, advanced radio resource management (RRM) applications, integrated sensing and communication, cloud and edge computing, artificial intelligence (AI), Terahertz communication, reconfigurable intelligent surfaces, smart grid networks, bit coin and security, inter-domain routing, Content-Centric Networking, Software-Defined Networking (SDN) and congestion controls in data center networks, \nand others.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Present a holistic view of different emerging topics related to telecommunications.</td></tr><tr><td>2.</td><td>Recognize and identify the components of different emerging topics related to telecommunications.</td></tr><tr><td>3.</td><td>Identify and explain the basic concepts and fundamental principles of emerging technologies such as edge computing, reconfigurable intelligent surfaces, artificial intelligence, bit-coin security, and content-centric networking.</td></tr><tr><td>4.</td><td>Identify the tradeoff between different designs of these emerging technologies.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1131)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "BEN LETAIEF, Khaled",
+          "LAU, Vincent Kin Nang",
+          "LEA, Chin-Tau",
+          "MURCH, Ross"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 56,
+        "Avail": 29,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 85,
+            "Enrol": 56,
+            "Avail": 29
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5900Q",
+    "name": "Modern Robotics: Theory, Development, and Case Study",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course introduces the basic principles, development, and state-of-the-art of robotics. The course starts from the basic theory of robotics, including spatial descriptions, kinematics, Jacobians, and dynamics. Then, this course introduces the components and skills for robot development, such as actuators, sensors, control methods, and programming tools. Lastly, some state-of-the-art robotic topics for case studies, such as unmanned vehicles, humanoid robots, soft robots, micro/nano robots, etc."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1132)",
+        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "SHEN, Yajing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 1,
+        "Avail": 84,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 85,
+            "Enrol": 0,
+            "Avail": 85
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5900R",
+    "name": "Practical Considerations of Analog Integrated Circuit Design",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "Properties of MOSFET are a strong function of its width and length due to short-channel effects. Even two MOSFETs with the same width and the same length, their properties are not identical due to process variations and various non-ideal effects such as layout dependent effects (LDEs) and parasitic elements in CMOS technology. In this course, students will learn about how the above-mentioned effects affect analog circuit performance, and what kinds of methodologies can be used to minimize their impacts."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1133)",
+        "Date & Time": "Fr 07:00PM - 08:50PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "MAN, Tsz Yin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 80,
+            "Enrol": 0,
+            "Avail": 80
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5900S",
+    "name": "Engineering Thinking: From Research to Entrepreneurship",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course aims to introduce you to the fundamental principles of engineering thinking and its application in research and entrepreneurship. Throughout the course, you will explore the creative process of generating ideas, formulating problems, and finding solutions through research. Additionally, you will learn how to identify the unique value of a solution and its potential for commercialization. The course will cover a wide range of topics, including creative thinking, idea generation, intellectual property, funding acquisition, presentation skill, legal procedures, branding, and team management. By the end of the course, you will have gained a preliminary understanding of the engineering innovation process and the skills and knowledge necessary to transform an idea into a successful business venture."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1134)",
+        "Date & Time": "Sa 10:00AM - 12:50PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "CHAN, Mansun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 0,
+        "Avail": 85,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 85,
+            "Enrol": 0,
+            "Avail": 85
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "5900T",
+    "name": "Mixed-Signal IC Design for Biosensing",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "This course aims to provide an overview of the major issues in mixed-signal circuit design and their applications in biomedical and sensory systems. The first half of the course will focus on mixed-signal IC design, beginning with two review classes on OPAMP design, filter design, and circuit noise. Subsequently, the course will cover topics such as pipelined ADC, Sigma-delta ADC, and SAR ADC. The second half of the course will be dedicated to sensory and biomedical IC design, and will cover topics including bio-potential detection, implants, DNA detection, CCD, CMOS imaging, and CT/SPECT. Students will gain an understanding of the fundamental principles and practical techniques for mixed-signal circuit design, as well as their applications in various fields."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4165)",
+        "Date & Time": "08-FEB-2024 - 18-APR-2024<br>Th 07:00PM - 09:50PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "YUAN, George Jie"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 80,
+            "Enrol": 0,
+            "Avail": 80
+          }
+        },
+        "Remarks": [
+          "Add/Drop Deadline : 17-Feb-2024",
+          "Extended Drop Deadline : 24-Feb-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "6900",
+    "name": "Independent Study",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Examine a specific subject in electronic engineering.</td></tr><tr><td>2.</td><td>Formulate one or multiple problems in the specific subject.</td></tr><tr><td>3.</td><td>Integrate theoretical principles and practical skills to solve the defined problems.</td></tr><tr><td>4.</td><td>Communicate the problems and solutions through scientific writings.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (4305)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 0,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "6980H",
+    "name": "MSc Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Independent project carried out under the supervision of a faculty member. This course may be run repeatedly for credit(s)."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4304)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 59,
+        "Enrol": 56,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EESM",
+    "code": "6980M",
+    "name": "MSc Project",
+    "units": 4,
+    "info": {
+      "vector": "[4 credit(s)]",
+      "description": "Independent project carried out under the supervision of a faculty member. This course may be run repeatedly for credit(s)."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1135)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "KI, Wing Hung",
+          "SARFRAZ, Khawar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 39,
+        "Avail": 41,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 80,
+            "Enrol": 39,
+            "Avail": 41
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L2 (1136)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "KI, Wing Hung",
+          "SARFRAZ, Khawar"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 39,
+        "Avail": 1,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EESM": {
+            "Quota": 40,
+            "Enrol": 39,
+            "Avail": 1
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

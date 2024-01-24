@@ -1,0 +1,73 @@
+[
+  {
+    "program": "MTLE",
+    "code": "6000B",
+    "name": "Marketing Strategy for Start Ups",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Marketing Strategy for Startups is your gateway to mastering the essential marketing strategies, tools, and frameworks that breath life into business and project ideas, ensuring they are viable are also capable of disrupting the market."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4212)",
+        "Date & Time": "Tu 07:30PM - 10:20PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "PUIG GARRIGO, Coral"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MTLE": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MTLE",
+    "code": "6980",
+    "name": "Technology Leadership and Entrepreneurship Project",
+    "units": 9,
+    "info": {
+      "vector": "[9 credits]",
+      "description": "This 3-term project course is the hallmark of the MSc Program in Technology Leadership and Entrepreneurship. The students will be expected to brainstorm, prototype, and launch an alpha release of a product or a service over the duration of the course. In the first term, students will engage in early stage brainstorming, ideation, team-forming, product contest, pitches, including participation in case competition. In the second term, each team will go through a sustained and concentrated effort in prototype building and complete an alpha-release, or engineering prototype of their product which is launch-ready in the third term.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify a market need.</td></tr><tr><td>2.</td><td>Create a multi-functional team and clearly define member roles.</td></tr><tr><td>3.</td><td>Investigate existing IP data and differentiate a product from pre-existing ones.</td></tr><tr><td>4.</td><td>Create initial prototype and mock-up.</td></tr><tr><td>5.</td><td>Identify and learn background foundations for a new product.</td></tr><tr><td>6.</td><td>Analyze and perform detailed design of sub-components of a design.</td></tr><tr><td>7.</td><td>Perform experiment analysis and failure mode analysis on prototypes and components.</td></tr><tr><td>8.</td><td>Produce engineering prototype and identify downstream avenues for product launch.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1667)",
+        "Date & Time": "Mo 07:30PM - 10:20PM",
+        "Room": "Rm 4502, Lift 25-26 (60)",
+        "Instructor": [
+          "JONEJA, Ajay"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 28,
+        "Avail": 32,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MTLE": {
+            "Quota": 60,
+            "Enrol": 28,
+            "Avail": 32
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

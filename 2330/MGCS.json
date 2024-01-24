@@ -1,0 +1,395 @@
+[
+  {
+    "program": "MGCS",
+    "code": "5010",
+    "name": "Introduction to Social Statistics",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "exclusion": "SOSC 4610, SOSC 5090, MASS 5020",
+      "co-list with": "MASS 5020",
+      "description": "This course teaches basic concepts and skills required to conduct quantitative research in social science. Students will learn to design and conduct statistical analyses to test hypotheses. They will acquire experience in the use of statistical software to carry out analysis of social data.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the fundamental concepts and practices in statistics for social science.</td></tr><tr><td>2.</td><td>Recognize graphic and numerical summary of data with respect to distribution of variables and association between them; data-generating processes and study design; probability theory; probability distributions of continuous variables with a special emphasis on the normal distribution; sampling distributions; principles of statistical inference, including confidence intervals and hypothesis testing; inference for population means and proportions; statistical tests of relationship between two categorical variables; and simple linear regression (OLS).</td></tr><tr><td>3.</td><td>Operate a statistical package for data management and statistical analysis.</td></tr><tr><td>4.</td><td>Conduct more advanced statistical analysis which is useful in the academic career, financial industries, marketing and consulting.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1684)",
+        "Date & Time": "Mo 09:00AM - 10:50AM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "TIAN, Bing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only",
+          "MGCS 5010 is not co-listing with MASS 5020 in Spring 2023-24"
+        ]
+      },
+      {
+        "Section": "T1 (1685)",
+        "Date & Time": "Mo 11:00AM - 11:50AM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "TIAN, Bing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MGCS",
+    "code": "5012",
+    "name": "Quantitative Analysis of Social Data",
+    "units": 3,
+    "info": {
+      "vector": "[2-1-0:3]",
+      "pre-requisite": "MGCS 5010 OR SOSC 5090 OR MASS 5020",
+      "description": "This course covers diverse types of social data and a wide variety of analytical strategies. It begins by reviewing a broad array of sources and types of data commonly used by social scientists, including social \"big data\" from surveys and administrative sources. It then introduces basic techniques for data management, including the use of relational databases, and alternative strategies for analyzing such data. Afterwards, it explores \"unconventional\" types of social data such as social networks and non-structured texts, and relevant analytical strategies. Finally, the course provides a brief introduction to data visualization.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the major types of data sources and the differences between them with ensuing implications for analytical strategy.</td></tr><tr><td>2.</td><td>Operate the data management involving various data types and techniques.</td></tr><tr><td>3.</td><td>Classify the analytical strategies targeting different data types.</td></tr><tr><td>4.</td><td>Implement alternative approaches to data analysis from a social scientific perspective.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1686)",
+        "Date & Time": "Mo 03:00PM - 04:50PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "TIAN, Bing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only"
+        ]
+      },
+      {
+        "Section": "T1 (1687)",
+        "Date & Time": "Mo 05:00PM - 05:50PM",
+        "Room": "Rm 4580, Lift 27-28 (83)",
+        "Instructor": [
+          "TIAN, Bing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MGCS",
+    "code": "5024",
+    "name": "China in Comparative Perspective",
+    "units": 3,
+    "info": {
+      "attributes": "[C] Require Chinese reading",
+      "vector": "[3-0-0:3]",
+      "exclusion": "SOSC 6030E",
+      "description": "This course explores the empirical and analytic value of studying China in comparative perspective. General comparative method and approaches that have been used to explain politics in modern China will be reviewed. The course also considers how the study of China can contribute to concept formation and broader debates in social science.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Acquire a clear view of the unique ways by which Chinese society has been structured and organized</td></tr><tr><td>2.</td><td>Understand the institutional parameters that have defined and redefined authority relations in social life since 1949</td></tr><tr><td>3.</td><td>Critique major works on social change in China from a comparative perspective</td></tr></table>"
+    },
+    "attrs": [
+      {
+        "title": "[READ]",
+        "description": "Reading Material"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1688)",
+        "Date & Time": "Fr 01:30PM - 04:20PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "LIN, Yi-Min"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MGCS",
+    "code": "5032",
+    "name": "Ethnicity in Chinese Context",
+    "units": 3,
+    "info": {
+      "attributes": "[C] Require Chinese reading",
+      "vector": "[3-0-0:3]",
+      "description": "This course explores the issue of ethnicity in China in the context of a nation-state. Issues of nationalism, ethnic identities, and ethnic diversity will be examined from anthropological perspectives. Ethnicity has become an important socio-cultural institution in China. This course explores issues of identity construction, ethnic classification system and local reactions in Chinese society. Historical changes and contemporary development of the phenomenon of ethnicity will be examined in anthropological perspectives.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the major ethnic issues such as identity formation, ethnic classification system, ethnic relations, assimilation, social conflicts, nation-building, and ethnic hierarchy.</td></tr><tr><td>2.</td><td>Use appropriate approaches to study the multiethnic history of Chinese society, the Communist and Western theories on nationality and ethnicity, and the formation of distinctive minority cultures in the context of the Chinese nation-state.</td></tr><tr><td>3.</td><td>Recognize ethnic diversity in Chinese society.</td></tr></table>"
+    },
+    "attrs": [
+      {
+        "title": "[READ]",
+        "description": "Reading Material"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1689)",
+        "Date & Time": "We 07:00PM - 09:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "MA, Jianxiong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MGCS",
+    "code": "5036",
+    "name": "Western Opera and Asia",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "MGCS 6000E",
+      "description": "For almost four hundred years opera was the dominant form of public entertainment as well as the pinnacle of musical and theatrical arts in the West. This course aims to make opera more enjoyable and understandable and to look at depictions and representations of Asian cultures in traditional Western opera across various cultures and time periods. This course will briefly examine the development of Western opera and their related literary texts and then closely discuss selected operas that depict Asian exoticism. By watching and analyzing opera, the students will learn to understand the relationship between music, literature, drama, and culture and also come to understand how these works promoted either a common cultural understanding or a reductionist or even prejudiced viewpoint with regard to Asia. Prior knowledge or experience of Western opera or classical music is not required.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the development of Western opera.</td></tr><tr><td>2.</td><td>Explain the interrelationship between music, literature, drama and culture.</td></tr><tr><td>3.</td><td>Identify the elements of exoticism and depictions of Asia in Western opera.</td></tr><tr><td>4.</td><td>Analyze the structure of scenes.</td></tr><tr><td>5.</td><td>Critique production quality.</td></tr><tr><td>6.</td><td>Coordinate team activities.</td></tr><tr><td>7.</td><td>Give and take direction and constructive criticism.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4214)",
+        "Date & Time": "Th 01:30PM - 04:20PM",
+        "Room": "Rm 2126D, Lift 19 (34)",
+        "Instructor": [
+          "DROSCHA, Isaac David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 34,
+        "Enrol": 0,
+        "Avail": 34,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MGCS",
+    "code": "5102",
+    "name": "Daily Life in Ancient Civilizations: China, Egypt, Greece and Rome",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course is designed to introduce the students the major themes of daily life in different civilizations. Examples will be gathered from China, Egypt, Greece and Rome, to show the commonality and differences of these early civilizations. The students are expected to acquire a basic understanding of what made a society develop, grow, flourish, blossom, decline, and how people in these societies spent their daily life.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the daily lives of people from different ancient civilizations.</td></tr><tr><td>2.</td><td>Analyze the differences of daily lives of people from different origins.</td></tr><tr><td>3.</td><td>Develop a global mindset.</td></tr><tr><td>4.</td><td>Develop leadership and teamwork skills.</td></tr><tr><td>5.</td><td>Improve English communication and writing skills.</td></tr><tr><td>6.</td><td>Read academic paper, develop own research paper and present in public.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1690)",
+        "Date & Time": "Tu 10:30AM - 01:20PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "POO, Mu Chou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MGCS",
+    "code": "5520",
+    "name": "Comparative Politics",
+    "units": 3,
+    "info": {
+      "attributes": "[BLD] Blended learning",
+      "vector": "[3-0-0:3]",
+      "exclusion": "MASS 5200",
+      "previous code": "MGCS 6000J",
+      "description": "This course is designed to expose students with a broad survey of the important issues in the study of comparative politics. It will provide students with a set of commonly used concepts in understanding politics around the world and teach students the techniques to compare different political systems. The course is organized around major problems and concepts in comparative politics rather than around particular countries. The topics include comparative methodology, public policy, political economy, political communication, democracy and authoritarianism, ideology and political culture, nationalism and nation-state, revolution and social movement, political participation and representation, and political institutions. These concepts and themes will help students master more advanced topics in future courses.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand and apply the key concepts in explaining social, economic and political phenomena.</td></tr><tr><td>2.</td><td>Identify, analyze and present social statistical information in a scientific way.</td></tr><tr><td>3.</td><td>Convey ideas effectively in speaking and writing.</td></tr><tr><td>4.</td><td>Perceive different political cultures in a nuanced way.</td></tr></table>"
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1683)",
+        "Date & Time": "31-JAN-2024 - 06-MAR-2024<br>We 09:00AM - 10:50AM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "ZWEIG, David Stephen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only",
+          "The class is delivered in a blended learning mode"
+        ]
+      },
+      {
+        "Section": "L1 (1683)",
+        "Date & Time": "20-MAR-2024 - 27-MAR-2024<br>We 09:00AM - 10:50AM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "ZWEIG, David Stephen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only",
+          "The class is delivered in a blended learning mode"
+        ]
+      },
+      {
+        "Section": "L1 (1683)",
+        "Date & Time": "10-APR-2024 - 17-APR-2024<br>We 09:00AM - 10:50AM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "ZWEIG, David Stephen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only",
+          "The class is delivered in a blended learning mode"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MGCS",
+    "code": "6000Y",
+    "name": "Introduction to Political Philosophy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "An introductory survey of selected sources in European and Chinese political philosophy from antiquity to modernity. We will read, discuss, and analyze key texts, arguments, and ideas about topics such as government, power, law, legitimacy, freedom, the state and the public, society and the individual, criticism and resistance, and capitalism and communism. This course is open to MGCS and HUMA students."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1692)",
+        "Date & Time": "Fr 09:00AM - 11:50AM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "NELSON, Eric S"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS); MPhil/PhD(HUMA) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MGCS",
+    "code": "6200",
+    "name": "Independent Study",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "For MSc(GCS) students opting for the Academic Research concentration only. Students are required to conduct an independent study in a designated subject under the supervision of a faculty member. It may require readings, tutorial discussions, and submission of research paper(s).",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Examine a specific topic in Global China Studies.</td></tr><tr><td>2.</td><td>Read academic articles critically.</td></tr><tr><td>3.</td><td>Write academic articles effectively.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1693)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHANG, David Cheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MGCS",
+    "code": "6982",
+    "name": "Research Project in Global China Studies II",
+    "units": 6,
+    "info": {
+      "vector": "[6 credits]",
+      "pre-requisite": "MGCS 6980",
+      "description": "For MSc(GCS) students opting for the Academic Research concentration only. This course provides a skill-based training in an independent research project on chosen topic conducted under the supervision of a faculty of the School of Humanities and Social Science. The student is required to complete a concrete and coherent research paper with oral defense as part of the research project.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop research and academic-writing skills for further study.</td></tr><tr><td>2.</td><td>Apply knowledge and skills accumulated in prior coursework studies into practical researches.</td></tr><tr><td>3.</td><td>Design, develop and conduct a research in their chosen fields.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1694)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHANG, David Cheng",
+          "HE, Wenkai",
+          "HSIUNG, Ping Chen",
+          "LIN, Yi-Min",
+          "SAUTMAN, Barry Victor"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 7,
+        "Enrol": 0,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only"
+        ]
+      }
+    ]
+  }
+]

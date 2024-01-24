@@ -1,0 +1,1879 @@
+[
+  {
+    "program": "CIVL",
+    "code": "1010",
+    "name": "Academic and Professional Development I",
+    "units": 0,
+    "info": {
+      "description": "A compulsory, one year course for CIVL/CIEV/CIGBM students only. This course is designed to provide academic advising to students and/or to develop students' interpersonal skills in handling technical and non-technical issues in their professional careers. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1845)",
+        "Date & Time": "Tu 06:00PM - 07:20PM",
+        "Room": "Lecture Theater A (401)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 178,
+        "Enrol": 178,
+        "Avail": 0,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 178,
+            "Enrol": 178,
+            "Avail": 0
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "1100",
+    "name": "Discovering Civil and Environmental Engineering",
+    "units": 3,
+    "info": {
+      "description": "A general overview of civil and environmental engineering, infrastructure development and engineering ethics is provided. The course includes both lectures and laboratory sessions, where the laboratory sessions are primarily directed to students who require the development of feasible conceptual solutions for the analysis and design of the basic problems in structural, geotechnical and environmental engineering. For first year engineering students under the four‐year degree curriculum only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1846)",
+        "Date & Time": "Mo 04:00PM - 05:50PM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "LAM, Kit Ming",
+          "LEUNG, Anthony",
+          "LO, Irene Man Chi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 170,
+        "Enrol": 159,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1848)",
+        "Date & Time": "Tu 12:00PM - 02:50PM",
+        "Room": "Rm 2209",
+        "Instructor": [
+          "LAM, Kit Ming",
+          "LEUNG, Anthony",
+          "LO, Irene Man Chi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 79,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (1850)",
+        "Date & Time": "Tu 04:00PM - 06:50PM",
+        "Room": "Rm 2209",
+        "Instructor": [
+          "LAM, Kit Ming",
+          "LEUNG, Anthony",
+          "LO, Irene Man Chi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 80,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "1160",
+    "name": "Civil Engineering and Modern Society",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SSC-S&T) for 36-credit program",
+      "exclusion": "CIVL 1100",
+      "description": "An introduction to civil engineering practice and infrastructure development, with an emphasis on Hong Kong projects. The basic principles, materials and technology used in typical civil engineering works such as foundations, buildings, bridges, slopes and water supply systems, etc. Infrastructure management and maintenance issues; social-economic aspects of large-scale civil engineering projects such as environmental protection, urban planning and development, etc."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1851)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "HU, Thomas"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 180,
+        "Enrol": 2,
+        "Avail": 178,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1852)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "HU, Thomas"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 180,
+        "Enrol": 2,
+        "Avail": 178,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "2010",
+    "name": "Academic and Professional Development II",
+    "units": 0,
+    "info": {
+      "description": "Continuation of CIVL 1010. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1853)",
+        "Date & Time": "Tu 06:00PM - 07:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 170,
+        "Enrol": 157,
+        "Avail": 13,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 170,
+            "Enrol": 157,
+            "Avail": 13
+          }
+        },
+        "Remarks": [
+          "Classes held in LTA"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "2020",
+    "name": "Industrial and BIM Training",
+    "units": 0,
+    "info": {
+      "description": "A practical training course in an industrial simulated environment. For students of the Civil and Environmental Engineering Department only. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (2900)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "CHENG, Jack Chin Pang",
+          "HU, Thomas",
+          "NG, Chun Keung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 89,
+        "Avail": 1,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 90,
+            "Enrol": 89,
+            "Avail": 1
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L2 (2901)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "CHENG, Jack Chin Pang",
+          "HU, Thomas",
+          "NG, Chun Keung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 89,
+        "Avail": 1,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 90,
+            "Enrol": 89,
+            "Avail": 1
+          }
+        },
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "2110",
+    "name": "Statics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "PHYS 1112 OR PHYS 1312",
+      "co-requisite": "MATH 1014 OR MATH 1020 OR MATH 1024",
+      "description": "Application of Newton’s laws to engineering problems; statics of particles; rigid bodies; equivalent systems of forces; equilibrium of rigid bodies; distributed forces; centroids; moments of inertia; analysis of truss & frame structures; axial, shear and bending moment diagrams; friction."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1854)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "QIU, Jishen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 17,
+        "Avail": 13,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 30,
+            "Enrol": 17,
+            "Avail": 13
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1855)",
+        "Date & Time": "Fr 04:30PM - 05:20PM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "QIU, Jishen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 17,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "2120",
+    "name": "Mechanics of Materials",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CIVL 2110",
+      "exclusion": "MECH 2040",
+      "description": "Analysis of stress, strain and deformation; linear and non-linear material behavior; strain energy; bending of beams, deflection; stability and buckling of compression members; shear and torsional stresses."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1856)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Lecture Theater J (300)",
+        "Instructor": [
+          "PAN, Yuxin",
+          "TSE, Tim K.T."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 170,
+        "Enrol": 154,
+        "Avail": 16,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 170,
+            "Enrol": 154,
+            "Avail": 16
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1858)",
+        "Date & Time": "Mo 02:00PM - 02:50PM",
+        "Room": "Rm 2407, Lift 17-18 (126)",
+        "Instructor": [
+          "PAN, Yuxin",
+          "TSE, Tim K.T."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 77,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (1860)",
+        "Date & Time": "Tu 05:00PM - 05:50PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "PAN, Yuxin",
+          "TSE, Tim K.T."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 77,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "2170",
+    "name": "Infrastructure Systems Engineering and Management",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 2350",
+      "exclusion": "IEDA 3010",
+      "description": "This course will cover basic principles and techniques for analyzing engineering systems. It will entail an introduction to linear programs, network analysis, critical path method, benefit-cost and present value analyses of engineering projects."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1861)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Lecture Theater J (300)",
+        "Instructor": [
+          "JIAN, Sisi",
+          "YU, Yantao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 180,
+        "Enrol": 157,
+        "Avail": 23,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 179,
+            "Enrol": 156,
+            "Avail": 23
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1863)",
+        "Date & Time": "Mo 12:30PM - 01:20PM",
+        "Room": "Lecture Theater G (132)",
+        "Instructor": [
+          "JIAN, Sisi",
+          "YU, Yantao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 79,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (1865)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "JIAN, Sisi",
+          "YU, Yantao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 78,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "2410",
+    "name": "Environmental Assessment and Management",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(CHEM 1010 OR CHEM 1020) AND CIVL 1100",
+      "description": "Present current environmental issues and management concepts; apply essential chemical and physical principles required to understand pollution problems; integrate knowledge from science and engineering to solve and assess environmental problems affecting water, air, noise and waste; cover concepts, ordinances and case studies of environmental impact assessment of civil infrastructure projects."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1866)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "SHANG, Chii"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 188,
+        "Enrol": 187,
+        "Avail": 1,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 184,
+            "Enrol": 183,
+            "Avail": 1
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1868)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "SHANG, Chii"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 94,
+        "Enrol": 94,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (1870)",
+        "Date & Time": "Th 05:00PM - 05:50PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "SHANG, Chii"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 94,
+        "Enrol": 93,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "2510",
+    "name": "Fluid Mechanics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 2011",
+      "co-requisite": "CIVL 2110",
+      "exclusion": "MECH 2210",
+      "description": "An introduction to the mechanics of fluids, including fluid statics, kinematics and fundamental equations of fluid flow, laminar and turbulent flow, boundary layers and applications in the design of hydraulic structures."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1871)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "GHIDAOUI, Mohamed Salah"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 180,
+        "Enrol": 169,
+        "Avail": 11,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 177,
+            "Enrol": 166,
+            "Avail": 11
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1878)",
+        "Date & Time": "Th 06:00PM - 07:50PM",
+        "Room": "Lecture Theater J (300)",
+        "Instructor": [
+          "GHIDAOUI, Mohamed Salah"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 180,
+        "Enrol": 169,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1873)",
+        "Date & Time": "We 05:00PM - 07:50PM",
+        "Room": "Rm 2209",
+        "Instructor": [
+          "GHIDAOUI, Mohamed Salah"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 42,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (1875)",
+        "Date & Time": "Tu 09:00AM - 11:50AM",
+        "Room": "Rm 2209",
+        "Instructor": [
+          "GHIDAOUI, Mohamed Salah"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 42,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (1876)",
+        "Date & Time": "Mo 04:30PM - 07:20PM",
+        "Room": "Rm 2209",
+        "Instructor": [
+          "GHIDAOUI, Mohamed Salah"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 42,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA4 (1877)",
+        "Date & Time": "Fr 09:30AM - 12:20PM",
+        "Room": "Rm 2209",
+        "Instructor": [
+          "GHIDAOUI, Mohamed Salah"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 43,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "3010",
+    "name": "Academic and Professional Development III",
+    "units": 0,
+    "info": {
+      "description": "Continuation of CIVL 2010. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1880)",
+        "Date & Time": "Tu 06:00PM - 07:20PM",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 170,
+        "Enrol": 166,
+        "Avail": 4,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 170,
+            "Enrol": 166,
+            "Avail": 4
+          }
+        },
+        "Remarks": [
+          "Classes held in LTA"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "3210",
+    "name": "Introduction to Construction Management",
+    "units": 3,
+    "info": {
+      "description": "This course covers the basic knowledge, skills and techniques in construction management. It entails an introduction to the construction industry, initial and feasibility studies, impact assessment, tendering process, local statutory ordinances, contract strategy and management, cost estimation and control, project finance, resource allocation, and site safety. For CIVL and CIEV students only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1881)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "ZHANG, Xueqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 160,
+        "Enrol": 135,
+        "Avail": 25,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 158,
+            "Enrol": 133,
+            "Avail": 25
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1883)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Lecture Theater K (106)",
+        "Instructor": [
+          "ZHANG, Xueqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 68,
+        "Avail": 12,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (1885)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Lecture Theater E (143)",
+        "Instructor": [
+          "ZHANG, Xueqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 67,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "3310",
+    "name": "Structural Analysis",
+    "units": 3,
+    "info": {
+      "attributes": "[BLD] Blended learning",
+      "pre-requisite": "CIVL 2110 AND CIVL 2120",
+      "description": "Structural forms and modeling, statically determinate structures, statically indeterminate structures, force and displacement methods, deflections of structures, influence lines, approximate analysis, energy methods."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1886)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "ZHANG, Shenghan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 1,
+        "Avail": 29,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 29,
+            "Enrol": 0,
+            "Avail": 29
+          }
+        },
+        "Remarks": [
+          "The class is delivered in a blended learning mode"
+        ]
+      },
+      {
+        "Section": "T1 (1888)",
+        "Date & Time": "Mo 01:30PM - 02:20PM",
+        "Room": "G003, CYT Bldg (30)",
+        "Instructor": [
+          "ZHANG, Shenghan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 1,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1887)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "ZHANG, Shenghan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 1,
+        "Avail": 29,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "3320",
+    "name": "Reinforced Concrete Design",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CIVL 2810 AND CIVL 3310",
+      "description": "Ultimate limit state design of reinforced concrete beams, slabs, columns, and beam-column joints; serviceability limit states of deflection and cracking."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1889)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Lecture Theater A (401)",
+        "Instructor": [
+          "DIMITRAKOPOULOS, Ilias"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 174,
+        "Enrol": 171,
+        "Avail": 3,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 170,
+            "Enrol": 170,
+            "Avail": 0
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1895)",
+        "Date & Time": "Tu 04:30PM - 05:20PM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "DIMITRAKOPOULOS, Ilias"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 85,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (1897)",
+        "Date & Time": "Mo 12:00PM - 12:50PM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "DIMITRAKOPOULOS, Ilias"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 86,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1891)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 1206",
+        "Instructor": [
+          "DIMITRAKOPOULOS, Ilias"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 55,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (1893)",
+        "Date & Time": "We 09:00AM - 10:20AM",
+        "Room": "Rm 1206",
+        "Instructor": [
+          "DIMITRAKOPOULOS, Ilias"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 58,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (1894)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 1206",
+        "Instructor": [
+          "DIMITRAKOPOULOS, Ilias"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 58,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "3420",
+    "name": "Water and Wastewater Engineering",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CIVL 1140 OR CIVL 2410",
+      "description": "Introduction to basic concepts of water quality, fundamentals of water and wastewater treatment processes, analysis of treatment process flowsheets, analysis of water quality management alternatives."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1898)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "CHEN, Guanghao",
+          "DENG, Yangfan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 16,
+        "Avail": 14,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 30,
+            "Enrol": 16,
+            "Avail": 14
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1900)",
+        "Date & Time": "Th 05:00PM - 05:50PM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "CHEN, Guanghao",
+          "DENG, Yangfan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 16,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1899)",
+        "Date & Time": "Th 09:00AM - 11:50AM",
+        "Room": "Rm 2209",
+        "Instructor": [
+          "CHEN, Guanghao",
+          "DENG, Yangfan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 16,
+        "Avail": 14,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "3610",
+    "name": "Traffic and Transportation Engineering",
+    "units": 3,
+    "info": {
+      "co-requisite": "CIVL 2170",
+      "description": "For students of the Civil and Environmental Engineering Department only. Introduction to transportation systems; characteristics of transportation models; traffic flow fundamentals; geometric design of highways; travel demand analysis including trip generation, modal split and trip assignment."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1901)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Lecture Theater A (401)",
+        "Instructor": [
+          "YANG, Hai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 160,
+        "Enrol": 139,
+        "Avail": 21,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 155,
+            "Enrol": 134,
+            "Avail": 21
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1903)",
+        "Date & Time": "Tu 01:30PM - 02:20PM",
+        "Room": "Rm 5583, Lift 29-30 (80)",
+        "Instructor": [
+          "YANG, Hai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 70,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (1905)",
+        "Date & Time": "We 12:00PM - 12:50PM",
+        "Room": "G009A, CYT Bldg (80)",
+        "Instructor": [
+          "YANG, Hai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 69,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "3740",
+    "name": "Geotechnical Analysis and Design",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CIVL 3730",
+      "description": "Introduction to geotechnical analysis and design including slope stability analysis, bearing capacity of soils, lateral earth pressures, design of retaining wall, shallow and piled foundations, geotechnical centrifuge modeling and field monitoring."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1906)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "SO, Pui San"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 180,
+        "Enrol": 169,
+        "Avail": 11,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 179,
+            "Enrol": 168,
+            "Avail": 11
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1908)",
+        "Date & Time": "Mo 02:00PM - 02:50PM",
+        "Room": "Rm 2465, Lift 25-26 (122)",
+        "Instructor": [
+          "SO, Pui San"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 85,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (1910)",
+        "Date & Time": "Fr 10:30AM - 11:20AM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "SO, Pui San"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 84,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4100R",
+    "name": "Practical Machine Learning for Smart Infrastructure Systems",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(COMP 1021 OR COMP 1022P OR COMP 2011 OR COMP 2012H) AND MATH 2350",
+      "exclusion": "COMP 4111, COMP 4331",
+      "description": "This course covers fundamental machine learning concepts and hands-on experience about smart infrastructure system applications. Lectures will cover the “full stack” of machine learning, including data cleaning and pre-processing, machine learning, and reinforcement learning. The covered topics include: collecting and processing real-world project data, detecting abnormal data, and imputing missing data; analyzing the data with a variety of machine learning methods including linear & logistic regression, decision tree, SVM, unsupervised learning (clustering, PCA), and advanced machine learning methods (ensemble learning and deep learning). Last, we will introduce reinforcement learning to build autonomous infrastructure systems that learn to make good decisions. One key feature of this course is its application-driven nature. All applications of this course are about smart infrastructure systems. Through those applications, students will know how ML can be applied in their future career and research."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1911)",
+        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Room": "Rm 2407, Lift 17-18 (126)",
+        "Instructor": [
+          "WANG, Zhe"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 2,
+        "Avail": 48,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 48,
+            "Enrol": 0,
+            "Avail": 48
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4220",
+    "name": "Scientific Machine Learning for Infrastructure Systems",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(COMP 1021 OR COMP 1022P OR COMP 1029P) AND (MATH 2111 OR MATH 2121 OR MATH 2131 OR MATH 2350)",
+      "exclusion": "COMP 4331, MATH 4432",
+      "description": "Scientific machine learning (ML) seeks to address domain-specific data challenges and extract insights from scientific data sets through innovative methodological solutions, and this course aims to introduce scientific ML to senior students with a special focus on civil engineering applications. The course starts with an extensive review of statistics, the difference between ML and descriptive statistics, discusses sampling approaches for uncertainty quantification, then covers the fundamental knowledge of supervised learning (Bayesian linear regression, Gaussian processes, deep neural networks), unsupervised learning (k-means clustering, principal component analysis, Gaussian mixtures), and state space models (Kalman, particle filters). The course will further emphasize on the proper use of ML for civil engineering applications, including incorporating physics-based knowledge (physics-informed ML), dealing with data acquisition challenges (design of experiment, global optimization), and so on. Students will learn to address some unique challenges of applying ML to real-world engineering applications, preparing themselves better in their future career."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1912)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "ZHANG, Jize"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4240",
+    "name": "Smart Infrastructure Sensing and Data Analytics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "COMP 1021 OR COMP 1022P OR COMP 2011 OR COMP 2012H",
+      "previous code": "CIVL 3910",
+      "description": "For students of the Civil and Environmental Engineering Department only. This course contains two modules. For sensing, it covers basic sensing technologies in structural engineering. Students will learn about traditional (e.g., accelerometers) as well as state-of-art sensing technologies (e.g., fiber optic sensing) and their practical applications in civil engineering. It also covers vibration-based structural health monitoring. Students will learn about the fundamentals of structural behavior, and analysis in the time and frequency domain. For data science, this course introduces fundamental knowledge and practical applications of data science and machine learning in the structural engineering context, primarily from understanding and extracting informative patterns from structural sensing data. Students will also learn about the use of relevant software & toolboxes (Python) to apply the discussed data science concepts on structural sensing datasets."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1913)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "ZHANG, Jize",
+          "ZHANG, Shenghan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1915)",
+        "Date & Time": "Fr 12:30PM - 01:20PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "ZHANG, Jize",
+          "ZHANG, Shenghan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1914)",
+        "Date & Time": "Fr 11:30AM - 12:20PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "ZHANG, Jize",
+          "ZHANG, Shenghan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4270",
+    "name": "Construction Law and Contract Administration",
+    "units": 3,
+    "info": {
+      "description": "The course covers legal and contractual issues that may affect practicing engineers in their planning, design, construction and management of engineering projects.  Topics include general principles of common and civil legal systems, the Hong Kong legal environment, contract laws, tort laws, company laws, laws on evidence and the building laws.  The course also covers topics such as conflict of laws and international commercial arbitrations, engineers acting as expert witness in court and arbitral tribunals."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1916)",
+        "Date & Time": "We 03:00PM - 05:50PM",
+        "Room": "Rm 4503, Lift 25-26 (64)",
+        "Instructor": [
+          "MCINNIS, Joel Arthur"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 1,
+        "Avail": 49,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4320",
+    "name": "Structural Steel Design",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CIVL 3310",
+      "description": "Limit state design of steel structures, stability analysis of thin-walled members, design of tension members, columns, beams, plate girders, beam-columns, structural connections, plastic analysis and design."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1917)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Lecture Theater J (300)",
+        "Instructor": [
+          "CHAN, Chun Man",
+          "PAN, Yuxin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 1,
+        "Avail": 149,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CIVL": {
+            "Quota": 149,
+            "Enrol": 0,
+            "Avail": 149
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1918)",
+        "Date & Time": "We 04:00PM - 05:50PM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "CHAN, Chun Man",
+          "PAN, Yuxin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 1,
+        "Avail": 149,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4340",
+    "name": "Prestressed Concrete Design",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CIVL 3320",
+      "description": "Historical development; methods of prestressing, elastic analysis and design; flexural and shear capacity; losses of prestress; anchorage zones; composite members; design procedures and applications."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1919)",
+        "Date & Time": "Mo 06:00PM - 08:50PM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "LEE, Barry"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 1,
+        "Avail": 49,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1920)",
+        "Date & Time": "Mo 09:30AM - 10:20AM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "LEE, Barry"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 1,
+        "Avail": 49,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4370",
+    "name": "Computer Methods of Structural Analysis",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CIVL 3310",
+      "description": "Matrix formulation of structural analysis using stiffness method, solution of linear equations, applications to civil engineering structures, modeling of large and complex structural systems."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1921)",
+        "Date & Time": "TuTh 10:30AM - 11:50AM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "XUE, Tianju"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1922)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "XUE, Tianju"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4430",
+    "name": "Environmental Impact Assessment",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CIVL 1140 or CIVL 2410",
+      "exclusion": "CENG 4720",
+      "description": "This course describes relationship of environmental impact assessment (EIA) and environmental policy act; methods and procedures for environmental impact identification, prediction, evaluation and mitigation; contents in an EIA report."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1923)",
+        "Date & Time": "Fr 06:00PM - 08:50PM",
+        "Room": "Rm 2407, Lift 17-18 (126)",
+        "Instructor": [
+          "ZHANG, Xiangru"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 1,
+        "Avail": 119,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4450",
+    "name": "Carbon Footprint Analysis and Reduction",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CIVL 2410 OR ENVR 3210",
+      "description": "This course aims to provide students with an understanding of the sources and impacts of climate change, national and international policies, Kyoto Protocol, carbon credits and offset concepts. As engineers to be, students will also be able to calculate organization's carbon footprint, identify suitable mitigation strategies and provide carbon reduction solutions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1924)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "ZHOU, Shelley"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 4,
+        "Avail": 61,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CENG": {
+            "Quota": 15,
+            "Enrol": 0,
+            "Avail": 15
+          },
+          "CIVL": {
+            "Quota": 46,
+            "Enrol": 0,
+            "Avail": 46
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4640",
+    "name": "Introduction to Smart City Economics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MATH 1012 OR MATH 1013 OR MATH 1020 OR MATH 1023",
+      "previous code": "CIVL 4100J",
+      "description": "This course focuses on emerging challenging problems in the development of Smart Cities, with a special focus on intelligent transportation systems and smart energy systems. The course discusses various economic problems arising in modern transportation market and power market through the lens of electric vehicles, renewable energy, smart buildings, mobility-on-demand services, etc. It complements existing courses by focusing on engineering applications and offering extensive examples in the context of transport and power markets. Through lectures and exercises, students will learn state-of-the-art models and tools to identify, formulate, and address challenging problems in smart city development."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1925)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "LI, Sen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 5,
+        "Avail": 45,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4710",
+    "name": "Soil Slope Engineering",
+    "units": 3,
+    "info": {
+      "co-requisite": "CIVL 3740",
+      "description": "This course aims to teach students to apply the fundamental principles of saturated and unsaturated soil mechanics to the analysis and design of slope stability. The course covers slope failure mechanisms, transient seepage analysis, measurement and selection of shear strength parameters, historical and recent methods of slope stability analysis, designs of slope stabilization measures and instrumentation."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1926)",
+        "Date & Time": "We 09:00AM - 11:50AM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "ZHAO, Jidong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "4910",
+    "name": "Civil and Environmental Engineering Final Year Project",
+    "units": 6,
+    "info": {
+      "exclusion": "CIVL 4920",
+      "description": "The two-term Final Year Project involves applications of civil and environmental engineering principles to the design, planning, experimental or analytical investigation of current engineering design and research problems. The credit load will be spread over two terms. For CIVL and CIEV students in their final year of study only. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1927)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 171,
+        "Enrol": 169,
+        "Avail": 2,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 2; Spring: 4"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "5210",
+    "name": "Principles of Project Finance",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "In-depth discussion of principles, techniques, and models of project finance in capital-intensive infrastructure projects, including international infrastructure markets; project bankability; project agreement and ancillary contracts; risk analysis and management; financial structuring, modeling and evaluation; outsourcing; case studies of various public-private partnerships in infrastructure development.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the essential issues in infrastructure development and management.</td></tr><tr><td>2.</td><td>Analyze risks in infrastructure project finance and development.</td></tr><tr><td>3.</td><td>Conduct value for money assessment for public-private partnership projects.</td></tr><tr><td>4.</td><td>Perform project appraisal from financial and economic perspectives.</td></tr><tr><td>5.</td><td>Design and analyze concession agreement.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1084)",
+        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "ZHANG, Xueqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "5430",
+    "name": "Aquatic Chemistry",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "CIVL 2410",
+      "description": "Chemistry applied to reactions occurring in water and wastewater, includes inorganic solution chemistry, chemical equilibrium, acids/bases, coordination chemistry, chemical kinetics, colloid chemistry, solubility and precipitation, oxidation-reduction potential.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Provide with the fundamentals of chemistry regarding the chemical reactions affecting the distribution and fate of chemical compounds in aquatic situations from an engineering point of view.</td></tr><tr><td>2.</td><td>Develop technical competency in understanding the nature of water chemical pollution and the chemical aspects of water and wastewater treatment.</td></tr><tr><td>3.</td><td>Analyze some local and global issues in water quality and water treatment from a chemical point of view.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1085)",
+        "Date & Time": "Mo 07:00PM - 09:50PM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "ZHANG, Xiangru"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "5460",
+    "name": "Landfill Engineering and Design",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "CIVL 2410",
+      "description": "Practical aspects of solid waste collection methods and equipment, current available disposal techniques with emphasis on complete engineering design of landfill systems, and landfill leachate treatment will be included.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>To understand the current solid waste recycling, treatment and disposal systems and identify their potential environmental problems in HK.</td></tr><tr><td>2.</td><td>To appreciate the importance of an integrated solid waste management for sustainable development.</td></tr><tr><td>3.</td><td>To assess the advantage and disadvantages of various thermal technologies such as waste-to-energy incineration.</td></tr><tr><td>4.</td><td>To understand the design concepts and the principles behind the design methodologies of a landfill based on fundamental principles of water and mass balance, hydrogeology, soil mechanics, and environmental engineering.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1086)",
+        "Date & Time": "Th 12:00PM - 02:50PM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "TSANG, Dan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "5530",
+    "name": "Turbulence Processes in Hydrosystems",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "CIVL 6100A",
+      "description": "An introduction to turbulence, including the nature of turbulence, governing equations of turbulent flow, structure of turbulence, turbulence modeling, experimental measurements of turbulence and an introduction to computational fluid dynamics.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Summarize features of different turbulent flows and distinguish them.</td></tr><tr><td>2.</td><td>Explain the principle of turbulence modelling and judge their applications for real engineering problems.</td></tr><tr><td>3.</td><td>Apply mathematic knowledge and technique to solve turbulence problems.</td></tr><tr><td>4.</td><td>Appreciate a broad impact of turbulence on engineering designs and hydrosystems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1087)",
+        "Date & Time": "We 09:00AM - 11:50AM",
+        "Room": "Rm 5564, Lift 27-28 (30)",
+        "Instructor": [
+          "YANG, Jiachuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "5640",
+    "name": "Discrete Choice Experiments and Data Analysis",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "CIVL 6100M",
+      "description": "Discrete choice modeling and stated choice methods are used in many fields to study individual, household, and organizational behavior. This course covers advanced discrete choice model construction, estimation, and stated choice experimental design theory and practice.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Obtain fundamental knowledge in mathematics and science, and learn in-depth knowledge in discrete choice analysis and how to apply discrete choice experiment design method and stated choice data analysis method to multiple areas, such as transportation engineering, health services, marketing, tourism, etc.</td></tr><tr><td>2.</td><td>Apply modern engineering tools, and learn how to use professional software N-gene/SAS to design discrete choice experiments, work with stated choice data in Python, and learn how to use visualization tools and\r\ndata mining techniques.</td></tr><tr><td>3.</td><td>Formulate problems and propose feasible solutions, learn how to design a research question, methodology and data approach for a real problem, and apply project design and data analysis methods to real problems with real data.</td></tr><tr><td>4.</td><td>Stay abreast of contemporary issues and learn how to collect stated choice data and develop models to solve current real-world issues and propose policy implications.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4288)",
+        "Date & Time": "Th 09:00AM - 11:50AM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "JIAN, Sisi"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "5720",
+    "name": "Advanced Foundation Design",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CIEM 5720",
+      "description": "Current practice of foundation design and analysis; includes design and analysis of bulkheads, deep excavation, tieback systems, tunneling in soft ground, buried conduits, lateral pile loading, pier foundations.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand the current practice of foundation engineering in Hong Kong and around the globe;.</td></tr><tr><td>2.</td><td>Learn principles and analysis methods for the design of common foundations including shallow and deep foundations, deep excavation, soil nail or tieback systems, and offshore foundations.</td></tr><tr><td>3.</td><td>Learn modern foundation construction techniques and quality assurance.</td></tr><tr><td>4.</td><td>Understand deterministic and reliability-based design methodologies and guidelines.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1088)",
+        "Date & Time": "Tu 09:00AM - 11:50AM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "ZHANG, Li Min"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "5830",
+    "name": "Advanced Mechanics of Materials",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CIEM 5330",
+      "description": "Analysis of stress and strain; elastic and inelastic behavior of materials; formulation of BVP; beam on elastic foundations; torsion of noncircular thinwalled members; deformation of cylinders and spheres; inelastic analysis.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand fundamental concepts in continuum mechanics.</td></tr><tr><td>2.</td><td>Familiar with the formulation of problems in structural mechanics and various solution techniques.</td></tr><tr><td>3.</td><td>Demonstrate ability to apply basic concepts to the analysis of structural components.</td></tr><tr><td>4.</td><td>Demonstrate ability to apply handbook equations to practical design with sound judgments.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1089)",
+        "Date & Time": "Tu 12:00PM - 02:50PM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "LEUNG, Christopher Kin Ying"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "6010A",
+    "name": "Directed Studies",
+    "units": 1,
+    "info": {
+      "vector": "[1 credit]",
+      "previous code": "CIVL 610A",
+      "description": "Specialist courses where instruction is generally on a one-to-one basis. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4235)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 3,
+        "Enrol": 3,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "6010G",
+    "name": "Directed Studies",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Specialist courses where instruction is generally on a one-to-one basis. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1090)",
+        "Date & Time": "Sa 09:00AM - 01:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "6050D",
+    "name": "Civil Engineering Seminar I",
+    "units": 0,
+    "info": {
+      "vector": "[1-0-0:0]",
+      "description": "Discussion of current research by faculty members, and guest lectures on recent advances in civil engineering. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1091)",
+        "Date & Time": "TuTh 03:00PM - 03:50PM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 0,
+        "Avail": 120,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "6060N",
+    "name": "Civil Engineering Seminar II",
+    "units": 0,
+    "info": {
+      "vector": "[1-0-0:0]",
+      "description": "Presentation of current graduate research by postgraduate students. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1092)",
+        "Date & Time": "TuTh 04:00PM - 05:50PM",
+        "Room": "Lecture Theater F (133)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 0,
+        "Avail": 80,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "6100R",
+    "name": "Climate Change and Climate Modeling",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course describes the physics of the climate system and how it is represented in numerical models. It covers global environmental issues related to climate change resulting from both human activities and natural climate variations, and introduces the basic structures of climate models. This course aims to equip students with a solid understanding of the physical climate system and the underlying principles of current climate assessments. It teaches students which aspects of climate science are well understood and where quantitative uncertainties arise. As climate models are one of our primary tools for predicting and adapting to climate change, it is vital that we appreciate their strengths and limitations. The course includes a combination of lectures, homework assignments, a mid-term exam, and a term project of climate model analysis. The lectures provide students with fundamental knowledge of the physical processes in the climate system and basics of climate modeling. Homework assignments reinforce the knowledge base and enhance problem-solving skills for students. The mid-term exam will assess the learning outcome. The term project provides hands-on training on utilizing climate models to understand climate change and make informed decisions."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1093)",
+        "Date & Time": "Fr 12:00PM - 02:50PM",
+        "Room": "Rm 5506, Lift 25-26 (30)",
+        "Instructor": [
+          "SU, Hui"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct a research proposal in their research area.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1094)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 27,
+        "Avail": 53,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CIVL",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Design, develop and conduct a research proposal in their research area.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1095)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 160,
+        "Enrol": 152,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

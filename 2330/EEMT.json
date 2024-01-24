@@ -1,0 +1,185 @@
+[
+  {
+    "program": "EEMT",
+    "code": "5120",
+    "name": "Operation/Production Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course covers production planning, production system design, and production control.  Topics include MRP, JIT, forecasting techniques, inventory control, shop floor control and scheduling.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Define the role of Production/Operations Management in any organization.</td></tr><tr><td>2.</td><td>Recognize the importance of effective production and operations strategy to an organization.</td></tr><tr><td>3.</td><td>Identify key concepts and issues relevant to the production planning, and operations of manufacturing/service firms.</td></tr><tr><td>4.</td><td>Describe how JIT and MRP systems are used in managing operations.</td></tr><tr><td>5.</td><td>Apply mathematical forecasting techniques.</td></tr><tr><td>6.</td><td>Develop quantitative and qualitative skills for the analysis of the operations problems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1627)",
+        "Date & Time": "Mo 07:30PM - 10:20PM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "QIU, Xuan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "AESF": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
+          "EEM": {
+            "Quota": 85,
+            "Enrol": 0,
+            "Avail": 85
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EEMT",
+    "code": "5260",
+    "name": "Product Development Management",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course covers different aspects of product development management.  Topics include innovation management, techniques for idea generation, QFD for incorporation of customers' needs in product design, and organizing and managing the development team.  Projects and business plans will be carried out in the course.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Examine a variety of product-development related activities.</td></tr><tr><td>2.</td><td>Analyze key development processes and managerial tasks.</td></tr><tr><td>3.</td><td>Describe the user-centered design process for products and services.</td></tr><tr><td>4.</td><td>Protect product ideas and designs.</td></tr><tr><td>5.</td><td>Explore methods for systematic innovation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1628)",
+        "Date & Time": "Tu 07:30PM - 10:20PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "SO, Richard Hau Yue"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 3,
+        "Avail": 42,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EEM": {
+            "Quota": 45,
+            "Enrol": 0,
+            "Avail": 45
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EEMT",
+    "code": "5540",
+    "name": "IT for E-Commerce Applications",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "EEMT 6000D",
+      "description": "This course will introduce E-Commerce business models and some core functions that drive E-Commerce operations. The bulk of the course focuses on learning the foundations of these technologies and methods to develop IT applications to implement them. Starting with the basics of internet communication and security, we shall see how they apply to applications such as search, demand forecasting, and customer acquisition. The students will learn how to develop simple programs (in python) covering important techniques such as graph search, data processing and visualization via dimension reduction, regression, clustering and classification. Case studies will be used to introduce the real-world application of these tools.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe and differentiate between the types of E-Commerce models.</td></tr><tr><td>2.</td><td>Understand and implement web-based sessions and secure communications.</td></tr><tr><td>3.</td><td>Collect information from the internet via crawling.</td></tr><tr><td>4.</td><td>Implement basic analytical tools such as dimensionality reduction, regression, classification and clustering for E-Commerce applications.</td></tr><tr><td>5.</td><td>Identify basics of visualizations for data processing and communication.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1629)",
+        "Date & Time": "Th 07:30PM - 10:20PM",
+        "Room": "Rm 4619, Lift 31-32 (126)",
+        "Instructor": [
+          "JONEJA, Ajay"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EEM": {
+            "Quota": 80,
+            "Enrol": 0,
+            "Avail": 80
+          },
+          "MTLE": {
+            "Quota": 10,
+            "Enrol": 0,
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EEMT",
+    "code": "5560",
+    "name": "Integrated Business Solutions",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "ISOM 5420",
+      "previous code": "EEMT 6000F",
+      "description": "This course will use an integrated simulation game as a major learning tool to illustrate how strategic and operational decisions should be made in a competitive business environment. Students will learn to integrate and align key decisions in different business functions to simultaneously achieve a set of defined performance objectives of a company by evaluating decision alternatives and tradeoffs as well as optimizing the resource utilization.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Relate the business strategy and execution for a company in a competitive market.</td></tr><tr><td>2.</td><td>Monitor and evaluate the business results with proper performance measurement models and metrics, such as AHP, DEA, and SCOR, etc..</td></tr><tr><td>3.</td><td>Identify the strategic decisions to achieve higher returns and market dominance.</td></tr><tr><td>4.</td><td>Explain a broad spectrum of business concepts and business functions.</td></tr><tr><td>5.</td><td>Demonstrate how to run a business profitably through a simulation game.</td></tr><tr><td>6.</td><td>Explore and identify the cause and effect relationship between the drivers and business performance.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1630)",
+        "Date & Time": "Sa 03:00PM - 05:50PM",
+        "Room": "Rm 1005, LSK Bldg (70)",
+        "Instructor": [
+          "LAU, Ronald"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EEM": {
+            "Quota": 70,
+            "Enrol": 0,
+            "Avail": 70
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EEMT",
+    "code": "6900",
+    "name": "Independent Study",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "An Independent study carried under the supervision of a faculty member.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identity a research or industrial problem related to engineering management.</td></tr><tr><td>2.</td><td>Apply the knowledge learned through the program to analyze and solve the identified problem.</td></tr><tr><td>3.</td><td>Apply project management skills to finish a project independently. </td></tr><tr><td>4.</td><td>Demonstrate effective communication skills with the supervisor and scientific writing skills in the thesis.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4315)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 10,
+        "Enrol": 0,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "program": "HMMA",
+    "code": "5002",
+    "name": "Chinese Phonetics and Phonology",
+    "units": 3,
+    "info": {
+      "attributes": "[PU] Putonghua<br>[C] Require Chinese reading",
+      "vector": "[3-0-0:3]",
+      "exclusion": "HUMA 5160",
+      "description": "This course is an introduction to the study of sounds in Mandarin Chinese. The course will cover fundamental concepts in phonetics and phonology and compare the sounds of Mandarin with those of other languages. Other topics include: methodology, the typology, learning and evolution of sounds, the subgrouping of Chinese dialects, etc.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the characteristics of sounds in Mandarin and by extension to other languages with the learnt concepts.</td></tr><tr><td>2.</td><td>Apply various methods to the study of sounds in languages.</td></tr><tr><td>3.</td><td>Identify the rules governing sound change in languages.</td></tr></table>"
+    },
+    "attrs": [
+      {
+        "title": "[MEDI]",
+        "description": "Medium of Instruction"
+      },
+      {
+        "title": "[READ]",
+        "description": "Reading Material"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1266)",
+        "Date & Time": "Tu 09:00AM - 11:50AM",
+        "Room": "Rm 2126A, Lift 19 (28)",
+        "Instructor": [
+          "QIN, Zhen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "For MA(CC); MPhil/PhD(HUMA) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "HMMA",
+    "code": "5005",
+    "name": "Modern Chinese History",
+    "units": 3,
+    "info": {
+      "attributes": "[C] Require Chinese reading",
+      "vector": "[3-0-0:3]",
+      "description": "This course aims at exploring the political and social history of late Imperial and modern China from the 1800s to early 1940s. A selection of important political events and social phenomena are examined to broaden our knowledge of the late-Qing and Republican politics, society and economy as well as revealing the complexity of historical reality in this period.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify and understand the post-modernist discourse of historical narrative.</td></tr><tr><td>2.</td><td>Deconstruct the different historiographical traditions in official Chinese history in late-imperial and modern periods.</td></tr><tr><td>3.</td><td>Understand and describe how political persuasions are implanted into official/semi-official narratives of modern historical events.</td></tr><tr><td>4.</td><td>Analyze critically important political events such as the Opium War, Taiping Movement, Western invasion of China, warlordism, the emergence of Chinese nationalism, developments during the Nanjing Decade, the rise of the Chinese Communist Party, etc.</td></tr><tr><td>5.</td><td>Learn and apply the skills of presenting one's arguments in academic seminars and the techniques of writing a history paper properly.</td></tr></table>"
+    },
+    "attrs": [
+      {
+        "title": "[READ]",
+        "description": "Reading Material"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1267)",
+        "Date & Time": "Fr 06:00PM - 08:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "HO, Virgil Kit Yiu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 0,
+        "Avail": 35,
+        "Wait": 0,
+        "Remarks": [
+          "For MA(CC); MPhil/PhD(HUMA) students only"
+        ]
+      }
+    ]
+  }
+]

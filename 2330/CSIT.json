@@ -1,0 +1,333 @@
+[
+  {
+    "program": "CSIT",
+    "code": "5410",
+    "name": "Recognition Systems",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "It is getting easier and more and more common to install or use recognition systems in our daily lives and working environments, such as fingerprint recognition systems, face and iris recognition systems, car plate and vehicle recognition systems, industrial automation inspection systems, medical diagnosis and surgical planning systems, image search systems. This course aims to provide students with a sound background in the area of recognition systems. Tentative topics include various examples of recognition systems, and related techniques in image analysis, computer vision, and pattern recognition.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify concepts and techniques to recognize image features and patterns.</td></tr><tr><td>2.</td><td>Identify concepts and techniques to recognize different objects, e.g. iris, face, fingerprint, license plate and vehicle.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1620)",
+        "Date & Time": "Mo 07:30PM - 10:20PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "CHUNG, Albert Chi Shing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CSIT": {
+            "Quota": 83,
+            "Enrol": 0,
+            "Avail": 83
+          },
+          "BDT": {
+            "Quota": 7,
+            "Enrol": 0,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CSIT",
+    "code": "5710",
+    "name": "Cryptography and Cybersecurity",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "COMP 5631",
+      "description": "The design and analysis of encryption schemes, public-key cryptography, digital signatures, user authentication, data integrity, cryptographic protocols, public-key infrastructure, key management, systems security, network and Web security.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify cryptographic models and use them to capture problems in information technology.</td></tr><tr><td>2.</td><td>Apply and integrate security principles for solving security problems in information technology.</td></tr><tr><td>3.</td><td>Communicate effectively through assignment writing and project designing.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1621)",
+        "Date & Time": "Fr 07:30PM - 10:20PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "PAPADOPOULOS, Dimitris"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CSIT": {
+            "Quota": 83,
+            "Enrol": 0,
+            "Avail": 83
+          },
+          "BDT": {
+            "Quota": 7,
+            "Enrol": 0,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CSIT",
+    "code": "5920",
+    "name": "Financial Technology for Engineering Professionals",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "ISOM 5330, ISOM 5340",
+      "previous code": "CSIT 6000H",
+      "description": "Innovative computing technology has significantly changed the financial landscape in banking, insurance, gaming (gambling), investment and their respective regulatory frameworks. This course will give students new insights and solid understanding of how and why different IT infrastructure, technical designs and implementations are detrimental to success, and prepare the students for senior technology leadership positions in the banking, insurance, investment, IT audit, government/regulator, innovation and entrepreneurship areas. The course will cover the challenging FinTech issues in (i) IT strategy and governance, (ii) IT development and operations and (iii) the future data ecosystem. There will be class discussions and presentations on system design, flow analysis, modeling, POC (proof of concept), and MVP (minimal viable product) of various FinTech, lnsurTech and RegTech applications.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe FinTech and different business & finance model.</td></tr><tr><td>2.</td><td>Identify FinTech and different payment systems.</td></tr><tr><td>3.</td><td>Define digital identity, privacy and authenticity.</td></tr><tr><td>4.</td><td>Apply BlockChain/DLT to solve real-world problems.</td></tr><tr><td>5.</td><td>Recognize legal challenges and digital forensics in FinTech.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1622)",
+        "Date & Time": "Sa 02:30PM - 05:20PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "CHAN, Hilton Kwok Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CSIT": {
+            "Quota": 83,
+            "Enrol": 0,
+            "Avail": 83
+          },
+          "BDT": {
+            "Quota": 7,
+            "Enrol": 0,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CSIT",
+    "code": "5930",
+    "name": "Search Engines and Applications",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "CSIT 6000I",
+      "description": "Information retrieval techniques; document indexing, searching and ranking; search methods for web data, personalization, learning to rank; applications.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify the history, evolution, impacts and challenges of web-scale search engines.</td></tr><tr><td>2.</td><td>Define information retrieval models, document indexing, searching and ranking.</td></tr><tr><td>3.</td><td>Evaluate the performance of search algorithms using performance metrics.</td></tr><tr><td>4.</td><td>Develop programs to implement search engine functions and components.</td></tr><tr><td>5.</td><td>Design methods to apply machine learning to solve search problems.</td></tr><tr><td>6.</td><td>Apply search engine concepts to recommendation and summarization problems.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1623)",
+        "Date & Time": "We 07:30PM - 10:20PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "LEUNG, Wai Ting"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CSIT": {
+            "Quota": 83,
+            "Enrol": 0,
+            "Avail": 83
+          },
+          "BDT": {
+            "Quota": 7,
+            "Enrol": 0,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CSIT",
+    "code": "5970",
+    "name": "Advanced Cloud Computing",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "CSIT 6000O",
+      "description": "Cloud computing provides a fundamental infrastructure support for today's IT industry, including e-commerce, social network, web search, machine learning, and scientific computing. It enables ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources that can be rapidly provisioned and released with minimal management effort or service provider interaction. This course exposes students to both the theory and hands-on experience of cloud technology.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Describe the motivation, objectives, and architecture of cloud computing and big data systems.</td></tr><tr><td>2.</td><td>Identify the concepts and implementation techniques of virtualization.</td></tr><tr><td>3.</td><td>Identify the general architecture and the use of distributed storage systems.</td></tr><tr><td>4.</td><td>Identify the general architecture and programming model of MapReduce, Hadoop, and Spark.</td></tr><tr><td>5.</td><td>Write a MapReduce/Spark program with tens to hundreds of lines of code to solve common data analytics problems.</td></tr><tr><td>6.</td><td>Use software tools to develop and debug a program written in Hadoop and Spark.</td></tr><tr><td>7.</td><td>Identify the requirement of cluster management and container orchestration systems.</td></tr><tr><td>8.</td><td>Identify the benefits and implementation techniques of serverless computing.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1624)",
+        "Date & Time": "Th 07:30PM - 10:20PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "WANG, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CSIT": {
+            "Quota": 83,
+            "Enrol": 0,
+            "Avail": 83
+          },
+          "BDT": {
+            "Quota": 7,
+            "Enrol": 0,
+            "Avail": 7
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CSIT",
+    "code": "6000R",
+    "name": "Natural Language Processing",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course provides an introduction to machine learning algorithms for natural language processing and using programming tools such as Python to implement them for real problems. It will use some of the following practical problems such as text classification, information extraction, sequence modeling, text inference, QA system, etc. as illustrations to demonstrate the power of the learning algorithms. Course Prerequisites: Computer science: object-oriented programming and data structures, design and analysis of algorithms; Mathematics: multivariable calculus, linear algebra and matrix analysis, probability and statistics."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1625)",
+        "Date & Time": "Tu 07:30PM - 10:20PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "SONG, Yangqiu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CSIT": {
+            "Quota": 90,
+            "Enrol": 0,
+            "Avail": 90
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CSIT",
+    "code": "6000S",
+    "name": "Understanding Large Language Models",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Large language models (LLMs) have utterly transformed the field of natural language processing (NLP) in the last 3-4 years. The relevant foundation models form the basis of state-of-art systems and become ubiquitous in solving a wide range of generative tasks in computer vision, for instance. With the unprecedented potential capabilities, these models also give rise to new ethical and scalability challenges. This course aims to cover state-of-the-art research topics, starting with technical foundations (BERT, GPT, T5 models, mixture-of-expert models, retrieval-based models), emerging capabilities (knowledge, reasoning, few-shot learning, in-context learning), fine-tuning and adaptation, system design, as well as security and ethics. We will cover each topic and discuss important papers in depth. Students will be expected to routinely read and present research papers and complete a research project at the end. This is an advanced graduate course and all the students are expected to have taken machine learning and preferably NLP courses before and are familiar with deep learning models such as Transformers."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1626)",
+        "Date & Time": "Mo 07:30PM - 10:20PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "TANG, Chi Keung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "QuotaDetail": {
+          "CSIT": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CSIT",
+    "code": "6910A",
+    "name": "Independent Project",
+    "units": 3,
+    "info": {
+      "vector": "[0-0-0:3]",
+      "description": "An independent project carried out under the supervision of a faculty member. This course may be repeated for credit."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4313)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 90,
+        "Enrol": 0,
+        "Avail": 90,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CSIT",
+    "code": "6910D",
+    "name": "Independent Project",
+    "units": 3,
+    "info": {
+      "vector": "[0-0-0:3]",
+      "description": "An independent project carried out under the supervision of a faculty member. This course may be repeated for credit."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4314)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 0,
+        "Avail": 40,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  }
+]

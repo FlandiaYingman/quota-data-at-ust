@@ -1,0 +1,1631 @@
+[
+  {
+    "program": "MECH",
+    "code": "1905",
+    "name": "Buildings for Contemporary Living",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (S) for 30-credit program<br>Common Core (T) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "previous code": "CORE 1270",
+      "description": "This course introduces the applications of modern mechanical engineering technologies to buildings systems and how they relate to our livings. A wise design of building systems offers high convenience to the occupants. Building systems, such as structural design, water supply, safety and air conditioning are of high importance to maintain a satisfying temperature, humidity, lighting and indoor air quality for comfortable living and efficient working. The course introduces the latest trend of building design, such as intelligent, and green buildings, micro sensors, Internet of Things (IoTs), VR/AR and metaverse and AI and how to maintain the sustainability and efficiency of the whole building in terms of building duration, energy and operation. The aim of the course is to provide students fundamental understanding and latest case studies on the current technologies for attaining contemporary living, and the difficulties we are facing that we may be ready for future challenges."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3539)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "LEE, Yi-Kuen"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 130,
+        "Enrol": 0,
+        "Avail": 130,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "1906",
+    "name": "Mechanical Engineering for Modern Life",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program",
+      "description": "Mechanical Engineering covers the broadest range of engineering amongst all related disciplines. In addition to the production of modern products useful in daily life, it is also associated with power generation and distribution, as well as new materials development. These will be used to explain mechanical engineering principles and their usage in product design and manufacture. Contents include Engineering Materials, Solid Mechanics and Structural Design, Renewable Energy, Indoor Environmental Quality, Smart Green Building, Energy Design, Sensors and Instrumentation, Robots and Controls, together with MEMS and LED Fabrication. First year students are preferred."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3540)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "TAO, Hong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 29,
+        "Avail": 71,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "1990",
+    "name": "Industrial Training",
+    "units": 0,
+    "info": {
+      "description": "A practical training course in an industrial simulated environment. For students of the Mechanical and Aerospace Engineering Department only. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2902)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 114,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "2040",
+    "name": "Solid Mechanics I",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MECH 2020",
+      "exclusion": "CIVL 2120",
+      "description": "Forces, moments, equilibrium; principles of virtual work; analysis of structural members under axial load, torsion and bending; shear force and bending moment diagrams; statically indeterminate trusses; buckling and structural stability."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3541)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "YE, Wenjing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 52,
+        "Enrol": 47,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3542)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 6573, Lift 29-30 (88)",
+        "Instructor": [
+          "CHEN, Yangyang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 52,
+        "Enrol": 44,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3543)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 2502, Lift 25-26 (120)",
+        "Instructor": [
+          "CHEN, Yangyang",
+          "YE, Wenjing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 104,
+        "Enrol": 91,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "2210",
+    "name": "Fluid Mechanics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(MATH 2011 OR MATH 2023) AND MECH 2310",
+      "exclusion": "CENG 2220, CIVL 2510, MATH 4326",
+      "description": "Fundamental concepts; hydrostatics; integral and differential equations of fluid flows; conservation of mass, momentum and energy; dimensional analysis; pipe flow; channel flow and boundary layers."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3544)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "LI, Zhigang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 52,
+        "Enrol": 42,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3546)",
+        "Date & Time": "MoWe 12:00PM - 01:20PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "FU, Lin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 52,
+        "Enrol": 42,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3548)",
+        "Date & Time": "Mo 12:00PM - 12:50PM",
+        "Room": "Multi-function Room, LG4, LIB",
+        "Instructor": [
+          "LI, Zhigang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 52,
+        "Enrol": 42,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3550)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Lecture Theater H (72)",
+        "Instructor": [
+          "FU, Lin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 52,
+        "Enrol": 42,
+        "Avail": 10,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "2410",
+    "name": "Engineering Materials I",
+    "units": 3,
+    "info": {
+      "exclusion": "PHYS 3040",
+      "description": "Atomic bonding of materials; crystal structure and defects; mechanical properties of materials; phase diagrams and phase transformations; heat treatment of metals; processing and applications of metallic materials."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3551)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Instructor": [
+          "CHEN, Sherry"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 43,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (3553)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "ZHANG, Tianlong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 46,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3558)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 2407, Lift 17-18 (126)",
+        "Instructor": [
+          "CHEN, Sherry"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 43,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T2 (3560)",
+        "Date & Time": "Th 03:30PM - 04:20PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "ZHANG, Tianlong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 46,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3555)",
+        "Date & Time": "We 10:30AM - 11:50AM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "CHEN, Sherry"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 43,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (3557)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "ZHANG, Tianlong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 46,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "2520",
+    "name": "Design and Manufacturing I",
+    "units": 3,
+    "info": {
+      "description": "Introduction to the engineering design process and engineering graphics; design specification, concept generation, and concept evaluation; geometric construction, sketching, orthographic projection, auxillary views, sectioning, dimensioning, tolerancing, and working drawing. For students under the four-year degree only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3561)",
+        "Date & Time": "Fr 12:00PM - 01:20PM",
+        "Room": "Rm 2306, Lift 17-18 (111)",
+        "Instructor": [
+          "DUAN, Molong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 92,
+        "Enrol": 70,
+        "Avail": 22,
+        "Wait": 0,
+        "QuotaDetail": {
+          "MECH": {
+            "Quota": 23,
+            "Enrol": 1,
+            "Avail": 22
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3563)",
+        "Date & Time": "We 09:00AM - 10:20AM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "DUAN, Molong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 23,
+        "Enrol": 18,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (3565)",
+        "Date & Time": "Mo 04:30PM - 05:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "DUAN, Molong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 23,
+        "Enrol": 18,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (3566)",
+        "Date & Time": "Tu 03:00PM - 04:20PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "DUAN, Molong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 23,
+        "Enrol": 17,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA4 (3567)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "DUAN, Molong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 23,
+        "Enrol": 17,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "3510",
+    "name": "CAD/CAM",
+    "units": 3,
+    "info": {
+      "description": "Geometric modeling systems, data structures, NC technology, NC machining, project."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3568)",
+        "Date & Time": "We 11:30AM - 01:20PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "LU, Yanglong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3569)",
+        "Date & Time": "Mo 09:00AM - 11:50AM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "LU, Yanglong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "3620",
+    "name": "Aircraft Design",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MECH 1907 AND MECH 3640 AND MECH 3650",
+      "co-requisite": "MECH 3660 AND MECH 3670",
+      "description": "Students will work in teams to develop a conceptual design for a complete flight vehicle, using knowledge and skills acquired in the Aerospace Engineering Major curriculum. Specific considerations will include market conditions, mission requirements, aircraft size and layout, airfoil/wing geometry, aerodynamics, engine selection, airframe-engine integration, fuselage design, electrical and hydraulic systems, landing gear arrangement, flight stability and control, structures and materials, avionics and navigation systems, human factors, safety, manufacturing processes, and cost analysis. The teams will present their proposed designs via oral presentations and written reports."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3570)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "LIEM, Rhea Patricia"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 25,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3571)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "LIEM, Rhea Patricia"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 25,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "3630",
+    "name": "Electrical Technology",
+    "units": 3,
+    "info": {
+      "description": "Electromagnetic circuits, transformers, electromechanical energy conversion, DC machines, asynchronous and synchronous machines, special machines, transients and dynamics, three-phase circuits and power electronics, applications in electrical building services."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3572)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "GAO, Yongsheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 98,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3574)",
+        "Date & Time": "We 10:30AM - 11:20AM",
+        "Room": "Rm 4620, Lift 31-32 (126)",
+        "Instructor": [
+          "GAO, Yongsheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 98,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3573)",
+        "Date & Time": "Tu 10:30AM - 11:20AM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "GAO, Yongsheng"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 98,
+        "Avail": 22,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "3660",
+    "name": "Gas Turbines and Jet Propulsion",
+    "units": 3,
+    "info": {
+      "pre-requisite": "(MATH 2111 OR MATH 2350 OR MATH 2351) AND MECH 3640",
+      "description": "Rotating machinery, turbojet, compressor blades, turbine blades, combustion, high temperature material, high by‐pass fan jet, rocket. For science and engineering students in their second year of study or above."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3575)",
+        "Date & Time": "TuTh 09:00AM - 10:20AM",
+        "Room": "Rm 4504, Lift 25-26 (54)",
+        "Instructor": [
+          "ZHANG, Xin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 26,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3576)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "ZHANG, Xin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 26,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "3680",
+    "name": "Avionics Systems",
+    "units": 3,
+    "info": {
+      "pre-requisite": "ELEC 2420 AND (COMP 1021 OR COMP 1022P OR COMP 1022Q (prior to 2020-21) OR COMP 2011)",
+      "description": "This course covers avionic systems and communications, including analog and digital systems, aviation bands and frequencies, satellite and aircraft communications, selective calling, emergency locator transmitter, omni-directional range, instrument and microwave landing systems, and automatic direction finder. Other relevant topics may also be discussed in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3577)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 2302, Lift 17-18 (74)",
+        "Instructor": [
+          "YU, Hongyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3578)",
+        "Date & Time": "Fr 05:00PM - 05:50PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "YU, Hongyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 36,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "3690",
+    "name": "Aerospace Engineering Laboratory",
+    "units": 3,
+    "info": {
+      "co-requisite": "LANG 4034 AND (MECH 3640 OR MECH 3650 OR MECH 3660 OR MECH 3670 OR MECH 3680)",
+      "description": "Fundamentals of instrumentation and measurement and their application in engineering testing and experimentation. Focuses primarily on application of the fundamental principles learned in MECH 3640, MECH 3650, MECH 3660, MECH 3670 and MECH 3680 to more advanced test and measurement applications. Includes principles of analog and digital data acquisition, analysis of discrete measurement data, statistical assessment of hypotheses, design of experiments, and similarity scaling of data. For AE students only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3579)",
+        "Date & Time": "Fr 03:00PM - 04:50PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "REDONNET, Stephane"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 32,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3581)",
+        "Date & Time": "We 01:30PM - 04:20PM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "REDONNET, Stephane"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 22,
+        "Enrol": 16,
+        "Avail": 6,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (3583)",
+        "Date & Time": "Fr 09:00AM - 11:50AM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "REDONNET, Stephane"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 23,
+        "Enrol": 16,
+        "Avail": 7,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "3830",
+    "name": "Laboratory",
+    "units": 3,
+    "info": {
+      "attributes": "[BLD] Blended learning",
+      "co-requisite": "LANG 4034",
+      "description": "Introductory laboratory course to provide training in experimental techniques and laboratory procedures, data acquisition, analysis and presentation."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3584)",
+        "Date & Time": "Mo 04:00PM - 05:50PM",
+        "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "CHEN, Qing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 104,
+        "Enrol": 85,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode"
+        ]
+      },
+      {
+        "Section": "LA1 (3586)",
+        "Date & Time": "We 04:30PM - 07:20PM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "CHEN, Qing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 26,
+        "Enrol": 21,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (3588)",
+        "Date & Time": "Tu 05:00PM - 07:50PM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "CHEN, Qing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 26,
+        "Enrol": 21,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (3589)",
+        "Date & Time": "Mo 09:00AM - 11:50AM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "CHEN, Qing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 26,
+        "Enrol": 21,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA4 (3590)",
+        "Date & Time": "Th 04:30PM - 07:20PM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "CHEN, Qing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 26,
+        "Enrol": 22,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "3907",
+    "name": "Mechatronic Design and Prototyping",
+    "units": 3,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "pre-requisite": "MECH 2520",
+      "previous code": "MECH 2907",
+      "description": "This is an extended version of industrial training designed for MAE students. The course's aim is to broaden the professional and engineering interests of students by enhancing their practicum/team-based experience through initiatives different from those of traditional lectures and tutorials. The training is project-based to develop the students' knowledge/experience in designing and building a practical mechatronics system (formerly called Industrial Training). Students will work in teams to identify the needs for their designed prototype. Also, students will be given the opportunity to design and build various mechatronics components including electronic circuits, motors, sensors, etc. from CAD drawings, and practise their engineering knowledge through all laboratory sessions. The main goal is to develop and nurture skills in problem-solving, communication, interpersonal interaction, project and time management, etc. via the entire project."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3593)",
+        "Date & Time": "31-JAN-2024 - 24-FEB-2024<br>Mo 12:00PM - 12:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 26,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode"
+        ]
+      },
+      {
+        "Section": "L1 (3593)",
+        "Date & Time": "26-FEB-2024 - 10-MAY-2024<br>Mo 12:00PM - 12:50PM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 26,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode"
+        ]
+      },
+      {
+        "Section": "L2 (3595)",
+        "Date & Time": "31-JAN-2024 - 24-FEB-2024<br>Th 09:00AM - 09:50AM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 27,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode"
+        ]
+      },
+      {
+        "Section": "L2 (3595)",
+        "Date & Time": "26-FEB-2024 - 10-MAY-2024<br>Th 09:00AM - 09:50AM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 27,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode"
+        ]
+      },
+      {
+        "Section": "L3 (3597)",
+        "Date & Time": "31-JAN-2024 - 24-FEB-2024<br>Fr 02:00PM - 02:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 27,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode"
+        ]
+      },
+      {
+        "Section": "L3 (3597)",
+        "Date & Time": "26-FEB-2024 - 10-MAY-2024<br>Fr 02:00PM - 02:50PM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 27,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode"
+        ]
+      },
+      {
+        "Section": "LA1 (3535)",
+        "Date & Time": "31-JAN-2024 - 24-FEB-2024<br>Mo 01:00PM - 03:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 26,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3535)",
+        "Date & Time": "26-FEB-2024 - 10-MAY-2024<br>Mo 01:00PM - 03:50PM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 26,
+        "Avail": 9,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (3537)",
+        "Date & Time": "31-JAN-2024 - 24-FEB-2024<br>Th 10:00AM - 12:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 27,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (3537)",
+        "Date & Time": "26-FEB-2024 - 10-MAY-2024<br>Th 10:00AM - 12:50PM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 27,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (3538)",
+        "Date & Time": "31-JAN-2024 - 24-FEB-2024<br>Fr 03:00PM - 05:50PM",
+        "Room": "Rm 4225C, Lift 23, 24",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 27,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA3 (3538)",
+        "Date & Time": "26-FEB-2024 - 10-MAY-2024<br>Fr 03:00PM - 05:50PM",
+        "Room": "Rm 2136, Lift 22",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 27,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "4000P",
+    "name": "AI in Mechanical Engineering",
+    "units": 3,
+    "info": {
+      "pre-requisite": "COMP 1021 OR COMP 1022P OR COMP 2011 OR COMP 2012H",
+      "description": "This course delves into the integration of Artificial Intelligence (AI) principles and technologies within Mechanical Engineering, beginning with an introduction to AI to establish a foundational understanding of its role in contemporary engineering solutions. With the help of the instructor, students will first explore three pivotal areas: Dimensionality Reduction and Transforms: Techniques like Singular Value Decomposition and Fourier Transforms are taught to enable the simplification of complex data, facilitating more straightforward analysis and engineering application. Machine Learning and Data Analysis: Students will gain critical machine learning skills, including regression and clustering, tailored for mechanical engineering challenges such as predictive maintenance and system design optimization. Dynamics and Control: The course underscores the application of data-driven methods in dynamics and control, equipping students to improve mechanical system performance and efficiency through AI strategies."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4152)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "4340",
+    "name": "Air Conditioning Systems",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MECH 3310",
+      "description": "Introduction of heating, ventilating and air conditioning (HVAC) systems, moist air properties, heat transmission in building structures, solar radiation, air conditioning cooling load and heating load calculation, air distribution system design, indoor air quality, economic analysis, alternative cooling systems."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3599)",
+        "Date & Time": "TuTh 12:00PM - 01:20PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
+        "Instructor": [
+          "TAO, Hong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 2,
+        "Avail": 43,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3601)",
+        "Date & Time": "Fr 12:30PM - 01:20PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "TAO, Hong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 2,
+        "Avail": 43,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (3600)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TAO, Hong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 2,
+        "Avail": 43,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "4350",
+    "name": "Indoor Air Quality in Buildings",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MECH 2310",
+      "exclusion": "IBTM 5430, JEVE 5350",
+      "description": "Indoor air pollutants in buildings and their transport dynamics with respect to building ventilation systems.  Design methodology in handling indoor air quality in buildings and enclosed spaces.  Building environmental assessment method."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3602)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "ZHENG, Qiye"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 1,
+        "Avail": 44,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "4710",
+    "name": "Introduction to Robotics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MECH 2020",
+      "description": "Rigid body motion, forward and inverse kinematics, manipulator Jacobians, force relation, dynamics and position control robot manipulators, force control and trajectory generation, collision avoidance and motion planning, robot programming languages."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3603)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 2404, Lift 17-18 (81)",
+        "Instructor": [
+          "CAI, Lilong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 8,
+        "Avail": 37,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "4830",
+    "name": "Introduction to Aerospace Computational Fluid Dynamics (CFD)",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MECH 3640",
+      "description": "This course introduces students to computational fluid dynamics (CFD) relevant to aerospace engineering. Students should be familiar with multivariate calculus and linear algebra, preferably with some experience with MATLAB or PYTHON. Topics include the governing equations of fluid flows, the use of applied mathematics to solve partial differential equations, and their implementation into a computational framework. Students will learn how to perform CFD simulations and post-process data to extract meaningful physics and insight for flows relevant to aerospace engineering. The course offers hands-on CFD laboratories focusing on laminar and turbulent, as well as steady and unsteady, flows over airfoils/wings. For minor (AE); or MECH and AE students in their third year of study or above."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3605)",
+        "Date & Time": "Fr 09:00AM - 11:50AM",
+        "Room": "Rm 1033, LSK Bldg (51)",
+        "Instructor": [
+          "LI, Larry"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 6,
+        "Avail": 39,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "4890",
+    "name": "Introduction to Nanosatellite Engineering",
+    "units": 3,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "pre-requisite": "MATH 2011 AND (MATH 2111 OR MATH 2350 OR MATH 2351) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)",
+      "previous code": "MECH 4000I",
+      "description": "This course will introduce the fundamental concepts of CubeSat. In this experiential course, a number of labs have been prepared with a different focus on orbits dynamics, analysis of control and thermal subsystems. Every student should finish fundamental labs individually, and organize in groups to work on an advanced design topic. The course shall offer students with both hands-on experience software simulation and hardware implementation. The topics in this course are introduced with mathematical derivations and case studies. After taking this course, students are expected to acquire an understanding of  the fundamentals of satellite engineering and more importantly a common sense in technical and managerial aspects of engineering design projects with focus on aerospace applications."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (3606)",
+        "Date & Time": "Th 10:30AM - 11:50AM",
+        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Instructor": [
+          "SHI, Fan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode"
+        ]
+      },
+      {
+        "Section": "LA1 (3607)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "SHI, Fan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "4900",
+    "name": "Final Year Design Project",
+    "units": 6,
+    "info": {
+      "exclusion": "MECH 4950",
+      "description": "A one-year project course offers practice of engineering design through a group design project chosen to integrate materials covered in the curriculum. Each student will be assigned a component of a large project which may be sponsored by industry. Credit load will be spread over the year."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (3608)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 56,
+        "Enrol": 56,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "4912",
+    "name": "Green Technologies for Buildings, Energy and Water",
+    "units": 3,
+    "info": {
+      "pre-requisite": "MECH 3300 OR MECH 3310 OR CENG 3220",
+      "description": "This course introduces principles and technologies for sustainable and traditional cooling technologies for buildings, sustainable energy conversion, water desalination and purification. The first part discusses cooling techniques for building including the traditional air conditioner and sustainable solar driven cooling technologies for buildings. The second part discusses solar to thermal and chemical energy conversion technologies including solar collecting and concentrating technologies including solar collecting and concentrating technology, photovoltaic cells and solar thermophotovoltaics. The last part will focus on the water harvesting technologies which include water desalination and purification."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (3609)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "ZHOU, Simen, Y."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (3610)",
+        "Date & Time": "Fr 04:30PM - 05:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "ZHOU, Simen, Y."
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 45,
+        "Enrol": 0,
+        "Avail": 45,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "4950",
+    "name": "Co-op Program",
+    "units": 6,
+    "info": {
+      "description": "This course is intended to provide final year UG students with practical hands-on training in the form of a co-op program in an engineering company located in Hong Kong or China. Students must obtain approval from the UG Coordinator before enrolling in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (3611)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 25,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "4980",
+    "name": "Final Year Aerospace Design Project",
+    "units": 6,
+    "info": {
+      "exclusion": "MECH 4950",
+      "description": "A one-year Design project offers practice of aircraft design for the modern aerospace industry. Students will gain an overview of how to manage a design team and will also gain skills in carrying out detailed design problems. The course will cover design requirements; conceptual design methodology developed and applied incorporating center of gravity, inertias, structural layout, materials, propulsion integration, stability and control, vehicle sizing, performance, and acquisition\r\ncosts; sources of information for aircraft design; configuration design: performance, weight and balance, propulsion; aerodynamic design: lift, drag and control; structural design: loads, materials; philosophies of design and analysis; system design: requirements and specification; system design procedures; systems integration. For AE students in their fourth year of study only. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (3612)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 33,
+        "Enrol": 33,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "5230",
+    "name": "Computational Fluid Dynamics and Heat Transfer",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "MECH 2210 or equivalent AND MECH 3310 or equivalent",
+      "description": "Numerical simulation of viscous incompressible flows and heat transfer; finite-difference and finite element methods; accuracy and stability; grid generation; stream function and primitive-variable formulations; application to internal, external flows, diffusion, convection, and dispersion problems.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify and formulate problems in multidisciplinary environment with an understanding of basic mechanism and constraints.</td></tr><tr><td>2.</td><td>Apply numerical tools and programming skills to solve fluid dynamic and heat transfer related problems.</td></tr><tr><td>3.</td><td>Develop numerical methods adapt to practical applications.</td></tr><tr><td>4.</td><td>Apply knowledge of mathematics, science, and engineering for problem solving.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1461)",
+        "Date & Time": "Mo 06:30PM - 09:20PM",
+        "Room": "Rm 5506, Lift 25-26 (30)",
+        "Instructor": [
+          "YAO, Shuhuai"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "5320",
+    "name": "Convective Heat and Mass Transfer",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "MECH 5210",
+      "description": "Laminar and turbulent boundary layer heat transfer by similarity, integral and superposition methods; effects of roughness, curvature, transpiration and high turbulence; forced and free convections, free-shear flows and buoyant flows; numerical methods.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identifiy fundamental quantities in convective heat and mass transfer.</td></tr><tr><td>2.</td><td>Identifiy fundamental quantities in convective heat and mass transfer.</td></tr><tr><td>3.</td><td>Implement the differentiial and integral methods in solving problems in convective and heat mass transfer.</td></tr><tr><td>4.</td><td>Analyse problems using dimension analysis and scale analysis.</td></tr><tr><td>5.</td><td>Evaluate different approaches in enhancing heat and mass transfer.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1462)",
+        "Date & Time": "Tu 03:00PM - 05:50PM",
+        "Room": "G002, CYT Bldg (30)",
+        "Instructor": [
+          "HUANG, Baoling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "5410",
+    "name": "Advanced Mechanical Behavior of Materials",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "AESF 5410, MESF 5410",
+      "description": "Relationships between microstructure and mechanical behavior in crystalline materials; temperature-dependent deformation in elasticity, viscosity and creep; embrittlement, fatigue and fracture of engineering materials; strengthening mechanisms in crystalline materials.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Capacity to model the behaviors of solids subjected to stresses.</td></tr><tr><td>2.</td><td>Ability to calculate the elastic and plastic deformations of solids under stresses.</td></tr><tr><td>3.</td><td>Capacity to relate the macroscopic mechanical properties and the microscopic mechanisms of solids.</td></tr><tr><td>4.</td><td>Ability to analyze the strengthening, fracture and fatigue phenomena of solids.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1463)",
+        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "ZHANG, Tianlong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "5561",
+    "name": "Robot Manipulation",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "ELEC 5640",
+      "co-list with": "ELEC 5640",
+      "previous code": "MECH 6910M",
+      "description": "Extensive introduction to robot manipulation theory from a geometric viewpoint. Rigid-body kinematics; spatial and body representation of rigid-body velocities; coordinate transformations; forward kinematics of open-chain manipulators; solution of inverse kinematics; robot workspaces; nonlinear decoupling control and force control.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the fundamentals of robot mechanics.</td></tr><tr><td>2.</td><td>Explain the basics of robotic planning and control.</td></tr><tr><td>3.</td><td>Implement robotic solutions on real robot platforms.</td></tr><tr><td>4.</td><td>Advance technical writing and presentation skills.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1464)",
+        "Date & Time": "Tu 06:30PM - 09:20PM",
+        "Room": "Rm 4579, Lift 27-28 (60)",
+        "Instructor": [
+          "ZHANG, Fumin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "5931",
+    "name": "Introduction to Mechanics of Defects in Materials",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "MECH 2040 AND MECH 5010",
+      "previous code": "MECH 6910H",
+      "description": "This course presents a brief integrated view on the roles of defects in mechanical behavior of materials. The basic concepts, equations and methods used in the analysis of defects by continuum mechanics and thermodynamics approaches are introduced in the course. The important roles of defects such as cracks, dislocations, second phase inclusions, grain- and phase-boundaries in behavior of materials are described intensively with illustrative examples.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain basic physics ideas, assumptions, approaches and skills in quantifying the roles of defects in mechanical behavior of materials.</td></tr><tr><td>2.</td><td>Describe basic principles used in the analysis of defects and physical pictures of the roles of defects.</td></tr><tr><td>3.</td><td>Discuss the roles of defects in mechanical properties of materials.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1465)",
+        "Date & Time": "Th 06:30PM - 09:20PM",
+        "Room": "Rm 5506, Lift 25-26 (30)",
+        "Instructor": [
+          "SUN, Qingping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "5980",
+    "name": "Processes in Manufacturing Systems",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "MECH 6910F",
+      "description": "Valued added processing in manufacturing systems is covered in the course. Emphasis is placed on how each process works to convert materials into shapes with the desired properties, and its relative advantages and disadvantages. Fundamental processes for metals, ceramics, polymers, composites and new processes including 3D printing methods are covered. In addition, inspection methods inclusion non-destructive examination methods, manufacturing automation; robotics; process control and quality control are covered.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain the fundamental science underlying processing and manufacturing methods.</td></tr><tr><td>2.</td><td>Identify the engineering factors controlling properties.</td></tr><tr><td>3.</td><td>Explain the role of quality control in manufacturing processes.</td></tr><tr><td>4.</td><td>Implement engineering changes on the processing to obtain desired structure.</td></tr><tr><td>5.</td><td>Implement engineering changes on the processing to obtain desired properties.</td></tr><tr><td>6.</td><td>Apply statistical tools to control manufacturing quality.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1466)",
+        "Date & Time": "We 04:30PM - 07:20PM",
+        "Room": "Rm 5506, Lift 25-26 (30)",
+        "Instructor": [
+          "LAM, David"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "6090Z",
+    "name": "Seminar in Mechanical Engineering",
+    "units": 0,
+    "info": {
+      "vector": "[1-0-0:0]",
+      "description": "Technical seminars in various disciplines of mechanical engineering; presentations are given by students, faculty, or guest speakers. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1467)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEN, Qing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 120,
+        "Enrol": 0,
+        "Avail": 120,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "6910U",
+    "name": "Sustainable Engineering and Energy",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "What business can generate long-term profit? What is the most important topic in this era? What are the most critical challenges to our human society? All these go to sustainability. The rise of solar power, the surge in popularity of electric cars, and the debates surrounding genetically modified food are all indicative of the complex and interrelated issues we face today. Extreme weather events and the ever-pressing threat of climate change further compound the urgency of our situation.  This course aims to equip you with the necessary tools to address these challenges. We will introduce and elucidate the fundamental design concepts, methods, tools, and technologies associated with lean and green manufacturing systems, supply chains, and green energy. It will also encompass the evaluation, design, and maintenance of environmentally friendly products, processes, services, and policies."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1468)",
+        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "YANG, Zhengbao"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 2,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "6950C",
+    "name": "Independent Studies",
+    "units": 1,
+    "info": {
+      "vector": "[1 credit]",
+      "previous code": "MECH 695C",
+      "description": "An independent research project carried out under the supervision of a faculty member. (Only one independent studies course may be used to satisfy the course requirements for any postgraduate program in the Department of Mechanical Engineering.)"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4300)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 1,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Critically apply theories, methodologies, and knowledge to address questions in Mechanical engineering.</td></tr><tr><td>2.</td><td>Pursue recognized research in Mechanical engineering through an independent research project.</td></tr><tr><td>3.</td><td>Write publishable peer-reviewed research and communicate orally the research outcomes.</td></tr><tr><td>4.</td><td>Master advanced Mechanical engineering skillset at an international level.</td></tr><tr><td>5.</td><td>Work collaboratively and productively with team members and leaders with integrity and professionalism.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1469)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 16,
+        "Avail": 24,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MECH",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass. No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Critically apply theories, methodologies, and knowledge to address fundamental and impactful questions in Mechanical engineering.</td></tr><tr><td>2.</td><td>Pursue internationally recognized research in Mechanical engineering by planning and conducting an independent research project under the mentorship of a research advisor.</td></tr><tr><td>3.</td><td>Write publishable peer-reviewed research and communicate orally the research outcomes demonstrating knowledge of the field and mastery of the most advanced methodologies.</td></tr><tr><td>4.</td><td>Demonstrate a mastery of technical skills required in Mechanical engineering at the highest international standard.</td></tr><tr><td>5.</td><td>Work collaboratively and productively with team members and leaders with integrity and professionalism.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1470)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 180,
+        "Enrol": 161,
+        "Avail": 19,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

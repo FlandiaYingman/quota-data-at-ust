@@ -1,0 +1,897 @@
+[
+  {
+    "program": "CENG",
+    "code": "1500",
+    "name": "A First Course on Materials Science and Applications",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program",
+      "exclusion": "MECH 2410, PHYS 3040",
+      "description": "The scope of this course is to introduce different categories of materials and to elucidate their applications. We will start from the basic concepts of matter to the basic structures at molecular scale, and then to the science and engineering of materials. The focus of the course is the structure/property relationship. The principles for designing and developing useful materials for special applications will be discussed."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1773)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "NYEIN, Hnin Yin Yin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 37,
+        "Avail": 113,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1773)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Lecture Theater D (216)",
+        "Instructor": [
+          "NYEIN, Hnin Yin Yin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 37,
+        "Avail": 113,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1774)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Lecture Theater C (211)",
+        "Instructor": [
+          "NYEIN, Hnin Yin Yin"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 150,
+        "Enrol": 37,
+        "Avail": 113,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "1800",
+    "name": "Introduction to Food Science and Technology",
+    "units": 3,
+    "info": {
+      "attributes": "Common Core (S&T) for 36-credit program<br>Common Core (SSC-S&T) for 36-credit program<br>Common Core (S) for 30-credit program<br>Common Core (T) for 30-credit program",
+      "pre-requisite": "a passing letter grade in LANG 1401 OR LANG 1402 OR LANG 1403 OR LANG 1404 OR LANG 1002 (prior to 2022-23)",
+      "previous code": "CORE 1212",
+      "description": "This course aims to provide students with fundamental knowledge of food science (chemistry, nutrition, microbiology, etc.) and safety issues for daily consumption, and preliminary perspective for further exploration on food processing technologies. This course also emphasizes critical thinking skills, helps students to tell the truth/myth of healthy products, food additives, and genetically modified foods, and make a wise judgement for food consumption."
+    },
+    "attrs": [
+      {
+        "title": "[4Y]",
+        "description": "Students admitted before 2022"
+      },
+      {
+        "title": "[CC22]",
+        "description": "Students admitted from 2022"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1775)",
+        "Date & Time": "Tu 04:30PM - 05:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 64,
+        "Enrol": 0,
+        "Avail": 64,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1780)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "G009B, CYT Bldg (70)",
+        "Instructor": [
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 64,
+        "Enrol": 0,
+        "Avail": 64,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1777)",
+        "Date & Time": "We 10:30AM - 11:50AM",
+        "Room": "Rm 2007, CYT Bldg",
+        "Instructor": [
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 32,
+        "Enrol": 0,
+        "Avail": 32,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA2 (1779)",
+        "Date & Time": "We 01:30PM - 02:50PM",
+        "Room": "Rm 2007, CYT Bldg",
+        "Instructor": [
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 32,
+        "Enrol": 0,
+        "Avail": 32,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "1980",
+    "name": "Industrial Training",
+    "units": 0,
+    "info": {
+      "description": "A practical training course in an industrial simulated environment. For students of the Chemical and Biological Engineering Department only. Graded P, PP or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (2899)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 18,
+        "Avail": 42,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "2210",
+    "name": "Chemical and Biological Engineering Thermodynamics",
+    "units": 3,
+    "info": {
+      "attributes": "[BLD] Blended learning",
+      "pre-requisite": "(MATH 1014 OR MATH 1020 OR MATH 1024) AND (PHYS 1111 OR PHYS 1112 OR PHYS 1312)",
+      "co-requisite": "CHEM 1010 OR CHEM 1020",
+      "description": "First law of thermodynamics for closed and open systems, enthalpy and the energy equation. PVT data and thermodynamic properties, methods for their estimation, phase equilibria. Second and third laws of thermodynamics, entropy and the Carnot engine. Examples from chemical and biological processes."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "L1 (1782)",
+        "Date & Time": "TuTh 04:30PM - 05:50PM",
+        "Room": "Rm 5620, Lift 31-32 (70)",
+        "Instructor": [
+          "ZHU, Bonnie Danqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 42,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode"
+        ]
+      },
+      {
+        "Section": "T1 (1783)",
+        "Date & Time": "Tu 06:00PM - 06:50PM",
+        "Room": "Rm 5620, Lift 31-32 (70)",
+        "Instructor": [
+          "ZHU, Bonnie Danqing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 42,
+        "Avail": 28,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "2220",
+    "name": "Transport Phenomena I",
+    "units": 3,
+    "info": {
+      "pre-requisite": "PHYS 1111 OR PHYS 1112 OR PHYS 1312",
+      "exclusion": "MECH 2210",
+      "description": "Fundamentals of transport phenomena with emphasis on physical properties, flow behavior and diffusive transport of fluids in chemical and biological systems. Engineering derivation and quantitative analysis of fluid transport in confined domains. Emphasis on practical application of transport phenomena in chemical and biological engineering. Use of software for solving problems in transport phenomena."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1784)",
+        "Date & Time": "WeFr 03:00PM - 04:20PM",
+        "Room": "Rm 2503, Lift 25-26 (87)",
+        "Instructor": [
+          "HSING, I-ming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 44,
+        "Avail": 41,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1785)",
+        "Date & Time": "We 06:00PM - 06:50PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "HSING, I-ming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 85,
+        "Enrol": 44,
+        "Avail": 41,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "3110",
+    "name": "Process Dynamics and Control",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CENG 2110",
+      "exclusion": "ELEC 3200, MECH 3610",
+      "previous code": "CENG 4120",
+      "description": "Basic concepts, mathematical model, transfer function. Dynamics of first - and higher-order systems. Feedback control, controller tuning, frequency response methods. Cascade control, feedforward and ratio control. Introduction to computer control and multi-variable control. Control and instrumentation hardware."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1786)",
+        "Date & Time": "TuTh 03:00PM - 04:20PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "GAO, Furong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 20,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T1 (1787)",
+        "Date & Time": "We 12:00PM - 12:50PM",
+        "Room": "Rm 1409, Lift 25-26 (60)",
+        "Instructor": [
+          "GAO, Furong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 40,
+        "Enrol": 20,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "3150",
+    "name": "Integrated Chemical Process and Product Design",
+    "units": 5,
+    "info": {
+      "attributes": "[EXP] Experiential learning",
+      "pre-requisite": "CENG 2110",
+      "description": "Conceptual design of chemical processes and products. Integration of prior knowledge in the execution of a structured design project, under the direct guidance of faculty. Project topics encompass both process and product design with different emphases. Design tasks include literature and market survey, ideation, feasibility and viability studies, prototyping and/or simulation, unit operation or component design, planning and project management, and societal and environmental impact assessment. Emphasis on the design process, hands-on experimentation, teamwork, and self-learning."
+    },
+    "attrs": [
+      {
+        "title": "[DELI]",
+        "description": "Mode of Delivery"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "T1 (1788)",
+        "Date & Time": "Th 09:00AM - 12:50PM",
+        "Room": "Rm 4402, Lift 17-18",
+        "Instructor": [
+          "KUANG, Becki Yi",
+          "LAKERVELD, Richard",
+          "LAM, Henry Hei Ning",
+          "LAM, Leung Yuk Frank",
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 22,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode"
+        ]
+      },
+      {
+        "Section": "T1 (1788)",
+        "Date & Time": "Th 06:00PM - 06:50PM",
+        "Room": "Rm 4402, Lift 17-18",
+        "Instructor": [
+          "KUANG, Becki Yi",
+          "LAKERVELD, Richard",
+          "LAM, Henry Hei Ning",
+          "LAM, Leung Yuk Frank",
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 22,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in an experiential learning mode"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "3950",
+    "name": "Chemical and Environmental Engineering Laboratory",
+    "units": 4,
+    "info": {
+      "pre-requisite": "CENG 2110",
+      "co-requisite": "CENG 3210 AND CENG 3230",
+      "description": "Integrated laboratory course for students in Chemical Engineering and Chemical and Environmental Engineering. Experimental modules on various unit operations and processes in chemical engineering and environmental engineering. Laboratory safety and risk assessment. Proper handling and interpretation of experimental data."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1790)",
+        "Date & Time": "Tu 09:00AM - 10:20AM",
+        "Room": "Rm 2007, CYT Bldg",
+        "Instructor": [
+          "LAM, Leung Yuk Frank"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 19,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "LA1 (1789)",
+        "Date & Time": "Mo 12:30PM - 05:20PM",
+        "Room": "Rm 2007, CYT Bldg",
+        "Instructor": [
+          "LAM, Leung Yuk Frank"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 19,
+        "Avail": 11,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "4130",
+    "name": "Plant Design and Economics",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CENG 2110",
+      "description": "Computer-aided-design and process evaluation. Risk assessment, qualitative and quantitative assessment. Hazop, Hazan, FMEA, decision tree, fault tree, reliability.  Toxicity, dispersion, fire, explosion, relief. Workplace safety. Plant safety and hazard analysis. Plant equipment specification and selection. Cost estimation and profitability analysis. Project evaluation. Cost optimization. Environmental control."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1791)",
+        "Date & Time": "We 04:30PM - 06:20PM",
+        "Room": "Rm 5620, Lift 31-32 (70)",
+        "Instructor": [
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "4140",
+    "name": "Energy Resources, Conversions and Technologies",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CHEM 1010 OR CHEM 1020",
+      "description": "The course will provide the fundamental knowledge of energy resources, their conversions and utilization technologies.Basic thermodynamics such as fuel and combustion models, measurement techniques will be taught to enable students to manage basic conversion calculations and to evaluate different energy utilization options. The course will also cover topics in green energies and fuels, providing an outlook of future energy uses."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1792)",
+        "Date & Time": "MoWe 09:00AM - 10:20AM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "LAM, Leung Yuk Frank"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "4510",
+    "name": "Nature Engineering and DNA Nanotechnology",
+    "units": 3,
+    "info": {
+      "previous code": "CENG 4000O",
+      "description": "Science encompasses subjects like mathematics, physics, chemistry, and biology, with boundaries between them becoming increasingly blurred over time. Engineering applies science and math to solve problems, resulting in interdisciplinary fields that offer a broader perspective. The course integrates materials science, chemical engineering, thermodynamics, bioengineering, environmental engineering, and microelectronics. For BIEN and CENG students in their third or fourth year of study only. Instructor’s approval is required for enrollment in the course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4286)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 2304, Lift 17-18 (76)",
+        "Instructor": [
+          "MI, Yongli"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 0,
+        "Avail": 50,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "4720",
+    "name": "Environmental Impact Assessment and Management Systems",
+    "units": 3,
+    "info": {
+      "pre-requisite": "CENG 1700 or CIVL 1140",
+      "exclusion": "CIVL 4430",
+      "description": "This course will review the methods for assessing environmental impacts.  Impact and management systems will be discussed in the context of both HK and international environmental legislation, which incorporates Licensing, BATNEEC, integrated pollution control, environmental management and auditing systems based on ISO 14000.  Actual case studies from the process industries will be discussed."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1793)",
+        "Date & Time": "TuTh 01:30PM - 02:50PM",
+        "Room": "Rm 6602, Lift 31-32 (60)",
+        "Instructor": [
+          "LAM, Leung Yuk Frank"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 50,
+        "Enrol": 7,
+        "Avail": 43,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "4920",
+    "name": "Chemical Engineering Capstone Design",
+    "units": 6,
+    "info": {
+      "pre-requisite": "BIEN 3910 OR CENG 3950",
+      "exclusion": "CENG 4930, CENG 4940",
+      "description": "A final-year project course offers practice of chemical engineering design through a group design project chosen to integrate materials covered in the curriculum. Credit load may be spread over a year. May be graded PP. For students in Chemical Engineering, Chemical and Environmental Engineering and Chemical and Biomolecular Engineering."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1794)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "Rm 1104, Acad Concourse (120)",
+        "Instructor": [
+          "LAKERVELD, Richard"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 16,
+        "Enrol": 16,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3"
+        ]
+      },
+      {
+        "Section": "T2 (4333)",
+        "Date & Time": "Mo 07:00PM - 07:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAKERVELD, Richard"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 0,
+        "Enrol": 0,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "4930",
+    "name": "Chemical Engineering Thesis Research",
+    "units": 6,
+    "info": {
+      "pre-requisite": "(BIEN 3910 OR CENG 3950) AND (CENG 4980 OR UROP 2100)",
+      "exclusion": "CENG 4920, CENG 4940",
+      "description": "A final-year project course offers an opportunity to conduct individual chemical engineering research under the direct supervision of a faculty member, which leads to a Bachelor's thesis. Credit load may be spread over a year. May be graded PP. For students in Chemical Engineering, Chemical and Environmental Engineering, and Chemical and Biomolecular Engineering with approval from the department."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1795)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAKERVELD, Richard"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 0,
+        "Enrol": 0,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 1104",
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "4940",
+    "name": "Chemical Engineering Industrial Project",
+    "units": 6,
+    "info": {
+      "pre-requisite": "BIEN 3910 OR CENG 3950",
+      "exclusion": "CENG 4920, CENG 4930",
+      "description": "This course is intended to provide final-year chemical engineering students with practical hands-on training in the form of a full-time or part-time internship or co-op program in an engineering company. Credit load may be spread over a year. May be graded PP. For students in Chemical Engineering, Chemical and Environmental Engineering, and Chemical and Biomolecular Engineering with approval from the department."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1796)",
+        "Date & Time": "Mo 06:00PM - 06:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LIU, Y.S. Marshal"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 2,
+        "Enrol": 2,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Classes held in Room 1104",
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "4980V",
+    "name": "Investigation Project",
+    "units": 3,
+    "info": {
+      "description": "Students conduct in-depth experimental or computational investigations on selected topics in one of the departmental research areas. Students work under supervision and are encouraged to use their own initiative to complete an appropriate program of work within the time allocated. Enrollment is subject to approval by department and supervisor. Graded Distinction/Pass/Fail. May be repeated for credits. May be graded PP."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1798)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "LA1 (1797)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "5210",
+    "name": "Advanced Separation Processes",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CBME 5210 (prior to 2023-24)",
+      "description": "Separation of gaseous and liquid mixtures by adsorption. Affinity chromatography. Membrane separation technology: reverse osmosis, ultrafiltration. Electrophoresis and other product recovery methods.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Identify and predict properties of adsorbents and membrane for given separation processes.</td></tr><tr><td>2.</td><td>Design an adsorption/membrane process for the separation of a mixture.</td></tr><tr><td>3.</td><td>Apply fundamental principles of chemistry and chemical engineering in selection, design and preparation of adsorbents and membrane.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1057)",
+        "Date & Time": "Mo 09:00AM - 11:50AM",
+        "Room": "Rm 5562, Lift 27-28 (30)",
+        "Instructor": [
+          "HU, Xijun"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "5300",
+    "name": "Advanced Chemical Engineering Thermodynamics",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "previous code": "CENG 6000A",
+      "description": "The fundamental laws of thermodynamics, properties of pure substances and mixtures, phase and chemical equilibria, intermolecular forces. Brief introduction to statistical thermodynamics, colloid and interfacial phenomena, and molecular self-assembly.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Understand the origin of viscoelasticity in Polymers.</td></tr><tr><td>2.</td><td>Understand the Polymer chain configurations and conformations.</td></tr><tr><td>3.</td><td>Understand the linear viscoelastic models for polymeric materials.</td></tr><tr><td>4.</td><td>Understand the Nonlinear viscoelastic constitutive equations.</td></tr><tr><td>5.</td><td>Relate molecular structure and constitutive behavior of polymer chains.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1058)",
+        "Date & Time": "Tu 03:00PM - 05:50PM",
+        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Instructor": [
+          "LUO, Tom Zhengtang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "5520",
+    "name": "Polymer and Materials Characterization Techniques",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "exclusion": "CENG 4000J, CBME 5520, FYTG 5412 (prior to 2018-19)",
+      "previous code": "CENG 6000H",
+      "description": "The course will first review some basic concepts in polymer physics and polymer chemistry. The course focuses more in polymer and materials characterization and related fabrication toward applications of advanced and functional polymers. The characterization techniques include thermal analysis of differential scanning calorimetry (DSC), dynamic thermal mechanical analysis (DTMA), thermal gravimetric analysis (TGA), scanning electron microscopy (SEM), transmission electron microscopy (TEC), optical microscopy, infrared spectroscopy (FTIR), X-ray diffraction, surface analysis, and mechanical properties and testing. MCPR's instrument demo will also be arranged.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Explain basic concepts in polymer chemistry.</td></tr><tr><td>2.</td><td>Explain basic concepts in polymer physics.</td></tr><tr><td>3.</td><td>Carry out thermal analysis of polymers.</td></tr><tr><td>4.</td><td>Carry out Spectroscopic analysis.</td></tr><tr><td>5.</td><td>Carry out surface analysis.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (1059)",
+        "Date & Time": "Th 01:30PM - 04:20PM",
+        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Instructor": [
+          "KIM, Yoonseob"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 30,
+        "Enrol": 0,
+        "Avail": 30,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "6000O",
+    "name": "Chemical and Biological Engineering Colloquia",
+    "units": 1,
+    "info": {
+      "vector": "[1-0-0:1]",
+      "description": "Chemical and Biological Engineering Colloquia is a seminar course that brings prominent researchers in the field of chemical and biological engineering to share their research with CBE colleagues and students. The course aims to provide a platform for discussions and exchange of ideas on the lates advancements in the field of chemical and biological engineering. Students will have the opportunity to engage with the speakers and ask questions, fostering a deeper understanding of the research presented. The course will cover a broad range of topics, including chemical engineering, biotechnology, materials science, synthetic biology, and more. Grade P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4287)",
+        "Date & Time": "Fr 04:30PM - 05:20PM",
+        "Room": "LTL, CYT Bldg (354)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 0,
+        "Avail": 100,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "6800Z",
+    "name": "Chemical and Biomolecular Engineering Seminar",
+    "units": 0,
+    "info": {
+      "vector": "[0-1-0:0]",
+      "description": "Seminar topics presented by students, faculty and guest speakers. Students are expected to attend regularly and demonstrate proficiency in presentation in accordance with the program requirements. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (1060)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "GAO, Hanyu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 70,
+        "Enrol": 0,
+        "Avail": 70,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "6900C",
+    "name": "Independent Study",
+    "units": 1,
+    "info": {
+      "vector": "[1 credit]",
+      "exclusion": "CENG 6800",
+      "previous code": "CENG 690C",
+      "description": "Selected topics in chemical engineering studied under the supervision of a faculty member. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1061)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 2,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "6990",
+    "name": "MPhil Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Master's thesis research supervised by a faculty member.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>To demonstrate a capability to research and development work.</td></tr><tr><td>2.</td><td>To demonstrate the capability to create, analyse and critically evaluate different technical solutions.</td></tr><tr><td>3.</td><td>To demonstrate the capability to critically and systematically integrate knowledge.</td></tr><tr><td>4.</td><td>To demonstrate the capability to clearly present and discuss the conclusions as well as the knowledge and arguments that form the basis for these findings in written and spoken English.</td></tr><tr><td>5.</td><td>To demonstrate a consciousness of the ethical aspects of research and development work.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1062)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 25,
+        "Enrol": 22,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "CENG",
+    "code": "7990",
+    "name": "Doctoral Thesis Research",
+    "units": 0,
+    "info": {
+      "description": "Original and independent doctoral thesis research.  A successful defense of the thesis leads to the grade Pass.  No course credit is assigned.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>To demonstrate a capability to research and development work.</td></tr><tr><td>2.</td><td>To demonstrate the capability to create, analyse and critically evaluate different technical solutions.</td></tr><tr><td>3.</td><td>To demonstrate the capability to critically and systematically integrate knowledge.</td></tr><tr><td>4.</td><td>To demonstrate the capability to clearly present and discuss the conclusions as well as the knowledge and arguments that form the basis for these findings in written and spoken English.</td></tr><tr><td>5.</td><td>To demonstrate a consciousness of the ethical aspects of research and development work.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (1063)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 100,
+        "Enrol": 74,
+        "Avail": 26,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  }
+]

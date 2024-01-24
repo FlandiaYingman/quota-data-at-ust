@@ -5979,15 +5979,15 @@
         "Avail": 44,
         "Wait": 0,
         "QuotaDetail": {
-          "MBA": {
-            "Quota": 20,
-            "Enrol": 0,
-            "Avail": 20
-          },
           "Digital MBA": {
             "Quota": 25,
             "Enrol": 1,
             "Avail": 24
+          },
+          "MBA": {
+            "Quota": 20,
+            "Enrol": 0,
+            "Avail": 20
           }
         },
         "Remarks": [

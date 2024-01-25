@@ -2793,14 +2793,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 32,
-        "Avail": 28,
+        "Enrol": 33,
+        "Avail": 27,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 28,
-            "Avail": 12
+            "Enrol": 29,
+            "Avail": 11
           }
         },
         "Remarks": []
@@ -3603,8 +3603,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 29,
-        "Avail": 71,
+        "Enrol": 30,
+        "Avail": 70,
         "Wait": 0,
         "Remarks": []
       }
@@ -3630,8 +3630,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 200,
-        "Enrol": 153,
-        "Avail": 47,
+        "Enrol": 154,
+        "Avail": 46,
         "Wait": 0,
         "Remarks": []
       }

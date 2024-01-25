@@ -65,15 +65,15 @@
         "Avail": 6,
         "Wait": 4,
         "QuotaDetail": {
-          "MESF": {
-            "Quota": 10,
-            "Enrol": 10,
-            "Avail": 0
-          },
           "IBTM": {
             "Quota": 80,
             "Enrol": 74,
             "Avail": 6
+          },
+          "MESF": {
+            "Quota": 10,
+            "Enrol": 10,
+            "Avail": 0
           }
         },
         "Remarks": []

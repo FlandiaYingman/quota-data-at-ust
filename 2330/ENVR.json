@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 8,
-        "Avail": 72,
+        "Enrol": 15,
+        "Avail": 65,
         "Wait": 0,
         "Remarks": []
       }
@@ -72,8 +72,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 7,
-        "Avail": 58,
+        "Enrol": 13,
+        "Avail": 52,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a experiential learning mode"
@@ -262,8 +262,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 1,
-        "Avail": 9,
+        "Enrol": 2,
+        "Avail": 8,
         "Wait": 0,
         "Remarks": []
       }
@@ -326,7 +326,7 @@
         "Quota": 45,
         "Enrol": 25,
         "Avail": 20,
-        "Wait": 2,
+        "Wait": 5,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 45,
@@ -358,14 +358,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 24,
-        "Avail": 16,
+        "Enrol": 28,
+        "Avail": 12,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 35,
-            "Enrol": 24,
-            "Avail": 11
+            "Enrol": 27,
+            "Avail": 8
           }
         },
         "Remarks": []
@@ -391,8 +391,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 2,
-        "Avail": 18,
+        "Enrol": 4,
+        "Avail": 16,
         "Wait": 0,
         "Remarks": [
           "Co-list with ENVR 6090E"
@@ -453,14 +453,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 24,
-        "Avail": 36,
+        "Enrol": 29,
+        "Avail": 31,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 35,
-            "Enrol": 24,
-            "Avail": 11
+            "Enrol": 29,
+            "Avail": 6
           }
         },
         "Remarks": [

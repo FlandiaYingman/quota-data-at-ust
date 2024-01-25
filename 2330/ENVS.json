@@ -21,19 +21,19 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 85,
-        "Enrol": 0,
-        "Avail": 85,
-        "Wait": 0,
+        "Enrol": 33,
+        "Avail": 52,
+        "Wait": 12,
         "QuotaDetail": {
           "EHS": {
             "Quota": 50,
-            "Enrol": 0,
-            "Avail": 50
+            "Enrol": 20,
+            "Avail": 30
           },
           "EVEM": {
             "Quota": 10,
-            "Enrol": 0,
-            "Avail": 10
+            "Enrol": 10,
+            "Avail": 0
           },
           "GMRM": {
             "Quota": 15,
@@ -42,8 +42,8 @@
           },
           "OCES": {
             "Quota": 10,
-            "Enrol": 0,
-            "Avail": 10
+            "Enrol": 3,
+            "Avail": 7
           }
         },
         "Remarks": []
@@ -71,8 +71,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 0,
-        "Avail": 80,
+        "Enrol": 29,
+        "Avail": 51,
         "Wait": 0,
         "Remarks": [
           "For MSc(EHS) students only."
@@ -101,14 +101,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 0,
-        "Avail": 80,
+        "Enrol": 29,
+        "Avail": 51,
         "Wait": 0,
         "QuotaDetail": {
           "EHS": {
             "Quota": 65,
-            "Enrol": 0,
-            "Avail": 65
+            "Enrol": 29,
+            "Avail": 36
           },
           "GMRM": {
             "Quota": 15,
@@ -143,14 +143,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 75,
-        "Enrol": 0,
-        "Avail": 75,
+        "Enrol": 19,
+        "Avail": 56,
         "Wait": 0,
         "QuotaDetail": {
           "EHS": {
             "Quota": 60,
-            "Enrol": 0,
-            "Avail": 60
+            "Enrol": 19,
+            "Avail": 41
           },
           "GMRM": {
             "Quota": 15,
@@ -186,8 +186,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 0,
-        "Avail": 40,
+        "Enrol": 25,
+        "Avail": 15,
         "Wait": 0,
         "Remarks": [
           "For MSc(EHS) students only."
@@ -203,8 +203,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 0,
-        "Avail": 40,
+        "Enrol": 25,
+        "Avail": 15,
         "Wait": 0,
         "Remarks": []
       }

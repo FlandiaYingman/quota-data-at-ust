@@ -21,14 +21,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 0,
-        "Avail": 35,
+        "Enrol": 7,
+        "Avail": 28,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 30,
-            "Enrol": 0,
-            "Avail": 30
+            "Enrol": 7,
+            "Avail": 23
           },
           "GMRM": {
             "Quota": 5,
@@ -63,14 +63,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 0,
-        "Avail": 60,
+        "Enrol": 26,
+        "Avail": 34,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 60,
-            "Enrol": 0,
-            "Avail": 60
+            "Enrol": 26,
+            "Avail": 34
           }
         },
         "Remarks": [
@@ -101,14 +101,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 0,
-        "Avail": 50,
+        "Enrol": 31,
+        "Avail": 19,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 50,
-            "Enrol": 0,
-            "Avail": 50
+            "Enrol": 31,
+            "Avail": 19
           }
         },
         "Remarks": [
@@ -139,19 +139,19 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 0,
-        "Avail": 90,
+        "Enrol": 50,
+        "Avail": 40,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 70,
-            "Enrol": 0,
-            "Avail": 70
+            "Enrol": 41,
+            "Avail": 29
           },
           "EVEM": {
             "Quota": 20,
-            "Enrol": 0,
-            "Avail": 20
+            "Enrol": 9,
+            "Avail": 11
           }
         },
         "Remarks": [
@@ -167,8 +167,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 0,
-        "Avail": 90,
+        "Enrol": 50,
+        "Avail": 40,
         "Wait": 0,
         "Remarks": []
       }
@@ -194,8 +194,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 13,
-        "Avail": 22,
+        "Enrol": 14,
+        "Avail": 21,
         "Wait": 0,
         "Remarks": [
           "For MSc(EVSM) students only",

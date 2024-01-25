@@ -2059,14 +2059,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 21,
-        "Avail": 19,
+        "Enrol": 22,
+        "Avail": 18,
         "Wait": 0,
         "QuotaDetail": {
           "MATH": {
             "Quota": 22,
-            "Enrol": 6,
-            "Avail": 16
+            "Enrol": 7,
+            "Avail": 15
           }
         },
         "Remarks": []
@@ -2080,8 +2080,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 21,
-        "Avail": 19,
+        "Enrol": 22,
+        "Avail": 18,
         "Wait": 0,
         "Remarks": []
       }
@@ -2701,14 +2701,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 7,
-        "Avail": 33,
+        "Enrol": 8,
+        "Avail": 32,
         "Wait": 0,
         "QuotaDetail": {
           "MATH": {
             "Quota": 32,
-            "Enrol": 6,
-            "Avail": 26
+            "Enrol": 7,
+            "Avail": 25
           }
         },
         "Remarks": []
@@ -2722,14 +2722,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 7,
-        "Avail": 33,
+        "Enrol": 8,
+        "Avail": 32,
         "Wait": 0,
         "QuotaDetail": {
           "MATH": {
             "Quota": 32,
-            "Enrol": 6,
-            "Avail": 26
+            "Enrol": 7,
+            "Avail": 25
           }
         },
         "Remarks": []
@@ -2743,8 +2743,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 7,
-        "Avail": 33,
+        "Enrol": 8,
+        "Avail": 32,
         "Wait": 0,
         "Remarks": []
       }
@@ -3518,7 +3518,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -3546,8 +3546,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 33,
-        "Avail": 7,
+        "Enrol": 34,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": []
       }

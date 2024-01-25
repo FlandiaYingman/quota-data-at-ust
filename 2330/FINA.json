@@ -715,7 +715,7 @@
         "Quota": 60,
         "Enrol": 19,
         "Avail": 41,
-        "Wait": 16,
+        "Wait": 15,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
@@ -782,14 +782,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 41,
-        "Avail": 19,
+        "Enrol": 40,
+        "Avail": 20,
         "Wait": 13,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
-            "Enrol": 41,
-            "Avail": 19
+            "Enrol": 40,
+            "Avail": 20
           }
         },
         "Remarks": []
@@ -1237,8 +1237,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 57,
-        "Enrol": 52,
-        "Avail": 5,
+        "Enrol": 53,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode",
@@ -1255,8 +1255,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 57,
-        "Enrol": 52,
-        "Avail": 5,
+        "Enrol": 53,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode",
@@ -1273,9 +1273,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 56,
-        "Enrol": 56,
-        "Avail": 0,
-        "Wait": 11,
+        "Enrol": 55,
+        "Avail": 1,
+        "Wait": 10,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode",
           "For MSc(GO) students only",

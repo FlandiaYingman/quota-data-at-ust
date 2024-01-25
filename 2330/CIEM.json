@@ -24,6 +24,11 @@
         "Avail": 90,
         "Wait": 0,
         "QuotaDetail": {
+          "MCEE": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
           "CIEM": {
             "Quota": 83,
             "Enrol": 0,
@@ -33,11 +38,6 @@
             "Quota": 5,
             "Enrol": 0,
             "Avail": 5
-          },
-          "MCEE": {
-            "Quota": 2,
-            "Enrol": 0,
-            "Avail": 2
           }
         },
         "Remarks": []

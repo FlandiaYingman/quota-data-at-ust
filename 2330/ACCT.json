@@ -517,14 +517,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 17,
-        "Avail": 23,
+        "Enrol": 16,
+        "Avail": 24,
         "Wait": 7,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 40,
-            "Enrol": 17,
-            "Avail": 23
+            "Enrol": 16,
+            "Avail": 24
           }
         },
         "Remarks": []
@@ -1586,7 +1586,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 60,

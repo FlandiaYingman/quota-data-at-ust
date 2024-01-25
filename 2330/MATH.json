@@ -57,7 +57,9 @@
         "Enrol": 0,
         "Avail": 20,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Instructor: ZHANG, Jiarui"
+        ]
       },
       {
         "Section": "L2 (4337)",
@@ -71,7 +73,9 @@
         "Enrol": 0,
         "Avail": 20,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Instructor: ZHANG, Jiarui"
+        ]
       },
       {
         "Section": "T1A (3338)",
@@ -99,7 +103,9 @@
         "Enrol": 0,
         "Avail": 20,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Instructor: ZHANG, Jiarui"
+        ]
       }
     ]
   },
@@ -151,6 +157,7 @@
         "Avail": 20,
         "Wait": 0,
         "Remarks": [
+          "Instructor: ZHANG, Jiarui",
           "Venue : Room 4503"
         ]
       },
@@ -183,6 +190,7 @@
         "Avail": 20,
         "Wait": 0,
         "Remarks": [
+          "Instructor: ZHANG, Jiarui",
           "Venue : Room 1409"
         ]
       }
@@ -765,7 +773,7 @@
         "Date & Time": "Mo 06:00PM - 06:50PM",
         "Room": "Rm 1011, LSK Bldg (80)",
         "Instructor": [
-          "TBA"
+          "SU, Wei"
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
@@ -779,7 +787,7 @@
         "Date & Time": "We 06:00PM - 06:50PM",
         "Room": "Rm 1010, LSK Bldg (80)",
         "Instructor": [
-          "TBA"
+          "SU, Wei"
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
@@ -793,7 +801,7 @@
         "Date & Time": "Fr 10:30AM - 11:20AM",
         "Room": "Multi-function Room, LG4, LIB",
         "Instructor": [
-          "TBA"
+          "SU, Wei"
         ],
         "TA/IA/GTA": [],
         "Quota": 45,

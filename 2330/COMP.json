@@ -1126,7 +1126,7 @@
         "Quota": 100,
         "Enrol": 64,
         "Avail": 36,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -1461,7 +1461,7 @@
         "Quota": 70,
         "Enrol": 49,
         "Avail": 21,
-        "Wait": 6,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -1476,7 +1476,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 18,
+        "Wait": 23,
         "Remarks": []
       }
     ]
@@ -1816,7 +1816,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1831,7 +1831,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 9,
         "Remarks": []
       }
     ]
@@ -3046,8 +3046,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 28,
-        "Avail": 32,
+        "Enrol": 24,
+        "Avail": 36,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
@@ -3189,8 +3189,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 16,
+        "Avail": 4,
         "Wait": 2,
         "Remarks": [
           "Classes held in Room 4503",

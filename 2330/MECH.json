@@ -134,7 +134,7 @@
         "Quota": 52,
         "Enrol": 44,
         "Avail": 8,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -149,7 +149,7 @@
         "Quota": 104,
         "Enrol": 96,
         "Avail": 8,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -175,8 +175,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 52,
-        "Enrol": 47,
-        "Avail": 5,
+        "Enrol": 48,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": []
       },
@@ -203,8 +203,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 52,
-        "Enrol": 47,
-        "Avail": 5,
+        "Enrol": 48,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": []
       },
@@ -377,7 +377,7 @@
         "Quota": 23,
         "Enrol": 22,
         "Avail": 1,
-        "Wait": 4,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -405,7 +405,7 @@
         "Quota": 23,
         "Enrol": 18,
         "Avail": 5,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -662,8 +662,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 22,
-        "Enrol": 15,
-        "Avail": 7,
+        "Enrol": 14,
+        "Avail": 8,
         "Wait": 0,
         "Remarks": []
       },
@@ -676,8 +676,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 23,
-        "Enrol": 20,
-        "Avail": 3,
+        "Enrol": 21,
+        "Avail": 2,
         "Wait": 0,
         "Remarks": []
       }
@@ -709,8 +709,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 104,
-        "Enrol": 87,
-        "Avail": 17,
+        "Enrol": 88,
+        "Avail": 16,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a blended learning mode"
@@ -725,8 +725,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 26,
-        "Enrol": 26,
-        "Avail": 0,
+        "Enrol": 25,
+        "Avail": 1,
         "Wait": 3,
         "Remarks": []
       },
@@ -739,8 +739,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 26,
-        "Enrol": 22,
-        "Avail": 4,
+        "Enrol": 23,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": []
       },
@@ -767,8 +767,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 26,
-        "Enrol": 20,
-        "Avail": 6,
+        "Enrol": 21,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       }
@@ -803,7 +803,7 @@
         "Quota": 35,
         "Enrol": 34,
         "Avail": 1,
-        "Wait": 1,
+        "Wait": 3,
         "Remarks": [
           "The class is delivered in an experiential learning mode"
         ]
@@ -819,7 +819,7 @@
         "Quota": 35,
         "Enrol": 34,
         "Avail": 1,
-        "Wait": 1,
+        "Wait": 3,
         "Remarks": [
           "The class is delivered in an experiential learning mode"
         ]
@@ -899,7 +899,7 @@
         "Quota": 35,
         "Enrol": 34,
         "Avail": 1,
-        "Wait": 1,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -913,7 +913,7 @@
         "Quota": 35,
         "Enrol": 34,
         "Avail": 1,
-        "Wait": 1,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1165,8 +1165,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 9,
-        "Avail": 11,
+        "Enrol": 10,
+        "Avail": 10,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in an experiential learning mode"
@@ -1181,8 +1181,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 9,
-        "Avail": 11,
+        "Enrol": 10,
+        "Avail": 10,
         "Wait": 0,
         "Remarks": []
       }

@@ -794,8 +794,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 105,
-        "Enrol": 105,
-        "Avail": 0,
+        "Enrol": 104,
+        "Avail": 1,
         "Wait": 5,
         "Remarks": []
       },
@@ -822,8 +822,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 39,
-        "Avail": 21,
+        "Enrol": 40,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       },
@@ -850,8 +850,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 105,
-        "Enrol": 105,
-        "Avail": 0,
+        "Enrol": 104,
+        "Avail": 1,
         "Wait": 5,
         "Remarks": []
       },
@@ -878,8 +878,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 39,
-        "Avail": 21,
+        "Enrol": 40,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       },
@@ -1354,7 +1354,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 12,
+        "Wait": 13,
         "Remarks": []
       },
       {
@@ -1383,7 +1383,7 @@
         "Quota": 60,
         "Enrol": 57,
         "Avail": 3,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -1787,7 +1787,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -1801,7 +1801,7 @@
         "Quota": 80,
         "Enrol": 78,
         "Avail": 2,
-        "Wait": 4,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1831,7 +1831,7 @@
         "Quota": 80,
         "Enrol": 79,
         "Avail": 1,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       }
     ]
@@ -1859,7 +1859,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -1873,7 +1873,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -1887,7 +1887,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -2092,8 +2092,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 54,
-        "Avail": 26,
+        "Enrol": 56,
+        "Avail": 24,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a blended learning mode"
@@ -2108,8 +2108,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 54,
-        "Avail": 26,
+        "Enrol": 56,
+        "Avail": 24,
         "Wait": 0,
         "Remarks": []
       }

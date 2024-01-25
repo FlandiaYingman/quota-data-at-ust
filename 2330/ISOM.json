@@ -129,15 +129,15 @@
         "Avail": 2,
         "Wait": 8,
         "QuotaDetail": {
-          "SBM": {
-            "Quota": 95,
-            "Enrol": 93,
-            "Avail": 2
-          },
           "BIBU": {
             "Quota": 21,
             "Enrol": 21,
             "Avail": 0
+          },
+          "SBM": {
+            "Quota": 95,
+            "Enrol": 93,
+            "Avail": 2
           }
         },
         "Remarks": []
@@ -5112,14 +5112,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 13,
-        "Avail": 17,
+        "Enrol": 14,
+        "Avail": 16,
         "Wait": 0,
         "QuotaDetail": {
           "SBM": {
             "Quota": 30,
-            "Enrol": 13,
-            "Avail": 17
+            "Enrol": 14,
+            "Avail": 16
           }
         },
         "Remarks": [
@@ -5644,7 +5644,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 50,
@@ -5668,7 +5668,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 50,

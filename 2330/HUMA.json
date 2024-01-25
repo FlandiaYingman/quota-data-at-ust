@@ -375,7 +375,7 @@
         "Quota": 400,
         "Enrol": 322,
         "Avail": 78,
-        "Wait": 252,
+        "Wait": 254,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 100,
@@ -638,7 +638,7 @@
         "Quota": 20,
         "Enrol": 13,
         "Avail": 7,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -682,7 +682,7 @@
         "Quota": 20,
         "Enrol": 19,
         "Avail": 1,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": [
           "Venue : Room 5560"
         ]
@@ -901,8 +901,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 25,
-        "Avail": 35,
+        "Enrol": 27,
+        "Avail": 33,
         "Wait": 0,
         "QuotaDetail": {
           "SHSS": {
@@ -922,8 +922,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 19,
-        "Avail": 11,
+        "Enrol": 21,
+        "Avail": 9,
         "Wait": 0,
         "Remarks": []
       },
@@ -1283,7 +1283,7 @@
         "Quota": 100,
         "Enrol": 76,
         "Avail": 24,
-        "Wait": 320,
+        "Wait": 321,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -3014,14 +3014,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 10,
-        "Avail": 10,
+        "Enrol": 9,
+        "Avail": 11,
         "Wait": 2,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 10,
-            "Avail": 10
+            "Enrol": 9,
+            "Avail": 11
           }
         },
         "Remarks": []

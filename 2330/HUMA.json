@@ -726,7 +726,7 @@
         "Quota": 100,
         "Enrol": 58,
         "Avail": 42,
-        "Wait": 39,
+        "Wait": 40,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 50,
@@ -747,7 +747,7 @@
         "Quota": 100,
         "Enrol": 58,
         "Avail": 42,
-        "Wait": 39,
+        "Wait": 40,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 50,
@@ -1283,7 +1283,7 @@
         "Quota": 100,
         "Enrol": 76,
         "Avail": 24,
-        "Wait": 319,
+        "Wait": 320,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -1332,7 +1332,7 @@
         "Quota": 100,
         "Enrol": 70,
         "Avail": 30,
-        "Wait": 148,
+        "Wait": 149,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 40,
@@ -1353,7 +1353,7 @@
         "Quota": 100,
         "Enrol": 70,
         "Avail": 30,
-        "Wait": 148,
+        "Wait": 149,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 40,
@@ -3171,14 +3171,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 3,
-        "Avail": 17,
+        "Enrol": 4,
+        "Avail": 16,
         "Wait": 0,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 3,
-            "Avail": 17
+            "Enrol": 4,
+            "Avail": 16
           }
         },
         "Remarks": []

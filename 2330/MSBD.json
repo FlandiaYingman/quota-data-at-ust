@@ -137,7 +137,7 @@
         "Quota": 100,
         "Enrol": 14,
         "Avail": 86,
-        "Wait": 5,
+        "Wait": 6,
         "QuotaDetail": {
           "BDT": {
             "Quota": 93,
@@ -217,7 +217,7 @@
         "Quota": 100,
         "Enrol": 32,
         "Avail": 68,
-        "Wait": 7,
+        "Wait": 8,
         "QuotaDetail": {
           "BDT": {
             "Quota": 93,
@@ -347,14 +347,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 36,
-        "Avail": 54,
+        "Enrol": 37,
+        "Avail": 53,
         "Wait": 0,
         "QuotaDetail": {
           "BDT": {
             "Quota": 90,
-            "Enrol": 36,
-            "Avail": 54
+            "Enrol": 37,
+            "Avail": 53
           }
         },
         "Remarks": [

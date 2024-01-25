@@ -24,8 +24,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 150,
-        "Enrol": 80,
-        "Avail": 70,
+        "Enrol": 86,
+        "Avail": 64,
         "Wait": 0,
         "Remarks": []
       }
@@ -135,8 +135,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 0,
-        "Avail": 50,
+        "Enrol": 2,
+        "Avail": 48,
         "Wait": 0,
         "Remarks": []
       }
@@ -168,6 +168,22 @@
         "Wait": 0,
         "Remarks": [
           "Classes held in Room 1104",
+          "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3"
+        ]
+      },
+      {
+        "Section": "T2 (4348)",
+        "Date & Time": "Mo 07:00PM - 07:50PM",
+        "Room": "TBA",
+        "Instructor": [
+          "LAKERVELD, Richard"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 0,
+        "Enrol": 0,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
           "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3"
         ]
       }

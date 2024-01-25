@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 0,
-        "Avail": 80,
+        "Enrol": 8,
+        "Avail": 72,
         "Wait": 0,
         "Remarks": []
       }
@@ -72,8 +72,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 0,
-        "Avail": 65,
+        "Enrol": 7,
+        "Avail": 58,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a experiential learning mode"
@@ -229,8 +229,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 29,
-        "Avail": 11,
+        "Enrol": 30,
+        "Avail": 10,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
@@ -262,8 +262,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 0,
-        "Avail": 10,
+        "Enrol": 1,
+        "Avail": 9,
         "Wait": 0,
         "Remarks": []
       }
@@ -326,7 +326,7 @@
         "Quota": 45,
         "Enrol": 25,
         "Avail": 20,
-        "Wait": 0,
+        "Wait": 2,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 45,
@@ -358,14 +358,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 22,
-        "Avail": 18,
+        "Enrol": 24,
+        "Avail": 16,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 35,
-            "Enrol": 22,
-            "Avail": 13
+            "Enrol": 24,
+            "Avail": 11
           }
         },
         "Remarks": []
@@ -391,8 +391,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 0,
-        "Avail": 20,
+        "Enrol": 2,
+        "Avail": 18,
         "Wait": 0,
         "Remarks": [
           "Co-list with ENVR 6090E"
@@ -453,14 +453,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 22,
-        "Avail": 38,
+        "Enrol": 24,
+        "Avail": 36,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 35,
-            "Enrol": 22,
-            "Avail": 13
+            "Enrol": 24,
+            "Avail": 11
           }
         },
         "Remarks": [

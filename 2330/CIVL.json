@@ -771,9 +771,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 174,
-        "Enrol": 173,
-        "Avail": 1,
-        "Wait": 4,
+        "Enrol": 174,
+        "Avail": 0,
+        "Wait": 3,
         "QuotaDetail": {
           "CIVL": {
             "Quota": 170,
@@ -792,9 +792,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 83,
-        "Avail": 7,
-        "Wait": 1,
+        "Enrol": 84,
+        "Avail": 6,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -820,9 +820,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 53,
-        "Avail": 7,
-        "Wait": 3,
+        "Enrol": 54,
+        "Avail": 6,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -1220,14 +1220,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 150,
-        "Enrol": 55,
-        "Avail": 95,
+        "Enrol": 54,
+        "Avail": 96,
         "Wait": 0,
         "QuotaDetail": {
           "CIVL": {
             "Quota": 149,
-            "Enrol": 54,
-            "Avail": 95
+            "Enrol": 53,
+            "Avail": 96
           }
         },
         "Remarks": []
@@ -1242,8 +1242,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 150,
-        "Enrol": 55,
-        "Avail": 95,
+        "Enrol": 54,
+        "Avail": 96,
         "Wait": 0,
         "Remarks": []
       }
@@ -1379,8 +1379,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 35,
-        "Avail": 30,
+        "Enrol": 36,
+        "Avail": 29,
         "Wait": 0,
         "QuotaDetail": {
           "CENG": {
@@ -1390,8 +1390,8 @@
           },
           "CIVL": {
             "Quota": 46,
-            "Enrol": 29,
-            "Avail": 17
+            "Enrol": 30,
+            "Avail": 16
           }
         },
         "Remarks": []

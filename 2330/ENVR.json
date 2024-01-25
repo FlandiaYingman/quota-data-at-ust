@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 35,
-        "Avail": 45,
+        "Enrol": 36,
+        "Avail": 44,
         "Wait": 0,
         "Remarks": []
       }
@@ -324,14 +324,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 28,
-        "Avail": 17,
-        "Wait": 12,
+        "Enrol": 30,
+        "Avail": 15,
+        "Wait": 10,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 45,
-            "Enrol": 28,
-            "Avail": 17
+            "Enrol": 30,
+            "Avail": 15
           }
         },
         "Remarks": []

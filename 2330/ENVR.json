@@ -391,8 +391,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 11,
-        "Avail": 9,
+        "Enrol": 12,
+        "Avail": 8,
         "Wait": 0,
         "Remarks": [
           "Co-list with ENVR 6090E"
@@ -573,14 +573,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 67,
-        "Avail": 28,
+        "Enrol": 68,
+        "Avail": 27,
         "Wait": 4,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 70,
-            "Enrol": 47,
-            "Avail": 23
+            "Enrol": 48,
+            "Avail": 22
           },
           "EVEM": {
             "Quota": 20,
@@ -620,14 +620,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 21,
-        "Avail": 29,
+        "Enrol": 22,
+        "Avail": 28,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 50,
-            "Enrol": 21,
-            "Avail": 29
+            "Enrol": 22,
+            "Avail": 28
           }
         },
         "Remarks": [
@@ -772,14 +772,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 30,
-        "Avail": 30,
+        "Enrol": 31,
+        "Avail": 29,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 60,
-            "Enrol": 30,
-            "Avail": 30
+            "Enrol": 31,
+            "Avail": 29
           }
         },
         "Remarks": [
@@ -850,14 +850,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 30,
-        "Avail": 20,
+        "Enrol": 31,
+        "Avail": 19,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 50,
-            "Enrol": 30,
-            "Avail": 20
+            "Enrol": 31,
+            "Avail": 19
           }
         },
         "Remarks": [
@@ -903,8 +903,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 17,
-        "Avail": 28,
+        "Enrol": 18,
+        "Avail": 27,
         "Wait": 0,
         "Remarks": [
           "For MPhil/PhD (AES/ESPM) students only"
@@ -970,7 +970,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 40,
@@ -1036,8 +1036,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 17,
-        "Avail": 43,
+        "Enrol": 18,
+        "Avail": 42,
         "Wait": 0,
         "Remarks": [
           "For MPhil/PhD (AES) and MPhil/PhD (ESPM) students only"

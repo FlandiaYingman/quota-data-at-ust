@@ -1100,14 +1100,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 17,
-        "Avail": 33,
-        "Wait": 4,
+        "Enrol": 19,
+        "Avail": 31,
+        "Wait": 2,
         "QuotaDetail": {
           "CIVL": {
             "Quota": 50,
-            "Enrol": 17,
-            "Avail": 33
+            "Enrol": 19,
+            "Avail": 31
           }
         },
         "Remarks": []
@@ -1379,14 +1379,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 52,
-        "Avail": 13,
+        "Enrol": 57,
+        "Avail": 8,
         "Wait": 13,
         "QuotaDetail": {
           "CENG": {
             "Quota": 15,
-            "Enrol": 2,
-            "Avail": 13
+            "Enrol": 7,
+            "Avail": 8
           },
           "CIVL": {
             "Quota": 46,

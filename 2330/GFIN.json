@@ -1,0 +1,100 @@
+[
+  {
+    "program": "GFIN",
+    "code": "5040",
+    "name": "Derivatives Markets",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "This is a course in derivatives markets: structure, valuation and strategies. It builds on the content of the course GFIN 5010 Foundations of Investments and combines theory, empirical findings and practical applications.  The main applications include the equities, foreign exchange and commodities markets.  The key derivatives instruments discussed include forwards, futures and options.  Cases and examples include the 1987 crash, LTCM, Metallgesellschaft, Amaranth, etc.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply cost-of-carry model to price forward contracts and futures contracts.</td></tr><tr><td>2.</td><td>Use forward contracts and future contracts to hedge enterprise risk.</td></tr><tr><td>3.</td><td>Apply the binomial model and the Black-Scholes-Merton model to price options.</td></tr><tr><td>4.</td><td>Measure, manage and hedge the risk exposure in an option position.</td></tr><tr><td>5.</td><td>Manage risk exposure in structured products and use volatility derivatives to manage portfolio risk.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4352)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 33,
+        "Enrol": 0,
+        "Avail": 33,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor : Prof. BRENNER, Menachem",
+          "For MSc(GFIN) students only",
+          "Class Duration/Dates : 10-Mar-2024 to 12-Mar-2024",
+          "Add/Drop Deadline : 10-Mar-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "GFIN",
+    "code": "5080",
+    "name": "Fixed Income Instruments and Markets",
+    "units": 2,
+    "info": {
+      "vector": "[2-0-0:2]",
+      "description": "The course addresses fixed income financial instruments and their derivatives, covering the types of debt instruments, interest rate structures and building the yield curve, the valuation of debt securities, debt default and related topics.  There is also consideration of fixed income instruments in portfolio strategies, as well as the role of financial structures, options and derivatives such as credit default swaps.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Analyze the interconnected roles of the markets for bonds, swaps, repos, fixed income options, and mortgage-backed securities in the global financial system.</td></tr><tr><td>2.</td><td>Derive the term structure of zero rates, forward rates, annuity rates, and prices of any securities with fixed cash flow from the yields of newly issued government coupon bonds or swap rates.</td></tr><tr><td>3.</td><td>Apply the concepts of duration and convexity to measure and manage interest rate risk of fixed income portfolios.</td></tr><tr><td>4.</td><td>Construct an interest rate model to price and manage risk of fixed income derivatives, callable bonds, and mortgage-backed securities.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4353)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 32,
+        "Enrol": 0,
+        "Avail": 32,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor : Prof. CARPENTER, Jennifer",
+          "For MSc(GFIN) students only",
+          "Class Duration/Dates : 13-Mar-2024 to 15-Mar-2024",
+          "Add/Drop Deadline : 13-Mar-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "GFIN",
+    "code": "6980",
+    "name": "Integrative Project in Global Finance",
+    "units": 4,
+    "info": {
+      "vector": "[4 credits]",
+      "description": "The aim of the project is to enable students to apply what they have learned in each course unit and to draw on their practical experience in the global banking and financial markets.  Students are assigned to work in groups on a team project throughout the year and will culminate with a presentation to a panel of faculty.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Apply critical thinking to identify and analyze a suitable topic.</td></tr><tr><td>2.</td><td>Use relevant financial knowledge and skills assimilated throughout the program to evaluate or propose solutions to real-life finance issues.</td></tr><tr><td>3.</td><td>Conduct research, perform analysis and recommend solutions/proposals to contemporary finance issues using scientific research methods.</td></tr><tr><td>4.</td><td>Collaborate and communicate effectively with team members of diverse backgrounds.</td></tr><tr><td>5.</td><td>Present findings and proposals on current finance issues in the form of written report and verbal presentation.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4354)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LAFON-VINAIS, Veronique J A"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GFIN) students only",
+          "Class Duration/Dates : 01-Apr-2024",
+          "Add/Drop Deadline : 01-Apr-2024"
+        ]
+      }
+    ]
+  }
+]

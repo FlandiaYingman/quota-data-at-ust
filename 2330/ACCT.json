@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 14,
-        "Avail": 66,
+        "Enrol": 18,
+        "Avail": 62,
         "Wait": 0,
         "Remarks": []
       }
@@ -71,8 +71,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 59,
-        "Avail": 6,
+        "Enrol": 61,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": []
       },
@@ -311,7 +311,7 @@
         "Quota": 68,
         "Enrol": 54,
         "Avail": 14,
-        "Wait": 2,
+        "Wait": 4,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 68,
@@ -332,7 +332,7 @@
         "Quota": 68,
         "Enrol": 46,
         "Avail": 22,
-        "Wait": 2,
+        "Wait": 6,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 68,
@@ -353,7 +353,7 @@
         "Quota": 68,
         "Enrol": 53,
         "Avail": 15,
-        "Wait": 1,
+        "Wait": 5,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 68,
@@ -387,7 +387,7 @@
         "Quota": 68,
         "Enrol": 57,
         "Avail": 11,
-        "Wait": 3,
+        "Wait": 8,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 68,
@@ -408,7 +408,7 @@
         "Quota": 68,
         "Enrol": 56,
         "Avail": 12,
-        "Wait": 3,
+        "Wait": 6,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 68,
@@ -462,7 +462,7 @@
         "Quota": 65,
         "Enrol": 0,
         "Avail": 65,
-        "Wait": 1,
+        "Wait": 4,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
@@ -483,7 +483,7 @@
         "Quota": 65,
         "Enrol": 0,
         "Avail": 65,
-        "Wait": 3,
+        "Wait": 5,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
@@ -519,7 +519,7 @@
         "Quota": 40,
         "Enrol": 10,
         "Avail": 30,
-        "Wait": 3,
+        "Wait": 8,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 40,
@@ -553,7 +553,7 @@
         "Quota": 65,
         "Enrol": 48,
         "Avail": 17,
-        "Wait": 2,
+        "Wait": 11,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
@@ -574,7 +574,7 @@
         "Quota": 65,
         "Enrol": 48,
         "Avail": 17,
-        "Wait": 2,
+        "Wait": 11,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
@@ -595,7 +595,7 @@
         "Quota": 65,
         "Enrol": 51,
         "Avail": 14,
-        "Wait": 4,
+        "Wait": 14,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
@@ -616,7 +616,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 14,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
@@ -637,7 +637,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 14,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
@@ -671,7 +671,7 @@
         "Quota": 65,
         "Enrol": 26,
         "Avail": 39,
-        "Wait": 4,
+        "Wait": 11,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
@@ -692,7 +692,7 @@
         "Quota": 65,
         "Enrol": 26,
         "Avail": 39,
-        "Wait": 4,
+        "Wait": 11,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
@@ -713,7 +713,7 @@
         "Quota": 65,
         "Enrol": 38,
         "Avail": 27,
-        "Wait": 2,
+        "Wait": 14,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
@@ -734,7 +734,7 @@
         "Quota": 65,
         "Enrol": 38,
         "Avail": 27,
-        "Wait": 2,
+        "Wait": 14,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
@@ -753,14 +753,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 24,
-        "Avail": 41,
+        "Enrol": 30,
+        "Avail": 35,
         "Wait": 0,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
-            "Enrol": 24,
-            "Avail": 41
+            "Enrol": 30,
+            "Avail": 35
           }
         },
         "Remarks": []
@@ -774,14 +774,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 24,
-        "Avail": 41,
+        "Enrol": 30,
+        "Avail": 35,
         "Wait": 0,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 65,
-            "Enrol": 24,
-            "Avail": 41
+            "Enrol": 30,
+            "Avail": 35
           }
         },
         "Remarks": []

@@ -573,14 +573,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 62,
-        "Avail": 33,
-        "Wait": 0,
+        "Enrol": 64,
+        "Avail": 31,
+        "Wait": 4,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 70,
-            "Enrol": 42,
-            "Avail": 28
+            "Enrol": 44,
+            "Avail": 26
           },
           "EVEM": {
             "Quota": 20,
@@ -658,14 +658,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 4,
-        "Avail": 6,
+        "Enrol": 5,
+        "Avail": 5,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 10,
-            "Enrol": 4,
-            "Avail": 6
+            "Enrol": 5,
+            "Avail": 5
           }
         },
         "Remarks": [
@@ -734,14 +734,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 18,
-        "Avail": 12,
+        "Enrol": 19,
+        "Avail": 11,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 30,
-            "Enrol": 18,
-            "Avail": 12
+            "Enrol": 19,
+            "Avail": 11
           }
         },
         "Remarks": [
@@ -887,8 +887,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 24,
-        "Avail": 21,
+        "Enrol": 25,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": [
           "For MPhil/PhD (AES/ESPM) students only"
@@ -903,8 +903,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 12,
-        "Avail": 33,
+        "Enrol": 13,
+        "Avail": 32,
         "Wait": 0,
         "Remarks": [
           "For MPhil/PhD (AES/ESPM) students only"
@@ -968,14 +968,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 38,
-        "Avail": 2,
+        "Enrol": 39,
+        "Avail": 1,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 40,
-            "Enrol": 38,
-            "Avail": 2
+            "Enrol": 39,
+            "Avail": 1
           }
         },
         "Remarks": [

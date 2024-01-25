@@ -1637,7 +1637,7 @@
         "Quota": 20,
         "Enrol": 16,
         "Avail": 4,
-        "Wait": 15,
+        "Wait": 16,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 5,
@@ -1679,7 +1679,7 @@
         "Quota": 7,
         "Enrol": 6,
         "Avail": 1,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -2232,7 +2232,7 @@
         "Quota": 100,
         "Enrol": 70,
         "Avail": 30,
-        "Wait": 22,
+        "Wait": 23,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 40,
@@ -2253,7 +2253,7 @@
         "Quota": 100,
         "Enrol": 70,
         "Avail": 30,
-        "Wait": 22,
+        "Wait": 23,
         "Remarks": []
       }
     ]

@@ -945,8 +945,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 84,
-        "Avail": 6,
+        "Enrol": 85,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       },
@@ -1001,8 +1001,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 41,
-        "Avail": 4,
+        "Enrol": 42,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": []
       },
@@ -1851,7 +1851,7 @@
         "Quota": 160,
         "Enrol": 128,
         "Avail": 32,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "MATH": {
             "Quota": 53,
@@ -1872,7 +1872,7 @@
         "Quota": 160,
         "Enrol": 128,
         "Avail": 32,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "MATH": {
             "Quota": 53,
@@ -1893,7 +1893,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -3659,8 +3659,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 12,
-        "Avail": 28,
+        "Enrol": 13,
+        "Avail": 27,
         "Wait": 0,
         "Remarks": [
           "Venue: LTF"

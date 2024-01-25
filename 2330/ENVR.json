@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 74,
-        "Avail": 6,
+        "Enrol": 75,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       }
@@ -360,7 +360,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 35,
@@ -573,19 +573,19 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 60,
-        "Avail": 35,
+        "Enrol": 62,
+        "Avail": 33,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 70,
-            "Enrol": 41,
-            "Avail": 29
+            "Enrol": 42,
+            "Avail": 28
           },
           "EVEM": {
             "Quota": 20,
-            "Enrol": 19,
-            "Avail": 1
+            "Enrol": 20,
+            "Avail": 0
           },
           "PPOL": {
             "Quota": 5,
@@ -734,14 +734,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 17,
-        "Avail": 13,
+        "Enrol": 18,
+        "Avail": 12,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 30,
-            "Enrol": 17,
-            "Avail": 13
+            "Enrol": 18,
+            "Avail": 12
           }
         },
         "Remarks": [
@@ -772,14 +772,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 26,
-        "Avail": 34,
+        "Enrol": 28,
+        "Avail": 32,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 60,
-            "Enrol": 26,
-            "Avail": 34
+            "Enrol": 28,
+            "Avail": 32
           }
         },
         "Remarks": [
@@ -850,14 +850,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 28,
-        "Avail": 22,
+        "Enrol": 29,
+        "Avail": 21,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 50,
-            "Enrol": 28,
-            "Avail": 22
+            "Enrol": 29,
+            "Avail": 21
           }
         },
         "Remarks": [
@@ -887,8 +887,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 23,
-        "Avail": 22,
+        "Enrol": 24,
+        "Avail": 21,
         "Wait": 0,
         "Remarks": [
           "For MPhil/PhD (AES/ESPM) students only"
@@ -903,8 +903,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 10,
-        "Avail": 35,
+        "Enrol": 12,
+        "Avail": 33,
         "Wait": 0,
         "Remarks": [
           "For MPhil/PhD (AES/ESPM) students only"
@@ -968,14 +968,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 37,
-        "Avail": 3,
+        "Enrol": 38,
+        "Avail": 2,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 40,
-            "Enrol": 37,
-            "Avail": 3
+            "Enrol": 38,
+            "Avail": 2
           }
         },
         "Remarks": [
@@ -1036,8 +1036,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 14,
-        "Avail": 46,
+        "Enrol": 16,
+        "Avail": 44,
         "Wait": 0,
         "Remarks": [
           "For MPhil/PhD (AES) and MPhil/PhD (ESPM) students only"

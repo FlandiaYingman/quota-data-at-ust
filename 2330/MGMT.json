@@ -45,7 +45,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 36,
+        "Wait": 35,
         "Remarks": []
       },
       {
@@ -694,7 +694,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 46,
+        "Wait": 45,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
@@ -729,7 +729,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 46,
+        "Wait": 45,
         "Remarks": []
       }
     ]
@@ -948,7 +948,7 @@
         "Quota": 40,
         "Enrol": 16,
         "Avail": 24,
-        "Wait": 45,
+        "Wait": 46,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,

@@ -189,15 +189,15 @@
         "Avail": 31,
         "Wait": 10,
         "QuotaDetail": {
-          "CSIT": {
-            "Quota": 83,
-            "Enrol": 52,
-            "Avail": 31
-          },
           "BDT": {
             "Quota": 7,
             "Enrol": 7,
             "Avail": 0
+          },
+          "CSIT": {
+            "Quota": 83,
+            "Enrol": 52,
+            "Avail": 31
           }
         },
         "Remarks": []

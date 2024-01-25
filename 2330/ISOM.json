@@ -1411,7 +1411,7 @@
         "Quota": 55,
         "Enrol": 15,
         "Avail": 40,
-        "Wait": 19,
+        "Wait": 18,
         "QuotaDetail": {
           "IS": {
             "Quota": 55,
@@ -1448,7 +1448,7 @@
         "Quota": 28,
         "Enrol": 9,
         "Avail": 19,
-        "Wait": 10,
+        "Wait": 9,
         "Remarks": []
       }
     ]
@@ -2941,7 +2941,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "OM": {
             "Quota": 30,

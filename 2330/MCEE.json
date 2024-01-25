@@ -299,14 +299,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 15,
-        "Avail": 15,
-        "Wait": 2,
+        "Enrol": 16,
+        "Avail": 14,
+        "Wait": 1,
         "QuotaDetail": {
           "MCEE": {
             "Quota": 30,
-            "Enrol": 14,
-            "Avail": 16
+            "Enrol": 15,
+            "Avail": 15
           }
         },
         "Remarks": [

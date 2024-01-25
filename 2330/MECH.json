@@ -342,7 +342,7 @@
         "Quota": 92,
         "Enrol": 75,
         "Avail": 17,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "MECH": {
             "Quota": 23,
@@ -377,7 +377,7 @@
         "Quota": 23,
         "Enrol": 21,
         "Avail": 2,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -1104,8 +1104,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 10,
-        "Avail": 35,
+        "Enrol": 8,
+        "Avail": 37,
         "Wait": 0,
         "Remarks": []
       }
@@ -1237,8 +1237,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 4,
-        "Avail": 41,
+        "Enrol": 5,
+        "Avail": 40,
         "Wait": 0,
         "Remarks": []
       },
@@ -1251,8 +1251,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 4,
-        "Avail": 41,
+        "Enrol": 5,
+        "Avail": 40,
         "Wait": 0,
         "Remarks": []
       }

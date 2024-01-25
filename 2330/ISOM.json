@@ -2791,15 +2791,15 @@
         "Avail": 24,
         "Wait": 31,
         "QuotaDetail": {
-          "RMBI": {
-            "Quota": 40,
-            "Enrol": 0,
-            "Avail": 40
-          },
           "OM": {
             "Quota": 20,
             "Enrol": 20,
             "Avail": 0
+          },
+          "RMBI": {
+            "Quota": 40,
+            "Enrol": 0,
+            "Avail": 40
           }
         },
         "Remarks": []

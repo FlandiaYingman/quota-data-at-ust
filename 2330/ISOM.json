@@ -32,7 +32,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 18,
+        "Wait": 19,
         "Remarks": []
       }
     ]
@@ -129,15 +129,15 @@
         "Avail": 2,
         "Wait": 8,
         "QuotaDetail": {
-          "BIBU": {
-            "Quota": 21,
-            "Enrol": 21,
-            "Avail": 0
-          },
           "SBM": {
             "Quota": 95,
             "Enrol": 93,
             "Avail": 2
+          },
+          "BIBU": {
+            "Quota": 21,
+            "Enrol": 21,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -1587,7 +1587,7 @@
         "Quota": 55,
         "Enrol": 55,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "QuotaDetail": {
           "IS": {
             "Quota": 50,

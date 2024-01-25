@@ -21,14 +21,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 85,
-        "Enrol": 33,
-        "Avail": 52,
-        "Wait": 17,
+        "Enrol": 38,
+        "Avail": 47,
+        "Wait": 15,
         "QuotaDetail": {
           "EHS": {
             "Quota": 50,
-            "Enrol": 20,
-            "Avail": 30
+            "Enrol": 22,
+            "Avail": 28
           },
           "EVEM": {
             "Quota": 10,
@@ -42,8 +42,8 @@
           },
           "OCES": {
             "Quota": 10,
-            "Enrol": 3,
-            "Avail": 7
+            "Enrol": 6,
+            "Avail": 4
           }
         },
         "Remarks": []

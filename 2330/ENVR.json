@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 46,
-        "Avail": 34,
+        "Enrol": 52,
+        "Avail": 28,
         "Wait": 0,
         "Remarks": []
       }
@@ -72,8 +72,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 29,
-        "Avail": 36,
+        "Enrol": 30,
+        "Avail": 35,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a experiential learning mode"
@@ -229,8 +229,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 31,
-        "Avail": 9,
+        "Enrol": 32,
+        "Avail": 8,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
@@ -326,7 +326,7 @@
         "Quota": 45,
         "Enrol": 31,
         "Avail": 14,
-        "Wait": 12,
+        "Wait": 15,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 45,
@@ -360,7 +360,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 35,
@@ -391,8 +391,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 6,
-        "Avail": 14,
+        "Enrol": 7,
+        "Avail": 13,
         "Wait": 0,
         "Remarks": [
           "Co-list with ENVR 6090E"
@@ -988,6 +988,35 @@
   },
   {
     "program": "ENVR",
+    "code": "6100F",
+    "name": "Independent Study",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Study on selected topics in environmental science under the supervision of a faculty member. The course may be repeated once for credits if the topic is different."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4355)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 1,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ENVR",
     "code": "6770",
     "name": "Professional Development in Environmental Science, Policy and Management",
     "units": 1,
@@ -1036,8 +1065,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 22,
-        "Avail": 18,
+        "Enrol": 21,
+        "Avail": 19,
         "Wait": 0,
         "Remarks": [
           "For MPhil(AES/ESPM) students only"

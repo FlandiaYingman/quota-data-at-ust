@@ -1309,8 +1309,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 48,
-        "Avail": 42,
+        "Enrol": 47,
+        "Avail": 43,
         "Wait": 0,
         "Remarks": []
       },
@@ -1365,8 +1365,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 19,
-        "Avail": 26,
+        "Enrol": 18,
+        "Avail": 27,
         "Wait": 0,
         "Remarks": []
       },
@@ -1591,7 +1591,7 @@
         "Quota": 90,
         "Enrol": 34,
         "Avail": 56,
-        "Wait": 14,
+        "Wait": 15,
         "QuotaDetail": {
           "MATH": {
             "Quota": 62,
@@ -1612,7 +1612,7 @@
         "Quota": 90,
         "Enrol": 34,
         "Avail": 56,
-        "Wait": 14,
+        "Wait": 15,
         "QuotaDetail": {
           "MATH": {
             "Quota": 62,
@@ -1633,7 +1633,7 @@
         "Quota": 45,
         "Enrol": 23,
         "Avail": 22,
-        "Wait": 13,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -1849,14 +1849,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 160,
-        "Enrol": 117,
-        "Avail": 43,
+        "Enrol": 118,
+        "Avail": 42,
         "Wait": 0,
         "QuotaDetail": {
           "MATH": {
             "Quota": 53,
-            "Enrol": 13,
-            "Avail": 40
+            "Enrol": 14,
+            "Avail": 39
           }
         },
         "Remarks": []
@@ -1870,14 +1870,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 160,
-        "Enrol": 117,
-        "Avail": 43,
+        "Enrol": 118,
+        "Avail": 42,
         "Wait": 0,
         "QuotaDetail": {
           "MATH": {
             "Quota": 53,
-            "Enrol": 13,
-            "Avail": 40
+            "Enrol": 14,
+            "Avail": 39
           }
         },
         "Remarks": []
@@ -1933,8 +1933,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 30,
-        "Avail": 10,
+        "Enrol": 31,
+        "Avail": 9,
         "Wait": 0,
         "Remarks": []
       }
@@ -2059,14 +2059,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 18,
-        "Avail": 22,
+        "Enrol": 19,
+        "Avail": 21,
         "Wait": 0,
         "QuotaDetail": {
           "MATH": {
             "Quota": 22,
-            "Enrol": 5,
-            "Avail": 17
+            "Enrol": 6,
+            "Avail": 16
           }
         },
         "Remarks": []
@@ -2080,8 +2080,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 18,
-        "Avail": 22,
+        "Enrol": 19,
+        "Avail": 21,
         "Wait": 0,
         "Remarks": []
       }
@@ -2234,7 +2234,7 @@
         "Quota": 90,
         "Enrol": 71,
         "Avail": 19,
-        "Wait": 11,
+        "Wait": 12,
         "QuotaDetail": {
           "MATH": {
             "Quota": 50,
@@ -2255,7 +2255,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 12,
+        "Wait": 13,
         "Remarks": []
       },
       {
@@ -2583,14 +2583,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 21,
-        "Avail": 19,
+        "Enrol": 22,
+        "Avail": 18,
         "Wait": 0,
         "QuotaDetail": {
           "MATH": {
             "Quota": 22,
-            "Enrol": 10,
-            "Avail": 12
+            "Enrol": 11,
+            "Avail": 11
           }
         },
         "Remarks": []
@@ -2604,14 +2604,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 21,
-        "Avail": 19,
+        "Enrol": 22,
+        "Avail": 18,
         "Wait": 0,
         "QuotaDetail": {
           "MATH": {
             "Quota": 22,
-            "Enrol": 10,
-            "Avail": 12
+            "Enrol": 11,
+            "Avail": 11
           }
         },
         "Remarks": []
@@ -2625,8 +2625,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 21,
-        "Avail": 19,
+        "Enrol": 22,
+        "Avail": 18,
         "Wait": 0,
         "Remarks": []
       }
@@ -3212,8 +3212,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 28,
-        "Avail": 22,
+        "Enrol": 29,
+        "Avail": 21,
         "Wait": 0,
         "Remarks": []
       },
@@ -3226,8 +3226,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 28,
-        "Avail": 22,
+        "Enrol": 29,
+        "Avail": 21,
         "Wait": 0,
         "Remarks": []
       }
@@ -3868,36 +3868,6 @@
         "Avail": 50,
         "Wait": 0,
         "Remarks": []
-      }
-    ]
-  },
-  {
-    "program": "MATH",
-    "code": "6911W",
-    "name": "Reading Course: Machine Learning",
-    "units": 3,
-    "info": {
-      "vector": "[3-0-0:3]",
-      "description": "This reading course attempts to cover largely privacy preserving machine learning methodologies and other related topics. A well-performing ML model relies on a large volume of training data and high-powered computational resources. There are serious privacy concerns because of possible leakage of highly privacy-sensitive information. Hence, well-designed privacy-preserving ML (PPML) solutions are much needed. PPML is a set of techniques and practices that safeguard sensitive data during the training and deployment of ML models. It allows organizations to harness the power of machine learning while respecting data privacy and ensures that confidential information remains secure and anonymous throughout the AI lifecycle. We will cover other topics such as PPML with large language models and their applications to vertical fields. Students should seek approval from the course instructor to take this reading course."
-    },
-    "attrs": [],
-    "sections": [
-      {
-        "Section": "L1 (4349)",
-        "Date & Time": "Tu 05:00PM - 07:50PM",
-        "Room": "Rm 2126B, Lift 19 (28)",
-        "Instructor": [
-          "CHEN, Kani"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 8,
-        "Enrol": 0,
-        "Avail": 8,
-        "Wait": 0,
-        "Remarks": [
-          "Students should seek approval from the course instructor to take this course.",
-          "Instructor Consent Required"
-        ]
       }
     ]
   },

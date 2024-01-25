@@ -140,8 +140,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": [
           "Classes held in LTC"
@@ -326,14 +326,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 10,
-        "Avail": 30,
+        "Enrol": 11,
+        "Avail": 29,
         "Wait": 0,
         "QuotaDetail": {
           "IELM": {
             "Quota": 38,
-            "Enrol": 10,
-            "Avail": 28
+            "Enrol": 11,
+            "Avail": 27
           }
         },
         "Remarks": []
@@ -347,8 +347,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 9,
-        "Avail": 21,
+        "Enrol": 10,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       },
@@ -447,7 +447,7 @@
         "Quota": 15,
         "Enrol": 15,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -514,8 +514,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 45,
-        "Avail": 5,
+        "Enrol": 46,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": []
       },
@@ -528,8 +528,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 45,
-        "Avail": 5,
+        "Enrol": 46,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": []
       }
@@ -599,7 +599,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -613,7 +613,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -680,8 +680,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 32,
-        "Avail": 8,
+        "Enrol": 33,
+        "Avail": 7,
         "Wait": 0,
         "Remarks": []
       },
@@ -694,8 +694,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 32,
-        "Avail": 8,
+        "Enrol": 33,
+        "Avail": 7,
         "Wait": 0,
         "Remarks": []
       }
@@ -769,8 +769,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 18,
-        "Avail": 2,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -785,8 +785,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 18,
-        "Avail": 2,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

@@ -67,7 +67,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -576,8 +576,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 17,
-        "Avail": 3,
+        "Enrol": 16,
+        "Avail": 4,
         "Wait": 14,
         "Remarks": []
       },
@@ -590,8 +590,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 10,
-        "Avail": 10,
+        "Enrol": 11,
+        "Avail": 9,
         "Wait": 20,
         "Remarks": [
           "Venue : Room 3494"
@@ -724,14 +724,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 57,
-        "Avail": 43,
-        "Wait": 38,
+        "Enrol": 58,
+        "Avail": 42,
+        "Wait": 37,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 50,
-            "Enrol": 7,
-            "Avail": 43
+            "Enrol": 8,
+            "Avail": 42
           }
         },
         "Remarks": []
@@ -745,14 +745,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 57,
-        "Avail": 43,
-        "Wait": 38,
+        "Enrol": 58,
+        "Avail": 42,
+        "Wait": 37,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 50,
-            "Enrol": 7,
-            "Avail": 43
+            "Enrol": 8,
+            "Avail": 42
           }
         },
         "Remarks": []
@@ -1932,7 +1932,7 @@
         "Quota": 100,
         "Enrol": 71,
         "Avail": 29,
-        "Wait": 57,
+        "Wait": 58,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 40,
@@ -1953,7 +1953,7 @@
         "Quota": 100,
         "Enrol": 71,
         "Avail": 29,
-        "Wait": 57,
+        "Wait": 58,
         "Remarks": []
       }
     ]
@@ -2232,7 +2232,7 @@
         "Quota": 100,
         "Enrol": 70,
         "Avail": 30,
-        "Wait": 17,
+        "Wait": 18,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 40,
@@ -2253,7 +2253,7 @@
         "Quota": 100,
         "Enrol": 70,
         "Avail": 30,
-        "Wait": 17,
+        "Wait": 18,
         "Remarks": []
       }
     ]
@@ -2910,7 +2910,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 19,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
@@ -3094,7 +3094,7 @@
         "Quota": 20,
         "Enrol": 18,
         "Avail": 2,
-        "Wait": 8,
+        "Wait": 9,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,

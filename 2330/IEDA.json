@@ -447,7 +447,7 @@
         "Quota": 15,
         "Enrol": 15,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       }
     ]
@@ -721,9 +721,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
-        "Wait": 0,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "IELM": {
             "Quota": 12,
@@ -742,9 +742,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
-        "Wait": 0,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -769,8 +769,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 18,
-        "Avail": 2,
+        "Enrol": 17,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -785,8 +785,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 18,
-        "Avail": 2,
+        "Enrol": 17,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

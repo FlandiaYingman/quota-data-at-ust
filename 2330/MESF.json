@@ -22,14 +22,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 35,
-        "Avail": 45,
+        "Enrol": 37,
+        "Avail": 43,
         "Wait": 0,
         "QuotaDetail": {
           "MESF": {
             "Quota": 75,
-            "Enrol": 33,
-            "Avail": 42
+            "Enrol": 35,
+            "Avail": 40
           },
           "IBTM": {
             "Quota": 5,
@@ -63,14 +63,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 30,
-        "Avail": 60,
-        "Wait": 11,
+        "Enrol": 38,
+        "Avail": 52,
+        "Wait": 5,
         "QuotaDetail": {
           "MESF": {
             "Quota": 80,
-            "Enrol": 29,
-            "Avail": 51
+            "Enrol": 37,
+            "Avail": 43
           },
           "IBTM": {
             "Quota": 5,
@@ -108,14 +108,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 20,
-        "Avail": 80,
+        "Enrol": 21,
+        "Avail": 79,
         "Wait": 0,
         "QuotaDetail": {
           "MESF": {
             "Quota": 95,
-            "Enrol": 14,
-            "Avail": 81
+            "Enrol": 15,
+            "Avail": 80
           },
           "IBTM": {
             "Quota": 5,
@@ -149,14 +149,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 10,
-        "Avail": 90,
-        "Wait": 2,
+        "Enrol": 12,
+        "Avail": 88,
+        "Wait": 1,
         "QuotaDetail": {
           "MESF": {
             "Quota": 90,
-            "Enrol": 10,
-            "Avail": 80
+            "Enrol": 12,
+            "Avail": 78
           },
           "AESF": {
             "Quota": 10,
@@ -188,14 +188,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 27,
-        "Avail": 53,
-        "Wait": 9,
+        "Enrol": 34,
+        "Avail": 46,
+        "Wait": 3,
         "QuotaDetail": {
           "MESF": {
             "Quota": 80,
-            "Enrol": 27,
-            "Avail": 53
+            "Enrol": 34,
+            "Avail": 46
           }
         },
         "Remarks": []
@@ -222,14 +222,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 23,
-        "Avail": 57,
-        "Wait": 9,
+        "Enrol": 29,
+        "Avail": 51,
+        "Wait": 4,
         "QuotaDetail": {
           "MESF": {
             "Quota": 80,
-            "Enrol": 22,
-            "Avail": 58
+            "Enrol": 28,
+            "Avail": 52
           }
         },
         "Remarks": []

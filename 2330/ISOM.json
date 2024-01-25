@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 15,
-        "Avail": 50,
+        "Enrol": 14,
+        "Avail": 51,
         "Wait": 0,
         "Remarks": []
       }
@@ -2101,7 +2101,7 @@
         "Quota": 55,
         "Enrol": 11,
         "Avail": 44,
-        "Wait": 15,
+        "Wait": 14,
         "QuotaDetail": {
           "RMBI": {
             "Quota": 4,
@@ -3290,11 +3290,6 @@
         "Avail": 46,
         "Wait": 8,
         "QuotaDetail": {
-          "RMBI": {
-            "Quota": 5,
-            "Enrol": 1,
-            "Avail": 4
-          },
           "OM": {
             "Quota": 40,
             "Enrol": 3,
@@ -3304,6 +3299,11 @@
             "Quota": 5,
             "Enrol": 0,
             "Avail": 5
+          },
+          "RMBI": {
+            "Quota": 5,
+            "Enrol": 1,
+            "Avail": 4
           }
         },
         "Remarks": []
@@ -5898,7 +5898,7 @@
         "Wait": 0,
         "Remarks": [
           "For MSc(GO) students only",
-          "Add/Drop Deadline : 16-Feb-2024"
+          "Add/Drop Deadline : 30-May-2024"
         ]
       }
     ]

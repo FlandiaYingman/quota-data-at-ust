@@ -93,7 +93,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "QuotaDetail": {
           "SBM": {
             "Quota": 58,
@@ -156,7 +156,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 117,
+        "Wait": 116,
         "QuotaDetail": {
           "SBM": {
             "Quota": 58,
@@ -593,7 +593,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 26,
+        "Wait": 27,
         "QuotaDetail": {
           "MARK": {
             "Quota": 40,
@@ -628,7 +628,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 26,
+        "Wait": 27,
         "Remarks": []
       }
     ]
@@ -813,14 +813,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 42,
-        "Enrol": 31,
-        "Avail": 11,
+        "Enrol": 30,
+        "Avail": 12,
         "Wait": 7,
         "QuotaDetail": {
           "MARK": {
             "Quota": 42,
-            "Enrol": 31,
-            "Avail": 11
+            "Enrol": 30,
+            "Avail": 12
           }
         },
         "Remarks": []
@@ -834,14 +834,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 42,
-        "Enrol": 32,
-        "Avail": 10,
-        "Wait": 3,
+        "Enrol": 33,
+        "Avail": 9,
+        "Wait": 2,
         "QuotaDetail": {
           "MARK": {
             "Quota": 42,
-            "Enrol": 32,
-            "Avail": 10
+            "Enrol": 33,
+            "Avail": 9
           }
         },
         "Remarks": []
@@ -883,8 +883,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 42,
-        "Enrol": 31,
-        "Avail": 11,
+        "Enrol": 30,
+        "Avail": 12,
         "Wait": 7,
         "Remarks": []
       },
@@ -897,9 +897,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 42,
-        "Enrol": 32,
-        "Avail": 10,
-        "Wait": 3,
+        "Enrol": 33,
+        "Avail": 9,
+        "Wait": 2,
         "Remarks": []
       }
     ]

@@ -55,7 +55,7 @@
         "Quota": 170,
         "Enrol": 170,
         "Avail": 0,
-        "Wait": 95,
+        "Wait": 96,
         "Remarks": []
       },
       {
@@ -87,7 +87,7 @@
         "Quota": 85,
         "Enrol": 85,
         "Avail": 0,
-        "Wait": 44,
+        "Wait": 45,
         "Remarks": []
       }
     ]
@@ -118,8 +118,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 180,
-        "Enrol": 91,
-        "Avail": 89,
+        "Enrol": 92,
+        "Avail": 88,
         "Wait": 0,
         "Remarks": []
       },
@@ -132,8 +132,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 180,
-        "Enrol": 91,
-        "Avail": 89,
+        "Enrol": 92,
+        "Avail": 88,
         "Wait": 0,
         "Remarks": []
       }
@@ -474,7 +474,7 @@
         "Quota": 94,
         "Enrol": 94,
         "Avail": 0,
-        "Wait": 37,
+        "Wait": 38,
         "Remarks": []
       }
     ]
@@ -1002,9 +1002,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 180,
-        "Enrol": 170,
-        "Avail": 10,
-        "Wait": 1,
+        "Enrol": 171,
+        "Avail": 9,
+        "Wait": 0,
         "QuotaDetail": {
           "CIVL": {
             "Quota": 179,
@@ -1025,7 +1025,7 @@
         "Quota": 90,
         "Enrol": 90,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -1037,8 +1037,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 80,
-        "Avail": 10,
+        "Enrol": 81,
+        "Avail": 9,
         "Wait": 0,
         "Remarks": []
       }
@@ -1379,14 +1379,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 58,
-        "Avail": 7,
-        "Wait": 14,
+        "Enrol": 57,
+        "Avail": 8,
+        "Wait": 15,
         "QuotaDetail": {
           "CENG": {
             "Quota": 15,
-            "Enrol": 8,
-            "Avail": 7
+            "Enrol": 7,
+            "Avail": 8
           },
           "CIVL": {
             "Quota": 46,

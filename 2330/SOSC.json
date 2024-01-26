@@ -104,7 +104,7 @@
         "Quota": 120,
         "Enrol": 93,
         "Avail": 27,
-        "Wait": 27,
+        "Wait": 29,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 40,
@@ -193,7 +193,7 @@
         "Quota": 400,
         "Enrol": 361,
         "Avail": 39,
-        "Wait": 292,
+        "Wait": 291,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 100,
@@ -238,14 +238,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 90,
-        "Avail": 30,
-        "Wait": 69,
+        "Enrol": 89,
+        "Avail": 31,
+        "Wait": 70,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
-            "Enrol": 30,
-            "Avail": 30
+            "Enrol": 29,
+            "Avail": 31
           }
         },
         "Remarks": []
@@ -305,8 +305,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 300,
-        "Enrol": 208,
-        "Avail": 92,
+        "Enrol": 209,
+        "Avail": 91,
         "Wait": 0,
         "QuotaDetail": {
           "SHSS": {
@@ -353,8 +353,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 34,
-        "Avail": 86,
+        "Enrol": 36,
+        "Avail": 84,
         "Wait": 0,
         "QuotaDetail": {
           "SHSS": {
@@ -404,7 +404,7 @@
         "Quota": 120,
         "Enrol": 85,
         "Avail": 35,
-        "Wait": 59,
+        "Wait": 62,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -446,7 +446,7 @@
         "Quota": 120,
         "Enrol": 91,
         "Avail": 29,
-        "Wait": 251,
+        "Wait": 252,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -538,7 +538,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 44,
+        "Wait": 45,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 40,
@@ -1422,7 +1422,7 @@
         "Quota": 20,
         "Enrol": 5,
         "Avail": 15,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "SOSC": {
             "Quota": 20,

@@ -1514,7 +1514,7 @@
         "Quota": 24,
         "Enrol": 24,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 2,
         "QuotaDetail": {
           "MBA": {
             "Quota": 24,
@@ -1538,7 +1538,7 @@
         "Quota": 24,
         "Enrol": 24,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 2,
         "QuotaDetail": {
           "MBA": {
             "Quota": 24,
@@ -1875,14 +1875,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 31,
-        "Avail": 29,
+        "Enrol": 32,
+        "Avail": 28,
         "Wait": 0,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 60,
-            "Enrol": 31,
-            "Avail": 29
+            "Enrol": 32,
+            "Avail": 28
           }
         },
         "Remarks": [

@@ -57,9 +57,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 35,
-        "Avail": 5,
-        "Wait": 0,
+        "Enrol": 40,
+        "Avail": 0,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -95,8 +95,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 96,
-        "Enrol": 54,
-        "Avail": 42,
+        "Enrol": 56,
+        "Avail": 40,
         "Wait": 0,
         "Remarks": []
       },
@@ -109,8 +109,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 48,
-        "Enrol": 13,
-        "Avail": 35,
+        "Enrol": 15,
+        "Avail": 33,
         "Wait": 0,
         "Remarks": []
       },
@@ -165,7 +165,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 15,
         "Remarks": []
       }
     ]
@@ -196,8 +196,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 12,
-        "Avail": 18,
+        "Enrol": 13,
+        "Avail": 17,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in an experiential learning mode"

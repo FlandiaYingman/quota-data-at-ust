@@ -32,7 +32,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 117,
+        "Wait": 116,
         "Remarks": []
       }
     ]
@@ -326,7 +326,7 @@
         "Quota": 45,
         "Enrol": 43,
         "Avail": 2,
-        "Wait": 22,
+        "Wait": 23,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 45,
@@ -772,14 +772,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 31,
-        "Avail": 29,
+        "Enrol": 32,
+        "Avail": 28,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 60,
-            "Enrol": 31,
-            "Avail": 29
+            "Enrol": 32,
+            "Avail": 28
           }
         },
         "Remarks": [
@@ -903,8 +903,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 18,
-        "Avail": 27,
+        "Enrol": 22,
+        "Avail": 23,
         "Wait": 0,
         "Remarks": [
           "For MPhil/PhD (AES/ESPM) students only"

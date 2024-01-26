@@ -104,7 +104,7 @@
         "Quota": 120,
         "Enrol": 93,
         "Avail": 27,
-        "Wait": 29,
+        "Wait": 30,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 40,
@@ -193,7 +193,7 @@
         "Quota": 400,
         "Enrol": 361,
         "Avail": 39,
-        "Wait": 291,
+        "Wait": 292,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 100,
@@ -240,7 +240,7 @@
         "Quota": 120,
         "Enrol": 89,
         "Avail": 31,
-        "Wait": 70,
+        "Wait": 69,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -305,8 +305,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 300,
-        "Enrol": 209,
-        "Avail": 91,
+        "Enrol": 210,
+        "Avail": 90,
         "Wait": 0,
         "QuotaDetail": {
           "SHSS": {
@@ -404,7 +404,7 @@
         "Quota": 120,
         "Enrol": 85,
         "Avail": 35,
-        "Wait": 62,
+        "Wait": 64,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -446,7 +446,7 @@
         "Quota": 120,
         "Enrol": 91,
         "Avail": 29,
-        "Wait": 252,
+        "Wait": 251,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -498,8 +498,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 59,
-        "Avail": 21,
+        "Enrol": 60,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       }
@@ -538,7 +538,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 45,
+        "Wait": 46,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 40,
@@ -785,14 +785,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 31,
-        "Avail": 9,
+        "Enrol": 30,
+        "Avail": 10,
         "Wait": 0,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 30,
-            "Enrol": 23,
-            "Avail": 7
+            "Enrol": 22,
+            "Avail": 8
           }
         },
         "Remarks": []

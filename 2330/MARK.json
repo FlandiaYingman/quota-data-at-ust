@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 30,
-        "Avail": 20,
+        "Enrol": 31,
+        "Avail": 19,
         "Wait": 0,
         "Remarks": []
       },
@@ -114,7 +114,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 12,
         "QuotaDetail": {
           "SBM": {
             "Quota": 58,
@@ -135,7 +135,7 @@
         "Quota": 59,
         "Enrol": 59,
         "Avail": 0,
-        "Wait": 42,
+        "Wait": 45,
         "QuotaDetail": {
           "SBM": {
             "Quota": 59,
@@ -156,7 +156,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 78,
+        "Wait": 77,
         "QuotaDetail": {
           "SBM": {
             "Quota": 58,
@@ -208,15 +208,15 @@
           "SHI, Mengze"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 48,
         "Enrol": 45,
-        "Avail": 0,
-        "Wait": 32,
+        "Avail": 3,
+        "Wait": 33,
         "QuotaDetail": {
           "MARK": {
-            "Quota": 45,
+            "Quota": 48,
             "Enrol": 45,
-            "Avail": 0
+            "Avail": 3
           }
         },
         "Remarks": []
@@ -229,15 +229,15 @@
           "SHI, Mengze"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 48,
         "Enrol": 45,
-        "Avail": 0,
-        "Wait": 32,
+        "Avail": 3,
+        "Wait": 33,
         "QuotaDetail": {
           "MARK": {
-            "Quota": 45,
+            "Quota": 48,
             "Enrol": 45,
-            "Avail": 0
+            "Avail": 3
           }
         },
         "Remarks": []
@@ -250,15 +250,15 @@
           "SHI, Mengze"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 48,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 3,
         "Wait": 13,
         "QuotaDetail": {
           "MARK": {
-            "Quota": 45,
+            "Quota": 48,
             "Enrol": 45,
-            "Avail": 0
+            "Avail": 3
           }
         },
         "Remarks": []
@@ -271,15 +271,15 @@
           "SHI, Mengze"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 48,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 3,
         "Wait": 13,
         "QuotaDetail": {
           "MARK": {
-            "Quota": 45,
+            "Quota": 48,
             "Enrol": 45,
-            "Avail": 0
+            "Avail": 3
           }
         },
         "Remarks": []
@@ -292,10 +292,10 @@
           "SHI, Mengze"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 48,
         "Enrol": 45,
-        "Avail": 0,
-        "Wait": 32,
+        "Avail": 3,
+        "Wait": 33,
         "Remarks": []
       },
       {
@@ -306,9 +306,9 @@
           "SHI, Mengze"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 48,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 3,
         "Wait": 13,
         "Remarks": []
       }
@@ -333,15 +333,15 @@
           "ZHOU, Rongrong"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 45,
         "Enrol": 40,
-        "Avail": 0,
-        "Wait": 39,
+        "Avail": 5,
+        "Wait": 40,
         "QuotaDetail": {
           "MARK": {
-            "Quota": 40,
+            "Quota": 45,
             "Enrol": 40,
-            "Avail": 0
+            "Avail": 5
           }
         },
         "Remarks": []
@@ -354,15 +354,15 @@
           "ZHOU, Rongrong"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 45,
         "Enrol": 40,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 34,
         "QuotaDetail": {
           "MARK": {
-            "Quota": 40,
+            "Quota": 45,
             "Enrol": 40,
-            "Avail": 0
+            "Avail": 5
           }
         },
         "Remarks": []
@@ -375,15 +375,15 @@
           "ZHOU, Rongrong"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
-        "Enrol": 40,
-        "Avail": 0,
-        "Wait": 14,
+        "Quota": 45,
+        "Enrol": 39,
+        "Avail": 6,
+        "Wait": 13,
         "QuotaDetail": {
           "MARK": {
-            "Quota": 40,
-            "Enrol": 40,
-            "Avail": 0
+            "Quota": 45,
+            "Enrol": 39,
+            "Avail": 6
           }
         },
         "Remarks": []
@@ -396,10 +396,10 @@
           "ZHOU, Rongrong"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 45,
         "Enrol": 40,
-        "Avail": 0,
-        "Wait": 39,
+        "Avail": 5,
+        "Wait": 40,
         "Remarks": []
       },
       {
@@ -410,9 +410,9 @@
           "ZHOU, Rongrong"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 45,
         "Enrol": 40,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 34,
         "Remarks": []
       },
@@ -424,10 +424,10 @@
           "ZHOU, Rongrong"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
-        "Enrol": 40,
-        "Avail": 0,
-        "Wait": 14,
+        "Quota": 45,
+        "Enrol": 39,
+        "Avail": 6,
+        "Wait": 13,
         "Remarks": []
       }
     ]
@@ -572,7 +572,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 29,
+        "Wait": 30,
         "QuotaDetail": {
           "MARK": {
             "Quota": 40,
@@ -614,7 +614,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 29,
+        "Wait": 30,
         "Remarks": []
       },
       {
@@ -697,7 +697,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 27,
         "QuotaDetail": {
           "MARK": {
             "Quota": 40,
@@ -746,7 +746,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 27,
         "Remarks": []
       }
     ]
@@ -770,15 +770,15 @@
           "SALVACRUZ, Joseph"
         ],
         "TA/IA/GTA": [],
-        "Quota": 35,
+        "Quota": 40,
         "Enrol": 35,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 39,
         "QuotaDetail": {
           "MARK": {
-            "Quota": 35,
+            "Quota": 40,
             "Enrol": 35,
-            "Avail": 0
+            "Avail": 5
           }
         },
         "Remarks": []
@@ -791,15 +791,15 @@
           "SALVACRUZ, Joseph"
         ],
         "TA/IA/GTA": [],
-        "Quota": 35,
+        "Quota": 40,
         "Enrol": 35,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 16,
         "QuotaDetail": {
           "MARK": {
-            "Quota": 35,
+            "Quota": 40,
             "Enrol": 35,
-            "Avail": 0
+            "Avail": 5
           }
         },
         "Remarks": []
@@ -812,15 +812,15 @@
           "RAITT, Gene"
         ],
         "TA/IA/GTA": [],
-        "Quota": 35,
+        "Quota": 40,
         "Enrol": 34,
-        "Avail": 1,
+        "Avail": 6,
         "Wait": 8,
         "QuotaDetail": {
           "MARK": {
-            "Quota": 35,
+            "Quota": 40,
             "Enrol": 34,
-            "Avail": 1
+            "Avail": 6
           }
         },
         "Remarks": []
@@ -833,15 +833,15 @@
           "RAITT, Gene"
         ],
         "TA/IA/GTA": [],
-        "Quota": 35,
+        "Quota": 40,
         "Enrol": 35,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 3,
         "QuotaDetail": {
           "MARK": {
-            "Quota": 35,
+            "Quota": 40,
             "Enrol": 35,
-            "Avail": 0
+            "Avail": 5
           }
         },
         "Remarks": []
@@ -854,9 +854,9 @@
           "SALVACRUZ, Joseph"
         ],
         "TA/IA/GTA": [],
-        "Quota": 35,
+        "Quota": 40,
         "Enrol": 35,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 39,
         "Remarks": []
       },
@@ -868,9 +868,9 @@
           "SALVACRUZ, Joseph"
         ],
         "TA/IA/GTA": [],
-        "Quota": 35,
+        "Quota": 40,
         "Enrol": 35,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 16,
         "Remarks": []
       },
@@ -882,9 +882,9 @@
           "RAITT, Gene"
         ],
         "TA/IA/GTA": [],
-        "Quota": 35,
+        "Quota": 40,
         "Enrol": 34,
-        "Avail": 1,
+        "Avail": 6,
         "Wait": 8,
         "Remarks": []
       },
@@ -896,9 +896,9 @@
           "RAITT, Gene"
         ],
         "TA/IA/GTA": [],
-        "Quota": 35,
+        "Quota": 40,
         "Enrol": 35,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 3,
         "Remarks": []
       }

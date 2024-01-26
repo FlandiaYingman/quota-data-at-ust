@@ -358,8 +358,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 7,
-        "Avail": 3,
+        "Enrol": 8,
+        "Avail": 2,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -391,6 +391,35 @@
         "Avail": 0,
         "Wait": 0,
         "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "EMIA",
+    "code": "6950G",
+    "name": "Independent Study",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Independent studies or projects under the direct guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. May be graded by letter, P/F or PP for different offerings."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4361)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "FAN, Mingming"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
       }
     ]
   }

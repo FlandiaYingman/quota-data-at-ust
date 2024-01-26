@@ -1010,7 +1010,7 @@
         "Quota": 18,
         "Enrol": 18,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1253,7 +1253,7 @@
         "Quota": 50,
         "Enrol": 48,
         "Avail": 2,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "ECON": {
             "Quota": 50,
@@ -1274,7 +1274,7 @@
         "Quota": 50,
         "Enrol": 48,
         "Avail": 2,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       }
     ]

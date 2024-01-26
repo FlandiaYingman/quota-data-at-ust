@@ -99,7 +99,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -165,7 +165,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 29,
+        "Wait": 28,
         "Remarks": []
       },
       {
@@ -177,8 +177,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 65,
-        "Avail": 35,
+        "Enrol": 66,
+        "Avail": 34,
         "Wait": 0,
         "Remarks": []
       },
@@ -191,8 +191,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 65,
-        "Avail": 35,
+        "Enrol": 66,
+        "Avail": 34,
         "Wait": 0,
         "Remarks": []
       }
@@ -273,7 +273,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 18,
+        "Wait": 19,
         "Remarks": []
       },
       {
@@ -315,9 +315,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 48,
-        "Avail": 2,
-        "Wait": 3,
+        "Enrol": 47,
+        "Avail": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -345,9 +345,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 45,
-        "Avail": 5,
-        "Wait": 4,
+        "Enrol": 46,
+        "Avail": 4,
+        "Wait": 3,
         "Remarks": []
       }
     ]
@@ -379,8 +379,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 113,
-        "Enrol": 113,
-        "Avail": 0,
+        "Enrol": 111,
+        "Avail": 2,
         "Wait": 14,
         "Remarks": []
       },
@@ -393,9 +393,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 113,
-        "Enrol": 108,
-        "Avail": 5,
-        "Wait": 15,
+        "Enrol": 109,
+        "Avail": 4,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -407,9 +407,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 113,
-        "Enrol": 108,
-        "Avail": 5,
-        "Wait": 15,
+        "Enrol": 109,
+        "Avail": 4,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -421,9 +421,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 113,
-        "Enrol": 110,
-        "Avail": 3,
-        "Wait": 20,
+        "Enrol": 111,
+        "Avail": 2,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -451,7 +451,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -465,7 +465,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -479,7 +479,7 @@
         "Quota": 45,
         "Enrol": 44,
         "Avail": 1,
-        "Wait": 4,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -505,9 +505,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 44,
-        "Avail": 1,
-        "Wait": 7,
+        "Enrol": 45,
+        "Avail": 0,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -519,8 +519,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 41,
-        "Avail": 4,
+        "Enrol": 40,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       },
@@ -549,7 +549,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 17,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -1701,8 +1701,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 6,
-        "Avail": 4,
+        "Enrol": 5,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": [
           "Venue: Room 6135"
@@ -1717,8 +1717,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 6,
-        "Avail": 4,
+        "Enrol": 5,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": [
           "Venue: Room 6135"
@@ -1733,9 +1733,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 12,
-        "Enrol": 11,
-        "Avail": 1,
-        "Wait": 1,
+        "Enrol": 12,
+        "Avail": 0,
+        "Wait": 0,
         "Remarks": [
           "Venue: Room 6135"
         ]

@@ -100,7 +100,7 @@
         "Quota": 72,
         "Enrol": 72,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 20,
         "Remarks": []
       },
       {
@@ -191,7 +191,7 @@
         "Quota": 170,
         "Enrol": 133,
         "Avail": 37,
-        "Wait": 63,
+        "Wait": 62,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -654,8 +654,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 69,
-        "Avail": 1,
+        "Enrol": 70,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -738,8 +738,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 69,
-        "Avail": 1,
+        "Enrol": 70,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -936,7 +936,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 40,
+        "Wait": 39,
         "Remarks": []
       },
       {
@@ -966,7 +966,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 38,
+        "Wait": 37,
         "Remarks": []
       }
     ]
@@ -1161,7 +1161,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 11,
         "Remarks": []
       },
       {
@@ -1205,7 +1205,7 @@
         "Quota": 70,
         "Enrol": 64,
         "Avail": 6,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -2255,7 +2255,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 11,
         "Remarks": []
       },
       {
@@ -2269,7 +2269,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 11,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -3549,8 +3549,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 3,
-        "Avail": 7,
+        "Enrol": 4,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

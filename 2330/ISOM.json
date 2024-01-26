@@ -103,15 +103,15 @@
         "Avail": 0,
         "Wait": 24,
         "QuotaDetail": {
-          "BIBU": {
-            "Quota": 11,
-            "Enrol": 9,
-            "Avail": 2
-          },
           "SBM": {
             "Quota": 105,
             "Enrol": 107,
             "Avail": 0
+          },
+          "BIBU": {
+            "Quota": 11,
+            "Enrol": 9,
+            "Avail": 2
           }
         },
         "Remarks": []
@@ -279,7 +279,7 @@
         "Quota": 55,
         "Enrol": 51,
         "Avail": 4,
-        "Wait": 13,
+        "Wait": 14,
         "Remarks": []
       }
     ]
@@ -2283,9 +2283,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 53,
-        "Enrol": 43,
-        "Avail": 10,
-        "Wait": 29,
+        "Enrol": 44,
+        "Avail": 9,
+        "Wait": 28,
         "Remarks": []
       },
       {
@@ -2311,8 +2311,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 53,
-        "Enrol": 19,
-        "Avail": 34,
+        "Enrol": 18,
+        "Avail": 35,
         "Wait": 29,
         "Remarks": []
       },
@@ -4421,14 +4421,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 69,
-        "Avail": 1,
+        "Enrol": 70,
+        "Avail": 0,
         "Wait": 0,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
-            "Enrol": 69,
-            "Avail": 1
+            "Enrol": 70,
+            "Avail": 0
           }
         },
         "Remarks": [
@@ -5240,7 +5240,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 50,
@@ -5264,7 +5264,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 50,
@@ -5288,7 +5288,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 50,
@@ -5312,7 +5312,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 50,

@@ -785,14 +785,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 32,
-        "Avail": 8,
+        "Enrol": 33,
+        "Avail": 7,
         "Wait": 0,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 30,
-            "Enrol": 23,
-            "Avail": 7
+            "Enrol": 24,
+            "Avail": 6
           }
         },
         "Remarks": []
@@ -971,7 +971,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 40,

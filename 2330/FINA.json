@@ -452,7 +452,7 @@
         "Quota": 60,
         "Enrol": 52,
         "Avail": 8,
-        "Wait": 39,
+        "Wait": 40,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
@@ -3303,20 +3303,12 @@
           "YEGEN, Eyub"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
+        "Quota": 0,
         "Enrol": 10,
-        "Avail": 50,
+        "Avail": 0,
         "Wait": 0,
-        "QuotaDetail": {
-          "FINA": {
-            "Quota": 60,
-            "Enrol": 10,
-            "Avail": 50
-          }
-        },
         "Remarks": [
-          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
-          "Add/Drop Deadline : 01-Apr-2024"
+          "The class is cancelled"
         ]
       },
       {

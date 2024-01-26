@@ -32,7 +32,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 43,
         "Remarks": []
       }
     ]
@@ -72,8 +72,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 41,
-        "Avail": 24,
+        "Enrol": 50,
+        "Avail": 15,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a experiential learning mode"
@@ -489,8 +489,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 3,
-        "Avail": 22,
+        "Enrol": 4,
+        "Avail": 21,
         "Wait": 0,
         "Remarks": [
           "Co-list with ENVR 5330"
@@ -620,14 +620,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 22,
-        "Avail": 28,
+        "Enrol": 23,
+        "Avail": 27,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 50,
-            "Enrol": 22,
-            "Avail": 28
+            "Enrol": 23,
+            "Avail": 27
           }
         },
         "Remarks": [
@@ -887,8 +887,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 27,
-        "Avail": 18,
+        "Enrol": 28,
+        "Avail": 17,
         "Wait": 0,
         "Remarks": [
           "For MPhil/PhD (AES/ESPM) students only"
@@ -970,7 +970,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 40,

@@ -21,7 +21,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -36,7 +36,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       }
     ]
@@ -67,8 +67,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 24,
-        "Avail": 6,
+        "Enrol": 25,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in an experiential learning mode"
@@ -83,8 +83,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 24,
-        "Avail": 6,
+        "Enrol": 25,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       }
@@ -506,8 +506,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 2,
-        "Avail": 28,
+        "Enrol": 4,
+        "Avail": 26,
         "Wait": 0,
         "Remarks": []
       },
@@ -520,8 +520,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 2,
-        "Avail": 28,
+        "Enrol": 4,
+        "Avail": 26,
         "Wait": 0,
         "Remarks": []
       }
@@ -692,8 +692,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 6,
-        "Avail": 24,
+        "Enrol": 7,
+        "Avail": 23,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -805,8 +805,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 18,
-        "Avail": 12,
+        "Enrol": 19,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": []
       },
@@ -819,8 +819,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 18,
-        "Avail": 12,
+        "Enrol": 19,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": []
       }

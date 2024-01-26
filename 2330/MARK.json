@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 35,
-        "Avail": 15,
+        "Enrol": 38,
+        "Avail": 12,
         "Wait": 0,
         "Remarks": []
       },
@@ -46,7 +46,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 26,
         "Remarks": []
       }
     ]
@@ -93,7 +93,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 16,
         "QuotaDetail": {
           "SBM": {
             "Quota": 58,
@@ -114,7 +114,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 24,
         "QuotaDetail": {
           "SBM": {
             "Quota": 58,
@@ -135,7 +135,7 @@
         "Quota": 59,
         "Enrol": 59,
         "Avail": 0,
-        "Wait": 65,
+        "Wait": 70,
         "QuotaDetail": {
           "SBM": {
             "Quota": 59,
@@ -156,7 +156,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 116,
+        "Wait": 120,
         "QuotaDetail": {
           "SBM": {
             "Quota": 58,
@@ -177,7 +177,7 @@
         "Quota": 59,
         "Enrol": 59,
         "Avail": 0,
-        "Wait": 32,
+        "Wait": 33,
         "QuotaDetail": {
           "SBM": {
             "Quota": 59,
@@ -378,7 +378,7 @@
         "Quota": 45,
         "Enrol": 40,
         "Avail": 5,
-        "Wait": 13,
+        "Wait": 14,
         "QuotaDetail": {
           "MARK": {
             "Quota": 45,
@@ -427,7 +427,7 @@
         "Quota": 45,
         "Enrol": 40,
         "Avail": 5,
-        "Wait": 13,
+        "Wait": 14,
         "Remarks": []
       }
     ]
@@ -593,7 +593,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 27,
+        "Wait": 28,
         "QuotaDetail": {
           "MARK": {
             "Quota": 40,
@@ -628,7 +628,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 27,
+        "Wait": 28,
         "Remarks": []
       }
     ]

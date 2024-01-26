@@ -129,7 +129,7 @@
         "Quota": 150,
         "Enrol": 150,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 47,
         "Remarks": []
       }
     ]
@@ -153,8 +153,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 17,
-        "Avail": 23,
+        "Enrol": 18,
+        "Avail": 22,
         "Wait": 0,
         "Remarks": []
       }
@@ -216,8 +216,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 24,
-        "Enrol": 4,
-        "Avail": 20,
+        "Enrol": 5,
+        "Avail": 19,
         "Wait": 0,
         "QuotaDetail": {
           "CHEM": {
@@ -227,8 +227,8 @@
           },
           "MATH": {
             "Quota": 6,
-            "Enrol": 1,
-            "Avail": 5
+            "Enrol": 2,
+            "Avail": 4
           },
           "OCES": {
             "Quota": 6,
@@ -258,8 +258,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 24,
-        "Enrol": 4,
-        "Avail": 20,
+        "Enrol": 5,
+        "Avail": 19,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -277,8 +277,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 24,
-        "Enrol": 4,
-        "Avail": 20,
+        "Enrol": 5,
+        "Avail": 19,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

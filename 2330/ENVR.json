@@ -32,7 +32,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 144,
+        "Wait": 145,
         "Remarks": []
       }
     ]
@@ -573,14 +573,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 68,
-        "Avail": 27,
+        "Enrol": 69,
+        "Avail": 26,
         "Wait": 6,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 70,
-            "Enrol": 48,
-            "Avail": 22
+            "Enrol": 49,
+            "Avail": 21
           },
           "EVEM": {
             "Quota": 20,
@@ -620,14 +620,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 24,
-        "Avail": 26,
+        "Enrol": 25,
+        "Avail": 25,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 50,
-            "Enrol": 24,
-            "Avail": 26
+            "Enrol": 25,
+            "Avail": 25
           }
         },
         "Remarks": [
@@ -697,14 +697,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 24,
-        "Avail": 26,
+        "Enrol": 26,
+        "Avail": 24,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 50,
-            "Enrol": 23,
-            "Avail": 27
+            "Enrol": 24,
+            "Avail": 26
           }
         },
         "Remarks": [
@@ -772,14 +772,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 32,
-        "Avail": 28,
+        "Enrol": 33,
+        "Avail": 27,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 60,
-            "Enrol": 32,
-            "Avail": 28
+            "Enrol": 33,
+            "Avail": 27
           }
         },
         "Remarks": [
@@ -812,14 +812,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 21,
-        "Avail": 29,
+        "Enrol": 22,
+        "Avail": 28,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 50,
-            "Enrol": 21,
-            "Avail": 29
+            "Enrol": 22,
+            "Avail": 28
           }
         },
         "Remarks": [
@@ -970,7 +970,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 4,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 40,

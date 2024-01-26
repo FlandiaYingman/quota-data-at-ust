@@ -237,9 +237,7 @@
             "Avail": 35
           }
         },
-        "Remarks": [
-          "Instructor Consent Required"
-        ]
+        "Remarks": []
       }
     ]
   },
@@ -265,14 +263,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 6,
-        "Avail": 34,
+        "Enrol": 7,
+        "Avail": 33,
         "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 6,
-            "Avail": 34
+            "Enrol": 7,
+            "Avail": 33
           }
         },
         "Remarks": []
@@ -345,9 +343,7 @@
             "Avail": 35
           }
         },
-        "Remarks": [
-          "Instructor Consent Required"
-        ]
+        "Remarks": []
       }
     ]
   },
@@ -443,14 +439,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 38,
-        "Avail": 2,
+        "Enrol": 39,
+        "Avail": 1,
         "Wait": 2,
         "QuotaDetail": {
           "PPOL": {
-            "Quota": 40,
+            "Quota": 39,
             "Enrol": 38,
-            "Avail": 2
+            "Avail": 1
           }
         },
         "Remarks": []

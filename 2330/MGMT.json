@@ -155,7 +155,7 @@
         "Quota": 60,
         "Enrol": 56,
         "Avail": 4,
-        "Wait": 22,
+        "Wait": 23,
         "Remarks": []
       },
       {
@@ -169,7 +169,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -253,7 +253,7 @@
         "Quota": 60,
         "Enrol": 56,
         "Avail": 4,
-        "Wait": 22,
+        "Wait": 23,
         "Remarks": []
       },
       {
@@ -267,7 +267,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -293,7 +293,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 20,
+        "Wait": 21,
         "Remarks": []
       },
       {
@@ -391,7 +391,7 @@
         "Quota": 61,
         "Enrol": 61,
         "Avail": 0,
-        "Wait": 30,
+        "Wait": 31,
         "Remarks": []
       }
     ]
@@ -552,15 +552,20 @@
           "CHAN, Kin H"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 46,
         "Enrol": 39,
-        "Avail": 1,
+        "Avail": 7,
         "Wait": 27,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
             "Enrol": 38,
             "Avail": 2
+          },
+          "BIBU": {
+            "Quota": 6,
+            "Enrol": 0,
+            "Avail": 6
           }
         },
         "Remarks": []
@@ -573,15 +578,20 @@
           "CHAN, Kin H"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 46,
         "Enrol": 40,
-        "Avail": 0,
-        "Wait": 31,
+        "Avail": 6,
+        "Wait": 30,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
             "Enrol": 38,
             "Avail": 2
+          },
+          "BIBU": {
+            "Quota": 6,
+            "Enrol": 0,
+            "Avail": 6
           }
         },
         "Remarks": []
@@ -594,15 +604,20 @@
           "GONG, Yaping"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 52,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 7,
         "Wait": 31,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 45,
             "Enrol": 40,
             "Avail": 5
+          },
+          "BIBU": {
+            "Quota": 7,
+            "Enrol": 0,
+            "Avail": 7
           }
         },
         "Remarks": []
@@ -615,9 +630,9 @@
           "CHAN, Kin H"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 46,
         "Enrol": 39,
-        "Avail": 1,
+        "Avail": 7,
         "Wait": 27,
         "Remarks": []
       },
@@ -629,10 +644,10 @@
           "CHAN, Kin H"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 46,
         "Enrol": 40,
-        "Avail": 0,
-        "Wait": 31,
+        "Avail": 6,
+        "Wait": 30,
         "Remarks": []
       },
       {
@@ -643,9 +658,9 @@
           "GONG, Yaping"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 52,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 7,
         "Wait": 31,
         "Remarks": []
       }
@@ -755,7 +770,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 43,
+        "Wait": 44,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
@@ -776,7 +791,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 43,
+        "Wait": 44,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
@@ -818,7 +833,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 43,
+        "Wait": 44,
         "Remarks": []
       },
       {
@@ -1119,7 +1134,7 @@
         "Quota": 40,
         "Enrol": 19,
         "Avail": 21,
-        "Wait": 13,
+        "Wait": 14,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
@@ -1140,7 +1155,7 @@
         "Quota": 40,
         "Enrol": 23,
         "Avail": 17,
-        "Wait": 15,
+        "Wait": 16,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
@@ -1161,7 +1176,7 @@
         "Quota": 40,
         "Enrol": 19,
         "Avail": 21,
-        "Wait": 13,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -1175,7 +1190,7 @@
         "Quota": 40,
         "Enrol": 23,
         "Avail": 17,
-        "Wait": 15,
+        "Wait": 16,
         "Remarks": []
       }
     ]
@@ -1223,7 +1238,7 @@
         "Quota": 42,
         "Enrol": 42,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 7,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 42,
@@ -1258,7 +1273,7 @@
         "Quota": 42,
         "Enrol": 42,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -2706,9 +2721,9 @@
           "DORAN, Christopher"
         ],
         "TA/IA/GTA": [],
-        "Quota": 39,
+        "Quota": 40,
         "Enrol": 39,
-        "Avail": 0,
+        "Avail": 1,
         "Wait": 10,
         "QuotaDetail": {
           "MBA Bi-weekly": {
@@ -2722,9 +2737,9 @@
             "Avail": 0
           },
           "MBA": {
-            "Quota": 35,
+            "Quota": 36,
             "Enrol": 35,
-            "Avail": 0
+            "Avail": 1
           }
         },
         "Remarks": [
@@ -2741,9 +2756,9 @@
           "DORAN, Christopher"
         ],
         "TA/IA/GTA": [],
-        "Quota": 39,
+        "Quota": 40,
         "Enrol": 39,
-        "Avail": 0,
+        "Avail": 1,
         "Wait": 10,
         "QuotaDetail": {
           "MBA Bi-weekly": {
@@ -2757,9 +2772,9 @@
             "Avail": 0
           },
           "MBA": {
-            "Quota": 35,
+            "Quota": 36,
             "Enrol": 35,
-            "Avail": 0
+            "Avail": 1
           }
         },
         "Remarks": [

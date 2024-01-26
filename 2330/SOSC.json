@@ -193,7 +193,7 @@
         "Quota": 400,
         "Enrol": 355,
         "Avail": 45,
-        "Wait": 289,
+        "Wait": 288,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 100,
@@ -240,7 +240,7 @@
         "Quota": 120,
         "Enrol": 84,
         "Avail": 36,
-        "Wait": 61,
+        "Wait": 62,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -305,14 +305,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 300,
-        "Enrol": 200,
-        "Avail": 100,
+        "Enrol": 202,
+        "Avail": 98,
         "Wait": 0,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 70,
-            "Enrol": 10,
-            "Avail": 60
+            "Enrol": 11,
+            "Avail": 59
           }
         },
         "Remarks": [
@@ -353,8 +353,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 32,
-        "Avail": 88,
+        "Enrol": 34,
+        "Avail": 86,
         "Wait": 0,
         "QuotaDetail": {
           "SHSS": {
@@ -404,7 +404,7 @@
         "Quota": 120,
         "Enrol": 82,
         "Avail": 38,
-        "Wait": 48,
+        "Wait": 49,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -444,14 +444,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 91,
-        "Avail": 29,
-        "Wait": 249,
+        "Enrol": 90,
+        "Avail": 30,
+        "Wait": 247,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
-            "Enrol": 31,
-            "Avail": 29
+            "Enrol": 30,
+            "Avail": 30
           }
         },
         "Remarks": []
@@ -467,7 +467,7 @@
         "Quota": 120,
         "Enrol": 89,
         "Avail": 31,
-        "Wait": 257,
+        "Wait": 256,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -754,7 +754,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 27,
+        "Wait": 28,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,

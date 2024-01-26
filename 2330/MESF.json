@@ -63,14 +63,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 42,
-        "Avail": 48,
-        "Wait": 6,
+        "Enrol": 44,
+        "Avail": 46,
+        "Wait": 4,
         "QuotaDetail": {
           "MESF": {
             "Quota": 80,
-            "Enrol": 41,
-            "Avail": 39
+            "Enrol": 43,
+            "Avail": 37
           },
           "IBTM": {
             "Quota": 5,
@@ -108,14 +108,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 22,
-        "Avail": 78,
-        "Wait": 4,
+        "Enrol": 23,
+        "Avail": 77,
+        "Wait": 3,
         "QuotaDetail": {
           "MESF": {
             "Quota": 95,
-            "Enrol": 16,
-            "Avail": 79
+            "Enrol": 17,
+            "Avail": 78
           },
           "IBTM": {
             "Quota": 5,
@@ -149,14 +149,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 13,
-        "Avail": 87,
-        "Wait": 4,
+        "Enrol": 15,
+        "Avail": 85,
+        "Wait": 2,
         "QuotaDetail": {
           "MESF": {
             "Quota": 90,
-            "Enrol": 13,
-            "Avail": 77
+            "Enrol": 15,
+            "Avail": 75
           },
           "AESF": {
             "Quota": 10,
@@ -188,14 +188,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 36,
-        "Avail": 44,
-        "Wait": 3,
+        "Enrol": 37,
+        "Avail": 43,
+        "Wait": 2,
         "QuotaDetail": {
           "MESF": {
             "Quota": 80,
-            "Enrol": 36,
-            "Avail": 44
+            "Enrol": 37,
+            "Avail": 43
           }
         },
         "Remarks": []
@@ -222,14 +222,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 32,
-        "Avail": 48,
-        "Wait": 4,
+        "Enrol": 33,
+        "Avail": 47,
+        "Wait": 3,
         "QuotaDetail": {
           "MESF": {
             "Quota": 80,
-            "Enrol": 31,
-            "Avail": 49
+            "Enrol": 32,
+            "Avail": 48
           }
         },
         "Remarks": []

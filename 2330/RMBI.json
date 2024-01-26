@@ -35,7 +35,7 @@
         "Quota": 25,
         "Enrol": 25,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 18,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -51,7 +51,7 @@
         "Quota": 25,
         "Enrol": 25,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 12,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -67,7 +67,7 @@
         "Quota": 25,
         "Enrol": 25,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -81,7 +81,7 @@
         "Quota": 25,
         "Enrol": 25,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 12,
         "Remarks": []
       }
     ]
@@ -219,8 +219,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 7,
-        "Avail": 13,
+        "Enrol": 8,
+        "Avail": 12,
         "Wait": 0,
         "Remarks": []
       },
@@ -233,8 +233,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 7,
-        "Avail": 13,
+        "Enrol": 8,
+        "Avail": 12,
         "Wait": 0,
         "Remarks": []
       },
@@ -247,8 +247,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 7,
-        "Avail": 13,
+        "Enrol": 8,
+        "Avail": 12,
         "Wait": 0,
         "Remarks": [
           "Venue: Room 2302"

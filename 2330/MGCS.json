@@ -359,6 +359,36 @@
   },
   {
     "program": "MGCS",
+    "code": "6980",
+    "name": "Research Project in Global China Studies I",
+    "units": 6,
+    "info": {
+      "vector": "[6 credits]",
+      "description": "For MSc(GCS) students opting for the Academic Research concentration only. This course provides a skill-based training in an independent research project on chosen topic conducted under the supervision of a faculty of the School of Humanities and Social Science. The student is required to complete a research prospectus and an oral research prospectus examination. The prospectus should be a research plan that (a) clearly articulates a problem in a way that (b) displays the student's knowledge of the problem's place in the corresponding research area and of the attempts to resolve the problem and (c) gives as clear an indication as the student can give of how he/she intends to organize the research paper, and of what he/she expects his/her contribution to be, that is, of what he/she can add to the existing literature.",
+      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Develop research and academic-writing skills for further study.</td></tr><tr><td>2.</td><td>Apply knowledge and skills accumulated in prior coursework studies into practical researches.</td></tr><tr><td>3.</td><td>Design, develop and conduct a research in their chosen fields.</td></tr></table>"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4362)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "For MSc(GCS) students only"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MGCS",
     "code": "6982",
     "name": "Research Project in Global China Studies II",
     "units": 6,

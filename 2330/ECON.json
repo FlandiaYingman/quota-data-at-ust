@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 150,
-        "Enrol": 28,
-        "Avail": 122,
+        "Enrol": 30,
+        "Avail": 120,
         "Wait": 0,
         "Remarks": []
       },
@@ -44,8 +44,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 150,
-        "Enrol": 28,
-        "Avail": 122,
+        "Enrol": 30,
+        "Avail": 120,
         "Wait": 0,
         "Remarks": []
       }
@@ -121,7 +121,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -135,7 +135,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -219,7 +219,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -686,7 +686,7 @@
         "Quota": 67,
         "Enrol": 28,
         "Avail": 39,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "ECON": {
             "Quota": 67,
@@ -707,7 +707,7 @@
         "Quota": 67,
         "Enrol": 28,
         "Avail": 39,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       }
     ]
@@ -1919,8 +1919,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 29,
-        "Avail": 1,
+        "Enrol": 28,
+        "Avail": 2,
         "Wait": 1,
         "QuotaDetail": {
           "ECON": {
@@ -1930,8 +1930,8 @@
           },
           "MBA": {
             "Quota": 5,
-            "Enrol": 4,
-            "Avail": 1
+            "Enrol": 3,
+            "Avail": 2
           }
         },
         "Remarks": [
@@ -1948,8 +1948,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 29,
-        "Avail": 1,
+        "Enrol": 28,
+        "Avail": 2,
         "Wait": 1,
         "QuotaDetail": {
           "ECON": {
@@ -1959,8 +1959,8 @@
           },
           "MBA": {
             "Quota": 5,
-            "Enrol": 4,
-            "Avail": 1
+            "Enrol": 3,
+            "Avail": 2
           }
         },
         "Remarks": [

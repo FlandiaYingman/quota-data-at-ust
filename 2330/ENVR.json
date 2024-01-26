@@ -360,7 +360,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 35,
@@ -697,8 +697,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 27,
-        "Avail": 23,
+        "Enrol": 28,
+        "Avail": 22,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {

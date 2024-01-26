@@ -141,7 +141,7 @@
         "Quota": 60,
         "Enrol": 58,
         "Avail": 2,
-        "Wait": 2,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -239,7 +239,7 @@
         "Quota": 60,
         "Enrol": 58,
         "Avail": 2,
-        "Wait": 2,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -2857,7 +2857,7 @@
         "Quota": 40,
         "Enrol": 33,
         "Avail": 7,
-        "Wait": 10,
+        "Wait": 9,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 30,
@@ -2888,7 +2888,7 @@
         "Quota": 40,
         "Enrol": 33,
         "Avail": 7,
-        "Wait": 10,
+        "Wait": 9,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 30,
@@ -3337,8 +3337,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 4,
-        "Avail": 6,
+        "Enrol": 5,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": [
           "For PhD(MGMT) students only"

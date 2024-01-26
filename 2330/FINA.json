@@ -1350,7 +1350,7 @@
         "Quota": 50,
         "Enrol": 33,
         "Avail": 17,
-        "Wait": 4,
+        "Wait": 5,
         "QuotaDetail": {
           "MBA": {
             "Quota": 5,
@@ -1385,7 +1385,7 @@
         "Quota": 50,
         "Enrol": 33,
         "Avail": 17,
-        "Wait": 4,
+        "Wait": 5,
         "QuotaDetail": {
           "MBA": {
             "Quota": 5,
@@ -2408,7 +2408,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
@@ -2432,7 +2432,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
@@ -2456,7 +2456,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
@@ -3105,14 +3105,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 41,
-        "Avail": 19,
+        "Enrol": 42,
+        "Avail": 18,
         "Wait": 0,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
-            "Enrol": 41,
-            "Avail": 19
+            "Enrol": 42,
+            "Avail": 18
           }
         },
         "Remarks": [
@@ -3129,14 +3129,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 41,
-        "Avail": 19,
+        "Enrol": 42,
+        "Avail": 18,
         "Wait": 0,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
-            "Enrol": 41,
-            "Avail": 19
+            "Enrol": 42,
+            "Avail": 18
           }
         },
         "Remarks": [
@@ -3304,14 +3304,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 11,
-        "Avail": 49,
+        "Enrol": 10,
+        "Avail": 50,
         "Wait": 0,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
-            "Enrol": 11,
-            "Avail": 49
+            "Enrol": 10,
+            "Avail": 50
           }
         },
         "Remarks": [

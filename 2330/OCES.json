@@ -33,7 +33,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 30,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -63,8 +63,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 175,
-        "Enrol": 142,
-        "Avail": 33,
+        "Enrol": 161,
+        "Avail": 14,
         "Wait": 0,
         "Remarks": []
       }
@@ -105,7 +105,7 @@
         "Quota": 200,
         "Enrol": 200,
         "Avail": 0,
-        "Wait": 68,
+        "Wait": 79,
         "Remarks": []
       }
     ]
@@ -639,8 +639,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 1,
-        "Avail": 19,
+        "Enrol": 2,
+        "Avail": 18,
         "Wait": 0,
         "Remarks": [
           "Venue: Room 1410",

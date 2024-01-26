@@ -32,7 +32,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 84,
+        "Wait": 83,
         "Remarks": []
       }
     ]
@@ -784,7 +784,7 @@
         "Quota": 60,
         "Enrol": 40,
         "Avail": 20,
-        "Wait": 15,
+        "Wait": 16,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
@@ -1275,7 +1275,7 @@
         "Quota": 56,
         "Enrol": 56,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode",
           "For MSc(GO) students only",
@@ -1309,15 +1309,15 @@
         "Avail": 36,
         "Wait": 6,
         "QuotaDetail": {
-          "FINA": {
-            "Quota": 55,
-            "Enrol": 19,
-            "Avail": 36
-          },
           "MBA": {
             "Quota": 5,
             "Enrol": 5,
             "Avail": 0
+          },
+          "FINA": {
+            "Quota": 55,
+            "Enrol": 19,
+            "Avail": 36
           }
         },
         "Remarks": [

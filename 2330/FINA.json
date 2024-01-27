@@ -59,7 +59,7 @@
         "Quota": 70,
         "Enrol": 52,
         "Avail": 18,
-        "Wait": 41,
+        "Wait": 42,
         "QuotaDetail": {
           "SBM (minor)": {
             "Quota": 25,
@@ -1305,14 +1305,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 28,
-        "Avail": 32,
+        "Enrol": 27,
+        "Avail": 33,
         "Wait": 1,
         "QuotaDetail": {
           "FINA": {
             "Quota": 50,
-            "Enrol": 18,
-            "Avail": 32
+            "Enrol": 17,
+            "Avail": 33
           },
           "MBA": {
             "Quota": 10,

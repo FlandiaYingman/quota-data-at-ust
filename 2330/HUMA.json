@@ -293,7 +293,7 @@
         "Quota": 20,
         "Enrol": 7,
         "Avail": 13,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -337,7 +337,7 @@
         "Quota": 20,
         "Enrol": 12,
         "Avail": 8,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": [
           "Venue : Room CYTG001"
         ]
@@ -562,7 +562,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -726,7 +726,7 @@
         "Quota": 100,
         "Enrol": 59,
         "Avail": 41,
-        "Wait": 74,
+        "Wait": 75,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 50,
@@ -747,7 +747,7 @@
         "Quota": 100,
         "Enrol": 59,
         "Avail": 41,
-        "Wait": 74,
+        "Wait": 75,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 50,
@@ -1785,8 +1785,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 6,
-        "Avail": 54,
+        "Enrol": 5,
+        "Avail": 55,
         "Wait": 0,
         "QuotaDetail": {
           "SHSS": {
@@ -1806,8 +1806,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 6,
-        "Avail": 54,
+        "Enrol": 5,
+        "Avail": 55,
         "Wait": 0,
         "QuotaDetail": {
           "SHSS": {
@@ -1827,8 +1827,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 6,
-        "Avail": 54,
+        "Enrol": 5,
+        "Avail": 55,
         "Wait": 0,
         "Remarks": []
       },
@@ -1841,8 +1841,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 6,
-        "Avail": 54,
+        "Enrol": 5,
+        "Avail": 55,
         "Wait": 0,
         "Remarks": []
       }
@@ -2628,8 +2628,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 26,
-        "Avail": 74,
+        "Enrol": 27,
+        "Avail": 73,
         "Wait": 0,
         "QuotaDetail": {
           "SHSS": {
@@ -2649,8 +2649,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 26,
-        "Avail": 74,
+        "Enrol": 27,
+        "Avail": 73,
         "Wait": 0,
         "Remarks": []
       }

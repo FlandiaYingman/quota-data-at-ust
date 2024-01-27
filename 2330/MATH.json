@@ -2176,8 +2176,8 @@
         "QuotaDetail": {
           "MATH": {
             "Quota": 31,
-            "Enrol": 31,
-            "Avail": 0
+            "Enrol": 30,
+            "Avail": 1
           }
         },
         "Remarks": []
@@ -2191,8 +2191,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 42,
-        "Avail": 3,
+        "Enrol": 41,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": []
       },
@@ -2205,8 +2205,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 43,
-        "Avail": 2,
+        "Enrol": 44,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": []
       }

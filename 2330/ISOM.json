@@ -5945,15 +5945,15 @@
         "Avail": 8,
         "Wait": 6,
         "QuotaDetail": {
-          "Digital MBA": {
-            "Quota": 25,
-            "Enrol": 17,
-            "Avail": 8
-          },
           "MBA": {
             "Quota": 20,
             "Enrol": 20,
             "Avail": 0
+          },
+          "Digital MBA": {
+            "Quota": 25,
+            "Enrol": 17,
+            "Avail": 8
           }
         },
         "Remarks": [

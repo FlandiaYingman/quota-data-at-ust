@@ -60,7 +60,7 @@
         "Quota": 45,
         "Enrol": 10,
         "Avail": 35,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "MPP": {
             "Quota": 45,
@@ -300,7 +300,7 @@
         "Quota": 45,
         "Enrol": 39,
         "Avail": 6,
-        "Wait": 4,
+        "Wait": 3,
         "QuotaDetail": {
           "MPM": {
             "Quota": 45,
@@ -834,7 +834,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 55,
+        "Wait": 54,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,

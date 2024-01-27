@@ -149,7 +149,7 @@
         "Quota": 104,
         "Enrol": 100,
         "Avail": 4,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -346,8 +346,8 @@
         "QuotaDetail": {
           "MECH": {
             "Quota": 23,
-            "Enrol": 22,
-            "Avail": 1
+            "Enrol": 24,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -363,7 +363,7 @@
         "Quota": 23,
         "Enrol": 23,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -391,7 +391,7 @@
         "Quota": 23,
         "Enrol": 23,
         "Avail": 0,
-        "Wait": 26,
+        "Wait": 25,
         "Remarks": []
       },
       {

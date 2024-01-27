@@ -135,7 +135,7 @@
         "Quota": 59,
         "Enrol": 59,
         "Avail": 0,
-        "Wait": 60,
+        "Wait": 59,
         "QuotaDetail": {
           "SBM": {
             "Quota": 59,
@@ -836,7 +836,7 @@
         "Quota": 42,
         "Enrol": 33,
         "Avail": 9,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "MARK": {
             "Quota": 42,
@@ -899,7 +899,7 @@
         "Quota": 42,
         "Enrol": 33,
         "Avail": 9,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       }
     ]

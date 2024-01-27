@@ -961,7 +961,7 @@
         "Quota": 90,
         "Enrol": 90,
         "Avail": 0,
-        "Wait": 31,
+        "Wait": 32,
         "Remarks": []
       },
       {
@@ -1017,7 +1017,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 16,
         "Remarks": []
       },
       {
@@ -3891,8 +3891,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 15,
-        "Enrol": 4,
-        "Avail": 11,
+        "Enrol": 5,
+        "Avail": 10,
         "Wait": 0,
         "Remarks": [
           "Students should seek approval from the course instructor to take this course.",

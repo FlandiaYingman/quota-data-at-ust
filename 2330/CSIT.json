@@ -61,14 +61,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 51,
-        "Avail": 39,
-        "Wait": 4,
+        "Enrol": 53,
+        "Avail": 37,
+        "Wait": 2,
         "QuotaDetail": {
           "CSIT": {
             "Quota": 83,
-            "Enrol": 44,
-            "Avail": 39
+            "Enrol": 46,
+            "Avail": 37
           },
           "BDT": {
             "Quota": 7,
@@ -103,14 +103,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 54,
-        "Avail": 36,
-        "Wait": 3,
+        "Enrol": 55,
+        "Avail": 35,
+        "Wait": 2,
         "QuotaDetail": {
           "CSIT": {
             "Quota": 83,
-            "Enrol": 51,
-            "Avail": 32
+            "Enrol": 52,
+            "Avail": 31
           },
           "BDT": {
             "Quota": 7,
@@ -144,14 +144,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 13,
-        "Avail": 77,
-        "Wait": 2,
+        "Enrol": 14,
+        "Avail": 76,
+        "Wait": 1,
         "QuotaDetail": {
           "CSIT": {
             "Quota": 83,
-            "Enrol": 13,
-            "Avail": 70
+            "Enrol": 14,
+            "Avail": 69
           },
           "BDT": {
             "Quota": 7,
@@ -185,14 +185,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 65,
-        "Avail": 25,
-        "Wait": 10,
+        "Enrol": 66,
+        "Avail": 24,
+        "Wait": 9,
         "QuotaDetail": {
           "CSIT": {
             "Quota": 83,
-            "Enrol": 58,
-            "Avail": 25
+            "Enrol": 59,
+            "Avail": 24
           },
           "BDT": {
             "Quota": 7,
@@ -224,14 +224,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 64,
-        "Avail": 26,
-        "Wait": 10,
+        "Enrol": 65,
+        "Avail": 25,
+        "Wait": 9,
         "QuotaDetail": {
           "CSIT": {
             "Quota": 90,
-            "Enrol": 64,
-            "Avail": 26
+            "Enrol": 65,
+            "Avail": 25
           }
         },
         "Remarks": []

@@ -360,7 +360,7 @@
         "Quota": 130,
         "Enrol": 130,
         "Avail": 0,
-        "Wait": 29,
+        "Wait": 28,
         "Remarks": []
       },
       {
@@ -375,7 +375,7 @@
         "Quota": 130,
         "Enrol": 130,
         "Avail": 0,
-        "Wait": 29,
+        "Wait": 28,
         "Remarks": []
       }
     ]
@@ -1536,8 +1536,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 25,
-        "Avail": 0,
+        "Enrol": 24,
+        "Avail": 1,
         "Wait": 9,
         "Remarks": [
           "For MPhil & PhD (LIFS) students only."
@@ -1697,8 +1697,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 200,
-        "Enrol": 110,
-        "Avail": 90,
+        "Enrol": 111,
+        "Avail": 89,
         "Wait": 0,
         "Remarks": [
           "For MPhil & PhD (LIFS) students only."

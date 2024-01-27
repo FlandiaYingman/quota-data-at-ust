@@ -21,14 +21,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 88,
-        "Avail": 12,
-        "Wait": 2,
+        "Enrol": 89,
+        "Avail": 11,
+        "Wait": 1,
         "QuotaDetail": {
           "IBTM": {
             "Quota": 90,
-            "Enrol": 86,
-            "Avail": 4
+            "Enrol": 87,
+            "Avail": 3
           },
           "MESF": {
             "Quota": 10,
@@ -61,14 +61,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 88,
-        "Avail": 2,
-        "Wait": 8,
+        "Enrol": 89,
+        "Avail": 1,
+        "Wait": 7,
         "QuotaDetail": {
           "IBTM": {
             "Quota": 80,
-            "Enrol": 78,
-            "Avail": 2
+            "Enrol": 79,
+            "Avail": 1
           },
           "MESF": {
             "Quota": 10,
@@ -102,14 +102,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 46,
-        "Avail": 49,
-        "Wait": 9,
+        "Enrol": 47,
+        "Avail": 48,
+        "Wait": 8,
         "QuotaDetail": {
           "IBTM": {
             "Quota": 80,
-            "Enrol": 31,
-            "Avail": 49
+            "Enrol": 32,
+            "Avail": 48
           },
           "EVEM": {
             "Quota": 10,
@@ -188,14 +188,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 78,
-        "Avail": 12,
-        "Wait": 12,
+        "Enrol": 79,
+        "Avail": 11,
+        "Wait": 11,
         "QuotaDetail": {
           "IBTM": {
             "Quota": 90,
-            "Enrol": 78,
-            "Avail": 12
+            "Enrol": 79,
+            "Avail": 11
           }
         },
         "Remarks": []

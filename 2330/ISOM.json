@@ -101,7 +101,7 @@
         "Quota": 116,
         "Enrol": 116,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 24,
         "QuotaDetail": {
           "SBM": {
             "Quota": 105,
@@ -279,7 +279,7 @@
         "Quota": 55,
         "Enrol": 52,
         "Avail": 3,
-        "Wait": 15,
+        "Wait": 14,
         "Remarks": []
       }
     ]
@@ -554,8 +554,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 38,
-        "Enrol": 28,
-        "Avail": 10,
+        "Enrol": 27,
+        "Avail": 11,
         "Wait": 2,
         "Remarks": []
       },
@@ -568,9 +568,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 38,
-        "Enrol": 35,
-        "Avail": 3,
-        "Wait": 7,
+        "Enrol": 36,
+        "Avail": 2,
+        "Wait": 6,
         "Remarks": []
       },
       {

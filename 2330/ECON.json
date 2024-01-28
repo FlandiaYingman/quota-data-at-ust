@@ -2333,7 +2333,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 45,
+        "Wait": 46,
         "Remarks": [
           "For MSc(ECON) students only"
         ]
@@ -2628,7 +2628,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 34,
+        "Wait": 35,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class during mid-term break"
@@ -2645,7 +2645,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 34,
+        "Wait": 35,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class during mid-term break"
@@ -2662,7 +2662,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 34,
+        "Wait": 35,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class during mid-term break"
@@ -2942,14 +2942,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 7,
-        "Avail": 3,
+        "Enrol": 8,
+        "Avail": 2,
         "Wait": 0,
         "QuotaDetail": {
           "SBM": {
             "Quota": 10,
-            "Enrol": 3,
-            "Avail": 7
+            "Enrol": 4,
+            "Avail": 6
           }
         },
         "Remarks": [

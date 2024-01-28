@@ -3417,7 +3417,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 28,
+        "Wait": 27,
         "QuotaDetail": {
           "OM": {
             "Quota": 60,
@@ -4743,14 +4743,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 70,
-        "Avail": 0,
+        "Enrol": 69,
+        "Avail": 1,
         "Wait": 12,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
-            "Enrol": 52,
-            "Avail": 18
+            "Enrol": 51,
+            "Avail": 19
           }
         },
         "Remarks": [
@@ -4767,14 +4767,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 70,
-        "Avail": 0,
+        "Enrol": 69,
+        "Avail": 1,
         "Wait": 12,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
-            "Enrol": 52,
-            "Avail": 18
+            "Enrol": 51,
+            "Avail": 19
           }
         },
         "Remarks": [
@@ -4791,14 +4791,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 70,
-        "Avail": 0,
+        "Enrol": 69,
+        "Avail": 1,
         "Wait": 12,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
-            "Enrol": 52,
-            "Avail": 18
+            "Enrol": 51,
+            "Avail": 19
           }
         },
         "Remarks": [
@@ -4815,14 +4815,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 70,
-        "Avail": 0,
+        "Enrol": 69,
+        "Avail": 1,
         "Wait": 12,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
-            "Enrol": 52,
-            "Avail": 18
+            "Enrol": 51,
+            "Avail": 19
           }
         },
         "Remarks": [
@@ -5943,7 +5943,7 @@
         "Quota": 45,
         "Enrol": 37,
         "Avail": 8,
-        "Wait": 6,
+        "Wait": 7,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 25,

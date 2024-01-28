@@ -963,7 +963,7 @@
         "Quota": 80,
         "Enrol": 75,
         "Avail": 5,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -977,7 +977,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 5,
         "Remarks": []
       }
     ]

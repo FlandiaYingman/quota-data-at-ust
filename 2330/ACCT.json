@@ -73,7 +73,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 61,
+        "Wait": 62,
         "Remarks": []
       },
       {
@@ -1586,7 +1586,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 60,
@@ -2022,7 +2022,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 20,
+        "Wait": 21,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 50,

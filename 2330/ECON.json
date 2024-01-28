@@ -163,7 +163,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -247,7 +247,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -2942,8 +2942,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 5,
-        "Avail": 5,
+        "Enrol": 6,
+        "Avail": 4,
         "Wait": 0,
         "QuotaDetail": {
           "SBM": {

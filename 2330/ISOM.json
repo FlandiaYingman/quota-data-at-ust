@@ -1416,7 +1416,7 @@
         "Quota": 55,
         "Enrol": 25,
         "Avail": 30,
-        "Wait": 37,
+        "Wait": 38,
         "QuotaDetail": {
           "IS": {
             "Quota": 55,
@@ -1439,7 +1439,7 @@
         "Quota": 28,
         "Enrol": 11,
         "Avail": 17,
-        "Wait": 17,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -2797,9 +2797,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 38,
-        "Avail": 22,
-        "Wait": 40,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 38,
         "QuotaDetail": {
           "OM": {
             "Quota": 20,
@@ -2808,8 +2808,8 @@
           },
           "RMBI": {
             "Quota": 40,
-            "Enrol": 2,
-            "Avail": 38
+            "Enrol": 4,
+            "Avail": 36
           }
         },
         "Remarks": []
@@ -2823,9 +2823,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 55,
-        "Avail": 15,
-        "Wait": 29,
+        "Enrol": 57,
+        "Avail": 13,
+        "Wait": 27,
         "Remarks": []
       },
       {
@@ -3022,9 +3022,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 45,
-        "Avail": 10,
-        "Wait": 30,
+        "Enrol": 46,
+        "Avail": 9,
+        "Wait": 29,
         "QuotaDetail": {
           "IS": {
             "Quota": 15,
@@ -3038,8 +3038,8 @@
           },
           "RMBI": {
             "Quota": 5,
-            "Enrol": 4,
-            "Avail": 1
+            "Enrol": 5,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -3171,14 +3171,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 30,
-        "Avail": 40,
-        "Wait": 3,
+        "Enrol": 31,
+        "Avail": 39,
+        "Wait": 2,
         "QuotaDetail": {
           "SBM": {
             "Quota": 47,
-            "Enrol": 7,
-            "Avail": 40
+            "Enrol": 8,
+            "Avail": 39
           },
           "IS": {
             "Quota": 23,

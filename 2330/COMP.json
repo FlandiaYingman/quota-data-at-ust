@@ -2833,14 +2833,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 23,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 22,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 39,
-            "Avail": 1
+            "Enrol": 40,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -3159,7 +3159,7 @@
         "Quota": 30,
         "Enrol": 26,
         "Avail": 4,
-        "Wait": 6,
+        "Wait": 7,
         "QuotaDetail": {
           "CSE": {
             "Quota": 30,

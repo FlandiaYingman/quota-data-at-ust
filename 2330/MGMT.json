@@ -812,7 +812,7 @@
         "Quota": 40,
         "Enrol": 29,
         "Avail": 11,
-        "Wait": 33,
+        "Wait": 34,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
@@ -847,7 +847,7 @@
         "Quota": 40,
         "Enrol": 29,
         "Avail": 11,
-        "Wait": 33,
+        "Wait": 34,
         "Remarks": []
       }
     ]
@@ -906,14 +906,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 22,
-        "Avail": 18,
+        "Enrol": 21,
+        "Avail": 19,
         "Wait": 18,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
-            "Enrol": 19,
-            "Avail": 21
+            "Enrol": 18,
+            "Avail": 22
           }
         },
         "Remarks": []
@@ -2806,8 +2806,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 24,
-        "Avail": 56,
+        "Enrol": 25,
+        "Avail": 55,
         "Wait": 0,
         "Remarks": [
           "For MSc(FinTech) students only",
@@ -2823,8 +2823,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 24,
-        "Avail": 56,
+        "Enrol": 25,
+        "Avail": 55,
         "Wait": 0,
         "Remarks": [
           "For MSc(FinTech) students only",

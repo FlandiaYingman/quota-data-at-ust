@@ -2220,6 +2220,11 @@
         "Avail": 17,
         "Wait": 50,
         "QuotaDetail": {
+          "ACCT": {
+            "Quota": 5,
+            "Enrol": 3,
+            "Avail": 2
+          },
           "IS": {
             "Quota": 47,
             "Enrol": 30,
@@ -2234,11 +2239,6 @@
             "Quota": 2,
             "Enrol": 2,
             "Avail": 0
-          },
-          "ACCT": {
-            "Quota": 5,
-            "Enrol": 3,
-            "Avail": 2
           }
         },
         "Remarks": []

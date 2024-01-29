@@ -228,8 +228,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
+        "Enrol": 60,
+        "Avail": 0,
         "Wait": 0,
         "QuotaDetail": {
           "FINA": {
@@ -251,8 +251,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
+        "Enrol": 60,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       }
@@ -452,15 +452,15 @@
       {
         "Section": "L1 (2006)",
         "Date & Time": "MoWe 09:00AM - 10:20AM",
-        "Room": "G010, CYT Bldg (140)",
+        "Room": "Lecture Theater A (401)",
         "Instructor": [
           "WONG, Raymond Chi Wing"
         ],
         "TA/IA/GTA": [],
-        "Quota": 135,
-        "Enrol": 135,
-        "Avail": 0,
-        "Wait": 78,
+        "Quota": 200,
+        "Enrol": 175,
+        "Avail": 25,
+        "Wait": 38,
         "Remarks": []
       },
       {
@@ -471,10 +471,10 @@
           "WONG, Raymond Chi Wing"
         ],
         "TA/IA/GTA": [],
-        "Quota": 65,
-        "Enrol": 65,
-        "Avail": 0,
-        "Wait": 39,
+        "Quota": 120,
+        "Enrol": 95,
+        "Avail": 25,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -485,10 +485,10 @@
           "WONG, Raymond Chi Wing"
         ],
         "TA/IA/GTA": [],
-        "Quota": 71,
-        "Enrol": 70,
-        "Avail": 1,
-        "Wait": 40,
+        "Quota": 80,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 30,
         "Remarks": []
       }
     ]
@@ -524,8 +524,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 50,
-        "Avail": 0,
+        "Enrol": 49,
+        "Avail": 1,
         "Wait": 6,
         "Remarks": []
       }
@@ -642,7 +642,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 22,
+        "Wait": 21,
         "Remarks": []
       },
       {
@@ -668,8 +668,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 64,
-        "Avail": 6,
+        "Enrol": 65,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       },
@@ -726,7 +726,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 22,
+        "Wait": 21,
         "Remarks": []
       },
       {
@@ -752,8 +752,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 64,
-        "Avail": 6,
+        "Enrol": 65,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       },
@@ -2282,9 +2282,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 75,
-        "Enrol": 60,
-        "Avail": 15,
-        "Wait": 11,
+        "Enrol": 69,
+        "Avail": 6,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -2296,9 +2296,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 75,
-        "Enrol": 60,
-        "Avail": 15,
-        "Wait": 11,
+        "Enrol": 69,
+        "Avail": 6,
+        "Wait": 3,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -2493,8 +2493,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 483,
-        "Enrol": 478,
-        "Avail": 5,
+        "Enrol": 477,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": []
       },
@@ -2520,8 +2520,8 @@
           "LEUNG, Wai Ting"
         ],
         "TA/IA/GTA": [],
-        "Quota": 2,
-        "Enrol": 2,
+        "Quota": 3,
+        "Enrol": 3,
         "Avail": 0,
         "Wait": 0,
         "Remarks": []

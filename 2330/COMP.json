@@ -35,8 +35,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 55,
-        "Avail": 45,
+        "Enrol": 56,
+        "Avail": 44,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a blended learning mode"
@@ -51,8 +51,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 55,
-        "Avail": 45,
+        "Enrol": 56,
+        "Avail": 44,
         "Wait": 0,
         "Remarks": []
       }
@@ -614,7 +614,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 45,
+        "Wait": 46,
         "Remarks": []
       },
       {
@@ -698,7 +698,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 45,
+        "Wait": 46,
         "Remarks": []
       },
       {
@@ -2974,14 +2974,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 52,
-        "Avail": 8,
+        "Enrol": 51,
+        "Avail": 9,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 40,
-            "Avail": 0
+            "Enrol": 39,
+            "Avail": 1
           }
         },
         "Remarks": []
@@ -3581,8 +3581,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 6,
-        "Avail": 4,
+        "Enrol": 7,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

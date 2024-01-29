@@ -789,6 +789,35 @@
   },
   {
     "program": "ISDN",
+    "code": "6710C",
+    "name": "Independent Study",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Selected topics related to the research focus of postgraduate students, particularly those pursuing PhD. The course will be studied under the supervision of a faculty member. May be repeated for credit for different topics. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4371)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 15,
+        "Enrol": 0,
+        "Avail": 15,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ISDN",
     "code": "6830B",
     "name": "Extended Reality: Systems, Principles, and Design",
     "units": 3,

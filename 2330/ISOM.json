@@ -751,7 +751,7 @@
         "Quota": 87,
         "Enrol": 83,
         "Avail": 4,
-        "Wait": 56,
+        "Wait": 57,
         "QuotaDetail": {
           "BIBU": {
             "Quota": 22,
@@ -1175,7 +1175,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 62,
+        "Wait": 63,
         "QuotaDetail": {
           "BIBU": {
             "Quota": 15,
@@ -6297,14 +6297,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 70,
-        "Avail": 0,
+        "Enrol": 69,
+        "Avail": 1,
         "Wait": 9,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
-            "Enrol": 53,
-            "Avail": 17
+            "Enrol": 52,
+            "Avail": 18
           }
         },
         "Remarks": [

@@ -31,14 +31,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 130,
-        "Enrol": 100,
-        "Avail": 30,
-        "Wait": 64,
+        "Enrol": 130,
+        "Avail": 0,
+        "Wait": 34,
         "QuotaDetail": {
           "SSCI": {
             "Quota": 30,
-            "Enrol": 0,
-            "Avail": 30
+            "Enrol": 30,
+            "Avail": 0
           }
         },
         "Remarks": [
@@ -69,15 +69,15 @@
           "ZHANG, Qiong"
         ],
         "TA/IA/GTA": [],
-        "Quota": 175,
-        "Enrol": 175,
-        "Avail": 0,
-        "Wait": 60,
+        "Quota": 225,
+        "Enrol": 203,
+        "Avail": 22,
+        "Wait": 31,
         "QuotaDetail": {
           "SSCI": {
             "Quota": 50,
-            "Enrol": 0,
-            "Avail": 50
+            "Enrol": 28,
+            "Avail": 22
           }
         },
         "Remarks": []
@@ -821,8 +821,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 44,
-        "Avail": 36,
+        "Enrol": 45,
+        "Avail": 35,
         "Wait": 0,
         "Remarks": []
       }

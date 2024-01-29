@@ -294,7 +294,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -462,7 +462,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -913,7 +913,7 @@
         "Quota": 50,
         "Enrol": 40,
         "Avail": 10,
-        "Wait": 18,
+        "Wait": 17,
         "QuotaDetail": {
           "ECON": {
             "Quota": 26,
@@ -953,7 +953,7 @@
         "Quota": 50,
         "Enrol": 40,
         "Avail": 10,
-        "Wait": 18,
+        "Wait": 17,
         "Remarks": []
       }
     ]
@@ -1349,9 +1349,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 23,
-        "Avail": 27,
-        "Wait": 2,
+        "Enrol": 24,
+        "Avail": 26,
+        "Wait": 1,
         "QuotaDetail": {
           "ECON": {
             "Quota": 40,
@@ -1370,9 +1370,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 23,
-        "Avail": 27,
-        "Wait": 2,
+        "Enrol": 24,
+        "Avail": 26,
+        "Wait": 1,
         "QuotaDetail": {
           "ECON": {
             "Quota": 40,
@@ -1391,9 +1391,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 23,
-        "Avail": 27,
-        "Wait": 2,
+        "Enrol": 24,
+        "Avail": 26,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -1537,14 +1537,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 43,
-        "Avail": 7,
-        "Wait": 15,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 14,
         "QuotaDetail": {
           "ECON": {
             "Quota": 50,
-            "Enrol": 42,
-            "Avail": 8
+            "Enrol": 43,
+            "Avail": 7
           }
         },
         "Remarks": []
@@ -1558,9 +1558,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 43,
-        "Avail": 7,
-        "Wait": 15,
+        "Enrol": 44,
+        "Avail": 6,
+        "Wait": 14,
         "Remarks": []
       }
     ]
@@ -1871,7 +1871,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": [
           "For MSc(ECON) students only",
           "Add/Drop Deadline : 12-Feb-2024"
@@ -1888,7 +1888,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": [
           "For MSc(ECON) students only",
           "Add/Drop Deadline : 12-Feb-2024"
@@ -1919,14 +1919,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 27,
-        "Avail": 3,
+        "Enrol": 26,
+        "Avail": 4,
         "Wait": 0,
         "QuotaDetail": {
           "ECON": {
             "Quota": 25,
-            "Enrol": 24,
-            "Avail": 1
+            "Enrol": 23,
+            "Avail": 2
           },
           "MBA": {
             "Quota": 5,
@@ -1948,14 +1948,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 27,
-        "Avail": 3,
+        "Enrol": 26,
+        "Avail": 4,
         "Wait": 0,
         "QuotaDetail": {
           "ECON": {
             "Quota": 25,
-            "Enrol": 24,
-            "Avail": 1
+            "Enrol": 23,
+            "Avail": 2
           },
           "MBA": {
             "Quota": 5,

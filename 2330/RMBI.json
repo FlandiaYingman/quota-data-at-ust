@@ -191,8 +191,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 2,
-        "Enrol": 1,
-        "Avail": 1,
+        "Enrol": 0,
+        "Avail": 2,
         "Wait": 0,
         "Remarks": []
       }
@@ -277,14 +277,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 40,
-        "Avail": 10,
+        "Enrol": 41,
+        "Avail": 9,
         "Wait": 0,
         "QuotaDetail": {
           "RMBI": {
             "Quota": 50,
-            "Enrol": 38,
-            "Avail": 12
+            "Enrol": 39,
+            "Avail": 11
           }
         },
         "Remarks": []
@@ -298,8 +298,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 40,
-        "Avail": 10,
+        "Enrol": 41,
+        "Avail": 9,
         "Wait": 0,
         "Remarks": []
       }

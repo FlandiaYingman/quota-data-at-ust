@@ -34,6 +34,13 @@
         "Enrol": 100,
         "Avail": 30,
         "Wait": 64,
+        "QuotaDetail": {
+          "SSCI": {
+            "Quota": 30,
+            "Enrol": 0,
+            "Avail": 30
+          }
+        },
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -66,6 +73,13 @@
         "Enrol": 175,
         "Avail": 0,
         "Wait": 60,
+        "QuotaDetail": {
+          "SSCI": {
+            "Quota": 50,
+            "Enrol": 0,
+            "Avail": 50
+          }
+        },
         "Remarks": []
       }
     ]
@@ -716,8 +730,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 5,
-        "Avail": 15,
+        "Enrol": 6,
+        "Avail": 14,
         "Wait": 0,
         "Remarks": [
           "For MSc(GMRM) students only."
@@ -746,8 +760,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 5,
-        "Avail": 15,
+        "Enrol": 6,
+        "Avail": 14,
         "Wait": 0,
         "Remarks": [
           "For MSc(GMRM) students only."
@@ -836,8 +850,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 5,
-        "Avail": 15,
+        "Enrol": 6,
+        "Avail": 14,
         "Wait": 0,
         "Remarks": [
           "For MSc(GMRM) students only."

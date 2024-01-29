@@ -309,17 +309,17 @@
         "Quota": 60,
         "Enrol": 25,
         "Avail": 35,
-        "Wait": 30,
+        "Wait": 29,
         "QuotaDetail": {
           "SBM": {
             "Quota": 1,
-            "Enrol": 2,
+            "Enrol": 3,
             "Avail": 0
           },
           "FINA": {
             "Quota": 59,
-            "Enrol": 23,
-            "Avail": 36
+            "Enrol": 22,
+            "Avail": 37
           }
         },
         "Remarks": []
@@ -356,12 +356,12 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 35,
+        "Wait": 34,
         "QuotaDetail": {
           "SBM": {
             "Quota": 21,
-            "Enrol": 21,
-            "Avail": 0
+            "Enrol": 20,
+            "Avail": 1
           },
           "ECON": {
             "Quota": 7,
@@ -370,7 +370,7 @@
           },
           "FINA": {
             "Quota": 32,
-            "Enrol": 33,
+            "Enrol": 34,
             "Avail": 0
           }
         },

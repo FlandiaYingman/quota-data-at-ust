@@ -142,7 +142,7 @@
         "Quota": 72,
         "Enrol": 72,
         "Avail": 0,
-        "Wait": 40,
+        "Wait": 39,
         "Remarks": []
       },
       {
@@ -174,7 +174,7 @@
         "Quota": 170,
         "Enrol": 142,
         "Avail": 28,
-        "Wait": 64,
+        "Wait": 63,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -460,7 +460,7 @@
         "Quota": 200,
         "Enrol": 179,
         "Avail": 21,
-        "Wait": 36,
+        "Wait": 35,
         "Remarks": []
       },
       {
@@ -474,7 +474,7 @@
         "Quota": 120,
         "Enrol": 99,
         "Avail": 21,
-        "Wait": 9,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -3311,8 +3311,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 10,
-        "Avail": 50,
+        "Enrol": 9,
+        "Avail": 51,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {

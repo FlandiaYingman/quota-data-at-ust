@@ -1653,14 +1653,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 40,
-        "Avail": 0,
+        "Enrol": 39,
+        "Avail": 1,
         "Wait": 6,
         "QuotaDetail": {
           "ECON": {
             "Quota": 40,
-            "Enrol": 40,
-            "Avail": 0
+            "Enrol": 39,
+            "Avail": 1
           }
         },
         "Remarks": []
@@ -1994,7 +1994,7 @@
         "Quota": 70,
         "Enrol": 62,
         "Avail": 8,
-        "Wait": 11,
+        "Wait": 10,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 25,
@@ -2029,7 +2029,7 @@
         "Quota": 70,
         "Enrol": 62,
         "Avail": 8,
-        "Wait": 11,
+        "Wait": 10,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 25,

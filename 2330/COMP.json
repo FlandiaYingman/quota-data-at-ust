@@ -950,7 +950,7 @@
         "Quota": 60,
         "Enrol": 10,
         "Avail": 50,
-        "Wait": 15,
+        "Wait": 16,
         "Remarks": []
       },
       {
@@ -995,7 +995,7 @@
         "Quota": 60,
         "Enrol": 10,
         "Avail": 50,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       }
     ]
@@ -2281,9 +2281,9 @@
           "KAFSHDAR GOHARSHADY, Amir"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
+        "Quota": 75,
         "Enrol": 60,
-        "Avail": 0,
+        "Avail": 15,
         "Wait": 11,
         "Remarks": []
       },
@@ -2295,9 +2295,9 @@
           "KAFSHDAR GOHARSHADY, Amir"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
+        "Quota": 75,
         "Enrol": 60,
-        "Avail": 0,
+        "Avail": 15,
         "Wait": 11,
         "Remarks": [
           "The class is delivered in a real-time online mode"
@@ -2618,9 +2618,9 @@
           "CHAN, Gary Shueng Han"
         ],
         "TA/IA/GTA": [],
-        "Quota": 20,
+        "Quota": 25,
         "Enrol": 19,
-        "Avail": 1,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": [
           "Co-list with COMP 5911"
@@ -3224,9 +3224,9 @@
           "CHAN, Gary Shueng Han"
         ],
         "TA/IA/GTA": [],
-        "Quota": 20,
+        "Quota": 25,
         "Enrol": 19,
-        "Avail": 1,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": [
           "Classes held in Room 4503",
@@ -3552,8 +3552,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 10,
-        "Avail": 10,
+        "Enrol": 12,
+        "Avail": 8,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

@@ -101,7 +101,7 @@
         "Quota": 116,
         "Enrol": 116,
         "Avail": 0,
-        "Wait": 24,
+        "Wait": 23,
         "QuotaDetail": {
           "SBM": {
             "Quota": 105,
@@ -957,7 +957,7 @@
         "Quota": 61,
         "Enrol": 45,
         "Avail": 16,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -1013,7 +1013,7 @@
         "Quota": 60,
         "Enrol": 57,
         "Avail": 3,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -2216,7 +2216,7 @@
         "Quota": 60,
         "Enrol": 30,
         "Avail": 30,
-        "Wait": 25,
+        "Wait": 26,
         "QuotaDetail": {
           "SBM": {
             "Quota": 30,
@@ -2257,7 +2257,7 @@
         "Quota": 60,
         "Enrol": 30,
         "Avail": 30,
-        "Wait": 25,
+        "Wait": 26,
         "QuotaDetail": {
           "SBM": {
             "Quota": 30,
@@ -2301,9 +2301,9 @@
         "Wait": 50,
         "QuotaDetail": {
           "SBM": {
-            "Quota": 18,
+            "Quota": 17,
             "Enrol": 0,
-            "Avail": 18
+            "Avail": 17
           },
           "IS": {
             "Quota": 30,
@@ -2398,7 +2398,7 @@
         "Quota": 53,
         "Enrol": 18,
         "Avail": 35,
-        "Wait": 29,
+        "Wait": 30,
         "Remarks": []
       },
       {
@@ -2669,9 +2669,9 @@
             "Avail": 0
           },
           "SBM": {
-            "Quota": 7,
+            "Quota": 9,
             "Enrol": 0,
-            "Avail": 7
+            "Avail": 9
           }
         },
         "Remarks": []
@@ -2700,9 +2700,9 @@
             "Avail": 0
           },
           "SBM": {
-            "Quota": 7,
+            "Quota": 9,
             "Enrol": 0,
-            "Avail": 7
+            "Avail": 9
           }
         },
         "Remarks": []
@@ -3258,7 +3258,7 @@
         "Quota": 60,
         "Enrol": 16,
         "Avail": 44,
-        "Wait": 16,
+        "Wait": 17,
         "QuotaDetail": {
           "SBM": {
             "Quota": 44,
@@ -3652,15 +3652,20 @@
           "LU, Lijian"
         ],
         "TA/IA/GTA": [],
-        "Quota": 35,
+        "Quota": 58,
         "Enrol": 35,
-        "Avail": 0,
+        "Avail": 23,
         "Wait": 17,
         "QuotaDetail": {
           "OM": {
-            "Quota": 35,
+            "Quota": 55,
             "Enrol": 35,
-            "Avail": 0
+            "Avail": 20
+          },
+          "RMBI": {
+            "Quota": 3,
+            "Enrol": 0,
+            "Avail": 3
           }
         },
         "Remarks": []

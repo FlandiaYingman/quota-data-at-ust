@@ -162,9 +162,9 @@
           "SOU, Iam Keong"
         ],
         "TA/IA/GTA": [],
-        "Quota": 100,
+        "Quota": 125,
         "Enrol": 100,
-        "Avail": 0,
+        "Avail": 25,
         "Wait": 26,
         "Remarks": []
       },
@@ -420,9 +420,9 @@
           "PANT, Nidhi"
         ],
         "TA/IA/GTA": [],
-        "Quota": 113,
+        "Quota": 120,
         "Enrol": 111,
-        "Avail": 2,
+        "Avail": 9,
         "Wait": 17,
         "Remarks": []
       },
@@ -434,9 +434,9 @@
           "NG, Tai Kai"
         ],
         "TA/IA/GTA": [],
-        "Quota": 113,
+        "Quota": 120,
         "Enrol": 113,
-        "Avail": 0,
+        "Avail": 7,
         "Wait": 26,
         "Remarks": []
       },
@@ -451,7 +451,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -521,7 +521,7 @@
         "Quota": 45,
         "Enrol": 39,
         "Avail": 6,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -660,7 +660,7 @@
         "Quota": 80,
         "Enrol": 74,
         "Avail": 6,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -800,7 +800,7 @@
         "Quota": 40,
         "Enrol": 32,
         "Avail": 8,
-        "Wait": 0,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -1403,8 +1403,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 16,
-        "Avail": 34,
+        "Enrol": 17,
+        "Avail": 33,
         "Wait": 0,
         "Remarks": []
       },
@@ -1417,8 +1417,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 16,
-        "Avail": 34,
+        "Enrol": 17,
+        "Avail": 33,
         "Wait": 0,
         "Remarks": []
       }

@@ -193,7 +193,7 @@
         "Quota": 400,
         "Enrol": 370,
         "Avail": 30,
-        "Wait": 320,
+        "Wait": 319,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 100,
@@ -404,7 +404,7 @@
         "Quota": 120,
         "Enrol": 89,
         "Avail": 31,
-        "Wait": 79,
+        "Wait": 78,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -446,7 +446,7 @@
         "Quota": 120,
         "Enrol": 92,
         "Avail": 28,
-        "Wait": 261,
+        "Wait": 262,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,
@@ -611,14 +611,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 79,
-        "Avail": 1,
-        "Wait": 34,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 33,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 80,
-            "Enrol": 79,
-            "Avail": 1
+            "Enrol": 80,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -1008,7 +1008,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 42,
+        "Wait": 41,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 40,
@@ -1368,7 +1368,7 @@
         "Quota": 20,
         "Enrol": 10,
         "Avail": 10,
-        "Wait": 3,
+        "Wait": 4,
         "QuotaDetail": {
           "SOSC": {
             "Quota": 20,
@@ -1392,7 +1392,7 @@
         "Quota": 20,
         "Enrol": 10,
         "Avail": 10,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": [
           "Venue : Room 4502"
         ]

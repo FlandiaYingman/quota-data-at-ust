@@ -606,8 +606,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 9,
         "Remarks": []
       },
@@ -636,9 +636,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 16,
-        "Avail": 4,
-        "Wait": 12,
+        "Enrol": 17,
+        "Avail": 3,
+        "Wait": 11,
         "Remarks": []
       },
       {
@@ -1283,7 +1283,7 @@
         "Quota": 100,
         "Enrol": 92,
         "Avail": 8,
-        "Wait": 369,
+        "Wait": 368,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 60,

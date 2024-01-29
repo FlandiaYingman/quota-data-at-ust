@@ -139,7 +139,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": [
           "Venue: Room CYTG010"
         ]
@@ -172,7 +172,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": [
           "Venue: LTF"
         ]
@@ -217,8 +217,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 135,
-        "Avail": 0,
+        "Enrol": 134,
+        "Avail": 1,
         "Wait": 33,
         "Remarks": []
       },
@@ -331,7 +331,7 @@
         "Quota": 135,
         "Enrol": 107,
         "Avail": 28,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -345,7 +345,7 @@
         "Quota": 135,
         "Enrol": 107,
         "Avail": 28,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -399,8 +399,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 45,
-        "Avail": 0,
+        "Enrol": 44,
+        "Avail": 1,
         "Wait": 12,
         "Remarks": []
       },
@@ -623,9 +623,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 44,
-        "Avail": 1,
-        "Wait": 7,
+        "Enrol": 45,
+        "Avail": 0,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -637,8 +637,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 44,
-        "Avail": 1,
+        "Enrol": 43,
+        "Avail": 2,
         "Wait": 0,
         "Remarks": []
       },
@@ -709,7 +709,7 @@
         "Quota": 45,
         "Enrol": 41,
         "Avail": 4,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1196,9 +1196,9 @@
           "KU, Yin Bon"
         ],
         "TA/IA/GTA": [],
-        "Quota": 90,
+        "Quota": 100,
         "Enrol": 90,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 10,
         "Remarks": []
       },
@@ -1210,9 +1210,9 @@
           "KU, Yin Bon"
         ],
         "TA/IA/GTA": [],
-        "Quota": 90,
+        "Quota": 100,
         "Enrol": 90,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 16,
         "Remarks": []
       },
@@ -1224,9 +1224,9 @@
           "KU, Yin Bon"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 50,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 10,
         "Remarks": []
       },
@@ -1238,9 +1238,9 @@
           "KU, Yin Bon"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 50,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 3,
         "Remarks": []
       },
@@ -1252,9 +1252,9 @@
           "KU, Yin Bon"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 50,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 6,
         "Remarks": []
       },
@@ -1266,9 +1266,9 @@
           "KU, Yin Bon"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 50,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 13,
         "Remarks": []
       }

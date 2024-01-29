@@ -30,7 +30,7 @@
         "Quota": 400,
         "Enrol": 326,
         "Avail": 74,
-        "Wait": 160,
+        "Wait": 161,
         "QuotaDetail": {
           "SHSS": {
             "Quota": 100,
@@ -127,7 +127,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 12,
+        "Wait": 13,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -2804,14 +2804,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 7,
-        "Avail": 13,
-        "Wait": 5,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 4,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 7,
-            "Avail": 13
+            "Enrol": 8,
+            "Avail": 12
           }
         },
         "Remarks": []
@@ -2825,9 +2825,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 7,
-        "Avail": 13,
-        "Wait": 5,
+        "Enrol": 8,
+        "Avail": 12,
+        "Wait": 4,
         "Remarks": []
       }
     ]

@@ -309,7 +309,7 @@
         "Quota": 60,
         "Enrol": 25,
         "Avail": 35,
-        "Wait": 28,
+        "Wait": 29,
         "QuotaDetail": {
           "SBM": {
             "Quota": 1,
@@ -335,7 +335,7 @@
         "Quota": 60,
         "Enrol": 35,
         "Avail": 25,
-        "Wait": 30,
+        "Wait": 29,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
@@ -1311,8 +1311,8 @@
         "QuotaDetail": {
           "FINA": {
             "Quota": 50,
-            "Enrol": 18,
-            "Avail": 32
+            "Enrol": 19,
+            "Avail": 31
           },
           "MBA": {
             "Quota": 10,

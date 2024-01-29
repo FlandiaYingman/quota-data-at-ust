@@ -1500,14 +1500,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 60,
-        "Avail": 5,
+        "Enrol": 59,
+        "Avail": 6,
         "Wait": 21,
         "QuotaDetail": {
           "SBM": {
             "Quota": 21,
-            "Enrol": 16,
-            "Avail": 5
+            "Enrol": 15,
+            "Avail": 6
           },
           "IS": {
             "Quota": 36,
@@ -1547,8 +1547,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 25,
-        "Avail": 10,
+        "Enrol": 24,
+        "Avail": 11,
         "Wait": 6,
         "Remarks": []
       }
@@ -1581,15 +1581,15 @@
           "THONG, James Yeong Liang"
         ],
         "TA/IA/GTA": [],
-        "Quota": 55,
+        "Quota": 60,
         "Enrol": 38,
-        "Avail": 17,
+        "Avail": 22,
         "Wait": 7,
         "QuotaDetail": {
           "IS": {
-            "Quota": 33,
+            "Quota": 35,
             "Enrol": 33,
-            "Avail": 0
+            "Avail": 2
           },
           "RMBI": {
             "Quota": 2,
@@ -1597,9 +1597,9 @@
             "Avail": 0
           },
           "SBM": {
-            "Quota": 20,
+            "Quota": 23,
             "Enrol": 3,
-            "Avail": 17
+            "Avail": 20
           }
         },
         "Remarks": [
@@ -1614,15 +1614,15 @@
           "THONG, James Yeong Liang"
         ],
         "TA/IA/GTA": [],
-        "Quota": 55,
+        "Quota": 60,
         "Enrol": 55,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 13,
         "QuotaDetail": {
           "IS": {
-            "Quota": 55,
+            "Quota": 60,
             "Enrol": 55,
-            "Avail": 0
+            "Avail": 5
           }
         },
         "Remarks": [
@@ -1643,14 +1643,14 @@
         "Wait": 15,
         "QuotaDetail": {
           "IS": {
-            "Quota": 44,
+            "Quota": 50,
             "Enrol": 44,
-            "Avail": 0
+            "Avail": 6
           },
           "SBM": {
-            "Quota": 10,
+            "Quota": 4,
             "Enrol": 4,
-            "Avail": 6
+            "Avail": 0
           }
         },
         "Remarks": [
@@ -1665,9 +1665,9 @@
           "LAI, Sum Yu"
         ],
         "TA/IA/GTA": [],
-        "Quota": 41,
+        "Quota": 49,
         "Enrol": 41,
-        "Avail": 0,
+        "Avail": 8,
         "Wait": 19,
         "Remarks": []
       },
@@ -1679,9 +1679,9 @@
           "LAI, Sum Yu"
         ],
         "TA/IA/GTA": [],
-        "Quota": 41,
+        "Quota": 45,
         "Enrol": 40,
-        "Avail": 1,
+        "Avail": 5,
         "Wait": 4,
         "Remarks": []
       },
@@ -1693,9 +1693,9 @@
           "LAI, Sum Yu"
         ],
         "TA/IA/GTA": [],
-        "Quota": 41,
+        "Quota": 40,
         "Enrol": 29,
-        "Avail": 12,
+        "Avail": 11,
         "Wait": 6,
         "Remarks": []
       },
@@ -1707,9 +1707,9 @@
           "LAI, Sum Yu"
         ],
         "TA/IA/GTA": [],
-        "Quota": 41,
+        "Quota": 40,
         "Enrol": 31,
-        "Avail": 10,
+        "Avail": 9,
         "Wait": 4,
         "Remarks": []
       },
@@ -1721,9 +1721,9 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 41,
+        "Quota": 42,
         "Enrol": 25,
-        "Avail": 16,
+        "Avail": 17,
         "Wait": 9,
         "Remarks": []
       },
@@ -1735,9 +1735,9 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 41,
+        "Quota": 45,
         "Enrol": 41,
-        "Avail": 0,
+        "Avail": 4,
         "Wait": 8,
         "Remarks": []
       },
@@ -1749,9 +1749,9 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 41,
+        "Quota": 42,
         "Enrol": 34,
-        "Avail": 7,
+        "Avail": 8,
         "Wait": 9,
         "Remarks": []
       },
@@ -1763,9 +1763,9 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 41,
+        "Quota": 45,
         "Enrol": 41,
-        "Avail": 0,
+        "Avail": 4,
         "Wait": 8,
         "Remarks": []
       }
@@ -3433,7 +3433,7 @@
         "Quota": 50,
         "Enrol": 19,
         "Avail": 31,
-        "Wait": 9,
+        "Wait": 11,
         "QuotaDetail": {
           "OM": {
             "Quota": 40,
@@ -3464,7 +3464,7 @@
         "Quota": 50,
         "Enrol": 19,
         "Avail": 31,
-        "Wait": 9,
+        "Wait": 11,
         "Remarks": []
       }
     ]
@@ -4159,7 +4159,7 @@
         "Quota": 62,
         "Enrol": 62,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 62,

@@ -948,9 +948,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 9,
-        "Avail": 51,
-        "Wait": 16,
+        "Enrol": 10,
+        "Avail": 50,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -993,9 +993,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 9,
-        "Avail": 51,
-        "Wait": 8,
+        "Enrol": 10,
+        "Avail": 50,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -1336,10 +1336,10 @@
           "LEUNG, Wai Ting"
         ],
         "TA/IA/GTA": [],
-        "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
-        "Wait": 2,
+        "Quota": 90,
+        "Enrol": 81,
+        "Avail": 9,
+        "Wait": 1,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1352,10 +1352,10 @@
           "LEUNG, Wai Ting"
         ],
         "TA/IA/GTA": [],
-        "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
-        "Wait": 2,
+        "Quota": 90,
+        "Enrol": 81,
+        "Avail": 9,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -1715,10 +1715,10 @@
           "LAM, Gibson"
         ],
         "TA/IA/GTA": [],
-        "Quota": 65,
-        "Enrol": 65,
+        "Quota": 80,
+        "Enrol": 80,
         "Avail": 0,
-        "Wait": 50,
+        "Wait": 35,
         "Remarks": []
       },
       {
@@ -1729,10 +1729,10 @@
           "LAM, Gibson"
         ],
         "TA/IA/GTA": [],
-        "Quota": 65,
-        "Enrol": 65,
+        "Quota": 80,
+        "Enrol": 80,
         "Avail": 0,
-        "Wait": 50,
+        "Wait": 35,
         "Remarks": []
       }
     ]
@@ -1946,10 +1946,10 @@
           "LEUNG, Wai Ting"
         ],
         "TA/IA/GTA": [],
-        "Quota": 65,
-        "Enrol": 65,
-        "Avail": 0,
-        "Wait": 60,
+        "Quota": 150,
+        "Enrol": 120,
+        "Avail": 30,
+        "Wait": 5,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -1962,10 +1962,10 @@
           "LEUNG, Wai Ting"
         ],
         "TA/IA/GTA": [],
-        "Quota": 65,
-        "Enrol": 65,
-        "Avail": 0,
-        "Wait": 60,
+        "Quota": 150,
+        "Enrol": 120,
+        "Avail": 30,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -2121,8 +2121,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 74,
-        "Avail": 6,
+        "Enrol": 75,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a blended learning mode"
@@ -2137,8 +2137,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 74,
-        "Avail": 6,
+        "Enrol": 75,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       }
@@ -2368,8 +2368,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 66,
-        "Enrol": 17,
-        "Avail": 49,
+        "Enrol": 16,
+        "Avail": 50,
         "Wait": 0,
         "Remarks": []
       },
@@ -2382,8 +2382,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 66,
-        "Enrol": 17,
-        "Avail": 49,
+        "Enrol": 16,
+        "Avail": 50,
         "Wait": 0,
         "Remarks": []
       }
@@ -2677,7 +2677,8 @@
         "Date & Time": "TBA",
         "Room": "TBA",
         "Instructor": [
-          "HORNER, Andrew"
+          "HORNER, Andrew",
+          "ROSSITER, David"
         ],
         "TA/IA/GTA": [],
         "Quota": 4,
@@ -3380,14 +3381,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 51,
-        "Avail": 49,
+        "Enrol": 50,
+        "Avail": 50,
         "Wait": 2,
         "QuotaDetail": {
           "CSE": {
             "Quota": 100,
-            "Enrol": 51,
-            "Avail": 49
+            "Enrol": 50,
+            "Avail": 50
           }
         },
         "Remarks": [
@@ -3580,8 +3581,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 5,
-        "Avail": 5,
+        "Enrol": 6,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

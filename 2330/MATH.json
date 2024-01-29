@@ -137,9 +137,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 18,
-        "Avail": 2,
-        "Wait": 0,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 1,
         "Remarks": [
           "Venue: Room CYTG010"
         ]
@@ -170,9 +170,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 18,
-        "Avail": 2,
-        "Wait": 0,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 1,
         "Remarks": [
           "Venue: LTF"
         ]
@@ -261,7 +261,7 @@
         "Quota": 135,
         "Enrol": 133,
         "Avail": 2,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -373,7 +373,7 @@
         "Quota": 135,
         "Enrol": 123,
         "Avail": 12,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -387,7 +387,7 @@
         "Quota": 135,
         "Enrol": 110,
         "Avail": 25,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -527,7 +527,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -807,7 +807,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -849,7 +849,7 @@
         "Quota": 45,
         "Enrol": 35,
         "Avail": 10,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -961,7 +961,7 @@
         "Quota": 90,
         "Enrol": 90,
         "Avail": 0,
-        "Wait": 31,
+        "Wait": 32,
         "Remarks": []
       },
       {
@@ -1031,7 +1031,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -1421,8 +1421,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 21,
-        "Avail": 19,
+        "Enrol": 20,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       },
@@ -1435,8 +1435,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 21,
-        "Avail": 19,
+        "Enrol": 20,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       },
@@ -1449,8 +1449,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 21,
-        "Avail": 19,
+        "Enrol": 20,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       }
@@ -2010,9 +2010,9 @@
           "HU, Jishan"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 70,
         "Enrol": 40,
-        "Avail": 0,
+        "Avail": 30,
         "Wait": 32,
         "QuotaDetail": {
           "MATH": {

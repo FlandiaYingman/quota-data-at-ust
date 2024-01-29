@@ -59,7 +59,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 71,
+        "Wait": 70,
         "Remarks": []
       }
     ]
@@ -906,14 +906,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 23,
-        "Avail": 17,
-        "Wait": 20,
+        "Enrol": 24,
+        "Avail": 16,
+        "Wait": 19,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
-            "Enrol": 20,
-            "Avail": 20
+            "Enrol": 21,
+            "Avail": 19
           }
         },
         "Remarks": []
@@ -940,14 +940,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 14,
-        "Avail": 26,
-        "Wait": 33,
+        "Enrol": 15,
+        "Avail": 25,
+        "Wait": 32,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
-            "Enrol": 14,
-            "Avail": 26
+            "Enrol": 15,
+            "Avail": 25
           }
         },
         "Remarks": []
@@ -982,14 +982,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 19,
-        "Avail": 21,
-        "Wait": 44,
+        "Enrol": 21,
+        "Avail": 19,
+        "Wait": 42,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
-            "Enrol": 16,
-            "Avail": 24
+            "Enrol": 18,
+            "Avail": 22
           }
         },
         "Remarks": []
@@ -1132,14 +1132,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 20,
-        "Avail": 20,
+        "Enrol": 19,
+        "Avail": 21,
         "Wait": 14,
         "QuotaDetail": {
           "MGMT": {
             "Quota": 40,
-            "Enrol": 20,
-            "Avail": 20
+            "Enrol": 19,
+            "Avail": 21
           }
         },
         "Remarks": []
@@ -1174,8 +1174,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 20,
-        "Avail": 20,
+        "Enrol": 19,
+        "Avail": 21,
         "Wait": 14,
         "Remarks": []
       },

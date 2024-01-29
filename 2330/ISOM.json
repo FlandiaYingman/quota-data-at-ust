@@ -625,7 +625,7 @@
         "Quota": 102,
         "Enrol": 102,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 22,
         "QuotaDetail": {
           "SBM": {
             "Quota": 102,
@@ -646,7 +646,7 @@
         "Quota": 102,
         "Enrol": 102,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 22,
         "QuotaDetail": {
           "SBM": {
             "Quota": 102,
@@ -709,7 +709,7 @@
         "Quota": 88,
         "Enrol": 88,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "QuotaDetail": {
           "SBM": {
             "Quota": 88,
@@ -1268,9 +1268,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 29,
-        "Avail": 1,
-        "Wait": 6,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 5,
         "QuotaDetail": {
           "IS": {
             "Quota": 21,
@@ -1279,8 +1279,8 @@
           },
           "SBM": {
             "Quota": 9,
-            "Enrol": 8,
-            "Avail": 1
+            "Enrol": 9,
+            "Avail": 0
           }
         },
         "Remarks": [
@@ -1298,7 +1298,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 4,
         "QuotaDetail": {
           "IS": {
             "Quota": 19,
@@ -1337,9 +1337,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 69,
-        "Avail": 1,
-        "Wait": 11,
+        "Enrol": 70,
+        "Avail": 0,
+        "Wait": 10,
         "QuotaDetail": {
           "SBM": {
             "Quota": 14,
@@ -1348,8 +1348,8 @@
           },
           "IS": {
             "Quota": 56,
-            "Enrol": 55,
-            "Avail": 1
+            "Enrol": 56,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -1391,9 +1391,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 21,
-        "Avail": 4,
-        "Wait": 2,
+        "Enrol": 22,
+        "Avail": 3,
+        "Wait": 1,
         "Remarks": []
       }
     ]

@@ -350,7 +350,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 26,
         "Remarks": []
       },
       {
@@ -364,7 +364,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 26,
         "Remarks": []
       },
       {
@@ -518,7 +518,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 26,
         "Remarks": []
       },
       {
@@ -1871,7 +1871,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": [
           "For MSc(ECON) students only",
           "Add/Drop Deadline : 12-Feb-2024"
@@ -1888,7 +1888,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": [
           "For MSc(ECON) students only",
           "Add/Drop Deadline : 12-Feb-2024"
@@ -1919,14 +1919,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 26,
-        "Avail": 4,
+        "Enrol": 27,
+        "Avail": 3,
         "Wait": 0,
         "QuotaDetail": {
           "ECON": {
             "Quota": 25,
-            "Enrol": 23,
-            "Avail": 2
+            "Enrol": 24,
+            "Avail": 1
           },
           "MBA": {
             "Quota": 5,
@@ -1948,14 +1948,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 26,
-        "Avail": 4,
+        "Enrol": 27,
+        "Avail": 3,
         "Wait": 0,
         "QuotaDetail": {
           "ECON": {
             "Quota": 25,
-            "Enrol": 23,
-            "Avail": 2
+            "Enrol": 24,
+            "Avail": 1
           },
           "MBA": {
             "Quota": 5,
@@ -2217,7 +2217,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 14,
         "Remarks": [
           "For MSc(ECON) students only",
           "Add/Drop Deadline : 05-Feb-2024"
@@ -2234,7 +2234,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 14,
         "Remarks": [
           "For MSc(ECON) students only",
           "Add/Drop Deadline : 05-Feb-2024"
@@ -2514,7 +2514,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class on 01-May-2024"
@@ -2531,7 +2531,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class on 01-May-2024"
@@ -2548,7 +2548,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class on 01-May-2024"
@@ -2578,8 +2578,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 41,
-        "Avail": 19,
+        "Enrol": 42,
+        "Avail": 18,
         "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",
@@ -2595,8 +2595,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 41,
-        "Avail": 19,
+        "Enrol": 42,
+        "Avail": 18,
         "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",

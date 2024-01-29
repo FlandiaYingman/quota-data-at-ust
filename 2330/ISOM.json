@@ -2341,11 +2341,6 @@
         "Avail": 15,
         "Wait": 25,
         "QuotaDetail": {
-          "SBM": {
-            "Quota": 31,
-            "Enrol": 16,
-            "Avail": 15
-          },
           "IS": {
             "Quota": 21,
             "Enrol": 21,
@@ -2355,6 +2350,11 @@
             "Quota": 6,
             "Enrol": 6,
             "Avail": 0
+          },
+          "SBM": {
+            "Quota": 31,
+            "Enrol": 16,
+            "Avail": 15
           }
         },
         "Remarks": []

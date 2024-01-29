@@ -197,14 +197,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 26,
-        "Avail": 44,
+        "Enrol": 27,
+        "Avail": 43,
         "Wait": 0,
         "QuotaDetail": {
           "AESF": {
             "Quota": 70,
-            "Enrol": 26,
-            "Avail": 44
+            "Enrol": 27,
+            "Avail": 43
           }
         },
         "Remarks": [
@@ -235,7 +235,7 @@
         "Quota": 70,
         "Enrol": 20,
         "Avail": 50,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "AESF": {
             "Quota": 70,
@@ -271,7 +271,7 @@
         "Quota": 70,
         "Enrol": 23,
         "Avail": 47,
-        "Wait": 3,
+        "Wait": 4,
         "QuotaDetail": {
           "AESF": {
             "Quota": 70,

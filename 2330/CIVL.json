@@ -808,7 +808,7 @@
         "Quota": 93,
         "Enrol": 93,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -1065,14 +1065,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 27,
-        "Avail": 23,
+        "Enrol": 26,
+        "Avail": 24,
         "Wait": 0,
         "QuotaDetail": {
           "CIVL": {
             "Quota": 48,
-            "Enrol": 24,
-            "Avail": 24
+            "Enrol": 23,
+            "Avail": 25
           }
         },
         "Remarks": []

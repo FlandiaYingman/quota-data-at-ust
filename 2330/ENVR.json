@@ -573,9 +573,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 70,
-        "Avail": 25,
-        "Wait": 9,
+        "Enrol": 71,
+        "Avail": 24,
+        "Wait": 8,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 70,
@@ -589,8 +589,8 @@
           },
           "PPOL": {
             "Quota": 5,
-            "Enrol": 1,
-            "Avail": 4
+            "Enrol": 2,
+            "Avail": 3
           }
         },
         "Remarks": [

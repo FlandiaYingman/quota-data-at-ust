@@ -75,5 +75,39 @@
         ]
       }
     ]
+  },
+  {
+    "program": "HMMA",
+    "code": "6200A",
+    "name": "Independent Study",
+    "units": 3,
+    "info": {
+      "attributes": "[C] Require Chinese reading",
+      "vector": "[3 credits]",
+      "exclusion": "HUMA 6100",
+      "description": "For MA(CC) students only. Students are required to conduct an independent study in a designated subject under the supervision of a faculty member. It may require readings, tutorial discussions, and submission of research paper(s). It may be repeated for credit if different topics are studied."
+    },
+    "attrs": [
+      {
+        "title": "[READ]",
+        "description": "Reading Material"
+      }
+    ],
+    "sections": [
+      {
+        "Section": "R1 (4367)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 5,
+        "Enrol": 0,
+        "Avail": 5,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
   }
 ]

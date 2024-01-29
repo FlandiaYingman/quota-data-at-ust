@@ -279,8 +279,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 29,
-        "Avail": 21,
+        "Enrol": 30,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       },
@@ -293,8 +293,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 29,
-        "Avail": 21,
+        "Enrol": 30,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       }
@@ -614,7 +614,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 46,
+        "Wait": 45,
         "Remarks": []
       },
       {
@@ -628,7 +628,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 26,
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -698,7 +698,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 46,
+        "Wait": 45,
         "Remarks": []
       },
       {
@@ -712,7 +712,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 26,
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -936,7 +936,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 33,
+        "Wait": 34,
         "Remarks": []
       },
       {
@@ -995,7 +995,7 @@
         "Quota": 60,
         "Enrol": 9,
         "Avail": 51,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       }
     ]
@@ -2368,8 +2368,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 66,
-        "Enrol": 16,
-        "Avail": 50,
+        "Enrol": 17,
+        "Avail": 49,
         "Wait": 0,
         "Remarks": []
       },
@@ -2382,8 +2382,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 66,
-        "Enrol": 16,
-        "Avail": 50,
+        "Enrol": 17,
+        "Avail": 49,
         "Wait": 0,
         "Remarks": []
       }
@@ -2622,7 +2622,9 @@
         "Enrol": 19,
         "Avail": 1,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Co-list with COMP 5911"
+        ]
       }
     ]
   },

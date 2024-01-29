@@ -219,7 +219,7 @@
         "Quota": 135,
         "Enrol": 135,
         "Avail": 0,
-        "Wait": 32,
+        "Wait": 33,
         "Remarks": []
       },
       {
@@ -275,7 +275,7 @@
         "Quota": 135,
         "Enrol": 133,
         "Avail": 2,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -387,7 +387,7 @@
         "Quota": 135,
         "Enrol": 112,
         "Avail": 23,
-        "Wait": 4,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -429,7 +429,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 18,
+        "Wait": 19,
         "Remarks": []
       },
       {
@@ -569,7 +569,7 @@
         "Quota": 45,
         "Enrol": 43,
         "Avail": 2,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -835,7 +835,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -975,7 +975,7 @@
         "Quota": 120,
         "Enrol": 87,
         "Avail": 33,
-        "Wait": 28,
+        "Wait": 29,
         "Remarks": []
       },
       {
@@ -1003,7 +1003,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 24,
         "Remarks": []
       },
       {
@@ -1017,7 +1017,7 @@
         "Quota": 30,
         "Enrol": 6,
         "Avail": 24,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1087,7 +1087,7 @@
         "Quota": 30,
         "Enrol": 1,
         "Avail": 29,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -3787,8 +3787,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 16,
-        "Avail": 24,
+        "Enrol": 17,
+        "Avail": 23,
         "Wait": 0,
         "Remarks": [
           "Venue: LTF"

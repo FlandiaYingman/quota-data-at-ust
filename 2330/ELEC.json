@@ -265,7 +265,7 @@
         "Quota": 140,
         "Enrol": 140,
         "Avail": 0,
-        "Wait": 42,
+        "Wait": 41,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -281,7 +281,7 @@
         "Quota": 140,
         "Enrol": 140,
         "Avail": 0,
-        "Wait": 42,
+        "Wait": 41,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -311,7 +311,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 19,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -339,7 +339,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 32,
+        "Wait": 31,
         "Remarks": []
       }
     ]
@@ -403,9 +403,9 @@
           "YOBAS, Levent"
         ],
         "TA/IA/GTA": [],
-        "Quota": 50,
+        "Quota": 60,
         "Enrol": 50,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 11,
         "Remarks": []
       },
@@ -418,9 +418,9 @@
           "YOBAS, Levent"
         ],
         "TA/IA/GTA": [],
-        "Quota": 50,
+        "Quota": 60,
         "Enrol": 49,
-        "Avail": 1,
+        "Avail": 11,
         "Wait": 5,
         "Remarks": []
       },
@@ -433,9 +433,9 @@
           "YOBAS, Levent"
         ],
         "TA/IA/GTA": [],
-        "Quota": 50,
+        "Quota": 60,
         "Enrol": 49,
-        "Avail": 1,
+        "Avail": 11,
         "Wait": 7,
         "Remarks": []
       },
@@ -448,9 +448,9 @@
           "YOBAS, Levent"
         ],
         "TA/IA/GTA": [],
-        "Quota": 50,
+        "Quota": 60,
         "Enrol": 50,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 9,
         "Remarks": []
       }
@@ -564,7 +564,7 @@
         "Quota": 105,
         "Enrol": 98,
         "Avail": 7,
-        "Wait": 8,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -608,7 +608,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -2736,9 +2736,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 13,
-        "Avail": 7,
-        "Wait": 6,
+        "Enrol": 14,
+        "Avail": 6,
+        "Wait": 5,
         "QuotaDetail": {
           "ECE": {
             "Quota": 20,

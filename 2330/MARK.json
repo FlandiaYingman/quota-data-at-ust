@@ -334,14 +334,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 49,
-        "Avail": 1,
-        "Wait": 25,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 24,
         "QuotaDetail": {
           "MARK": {
             "Quota": 50,
-            "Enrol": 49,
-            "Avail": 1
+            "Enrol": 50,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -376,14 +376,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 33,
-        "Avail": 17,
+        "Enrol": 32,
+        "Avail": 18,
         "Wait": 13,
         "QuotaDetail": {
           "MARK": {
             "Quota": 50,
-            "Enrol": 33,
-            "Avail": 17
+            "Enrol": 32,
+            "Avail": 18
           }
         },
         "Remarks": []
@@ -397,9 +397,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 49,
-        "Avail": 1,
-        "Wait": 25,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 24,
         "Remarks": []
       },
       {
@@ -425,8 +425,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 33,
-        "Avail": 17,
+        "Enrol": 32,
+        "Avail": 18,
         "Wait": 13,
         "Remarks": []
       }
@@ -655,7 +655,7 @@
         "Quota": 40,
         "Enrol": 31,
         "Avail": 9,
-        "Wait": 19,
+        "Wait": 20,
         "QuotaDetail": {
           "MARK": {
             "Quota": 40,
@@ -676,7 +676,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 34,
+        "Wait": 35,
         "QuotaDetail": {
           "MARK": {
             "Quota": 40,
@@ -718,7 +718,7 @@
         "Quota": 40,
         "Enrol": 31,
         "Avail": 9,
-        "Wait": 19,
+        "Wait": 20,
         "Remarks": []
       },
       {
@@ -732,7 +732,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 34,
+        "Wait": 35,
         "Remarks": []
       },
       {
@@ -836,7 +836,7 @@
         "Quota": 48,
         "Enrol": 31,
         "Avail": 17,
-        "Wait": 3,
+        "Wait": 4,
         "QuotaDetail": {
           "MARK": {
             "Quota": 48,
@@ -899,7 +899,7 @@
         "Quota": 48,
         "Enrol": 31,
         "Avail": 17,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]

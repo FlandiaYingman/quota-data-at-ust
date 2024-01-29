@@ -56,7 +56,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": [
           "Instructor: ZHANG, Jiarui"
         ]
@@ -72,7 +72,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": [
           "Instructor: ZHANG, Jiarui"
         ]
@@ -102,7 +102,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": [
           "Instructor: ZHANG, Jiarui"
         ]
@@ -137,8 +137,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 6,
         "Remarks": [
           "Venue: Room CYTG010"
@@ -153,8 +153,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 16,
-        "Avail": 4,
+        "Enrol": 17,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": [
           "Instructor: ZHANG, Jiarui",
@@ -170,8 +170,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 6,
         "Remarks": [
           "Venue: LTF"
@@ -186,8 +186,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 16,
-        "Avail": 4,
+        "Enrol": 17,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": [
           "Instructor: ZHANG, Jiarui",
@@ -261,7 +261,7 @@
         "Quota": 135,
         "Enrol": 133,
         "Avail": 2,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -555,7 +555,7 @@
         "Quota": 45,
         "Enrol": 43,
         "Avail": 2,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1003,7 +1003,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 26,
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -1017,7 +1017,7 @@
         "Quota": 30,
         "Enrol": 5,
         "Avail": 25,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {

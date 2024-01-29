@@ -524,9 +524,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 49,
-        "Avail": 1,
-        "Wait": 5,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -642,7 +642,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 19,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -726,7 +726,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 19,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -936,7 +936,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 33,
+        "Wait": 31,
         "Remarks": []
       },
       {
@@ -950,7 +950,7 @@
         "Quota": 60,
         "Enrol": 12,
         "Avail": 48,
-        "Wait": 18,
+        "Wait": 22,
         "Remarks": []
       },
       {
@@ -965,7 +965,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 60,
+        "Wait": 61,
         "Remarks": []
       },
       {
@@ -995,7 +995,7 @@
         "Quota": 60,
         "Enrol": 12,
         "Avail": 48,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       }
     ]
@@ -1993,7 +1993,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 31,
+        "Wait": 30,
         "Remarks": []
       },
       {
@@ -2007,7 +2007,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 31,
+        "Wait": 30,
         "Remarks": []
       }
     ]
@@ -2121,8 +2121,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 76,
-        "Avail": 4,
+        "Enrol": 77,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a blended learning mode"
@@ -2137,8 +2137,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 76,
-        "Avail": 4,
+        "Enrol": 77,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": []
       }

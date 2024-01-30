@@ -32,7 +32,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 26,
+        "Wait": 27,
         "Remarks": []
       }
     ]
@@ -151,8 +151,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 54,
-        "Avail": 1,
+        "Enrol": 55,
+        "Avail": 0,
         "Wait": 25,
         "Remarks": []
       },
@@ -179,8 +179,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 43,
-        "Avail": 12,
+        "Enrol": 42,
+        "Avail": 13,
         "Wait": 20,
         "Remarks": []
       },
@@ -941,8 +941,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 56,
-        "Enrol": 56,
-        "Avail": 0,
+        "Enrol": 55,
+        "Avail": 1,
         "Wait": 6,
         "Remarks": []
       },
@@ -983,9 +983,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 19,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -1121,7 +1121,7 @@
         "Quota": 78,
         "Enrol": 77,
         "Avail": 1,
-        "Wait": 45,
+        "Wait": 44,
         "QuotaDetail": {
           "SBM (minor)": {
             "Quota": 5,
@@ -1527,7 +1527,7 @@
         "Quota": 65,
         "Enrol": 59,
         "Avail": 6,
-        "Wait": 21,
+        "Wait": 20,
         "QuotaDetail": {
           "SBM": {
             "Quota": 21,
@@ -1560,7 +1560,7 @@
         "Quota": 35,
         "Enrol": 35,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -2239,14 +2239,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 40,
-        "Avail": 20,
-        "Wait": 17,
+        "Enrol": 41,
+        "Avail": 19,
+        "Wait": 16,
         "QuotaDetail": {
           "SBM": {
             "Quota": 30,
-            "Enrol": 10,
-            "Avail": 20
+            "Enrol": 11,
+            "Avail": 19
           },
           "IS": {
             "Quota": 19,
@@ -2280,14 +2280,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 40,
-        "Avail": 20,
-        "Wait": 17,
+        "Enrol": 41,
+        "Avail": 19,
+        "Wait": 16,
         "QuotaDetail": {
           "SBM": {
             "Quota": 30,
-            "Enrol": 10,
-            "Avail": 20
+            "Enrol": 11,
+            "Avail": 19
           },
           "IS": {
             "Quota": 19,
@@ -2421,9 +2421,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 53,
-        "Enrol": 30,
-        "Avail": 23,
-        "Wait": 15,
+        "Enrol": 31,
+        "Avail": 22,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -3580,14 +3580,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 27,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 26,
         "QuotaDetail": {
           "OM": {
             "Quota": 60,
-            "Enrol": 59,
-            "Avail": 1
+            "Enrol": 60,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -3650,7 +3650,7 @@
         "Quota": 50,
         "Enrol": 23,
         "Avail": 27,
-        "Wait": 4,
+        "Wait": 5,
         "QuotaDetail": {
           "OM": {
             "Quota": 45,

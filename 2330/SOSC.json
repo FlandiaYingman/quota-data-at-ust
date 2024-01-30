@@ -247,8 +247,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 120,
-        "Avail": 0,
+        "Enrol": 119,
+        "Avail": 1,
         "Wait": 65,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
@@ -304,8 +304,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 79,
-        "Avail": 41,
+        "Enrol": 78,
+        "Avail": 42,
         "Wait": 6,
         "Remarks": []
       }
@@ -395,8 +395,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 120,
-        "Avail": 0,
+        "Enrol": 119,
+        "Avail": 1,
         "Wait": 239,
         "Remarks": []
       }
@@ -606,8 +606,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 21,
-        "Avail": 39,
+        "Enrol": 22,
+        "Avail": 38,
         "Wait": 0,
         "Remarks": []
       }
@@ -1092,14 +1092,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 8,
-        "Avail": 12,
+        "Enrol": 7,
+        "Avail": 13,
         "Wait": 0,
         "QuotaDetail": {
           "SOSC": {
             "Quota": 20,
-            "Enrol": 6,
-            "Avail": 14
+            "Enrol": 5,
+            "Avail": 15
           }
         },
         "Remarks": []
@@ -1251,14 +1251,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 11,
-        "Avail": 9,
+        "Enrol": 10,
+        "Avail": 10,
         "Wait": 3,
         "QuotaDetail": {
           "SOSC": {
             "Quota": 18,
-            "Enrol": 9,
-            "Avail": 9
+            "Enrol": 8,
+            "Avail": 10
           }
         },
         "Remarks": [

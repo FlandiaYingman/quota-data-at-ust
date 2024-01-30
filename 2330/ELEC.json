@@ -128,7 +128,7 @@
         "Quota": 135,
         "Enrol": 124,
         "Avail": 11,
-        "Wait": 39,
+        "Wait": 40,
         "Remarks": []
       },
       {
@@ -157,7 +157,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 38,
+        "Wait": 39,
         "Remarks": []
       },
       {
@@ -202,7 +202,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 45,
+        "Wait": 46,
         "Remarks": []
       },
       {
@@ -725,8 +725,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 104,
-        "Avail": 16,
+        "Enrol": 105,
+        "Avail": 15,
         "Wait": 0,
         "Remarks": []
       },
@@ -739,8 +739,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 104,
-        "Avail": 16,
+        "Enrol": 105,
+        "Avail": 15,
         "Wait": 0,
         "Remarks": []
       },
@@ -767,8 +767,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 56,
-        "Avail": 4,
+        "Enrol": 57,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": []
       },
@@ -781,8 +781,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 58,
-        "Avail": 2,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": []
       },
@@ -1461,9 +1461,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 144,
-        "Enrol": 111,
-        "Avail": 33,
-        "Wait": 10,
+        "Enrol": 112,
+        "Avail": 32,
+        "Wait": 9,
         "QuotaDetail": {
           "ECE": {
             "Quota": 30,
@@ -1482,9 +1482,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 35,
-        "Avail": 20,
-        "Wait": 10,
+        "Enrol": 36,
+        "Avail": 19,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -1524,9 +1524,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 36,
-        "Enrol": 35,
-        "Avail": 1,
-        "Wait": 8,
+        "Enrol": 36,
+        "Avail": 0,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -2166,7 +2166,7 @@
       {
         "Section": "L1 (4173)",
         "Date & Time": "TuTh 04:30PM - 05:50PM",
-        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Room": "Rm 5560, Lift 27-28 (30)",
         "Instructor": [
           "POON, Andrew Wing On"
         ],
@@ -2354,9 +2354,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 42,
-        "Enrol": 40,
-        "Avail": 2,
-        "Wait": 2,
+        "Enrol": 41,
+        "Avail": 1,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -2396,9 +2396,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 14,
-        "Enrol": 12,
-        "Avail": 2,
-        "Wait": 1,
+        "Enrol": 13,
+        "Avail": 1,
+        "Wait": 0,
         "Remarks": []
       }
     ]
@@ -2657,7 +2657,7 @@
       {
         "Section": "L1 (1140)",
         "Date & Time": "We 06:00PM - 08:50PM",
-        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Room": "Rm 4503, Lift 25-26 (64)",
         "Instructor": [
           "ZHANG, Wei"
         ],

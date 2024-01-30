@@ -641,7 +641,7 @@
         "Quota": 160,
         "Enrol": 143,
         "Avail": 17,
-        "Wait": 2,
+        "Wait": 1,
         "QuotaDetail": {
           "CIVL": {
             "Quota": 158,
@@ -662,7 +662,7 @@
         "Quota": 80,
         "Enrol": 41,
         "Avail": 39,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -1761,8 +1761,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 88,
-        "Avail": 32,
+        "Enrol": 89,
+        "Avail": 31,
         "Wait": 0,
         "Remarks": []
       }
@@ -1788,8 +1788,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 46,
-        "Avail": 34,
+        "Enrol": 47,
+        "Avail": 33,
         "Wait": 0,
         "Remarks": []
       }

@@ -217,8 +217,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 135,
-        "Avail": 0,
+        "Enrol": 134,
+        "Avail": 1,
         "Wait": 28,
         "Remarks": []
       },
@@ -233,7 +233,7 @@
         "Quota": 135,
         "Enrol": 131,
         "Avail": 4,
-        "Wait": 8,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -301,8 +301,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 118,
-        "Avail": 17,
+        "Enrol": 119,
+        "Avail": 16,
         "Wait": 0,
         "Remarks": []
       },
@@ -315,8 +315,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 118,
-        "Avail": 17,
+        "Enrol": 119,
+        "Avail": 16,
         "Wait": 0,
         "Remarks": []
       },
@@ -413,8 +413,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 45,
-        "Avail": 0,
+        "Enrol": 44,
+        "Avail": 1,
         "Wait": 3,
         "Remarks": []
       },
@@ -443,7 +443,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -679,8 +679,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 44,
-        "Avail": 1,
+        "Enrol": 45,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -973,8 +973,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 87,
-        "Avail": 33,
+        "Enrol": 86,
+        "Avail": 34,
         "Wait": 28,
         "Remarks": []
       },
@@ -1003,7 +1003,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 20,
         "Remarks": []
       },
       {
@@ -1017,7 +1017,7 @@
         "Quota": 30,
         "Enrol": 12,
         "Avail": 18,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1071,9 +1071,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 45,
-        "Avail": 0,
-        "Wait": 20,
+        "Enrol": 44,
+        "Avail": 1,
+        "Wait": 19,
         "Remarks": []
       },
       {
@@ -1087,7 +1087,7 @@
         "Quota": 30,
         "Enrol": 1,
         "Avail": 29,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -3377,6 +3377,38 @@
         "Remarks": [
           "Instructor Consent Required"
         ]
+      },
+      {
+        "Section": "L5 (4381)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "FUNG, Jimmy Chi Hung"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L6 (4382)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "JIN, Tianling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
       }
     ]
   },
@@ -3488,8 +3520,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 28,
-        "Enrol": 22,
-        "Avail": 6,
+        "Enrol": 23,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       }
@@ -3950,8 +3982,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 9,
-        "Avail": 41,
+        "Enrol": 10,
+        "Avail": 40,
         "Wait": 0,
         "Remarks": []
       }
@@ -3979,6 +4011,37 @@
         "Quota": 15,
         "Enrol": 7,
         "Avail": 8,
+        "Wait": 0,
+        "Remarks": [
+          "Students should seek approval from the course instructor to take this course.",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6911Y",
+    "name": "Reading Course: Toric Geometry",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "pre-requisite": "MATH 5251",
+      "description": "The course is about the basic of toric geometry such as toric varieties and key concepts and theorem in algebraic geometry studied via toric geometry. Students should seek approval from the course instructor to take this reading course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4380)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "LI, Weiping"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": [
           "Students should seek approval from the course instructor to take this course.",

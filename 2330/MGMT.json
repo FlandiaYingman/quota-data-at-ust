@@ -441,9 +441,9 @@
           "CHOI, Tae-Ung"
         ],
         "TA/IA/GTA": [],
-        "Quota": 55,
+        "Quota": 60,
         "Enrol": 55,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 24,
         "Remarks": []
       },
@@ -455,9 +455,9 @@
           "CHOI, Tae-Ung"
         ],
         "TA/IA/GTA": [],
-        "Quota": 55,
+        "Quota": 60,
         "Enrol": 55,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 35,
         "Remarks": []
       },
@@ -469,9 +469,9 @@
           "CHOI, Tae-Ung"
         ],
         "TA/IA/GTA": [],
-        "Quota": 55,
+        "Quota": 60,
         "Enrol": 55,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 28,
         "Remarks": []
       },
@@ -483,9 +483,9 @@
           "CHOI, Tae-Ung"
         ],
         "TA/IA/GTA": [],
-        "Quota": 55,
+        "Quota": 60,
         "Enrol": 55,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 18,
         "Remarks": []
       },
@@ -497,9 +497,9 @@
           "WANG, Danqing"
         ],
         "TA/IA/GTA": [],
-        "Quota": 55,
+        "Quota": 60,
         "Enrol": 55,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 29,
         "Remarks": []
       },
@@ -511,9 +511,9 @@
           "WANG, Danqing"
         ],
         "TA/IA/GTA": [],
-        "Quota": 55,
+        "Quota": 60,
         "Enrol": 55,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 23,
         "Remarks": []
       },
@@ -525,9 +525,9 @@
           "WANG, Danqing"
         ],
         "TA/IA/GTA": [],
-        "Quota": 55,
+        "Quota": 60,
         "Enrol": 55,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 23,
         "Remarks": []
       }
@@ -552,22 +552,10 @@
           "CHAN, Kin H"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 55,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 22,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 39,
-            "Avail": 1
-          },
-          "BIBU": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -578,22 +566,10 @@
           "CHAN, Kin H"
         ],
         "TA/IA/GTA": [],
-        "Quota": 46,
+        "Quota": 55,
         "Enrol": 46,
-        "Avail": 0,
+        "Avail": 9,
         "Wait": 22,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 38,
-            "Avail": 2
-          },
-          "BIBU": {
-            "Quota": 6,
-            "Enrol": 6,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -604,22 +580,10 @@
           "GONG, Yaping"
         ],
         "TA/IA/GTA": [],
-        "Quota": 52,
+        "Quota": 55,
         "Enrol": 52,
-        "Avail": 0,
+        "Avail": 3,
         "Wait": 23,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 45,
-            "Enrol": 41,
-            "Avail": 4
-          },
-          "BIBU": {
-            "Quota": 6,
-            "Enrol": 6,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -630,9 +594,9 @@
           "CHAN, Kin H"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 55,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 22,
         "Remarks": []
       },
@@ -644,9 +608,9 @@
           "CHAN, Kin H"
         ],
         "TA/IA/GTA": [],
-        "Quota": 46,
+        "Quota": 55,
         "Enrol": 46,
-        "Avail": 0,
+        "Avail": 9,
         "Wait": 22,
         "Remarks": []
       },
@@ -658,9 +622,9 @@
           "GONG, Yaping"
         ],
         "TA/IA/GTA": [],
-        "Quota": 52,
+        "Quota": 55,
         "Enrol": 52,
-        "Avail": 0,
+        "Avail": 3,
         "Wait": 23,
         "Remarks": []
       }
@@ -685,17 +649,10 @@
           "NG, Ka Man"
         ],
         "TA/IA/GTA": [],
-        "Quota": 41,
+        "Quota": 55,
         "Enrol": 41,
-        "Avail": 0,
+        "Avail": 14,
         "Wait": 59,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 41,
-            "Enrol": 40,
-            "Avail": 1
-          }
-        },
         "Remarks": []
       },
       {
@@ -706,17 +663,10 @@
           "NG, Ka Man"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 40,
-        "Avail": 0,
+        "Avail": 15,
         "Wait": 47,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 40,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -727,9 +677,9 @@
           "NG, Ka Man"
         ],
         "TA/IA/GTA": [],
-        "Quota": 41,
+        "Quota": 55,
         "Enrol": 41,
-        "Avail": 0,
+        "Avail": 14,
         "Wait": 59,
         "Remarks": []
       },
@@ -741,9 +691,9 @@
           "NG, Ka Man"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 40,
-        "Avail": 0,
+        "Avail": 15,
         "Wait": 47,
         "Remarks": []
       }
@@ -767,17 +717,10 @@
           "BITTERLY, Thomas Bradford"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 40,
-        "Avail": 0,
+        "Avail": 15,
         "Wait": 43,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 29,
-            "Avail": 11
-          }
-        },
         "Remarks": []
       },
       {
@@ -788,17 +731,10 @@
           "BITTERLY, Thomas Bradford"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 40,
-        "Avail": 0,
+        "Avail": 15,
         "Wait": 43,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 29,
-            "Avail": 11
-          }
-        },
         "Remarks": []
       },
       {
@@ -809,17 +745,10 @@
           "BITTERLY, Thomas Bradford"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 30,
-        "Avail": 10,
+        "Avail": 25,
         "Wait": 33,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 22,
-            "Avail": 18
-          }
-        },
         "Remarks": []
       },
       {
@@ -830,9 +759,9 @@
           "BITTERLY, Thomas Bradford"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 40,
-        "Avail": 0,
+        "Avail": 15,
         "Wait": 43,
         "Remarks": []
       },
@@ -844,9 +773,9 @@
           "BITTERLY, Thomas Bradford"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 30,
-        "Avail": 10,
+        "Avail": 25,
         "Wait": 33,
         "Remarks": []
       }
@@ -872,17 +801,10 @@
           "COOMBES, John"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 34,
-        "Avail": 6,
+        "Avail": 21,
         "Wait": 18,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 32,
-            "Avail": 8
-          }
-        },
         "Remarks": []
       }
     ]
@@ -905,17 +827,10 @@
           "KWAN, Calvin Lee"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 24,
-        "Avail": 16,
+        "Avail": 31,
         "Wait": 19,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 21,
-            "Avail": 19
-          }
-        },
         "Remarks": []
       }
     ]
@@ -939,17 +854,10 @@
           "PARK, Eunyoung"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 15,
-        "Avail": 25,
+        "Avail": 40,
         "Wait": 32,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 15,
-            "Avail": 25
-          }
-        },
         "Remarks": []
       },
       {
@@ -960,17 +868,10 @@
           "PARK, Eunyoung"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 24,
-        "Avail": 16,
+        "Avail": 31,
         "Wait": 44,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 20,
-            "Avail": 20
-          }
-        },
         "Remarks": []
       },
       {
@@ -981,17 +882,10 @@
           "PARK, Eunyoung"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 22,
-        "Avail": 18,
+        "Avail": 33,
         "Wait": 41,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 19,
-            "Avail": 21
-          }
-        },
         "Remarks": []
       }
     ]
@@ -1014,17 +908,10 @@
           "SARKAR, Sayan"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 18,
-        "Avail": 22,
+        "Avail": 37,
         "Wait": 10,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 12,
-            "Avail": 28
-          }
-        },
         "Remarks": []
       },
       {
@@ -1035,17 +922,10 @@
           "SARKAR, Sayan"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 23,
-        "Avail": 17,
+        "Avail": 32,
         "Wait": 19,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 17,
-            "Avail": 23
-          }
-        },
         "Remarks": []
       },
       {
@@ -1056,17 +936,10 @@
           "SARKAR, Sayan"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 27,
-        "Avail": 13,
+        "Avail": 28,
         "Wait": 7,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 20,
-            "Avail": 20
-          }
-        },
         "Remarks": []
       },
       {
@@ -1077,9 +950,9 @@
           "SARKAR, Sayan"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 18,
-        "Avail": 22,
+        "Avail": 37,
         "Wait": 10,
         "Remarks": []
       },
@@ -1091,9 +964,9 @@
           "SARKAR, Sayan"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 23,
-        "Avail": 17,
+        "Avail": 32,
         "Wait": 19,
         "Remarks": []
       },
@@ -1105,9 +978,9 @@
           "SARKAR, Sayan"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 27,
-        "Avail": 13,
+        "Avail": 28,
         "Wait": 7,
         "Remarks": []
       }
@@ -1131,17 +1004,10 @@
           "LI, J.T."
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 20,
-        "Avail": 20,
+        "Avail": 35,
         "Wait": 14,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 20,
-            "Avail": 20
-          }
-        },
         "Remarks": []
       },
       {
@@ -1152,17 +1018,10 @@
           "LI, J.T."
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 23,
-        "Avail": 17,
+        "Avail": 32,
         "Wait": 20,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 23,
-            "Avail": 17
-          }
-        },
         "Remarks": []
       },
       {
@@ -1173,9 +1032,9 @@
           "LI, J.T."
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 20,
-        "Avail": 20,
+        "Avail": 35,
         "Wait": 14,
         "Remarks": []
       },
@@ -1187,9 +1046,9 @@
           "LI, J.T."
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 23,
-        "Avail": 17,
+        "Avail": 32,
         "Wait": 20,
         "Remarks": []
       }
@@ -1214,17 +1073,10 @@
           "SULLIVAN, Bilian NI"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 25,
-        "Avail": 15,
+        "Avail": 30,
         "Wait": 8,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 40,
-            "Enrol": 22,
-            "Avail": 18
-          }
-        },
         "Remarks": []
       },
       {
@@ -1235,17 +1087,10 @@
           "SULLIVAN, Bilian NI"
         ],
         "TA/IA/GTA": [],
-        "Quota": 42,
+        "Quota": 55,
         "Enrol": 42,
-        "Avail": 0,
+        "Avail": 13,
         "Wait": 7,
-        "QuotaDetail": {
-          "MGMT": {
-            "Quota": 42,
-            "Enrol": 25,
-            "Avail": 17
-          }
-        },
         "Remarks": []
       },
       {
@@ -1256,9 +1101,9 @@
           "SULLIVAN, Bilian NI"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 55,
         "Enrol": 25,
-        "Avail": 15,
+        "Avail": 30,
         "Wait": 8,
         "Remarks": []
       },
@@ -1270,9 +1115,9 @@
           "SULLIVAN, Bilian NI"
         ],
         "TA/IA/GTA": [],
-        "Quota": 42,
+        "Quota": 55,
         "Enrol": 42,
-        "Avail": 0,
+        "Avail": 13,
         "Wait": 7,
         "Remarks": []
       }
@@ -2149,7 +1994,7 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 0,
-        "Enrol": 5,
+        "Enrol": 4,
         "Avail": 0,
         "Wait": 2,
         "Remarks": [
@@ -2165,7 +2010,7 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 0,
-        "Enrol": 5,
+        "Enrol": 4,
         "Avail": 0,
         "Wait": 2,
         "Remarks": [

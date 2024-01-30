@@ -500,7 +500,7 @@
         "Quota": 38,
         "Enrol": 38,
         "Avail": 0,
-        "Wait": 24,
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -556,7 +556,7 @@
         "Quota": 38,
         "Enrol": 27,
         "Avail": 11,
-        "Wait": 4,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1057,11 +1057,16 @@
           "SHIN, Dongwook"
         ],
         "TA/IA/GTA": [],
-        "Quota": 72,
+        "Quota": 75,
         "Enrol": 72,
-        "Avail": 0,
+        "Avail": 3,
         "Wait": 18,
         "QuotaDetail": {
+          "SBM (minor)": {
+            "Quota": 3,
+            "Enrol": 0,
+            "Avail": 3
+          },
           "SBM": {
             "Quota": 72,
             "Enrol": 72,
@@ -1080,11 +1085,21 @@
           "SHIN, Dongwook"
         ],
         "TA/IA/GTA": [],
-        "Quota": 72,
+        "Quota": 77,
         "Enrol": 72,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 39,
         "QuotaDetail": {
+          "BIBU": {
+            "Quota": 2,
+            "Enrol": 0,
+            "Avail": 2
+          },
+          "SBM (minor)": {
+            "Quota": 3,
+            "Enrol": 0,
+            "Avail": 3
+          },
           "SBM": {
             "Quota": 72,
             "Enrol": 69,
@@ -1103,11 +1118,16 @@
           "LU, Lijian"
         ],
         "TA/IA/GTA": [],
-        "Quota": 73,
+        "Quota": 78,
         "Enrol": 73,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 50,
         "QuotaDetail": {
+          "SBM (minor)": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
+          },
           "SBM": {
             "Quota": 73,
             "Enrol": 73,
@@ -1149,11 +1169,16 @@
           "SHEN, Yiwen"
         ],
         "TA/IA/GTA": [],
-        "Quota": 72,
+        "Quota": 75,
         "Enrol": 72,
-        "Avail": 0,
+        "Avail": 3,
         "Wait": 28,
         "QuotaDetail": {
+          "SBM (minor)": {
+            "Quota": 3,
+            "Enrol": 0,
+            "Avail": 3
+          },
           "SBM": {
             "Quota": 72,
             "Enrol": 69,
@@ -3494,9 +3519,14 @@
         "Wait": 23,
         "QuotaDetail": {
           "OM": {
-            "Quota": 55,
+            "Quota": 50,
             "Enrol": 45,
-            "Avail": 10
+            "Avail": 5
+          },
+          "BIBU": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
           }
         },
         "Remarks": []
@@ -3515,9 +3545,14 @@
         "Wait": 23,
         "QuotaDetail": {
           "OM": {
-            "Quota": 55,
+            "Quota": 50,
             "Enrol": 45,
-            "Avail": 10
+            "Avail": 5
+          },
+          "BIBU": {
+            "Quota": 5,
+            "Enrol": 0,
+            "Avail": 5
           }
         },
         "Remarks": []
@@ -3581,7 +3616,7 @@
         "Quota": 60,
         "Enrol": 31,
         "Avail": 29,
-        "Wait": 8,
+        "Wait": 7,
         "QuotaDetail": {
           "OM": {
             "Quota": 60,

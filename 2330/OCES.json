@@ -33,7 +33,7 @@
         "Quota": 130,
         "Enrol": 130,
         "Avail": 0,
-        "Wait": 33,
+        "Wait": 32,
         "QuotaDetail": {
           "SSCI": {
             "Quota": 30,
@@ -70,14 +70,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 225,
-        "Enrol": 208,
-        "Avail": 17,
-        "Wait": 30,
+        "Enrol": 209,
+        "Avail": 16,
+        "Wait": 29,
         "QuotaDetail": {
           "SSCI": {
             "Quota": 50,
-            "Enrol": 33,
-            "Avail": 17
+            "Enrol": 34,
+            "Avail": 16
           }
         },
         "Remarks": []
@@ -117,9 +117,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 200,
-        "Enrol": 199,
-        "Avail": 1,
-        "Wait": 99,
+        "Enrol": 200,
+        "Avail": 0,
+        "Wait": 98,
         "Remarks": []
       }
     ]

@@ -642,7 +642,7 @@
         "Quota": 80,
         "Enrol": 77,
         "Avail": 3,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -726,7 +726,7 @@
         "Quota": 80,
         "Enrol": 77,
         "Avail": 3,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -1454,7 +1454,7 @@
         "Quota": 71,
         "Enrol": 52,
         "Avail": 19,
-        "Wait": 21,
+        "Wait": 22,
         "QuotaDetail": {
           "CSE": {
             "Quota": 69,
@@ -1490,7 +1490,7 @@
         "Quota": 71,
         "Enrol": 57,
         "Avail": 14,
-        "Wait": 15,
+        "Wait": 16,
         "Remarks": []
       },
       {
@@ -2121,8 +2121,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 74,
-        "Avail": 6,
+        "Enrol": 75,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a blended learning mode"
@@ -2137,8 +2137,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 74,
-        "Avail": 6,
+        "Enrol": 75,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       }
@@ -2893,8 +2893,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 22,
         "QuotaDetail": {
           "CSE": {

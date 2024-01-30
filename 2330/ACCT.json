@@ -197,8 +197,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 48,
-        "Avail": 17,
+        "Enrol": 47,
+        "Avail": 18,
         "Wait": 0,
         "Remarks": []
       },
@@ -211,8 +211,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 48,
-        "Avail": 17,
+        "Enrol": 47,
+        "Avail": 18,
         "Wait": 0,
         "Remarks": []
       },
@@ -384,15 +384,15 @@
           "MORRIS, Arthur"
         ],
         "TA/IA/GTA": [],
-        "Quota": 75,
+        "Quota": 78,
         "Enrol": 75,
-        "Avail": 0,
+        "Avail": 3,
         "Wait": 15,
         "QuotaDetail": {
           "ACCT": {
-            "Quota": 75,
+            "Quota": 78,
             "Enrol": 75,
-            "Avail": 0
+            "Avail": 3
           }
         },
         "Remarks": []
@@ -405,15 +405,15 @@
           "MORRIS, Arthur"
         ],
         "TA/IA/GTA": [],
-        "Quota": 73,
+        "Quota": 74,
         "Enrol": 73,
-        "Avail": 0,
+        "Avail": 1,
         "Wait": 15,
         "QuotaDetail": {
           "ACCT": {
-            "Quota": 73,
+            "Quota": 74,
             "Enrol": 73,
-            "Avail": 0
+            "Avail": 1
           }
         },
         "Remarks": []

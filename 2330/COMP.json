@@ -321,8 +321,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 38,
-        "Avail": 12,
+        "Enrol": 39,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": []
       },
@@ -335,8 +335,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 38,
-        "Avail": 12,
+        "Enrol": 39,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": []
       }
@@ -614,7 +614,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 32,
+        "Wait": 33,
         "Remarks": []
       },
       {
@@ -656,7 +656,7 @@
         "Quota": 80,
         "Enrol": 77,
         "Avail": 3,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -698,7 +698,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 32,
+        "Wait": 33,
         "Remarks": []
       },
       {
@@ -740,7 +740,7 @@
         "Quota": 80,
         "Enrol": 77,
         "Avail": 3,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -920,9 +920,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 79,
-        "Avail": 1,
-        "Wait": 40,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 41,
         "Remarks": []
       },
       {
@@ -936,7 +936,7 @@
         "Quota": 80,
         "Enrol": 67,
         "Avail": 13,
-        "Wait": 14,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -948,9 +948,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 27,
-        "Avail": 33,
-        "Wait": 16,
+        "Enrol": 28,
+        "Avail": 32,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -963,9 +963,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 79,
-        "Avail": 1,
-        "Wait": 33,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 32,
         "Remarks": []
       },
       {
@@ -978,9 +978,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 73,
-        "Avail": 7,
-        "Wait": 19,
+        "Enrol": 74,
+        "Avail": 6,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -995,7 +995,7 @@
         "Quota": 60,
         "Enrol": 21,
         "Avail": 39,
-        "Wait": 10,
+        "Wait": 12,
         "Remarks": []
       }
     ]
@@ -1949,7 +1949,7 @@
         "Quota": 150,
         "Enrol": 131,
         "Avail": 19,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -1965,7 +1965,7 @@
         "Quota": 150,
         "Enrol": 131,
         "Avail": 19,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       }
     ]
@@ -2121,8 +2121,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 75,
-        "Avail": 5,
+        "Enrol": 74,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a blended learning mode"
@@ -2137,8 +2137,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 75,
-        "Avail": 5,
+        "Enrol": 74,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": []
       }
@@ -2199,8 +2199,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 19,
-        "Avail": 41,
+        "Enrol": 20,
+        "Avail": 40,
         "Wait": 0,
         "Remarks": []
       },
@@ -2213,8 +2213,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 19,
-        "Avail": 41,
+        "Enrol": 20,
+        "Avail": 40,
         "Wait": 0,
         "Remarks": []
       }
@@ -2735,12 +2735,39 @@
         "Date & Time": "TBA",
         "Room": "TBA",
         "Instructor": [
-          "CHAN, Gary Shueng Han",
           "MA, Xiaojuan"
         ],
         "TA/IA/GTA": [],
-        "Quota": 2,
+        "Quota": 1,
         "Enrol": 1,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "COMP",
+    "code": "4971K",
+    "name": "Independent Work",
+    "units": 3,
+    "info": {
+      "description": "Independent studies or projects under the directed guidance of a faculty member on a computer science topic. A written report, presentation, and/or an examination are required. Enrollment in the course requires prior approval of the course instructor, and credits assigned depend on the workload. May be repeated for credits."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4378)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHAN, Gary Shueng Han"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
         "Avail": 1,
         "Wait": 0,
         "Remarks": [

@@ -57,9 +57,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 50,
-        "Avail": 20,
-        "Wait": 42,
+        "Enrol": 51,
+        "Avail": 19,
+        "Wait": 41,
         "QuotaDetail": {
           "SBM (minor)": {
             "Quota": 25,
@@ -552,14 +552,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 49,
-        "Avail": 11,
-        "Wait": 45,
+        "Enrol": 51,
+        "Avail": 9,
+        "Wait": 42,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
-            "Enrol": 49,
-            "Avail": 11
+            "Enrol": 51,
+            "Avail": 9
           }
         },
         "Remarks": []
@@ -1305,14 +1305,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 27,
-        "Avail": 33,
-        "Wait": 3,
+        "Enrol": 28,
+        "Avail": 32,
+        "Wait": 2,
         "QuotaDetail": {
           "FINA": {
             "Quota": 50,
-            "Enrol": 17,
-            "Avail": 33
+            "Enrol": 18,
+            "Avail": 32
           },
           "MBA": {
             "Quota": 10,
@@ -1504,8 +1504,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 45,
-        "Avail": 35,
+        "Enrol": 46,
+        "Avail": 34,
         "Wait": 0,
         "Remarks": [
           "For MSc(FinTech) students only",

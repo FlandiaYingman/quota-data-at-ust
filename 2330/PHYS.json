@@ -165,7 +165,7 @@
         "Quota": 125,
         "Enrol": 124,
         "Avail": 1,
-        "Wait": 9,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -232,7 +232,7 @@
         "Quota": 100,
         "Enrol": 98,
         "Avail": 2,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -246,7 +246,7 @@
         "Quota": 100,
         "Enrol": 98,
         "Avail": 2,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -285,8 +285,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 110,
-        "Enrol": 89,
-        "Avail": 21,
+        "Enrol": 88,
+        "Avail": 22,
         "Wait": 9,
         "Remarks": []
       },
@@ -330,8 +330,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 53,
-        "Avail": 2,
+        "Enrol": 52,
+        "Avail": 3,
         "Wait": 7,
         "Remarks": []
       },
@@ -702,7 +702,7 @@
         "Quota": 90,
         "Enrol": 59,
         "Avail": 31,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -758,7 +758,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -1728,8 +1728,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 10,
-        "Avail": 0,
+        "Enrol": 9,
+        "Avail": 1,
         "Wait": 1,
         "Remarks": [
           "Venue: Room 6135"
@@ -1744,8 +1744,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 5,
-        "Avail": 5,
+        "Enrol": 6,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": [
           "Venue: Room 6135"
@@ -1760,8 +1760,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 5,
-        "Avail": 5,
+        "Enrol": 6,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": [
           "Venue: Room 6135"
@@ -2284,8 +2284,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 13,
-        "Avail": 7,
+        "Enrol": 14,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": []
       }

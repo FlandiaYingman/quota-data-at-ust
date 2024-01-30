@@ -657,10 +657,10 @@
           "TSUI, Ophelia K. C."
         ],
         "TA/IA/GTA": [],
-        "Quota": 80,
-        "Enrol": 75,
-        "Avail": 5,
-        "Wait": 5,
+        "Quota": 90,
+        "Enrol": 72,
+        "Avail": 18,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -671,10 +671,10 @@
           "ZHANG, Jingdi"
         ],
         "TA/IA/GTA": [],
-        "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
-        "Wait": 11,
+        "Quota": 90,
+        "Enrol": 83,
+        "Avail": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -685,10 +685,10 @@
           "YANG, Sen"
         ],
         "TA/IA/GTA": [],
-        "Quota": 80,
-        "Enrol": 57,
-        "Avail": 23,
-        "Wait": 12,
+        "Quota": 90,
+        "Enrol": 58,
+        "Avail": 32,
+        "Wait": 11,
         "Remarks": []
       },
       {
@@ -699,10 +699,10 @@
           "CHEUNG, Man Fung"
         ],
         "TA/IA/GTA": [],
-        "Quota": 80,
-        "Enrol": 80,
+        "Quota": 90,
+        "Enrol": 90,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -713,10 +713,10 @@
           "CHEUNG, Man Fung"
         ],
         "TA/IA/GTA": [],
-        "Quota": 80,
-        "Enrol": 80,
+        "Quota": 90,
+        "Enrol": 90,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -727,10 +727,10 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
-        "Enrol": 40,
-        "Avail": 0,
-        "Wait": 10,
+        "Quota": 45,
+        "Enrol": 44,
+        "Avail": 1,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -741,10 +741,10 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
-        "Enrol": 40,
+        "Quota": 45,
+        "Enrol": 45,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -755,9 +755,9 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
-        "Enrol": 35,
-        "Avail": 5,
+        "Quota": 45,
+        "Enrol": 34,
+        "Avail": 11,
         "Wait": 5,
         "Remarks": []
       },
@@ -769,10 +769,10 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
-        "Enrol": 39,
-        "Avail": 1,
-        "Wait": 10,
+        "Quota": 45,
+        "Enrol": 40,
+        "Avail": 5,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -783,10 +783,10 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 45,
         "Enrol": 40,
-        "Avail": 0,
-        "Wait": 5,
+        "Avail": 5,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -797,9 +797,9 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 45,
         "Enrol": 33,
-        "Avail": 7,
+        "Avail": 12,
         "Wait": 1,
         "Remarks": []
       },
@@ -811,10 +811,10 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 45,
         "Enrol": 33,
-        "Avail": 7,
-        "Wait": 3,
+        "Avail": 12,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -825,10 +825,10 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
-        "Enrol": 32,
-        "Avail": 8,
-        "Wait": 6,
+        "Quota": 45,
+        "Enrol": 34,
+        "Avail": 11,
+        "Wait": 3,
         "Remarks": []
       }
     ]
@@ -1056,7 +1056,7 @@
         "Date & Time": "TBA",
         "Room": "TBA",
         "Instructor": [
-          "WONG, Kam Sing"
+          "TBA"
         ],
         "TA/IA/GTA": [],
         "Quota": 5,
@@ -1440,7 +1440,7 @@
         "Date & Time": "TBA",
         "Room": "TBA",
         "Instructor": [
-          "WONG, Kam Sing"
+          "TBA"
         ],
         "TA/IA/GTA": [],
         "Quota": 5,
@@ -1475,6 +1475,35 @@
         "Quota": 30,
         "Enrol": 1,
         "Avail": 29,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "PHYS",
+    "code": "3090C",
+    "name": "Directed Studies in Physics II",
+    "units": 1,
+    "info": {
+      "pre-requisite": "CGA at 2.70 or above",
+      "description": "This course covers special topics selected by the instructor on the basis of individual student's request. For students in their third year of study under the four-year degree only. The instructor's approval is required for taking this course. May be repeated for credits."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "T1 (4376)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 1,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -1825,7 +1854,7 @@
         "Date & Time": "TBA",
         "Room": "TBA",
         "Instructor": [
-          "WONG, Kam Sing"
+          "TBA"
         ],
         "TA/IA/GTA": [],
         "Quota": 5,

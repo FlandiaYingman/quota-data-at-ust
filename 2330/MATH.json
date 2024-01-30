@@ -219,7 +219,7 @@
         "Quota": 135,
         "Enrol": 134,
         "Avail": 1,
-        "Wait": 28,
+        "Wait": 27,
         "Remarks": []
       },
       {
@@ -401,7 +401,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -707,9 +707,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 42,
-        "Avail": 3,
-        "Wait": 3,
+        "Enrol": 43,
+        "Avail": 2,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -721,8 +721,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 35,
-        "Avail": 10,
+        "Enrol": 34,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": []
       },
@@ -2103,7 +2103,7 @@
         "Quota": 40,
         "Enrol": 31,
         "Avail": 9,
-        "Wait": 3,
+        "Wait": 4,
         "QuotaDetail": {
           "MATH": {
             "Quota": 22,
@@ -2124,7 +2124,7 @@
         "Quota": 40,
         "Enrol": 31,
         "Avail": 9,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -2273,9 +2273,9 @@
           "CHEN, Kani"
         ],
         "TA/IA/GTA": [],
-        "Quota": 90,
+        "Quota": 95,
         "Enrol": 90,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 30,
         "QuotaDetail": {
           "MATH": {
@@ -2308,9 +2308,9 @@
           "CHEN, Kani"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 50,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 8,
         "Remarks": []
       }

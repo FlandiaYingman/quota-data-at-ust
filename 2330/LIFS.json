@@ -872,7 +872,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 24,
+        "Wait": 23,
         "Remarks": []
       },
       {
@@ -886,7 +886,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 24,
+        "Wait": 23,
         "Remarks": []
       }
     ]
@@ -1469,8 +1469,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 16,
-        "Enrol": 11,
-        "Avail": 5,
+        "Enrol": 12,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -1503,7 +1503,7 @@
         "Quota": 35,
         "Enrol": 35,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": [
           "LIFS 5001 is not co-listing with BIEN 5001 in Spring 2023-24"
         ]

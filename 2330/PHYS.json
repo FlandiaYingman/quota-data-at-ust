@@ -97,8 +97,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 19,
         "Remarks": []
       },
@@ -265,7 +265,7 @@
       {
         "Section": "L1 (3737)",
         "Date & Time": "MoWe 10:30AM - 12:20PM",
-        "Room": "Lecture Theater K (106)",
+        "Room": "Rm 2465, Lift 25-26 (122)",
         "Instructor": [
           "NG, Yee Fai"
         ],
@@ -323,7 +323,7 @@
       {
         "Section": "T3 (3744)",
         "Date & Time": "Th 06:00PM - 06:50PM",
-        "Room": "Rm 1033, LSK Bldg (51)",
+        "Room": "Rm 2306, Lift 17-18 (111)",
         "Instructor": [
           "LI, Jensen Tsan Hang",
           "NG, Yee Fai"
@@ -338,7 +338,7 @@
       {
         "Section": "T4 (3745)",
         "Date & Time": "We 06:00PM - 06:50PM",
-        "Room": "Rm 1033, LSK Bldg (51)",
+        "Room": "Rm 2304, Lift 17-18 (76)",
         "Instructor": [
           "LI, Jensen Tsan Hang",
           "NG, Yee Fai"
@@ -437,7 +437,7 @@
         "Quota": 123,
         "Enrol": 118,
         "Avail": 5,
-        "Wait": 22,
+        "Wait": 23,
         "Remarks": []
       },
       {
@@ -700,9 +700,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 58,
-        "Avail": 32,
-        "Wait": 11,
+        "Enrol": 59,
+        "Avail": 31,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -798,9 +798,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 40,
-        "Avail": 5,
-        "Wait": 4,
+        "Enrol": 41,
+        "Avail": 4,
+        "Wait": 3,
         "Remarks": []
       },
       {

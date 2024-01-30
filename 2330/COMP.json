@@ -230,7 +230,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 4,
         "QuotaDetail": {
           "FINA": {
             "Quota": 10,
@@ -253,7 +253,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -1023,7 +1023,7 @@
         "Quota": 130,
         "Enrol": 130,
         "Avail": 0,
-        "Wait": 17,
+        "Wait": 16,
         "Remarks": []
       },
       {
@@ -1065,7 +1065,7 @@
         "Quota": 70,
         "Enrol": 59,
         "Avail": 11,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -1949,7 +1949,7 @@
         "Quota": 150,
         "Enrol": 133,
         "Avail": 17,
-        "Wait": 4,
+        "Wait": 3,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -1965,7 +1965,7 @@
         "Quota": 150,
         "Enrol": 133,
         "Avail": 17,
-        "Wait": 4,
+        "Wait": 3,
         "Remarks": []
       }
     ]

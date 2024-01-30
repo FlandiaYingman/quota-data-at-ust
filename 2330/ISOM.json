@@ -791,7 +791,7 @@
         "Quota": 75,
         "Enrol": 70,
         "Avail": 5,
-        "Wait": 11,
+        "Wait": 12,
         "QuotaDetail": {
           "SBM": {
             "Quota": 75,
@@ -3200,7 +3200,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 30,
+        "Wait": 31,
         "QuotaDetail": {
           "IS": {
             "Quota": 15,
@@ -3406,15 +3406,15 @@
         "Avail": 15,
         "Wait": 0,
         "QuotaDetail": {
-          "RMBI": {
-            "Quota": 50,
-            "Enrol": 37,
-            "Avail": 13
-          },
           "OM": {
             "Quota": 10,
             "Enrol": 3,
             "Avail": 7
+          },
+          "RMBI": {
+            "Quota": 50,
+            "Enrol": 37,
+            "Avail": 13
           }
         },
         "Remarks": []

@@ -913,7 +913,7 @@
         "Quota": 50,
         "Enrol": 41,
         "Avail": 9,
-        "Wait": 19,
+        "Wait": 18,
         "QuotaDetail": {
           "ECON": {
             "Quota": 26,
@@ -953,7 +953,7 @@
         "Quota": 50,
         "Enrol": 41,
         "Avail": 9,
-        "Wait": 19,
+        "Wait": 18,
         "Remarks": []
       }
     ]
@@ -1869,8 +1869,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 50,
-        "Avail": 0,
+        "Enrol": 49,
+        "Avail": 1,
         "Wait": 4,
         "Remarks": [
           "For MSc(ECON) students only",
@@ -1886,8 +1886,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 50,
-        "Avail": 0,
+        "Enrol": 49,
+        "Avail": 1,
         "Wait": 4,
         "Remarks": [
           "For MSc(ECON) students only",
@@ -2578,8 +2578,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 42,
-        "Avail": 18,
+        "Enrol": 43,
+        "Avail": 17,
         "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",
@@ -2595,8 +2595,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 42,
-        "Avail": 18,
+        "Enrol": 43,
+        "Avail": 17,
         "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",

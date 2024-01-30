@@ -389,7 +389,7 @@
         "Quota": 60,
         "Enrol": 45,
         "Avail": 15,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -421,7 +421,7 @@
         "Quota": 60,
         "Enrol": 49,
         "Avail": 11,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -451,7 +451,7 @@
         "Quota": 60,
         "Enrol": 53,
         "Avail": 7,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       }
     ]

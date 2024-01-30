@@ -31,7 +31,7 @@
         "Quota": 400,
         "Enrol": 345,
         "Avail": 55,
-        "Wait": 141,
+        "Wait": 142,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -107,7 +107,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 27,
+        "Wait": 26,
         "Remarks": []
       },
       {
@@ -211,7 +211,7 @@
         "Quota": 20,
         "Enrol": 16,
         "Avail": 4,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -331,7 +331,7 @@
         "Quota": 20,
         "Enrol": 16,
         "Avail": 4,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": [
           "Venue : Room CYTG001"
         ]
@@ -368,9 +368,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 400,
-        "Enrol": 400,
-        "Avail": 0,
-        "Wait": 214,
+        "Enrol": 399,
+        "Avail": 1,
+        "Wait": 213,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -578,9 +578,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
-        "Wait": 16,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 15,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -712,8 +712,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 36,
         "Remarks": []
       },
@@ -726,8 +726,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 36,
         "Remarks": []
       }
@@ -1127,7 +1127,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 57,
+        "Wait": 56,
         "Remarks": []
       },
       {
@@ -1141,7 +1141,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 57,
+        "Wait": 56,
         "Remarks": []
       }
     ]

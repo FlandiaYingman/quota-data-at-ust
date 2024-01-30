@@ -479,7 +479,7 @@
         "Quota": 120,
         "Enrol": 110,
         "Avail": 10,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -507,7 +507,7 @@
         "Quota": 60,
         "Enrol": 50,
         "Avail": 10,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -535,7 +535,7 @@
         "Quota": 60,
         "Enrol": 53,
         "Avail": 7,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -653,7 +653,7 @@
         "Quota": 48,
         "Enrol": 48,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -1279,8 +1279,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 29,
-        "Avail": 11,
+        "Enrol": 28,
+        "Avail": 12,
         "Wait": 0,
         "Remarks": []
       },
@@ -1293,8 +1293,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 20,
-        "Avail": 20,
+        "Enrol": 21,
+        "Avail": 19,
         "Wait": 0,
         "Remarks": []
       }
@@ -1461,14 +1461,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 144,
-        "Enrol": 113,
-        "Avail": 31,
+        "Enrol": 112,
+        "Avail": 32,
         "Wait": 9,
         "QuotaDetail": {
           "ECE": {
             "Quota": 30,
-            "Enrol": 30,
-            "Avail": 0
+            "Enrol": 29,
+            "Avail": 1
           }
         },
         "Remarks": []
@@ -1482,8 +1482,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 36,
-        "Avail": 19,
+        "Enrol": 35,
+        "Avail": 20,
         "Wait": 9,
         "Remarks": []
       },
@@ -1566,8 +1566,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 36,
-        "Enrol": 36,
-        "Avail": 0,
+        "Enrol": 35,
+        "Avail": 1,
         "Wait": 9,
         "Remarks": []
       }
@@ -2901,7 +2901,7 @@
         "Quota": 20,
         "Enrol": 6,
         "Avail": 14,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "ECE": {
             "Quota": 19,

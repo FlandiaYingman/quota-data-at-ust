@@ -526,7 +526,7 @@
         "Quota": 50,
         "Enrol": 48,
         "Avail": 2,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -1452,14 +1452,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 71,
-        "Enrol": 53,
-        "Avail": 18,
-        "Wait": 24,
+        "Enrol": 54,
+        "Avail": 17,
+        "Wait": 23,
         "QuotaDetail": {
           "CSE": {
             "Quota": 69,
-            "Enrol": 46,
-            "Avail": 23
+            "Enrol": 47,
+            "Avail": 22
           }
         },
         "Remarks": []
@@ -1473,8 +1473,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 78,
-        "Enrol": 78,
-        "Avail": 0,
+        "Enrol": 77,
+        "Avail": 1,
         "Wait": 6,
         "Remarks": []
       },
@@ -1505,7 +1505,7 @@
         "Quota": 73,
         "Enrol": 73,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 13,
         "Remarks": []
       }
     ]
@@ -2893,14 +2893,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 20,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 40,
-            "Avail": 0
+            "Enrol": 39,
+            "Avail": 1
           }
         },
         "Remarks": []
@@ -3283,14 +3283,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 40,
-        "Avail": 20,
+        "Enrol": 39,
+        "Avail": 21,
         "Wait": 7,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 20,
-            "Avail": 20
+            "Enrol": 19,
+            "Avail": 21
           }
         },
         "Remarks": []
@@ -3304,14 +3304,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 40,
-        "Avail": 20,
+        "Enrol": 39,
+        "Avail": 21,
         "Wait": 7,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 20,
-            "Avail": 20
+            "Enrol": 19,
+            "Avail": 21
           }
         },
         "Remarks": []

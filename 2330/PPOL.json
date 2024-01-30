@@ -827,14 +827,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 38,
-        "Avail": 2,
-        "Wait": 3,
+        "Enrol": 40,
+        "Avail": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 38,
-            "Avail": 2
+            "Enrol": 40,
+            "Avail": 0
           }
         },
         "Remarks": []

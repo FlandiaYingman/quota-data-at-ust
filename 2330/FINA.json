@@ -157,7 +157,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 16,
         "QuotaDetail": {
           "SBM": {
             "Quota": 70,
@@ -220,7 +220,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 55,
+        "Wait": 54,
         "QuotaDetail": {
           "SBM": {
             "Quota": 70,
@@ -241,7 +241,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 57,
+        "Wait": 56,
         "QuotaDetail": {
           "SBM": {
             "Quota": 70,
@@ -387,7 +387,7 @@
         "Quota": 60,
         "Enrol": 38,
         "Avail": 22,
-        "Wait": 27,
+        "Wait": 28,
         "QuotaDetail": {
           "SBM": {
             "Quota": 3,
@@ -713,14 +713,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 17,
-        "Avail": 43,
+        "Enrol": 16,
+        "Avail": 44,
         "Wait": 17,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
-            "Enrol": 17,
-            "Avail": 43
+            "Enrol": 16,
+            "Avail": 44
           }
         },
         "Remarks": []
@@ -3320,8 +3320,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 61,
-        "Enrol": 41,
-        "Avail": 20,
+        "Enrol": 40,
+        "Avail": 21,
         "Wait": 0,
         "QuotaDetail": {
           "Digital MBA": {
@@ -3336,8 +3336,8 @@
           },
           "MBA Bi-weekly": {
             "Quota": 19,
-            "Enrol": 17,
-            "Avail": 2
+            "Enrol": 16,
+            "Avail": 3
           }
         },
         "Remarks": [
@@ -3355,8 +3355,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 61,
-        "Enrol": 41,
-        "Avail": 20,
+        "Enrol": 40,
+        "Avail": 21,
         "Wait": 0,
         "QuotaDetail": {
           "Digital MBA": {
@@ -3371,8 +3371,8 @@
           },
           "MBA Bi-weekly": {
             "Quota": 19,
-            "Enrol": 17,
-            "Avail": 2
+            "Enrol": 16,
+            "Avail": 3
           }
         },
         "Remarks": [

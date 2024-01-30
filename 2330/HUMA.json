@@ -31,7 +31,7 @@
         "Quota": 400,
         "Enrol": 347,
         "Avail": 53,
-        "Wait": 137,
+        "Wait": 138,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -301,7 +301,7 @@
         "Quota": 20,
         "Enrol": 6,
         "Avail": 14,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -368,9 +368,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 400,
-        "Enrol": 400,
-        "Avail": 0,
-        "Wait": 212,
+        "Enrol": 399,
+        "Avail": 1,
+        "Wait": 211,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -654,8 +654,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 9,
         "Remarks": []
       },
@@ -670,7 +670,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 9,
         "Remarks": [
           "Venue : Room 5560"
         ]
@@ -764,8 +764,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 18,
-        "Avail": 82,
+        "Enrol": 19,
+        "Avail": 81,
         "Wait": 0,
         "Remarks": []
       }
@@ -856,7 +856,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -870,7 +870,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -2364,8 +2364,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 32,
-        "Avail": 68,
+        "Enrol": 33,
+        "Avail": 67,
         "Wait": 0,
         "Remarks": []
       },
@@ -2378,8 +2378,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 32,
-        "Avail": 68,
+        "Enrol": 33,
+        "Avail": 67,
         "Wait": 0,
         "Remarks": []
       }
@@ -2766,7 +2766,7 @@
         "Quota": 20,
         "Enrol": 9,
         "Avail": 11,
-        "Wait": 12,
+        "Wait": 13,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,

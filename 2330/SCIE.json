@@ -219,28 +219,6 @@
         "Enrol": 14,
         "Avail": 10,
         "Wait": 0,
-        "QuotaDetail": {
-          "CHEM": {
-            "Quota": 6,
-            "Enrol": 2,
-            "Avail": 4
-          },
-          "MATH": {
-            "Quota": 6,
-            "Enrol": 6,
-            "Avail": 0
-          },
-          "OCES": {
-            "Quota": 6,
-            "Enrol": 0,
-            "Avail": 6
-          },
-          "PHYS": {
-            "Quota": 6,
-            "Enrol": 0,
-            "Avail": 6
-          }
-        },
         "Remarks": [
           "The class is delivered in a experiential learning mode",
           "Instructor Consent Required"

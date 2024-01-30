@@ -60,13 +60,6 @@
         "Enrol": 111,
         "Avail": 5,
         "Wait": 20,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 116,
-            "Enrol": 111,
-            "Avail": 5
-          }
-        },
         "Remarks": []
       },
       {
@@ -81,13 +74,6 @@
         "Enrol": 116,
         "Avail": 0,
         "Wait": 57,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 116,
-            "Enrol": 115,
-            "Avail": 1
-          }
-        },
         "Remarks": []
       },
       {
@@ -101,19 +87,7 @@
         "Quota": 116,
         "Enrol": 116,
         "Avail": 0,
-        "Wait": 24,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 105,
-            "Enrol": 107,
-            "Avail": 0
-          },
-          "BIBU": {
-            "Quota": 11,
-            "Enrol": 9,
-            "Avail": 2
-          }
-        },
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -128,18 +102,6 @@
         "Enrol": 116,
         "Avail": 0,
         "Wait": 76,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 95,
-            "Enrol": 94,
-            "Avail": 1
-          },
-          "BIBU": {
-            "Quota": 21,
-            "Enrol": 22,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -307,13 +269,6 @@
         "Enrol": 70,
         "Avail": 5,
         "Wait": 12,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 75,
-            "Enrol": 70,
-            "Avail": 5
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -330,13 +285,6 @@
         "Enrol": 73,
         "Avail": 2,
         "Wait": 14,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 75,
-            "Enrol": 72,
-            "Avail": 3
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -353,13 +301,6 @@
         "Enrol": 68,
         "Avail": 7,
         "Wait": 20,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 75,
-            "Enrol": 66,
-            "Avail": 9
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -376,13 +317,6 @@
         "Enrol": 55,
         "Avail": 20,
         "Wait": 9,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 75,
-            "Enrol": 54,
-            "Avail": 21
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -399,13 +333,6 @@
         "Enrol": 74,
         "Avail": 1,
         "Wait": 17,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 75,
-            "Enrol": 74,
-            "Avail": 1
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -422,13 +349,6 @@
         "Enrol": 70,
         "Avail": 5,
         "Wait": 21,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 75,
-            "Enrol": 70,
-            "Avail": 5
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -570,7 +490,7 @@
         "Quota": 38,
         "Enrol": 38,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -625,14 +545,7 @@
         "Quota": 102,
         "Enrol": 102,
         "Avail": 0,
-        "Wait": 21,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 102,
-            "Enrol": 102,
-            "Avail": 0
-          }
-        },
+        "Wait": 22,
         "Remarks": []
       },
       {
@@ -646,14 +559,7 @@
         "Quota": 102,
         "Enrol": 102,
         "Avail": 0,
-        "Wait": 21,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 102,
-            "Enrol": 102,
-            "Avail": 0
-          }
-        },
+        "Wait": 22,
         "Remarks": []
       },
       {
@@ -668,13 +574,6 @@
         "Enrol": 102,
         "Avail": 0,
         "Wait": 53,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 102,
-            "Enrol": 102,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -689,13 +588,6 @@
         "Enrol": 100,
         "Avail": 0,
         "Wait": 23,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 100,
-            "Enrol": 100,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -710,13 +602,6 @@
         "Enrol": 88,
         "Avail": 0,
         "Wait": 16,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 88,
-            "Enrol": 88,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -731,13 +616,6 @@
         "Enrol": 87,
         "Avail": 1,
         "Wait": 9,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 88,
-            "Enrol": 86,
-            "Avail": 2
-          }
-        },
         "Remarks": []
       },
       {
@@ -751,19 +629,7 @@
         "Quota": 87,
         "Enrol": 83,
         "Avail": 4,
-        "Wait": 57,
-        "QuotaDetail": {
-          "BIBU": {
-            "Quota": 22,
-            "Enrol": 17,
-            "Avail": 5
-          },
-          "SBM": {
-            "Quota": 15,
-            "Enrol": 22,
-            "Avail": 0
-          }
-        },
+        "Wait": 56,
         "Remarks": []
       }
     ]
@@ -792,13 +658,6 @@
         "Enrol": 70,
         "Avail": 5,
         "Wait": 12,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 75,
-            "Enrol": 70,
-            "Avail": 5
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -815,13 +674,6 @@
         "Enrol": 73,
         "Avail": 2,
         "Wait": 11,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 75,
-            "Enrol": 72,
-            "Avail": 3
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -838,13 +690,6 @@
         "Enrol": 71,
         "Avail": 4,
         "Wait": 18,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 75,
-            "Enrol": 70,
-            "Avail": 5
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -861,13 +706,6 @@
         "Enrol": 65,
         "Avail": 10,
         "Wait": 7,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 75,
-            "Enrol": 65,
-            "Avail": 10
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -884,13 +722,6 @@
         "Enrol": 91,
         "Avail": 0,
         "Wait": 27,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 91,
-            "Enrol": 88,
-            "Avail": 3
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -907,13 +738,6 @@
         "Enrol": 91,
         "Avail": 0,
         "Wait": 23,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 91,
-            "Enrol": 91,
-            "Avail": 0
-          }
-        },
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -1061,18 +885,6 @@
         "Enrol": 75,
         "Avail": 0,
         "Wait": 15,
-        "QuotaDetail": {
-          "SBM (minor)": {
-            "Quota": 3,
-            "Enrol": 3,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 72,
-            "Enrol": 72,
-            "Avail": 0
-          }
-        },
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -1089,23 +901,6 @@
         "Enrol": 77,
         "Avail": 0,
         "Wait": 35,
-        "QuotaDetail": {
-          "BIBU": {
-            "Quota": 2,
-            "Enrol": 2,
-            "Avail": 0
-          },
-          "SBM (minor)": {
-            "Quota": 3,
-            "Enrol": 3,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 72,
-            "Enrol": 69,
-            "Avail": 3
-          }
-        },
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -1122,18 +917,6 @@
         "Enrol": 77,
         "Avail": 1,
         "Wait": 44,
-        "QuotaDetail": {
-          "SBM (minor)": {
-            "Quota": 5,
-            "Enrol": 4,
-            "Avail": 1
-          },
-          "SBM": {
-            "Quota": 73,
-            "Enrol": 73,
-            "Avail": 0
-          }
-        },
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -1150,13 +933,6 @@
         "Enrol": 73,
         "Avail": 0,
         "Wait": 28,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 73,
-            "Enrol": 72,
-            "Avail": 1
-          }
-        },
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -1173,18 +949,6 @@
         "Enrol": 75,
         "Avail": 0,
         "Wait": 26,
-        "QuotaDetail": {
-          "SBM (minor)": {
-            "Quota": 3,
-            "Enrol": 3,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 72,
-            "Enrol": 69,
-            "Avail": 3
-          }
-        },
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -1201,18 +965,6 @@
         "Enrol": 70,
         "Avail": 0,
         "Wait": 59,
-        "QuotaDetail": {
-          "BIBU": {
-            "Quota": 15,
-            "Enrol": 8,
-            "Avail": 7
-          },
-          "SBM": {
-            "Quota": 55,
-            "Enrol": 62,
-            "Avail": 0
-          }
-        },
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -1242,13 +994,6 @@
         "Enrol": 10,
         "Avail": 40,
         "Wait": 6,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 50,
-            "Enrol": 10,
-            "Avail": 40
-          }
-        },
         "Remarks": []
       },
       {
@@ -1296,18 +1041,6 @@
         "Enrol": 30,
         "Avail": 0,
         "Wait": 7,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 21,
-            "Enrol": 21,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 9,
-            "Enrol": 9,
-            "Avail": 0
-          }
-        },
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1324,18 +1057,6 @@
         "Enrol": 30,
         "Avail": 0,
         "Wait": 5,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 19,
-            "Enrol": 19,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 11,
-            "Enrol": 11,
-            "Avail": 0
-          }
-        },
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1365,18 +1086,6 @@
         "Enrol": 70,
         "Avail": 0,
         "Wait": 10,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 14,
-            "Enrol": 14,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 56,
-            "Enrol": 56,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -1452,18 +1161,6 @@
         "Enrol": 54,
         "Avail": 1,
         "Wait": 10,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 31,
-            "Enrol": 30,
-            "Avail": 1
-          },
-          "IS": {
-            "Quota": 24,
-            "Enrol": 24,
-            "Avail": 0
-          }
-        },
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1528,23 +1225,6 @@
         "Enrol": 59,
         "Avail": 6,
         "Wait": 20,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 21,
-            "Enrol": 16,
-            "Avail": 5
-          },
-          "IS": {
-            "Quota": 36,
-            "Enrol": 36,
-            "Avail": 0
-          },
-          "DD": {
-            "Quota": 8,
-            "Enrol": 7,
-            "Avail": 1
-          }
-        },
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -1610,23 +1290,6 @@
         "Enrol": 43,
         "Avail": 17,
         "Wait": 1,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 35,
-            "Enrol": 34,
-            "Avail": 1
-          },
-          "RMBI": {
-            "Quota": 2,
-            "Enrol": 2,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 23,
-            "Enrol": 7,
-            "Avail": 16
-          }
-        },
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1643,13 +1306,6 @@
         "Enrol": 59,
         "Avail": 1,
         "Wait": 7,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 60,
-            "Enrol": 59,
-            "Avail": 1
-          }
-        },
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1666,18 +1322,6 @@
         "Enrol": 53,
         "Avail": 1,
         "Wait": 10,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 48,
-            "Enrol": 46,
-            "Avail": 2
-          },
-          "SBM": {
-            "Quota": 6,
-            "Enrol": 7,
-            "Avail": 0
-          }
-        },
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1818,13 +1462,6 @@
         "Enrol": 60,
         "Avail": 0,
         "Wait": 64,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 60,
-            "Enrol": 60,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       }
     ]
@@ -1852,23 +1489,6 @@
         "Enrol": 59,
         "Avail": 1,
         "Wait": 34,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 1,
-            "Enrol": 1,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 55,
-            "Enrol": 54,
-            "Avail": 1
-          },
-          "RMBI": {
-            "Quota": 4,
-            "Enrol": 4,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -1883,23 +1503,6 @@
         "Enrol": 59,
         "Avail": 1,
         "Wait": 34,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 1,
-            "Enrol": 1,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 55,
-            "Enrol": 54,
-            "Avail": 1
-          },
-          "RMBI": {
-            "Quota": 4,
-            "Enrol": 4,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -1914,23 +1517,6 @@
         "Enrol": 59,
         "Avail": 1,
         "Wait": 34,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 1,
-            "Enrol": 1,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 55,
-            "Enrol": 54,
-            "Avail": 1
-          },
-          "RMBI": {
-            "Quota": 4,
-            "Enrol": 4,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -1945,23 +1531,6 @@
         "Enrol": 59,
         "Avail": 1,
         "Wait": 34,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 1,
-            "Enrol": 1,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 55,
-            "Enrol": 54,
-            "Avail": 1
-          },
-          "RMBI": {
-            "Quota": 4,
-            "Enrol": 4,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -1976,23 +1545,6 @@
         "Enrol": 59,
         "Avail": 1,
         "Wait": 34,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 1,
-            "Enrol": 1,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 55,
-            "Enrol": 54,
-            "Avail": 1
-          },
-          "RMBI": {
-            "Quota": 4,
-            "Enrol": 4,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2034,23 +1586,6 @@
         "Enrol": 57,
         "Avail": 3,
         "Wait": 32,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 50,
-            "Enrol": 47,
-            "Avail": 3
-          },
-          "RMBI": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2065,23 +1600,6 @@
         "Enrol": 57,
         "Avail": 3,
         "Wait": 32,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 50,
-            "Enrol": 47,
-            "Avail": 3
-          },
-          "RMBI": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2096,23 +1614,6 @@
         "Enrol": 57,
         "Avail": 3,
         "Wait": 32,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 50,
-            "Enrol": 47,
-            "Avail": 3
-          },
-          "RMBI": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2127,23 +1628,6 @@
         "Enrol": 57,
         "Avail": 3,
         "Wait": 32,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 50,
-            "Enrol": 47,
-            "Avail": 3
-          },
-          "RMBI": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2158,23 +1642,6 @@
         "Enrol": 57,
         "Avail": 3,
         "Wait": 32,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 50,
-            "Enrol": 47,
-            "Avail": 3
-          },
-          "RMBI": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       }
     ]
@@ -2202,18 +1669,6 @@
         "Enrol": 57,
         "Avail": 3,
         "Wait": 21,
-        "QuotaDetail": {
-          "RMBI": {
-            "Quota": 8,
-            "Enrol": 8,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 52,
-            "Enrol": 49,
-            "Avail": 3
-          }
-        },
         "Remarks": []
       }
     ]
@@ -2242,33 +1697,6 @@
         "Enrol": 41,
         "Avail": 19,
         "Wait": 16,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 30,
-            "Enrol": 11,
-            "Avail": 19
-          },
-          "IS": {
-            "Quota": 19,
-            "Enrol": 19,
-            "Avail": 0
-          },
-          "OM": {
-            "Quota": 6,
-            "Enrol": 6,
-            "Avail": 0
-          },
-          "RMBI": {
-            "Quota": 3,
-            "Enrol": 3,
-            "Avail": 0
-          },
-          "DD": {
-            "Quota": 2,
-            "Enrol": 2,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2283,33 +1711,6 @@
         "Enrol": 41,
         "Avail": 19,
         "Wait": 16,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 30,
-            "Enrol": 11,
-            "Avail": 19
-          },
-          "IS": {
-            "Quota": 19,
-            "Enrol": 19,
-            "Avail": 0
-          },
-          "OM": {
-            "Quota": 6,
-            "Enrol": 6,
-            "Avail": 0
-          },
-          "RMBI": {
-            "Quota": 3,
-            "Enrol": 3,
-            "Avail": 0
-          },
-          "DD": {
-            "Quota": 2,
-            "Enrol": 2,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2324,33 +1725,6 @@
         "Enrol": 60,
         "Avail": 0,
         "Wait": 30,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 17,
-            "Enrol": 17,
-            "Avail": 0
-          },
-          "IS": {
-            "Quota": 30,
-            "Enrol": 30,
-            "Avail": 0
-          },
-          "OM": {
-            "Quota": 7,
-            "Enrol": 7,
-            "Avail": 0
-          },
-          "DD": {
-            "Quota": 2,
-            "Enrol": 2,
-            "Avail": 0
-          },
-          "ACCT": {
-            "Quota": 3,
-            "Enrol": 3,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2365,23 +1739,6 @@
         "Enrol": 44,
         "Avail": 16,
         "Wait": 25,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 21,
-            "Enrol": 20,
-            "Avail": 1
-          },
-          "OM": {
-            "Quota": 6,
-            "Enrol": 6,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 31,
-            "Enrol": 16,
-            "Avail": 15
-          }
-        },
         "Remarks": []
       },
       {
@@ -2465,23 +1822,6 @@
         "Enrol": 73,
         "Avail": 0,
         "Wait": 13,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 34,
-            "Enrol": 34,
-            "Avail": 0
-          },
-          "RMBI": {
-            "Quota": 35,
-            "Enrol": 35,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 4,
-            "Enrol": 4,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2524,18 +1864,6 @@
         "Enrol": 18,
         "Avail": 32,
         "Wait": 2,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 14,
-            "Enrol": 14,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 36,
-            "Enrol": 3,
-            "Avail": 33
-          }
-        },
         "Remarks": []
       },
       {
@@ -2620,23 +1948,6 @@
         "Enrol": 60,
         "Avail": 0,
         "Wait": 20,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 39,
-            "Enrol": 39,
-            "Avail": 0
-          },
-          "ACCT": {
-            "Quota": 17,
-            "Enrol": 17,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 4,
-            "Enrol": 4,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2651,23 +1962,6 @@
         "Enrol": 60,
         "Avail": 0,
         "Wait": 20,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 39,
-            "Enrol": 39,
-            "Avail": 0
-          },
-          "ACCT": {
-            "Quota": 17,
-            "Enrol": 17,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 4,
-            "Enrol": 4,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2682,23 +1976,6 @@
         "Enrol": 60,
         "Avail": 0,
         "Wait": 9,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 37,
-            "Enrol": 37,
-            "Avail": 0
-          },
-          "ACCT": {
-            "Quota": 14,
-            "Enrol": 14,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 9,
-            "Enrol": 9,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2713,23 +1990,6 @@
         "Enrol": 60,
         "Avail": 0,
         "Wait": 9,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 37,
-            "Enrol": 37,
-            "Avail": 0
-          },
-          "ACCT": {
-            "Quota": 14,
-            "Enrol": 14,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 9,
-            "Enrol": 9,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2744,23 +2004,6 @@
         "Enrol": 59,
         "Avail": 1,
         "Wait": 4,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 39,
-            "Enrol": 38,
-            "Avail": 1
-          },
-          "ACCT": {
-            "Quota": 14,
-            "Enrol": 14,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 7,
-            "Enrol": 7,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2775,23 +2018,6 @@
         "Enrol": 59,
         "Avail": 1,
         "Wait": 4,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 39,
-            "Enrol": 38,
-            "Avail": 1
-          },
-          "ACCT": {
-            "Quota": 14,
-            "Enrol": 14,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 7,
-            "Enrol": 7,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -2876,13 +2102,6 @@
         "Enrol": 21,
         "Avail": 19,
         "Wait": 7,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 40,
-            "Enrol": 21,
-            "Avail": 19
-          }
-        },
         "Remarks": []
       },
       {
@@ -2924,13 +2143,6 @@
         "Enrol": 60,
         "Avail": 0,
         "Wait": 28,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 60,
-            "Enrol": 57,
-            "Avail": 3
-          }
-        },
         "Remarks": []
       },
       {
@@ -2945,18 +2157,6 @@
         "Enrol": 52,
         "Avail": 8,
         "Wait": 23,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 40,
-            "Enrol": 36,
-            "Avail": 4
-          },
-          "RMBI": {
-            "Quota": 20,
-            "Enrol": 2,
-            "Avail": 18
-          }
-        },
         "Remarks": []
       },
       {
@@ -3013,13 +2213,6 @@
         "Enrol": 39,
         "Avail": 11,
         "Wait": 8,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 50,
-            "Enrol": 39,
-            "Avail": 11
-          }
-        },
         "Remarks": []
       },
       {
@@ -3034,13 +2227,6 @@
         "Enrol": 14,
         "Avail": 36,
         "Wait": 7,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 50,
-            "Enrol": 14,
-            "Avail": 36
-          }
-        },
         "Remarks": []
       },
       {
@@ -3055,13 +2241,6 @@
         "Enrol": 14,
         "Avail": 36,
         "Wait": 7,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 50,
-            "Enrol": 14,
-            "Avail": 36
-          }
-        },
         "Remarks": []
       }
     ]
@@ -3097,13 +2276,6 @@
         "Enrol": 30,
         "Avail": 0,
         "Wait": 4,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 30,
-            "Enrol": 30,
-            "Avail": 0
-          }
-        },
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -3120,13 +2292,6 @@
         "Enrol": 22,
         "Avail": 8,
         "Wait": 6,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 30,
-            "Enrol": 22,
-            "Avail": 8
-          }
-        },
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -3170,23 +2335,6 @@
         "Enrol": 56,
         "Avail": 4,
         "Wait": 22,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 25,
-            "Enrol": 25,
-            "Avail": 0
-          },
-          "OM": {
-            "Quota": 30,
-            "Enrol": 26,
-            "Avail": 4
-          },
-          "RMBI": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -3201,23 +2349,6 @@
         "Enrol": 60,
         "Avail": 0,
         "Wait": 31,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 15,
-            "Enrol": 15,
-            "Avail": 0
-          },
-          "OM": {
-            "Quota": 40,
-            "Enrol": 40,
-            "Avail": 0
-          },
-          "RMBI": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       }
     ]
@@ -3245,18 +2376,6 @@
         "Enrol": 35,
         "Avail": 5,
         "Wait": 7,
-        "QuotaDetail": {
-          "IS": {
-            "Quota": 24,
-            "Enrol": 24,
-            "Avail": 0
-          },
-          "SBM": {
-            "Quota": 16,
-            "Enrol": 11,
-            "Avail": 5
-          }
-        },
         "Remarks": []
       }
     ]
@@ -3284,23 +2403,6 @@
         "Enrol": 28,
         "Avail": 32,
         "Wait": 5,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 44,
-            "Enrol": 12,
-            "Avail": 32
-          },
-          "IS": {
-            "Quota": 11,
-            "Enrol": 11,
-            "Avail": 0
-          },
-          "RMBI": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       }
     ]
@@ -3329,18 +2431,6 @@
         "Enrol": 30,
         "Avail": 40,
         "Wait": 2,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 47,
-            "Enrol": 8,
-            "Avail": 39
-          },
-          "IS": {
-            "Quota": 23,
-            "Enrol": 22,
-            "Avail": 1
-          }
-        },
         "Remarks": []
       }
     ]
@@ -3368,13 +2458,6 @@
         "Enrol": 2,
         "Avail": 13,
         "Wait": 0,
-        "QuotaDetail": {
-          "SBM": {
-            "Quota": 15,
-            "Enrol": 2,
-            "Avail": 13
-          }
-        },
         "Remarks": [
           "The credit load will usually be spread in the following pattern: Fall: 3; Spring: 3",
           "Instructor Consent Required"
@@ -3405,18 +2488,6 @@
         "Enrol": 45,
         "Avail": 15,
         "Wait": 0,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 10,
-            "Enrol": 3,
-            "Avail": 7
-          },
-          "RMBI": {
-            "Quota": 50,
-            "Enrol": 37,
-            "Avail": 13
-          }
-        },
         "Remarks": []
       },
       {
@@ -3459,23 +2530,6 @@
         "Enrol": 21,
         "Avail": 29,
         "Wait": 9,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 40,
-            "Enrol": 14,
-            "Avail": 26
-          },
-          "QFIN": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          },
-          "RMBI": {
-            "Quota": 5,
-            "Enrol": 0,
-            "Avail": 5
-          }
-        },
         "Remarks": []
       },
       {
@@ -3517,18 +2571,6 @@
         "Enrol": 54,
         "Avail": 1,
         "Wait": 18,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 48,
-            "Enrol": 46,
-            "Avail": 2
-          },
-          "BIBU": {
-            "Quota": 7,
-            "Enrol": 6,
-            "Avail": 1
-          }
-        },
         "Remarks": []
       },
       {
@@ -3543,18 +2585,6 @@
         "Enrol": 54,
         "Avail": 1,
         "Wait": 18,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 48,
-            "Enrol": 46,
-            "Avail": 2
-          },
-          "BIBU": {
-            "Quota": 7,
-            "Enrol": 6,
-            "Avail": 1
-          }
-        },
         "Remarks": []
       }
     ]
@@ -3583,13 +2613,6 @@
         "Enrol": 60,
         "Avail": 0,
         "Wait": 26,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 60,
-            "Enrol": 60,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       }
     ]
@@ -3617,13 +2640,6 @@
         "Enrol": 32,
         "Avail": 28,
         "Wait": 7,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 60,
-            "Enrol": 31,
-            "Avail": 29
-          }
-        },
         "Remarks": []
       }
     ]
@@ -3651,18 +2667,6 @@
         "Enrol": 23,
         "Avail": 27,
         "Wait": 5,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 45,
-            "Enrol": 18,
-            "Avail": 27
-          },
-          "RMBI": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       }
     ]
@@ -3691,18 +2695,6 @@
         "Enrol": 41,
         "Avail": 17,
         "Wait": 13,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 55,
-            "Enrol": 39,
-            "Avail": 16
-          },
-          "RMBI": {
-            "Quota": 3,
-            "Enrol": 2,
-            "Avail": 1
-          }
-        },
         "Remarks": []
       }
     ]
@@ -3730,13 +2722,6 @@
         "Enrol": 5,
         "Avail": 5,
         "Wait": 0,
-        "QuotaDetail": {
-          "OM": {
-            "Quota": 10,
-            "Enrol": 4,
-            "Avail": 6
-          }
-        },
         "Remarks": [
           "Instructor Consent Required"
         ]

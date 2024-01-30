@@ -26,15 +26,15 @@
         "Avail": 30,
         "Wait": 0,
         "QuotaDetail": {
-          "MESF": {
-            "Quota": 75,
-            "Enrol": 48,
-            "Avail": 27
-          },
           "IBTM": {
             "Quota": 5,
             "Enrol": 2,
             "Avail": 3
+          },
+          "MESF": {
+            "Quota": 75,
+            "Enrol": 48,
+            "Avail": 27
           }
         },
         "Remarks": []
@@ -67,20 +67,20 @@
         "Avail": 35,
         "Wait": 3,
         "QuotaDetail": {
-          "MESF": {
-            "Quota": 80,
-            "Enrol": 54,
-            "Avail": 26
+          "AESF": {
+            "Quota": 5,
+            "Enrol": 1,
+            "Avail": 4
           },
           "IBTM": {
             "Quota": 5,
             "Enrol": 0,
             "Avail": 5
           },
-          "AESF": {
-            "Quota": 5,
-            "Enrol": 1,
-            "Avail": 4
+          "MESF": {
+            "Quota": 80,
+            "Enrol": 54,
+            "Avail": 26
           }
         },
         "Remarks": []
@@ -112,15 +112,15 @@
         "Avail": 73,
         "Wait": 4,
         "QuotaDetail": {
-          "MESF": {
-            "Quota": 95,
-            "Enrol": 21,
-            "Avail": 74
-          },
           "IBTM": {
             "Quota": 5,
             "Enrol": 5,
             "Avail": 0
+          },
+          "MESF": {
+            "Quota": 95,
+            "Enrol": 21,
+            "Avail": 74
           }
         },
         "Remarks": []
@@ -153,15 +153,15 @@
         "Avail": 83,
         "Wait": 2,
         "QuotaDetail": {
-          "MESF": {
-            "Quota": 90,
-            "Enrol": 17,
-            "Avail": 73
-          },
           "AESF": {
             "Quota": 10,
             "Enrol": 0,
             "Avail": 10
+          },
+          "MESF": {
+            "Quota": 90,
+            "Enrol": 17,
+            "Avail": 73
           }
         },
         "Remarks": []

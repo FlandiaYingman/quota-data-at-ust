@@ -343,13 +343,6 @@
         "Enrol": 92,
         "Avail": 0,
         "Wait": 26,
-        "QuotaDetail": {
-          "MECH": {
-            "Quota": 23,
-            "Enrol": 26,
-            "Avail": 0
-          }
-        },
         "Remarks": []
       },
       {
@@ -1131,8 +1124,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 27,
-        "Avail": 18,
+        "Enrol": 26,
+        "Avail": 19,
         "Wait": 0,
         "Remarks": []
       }

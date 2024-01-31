@@ -1422,7 +1422,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -1436,7 +1436,7 @@
         "Quota": 20,
         "Enrol": 17,
         "Avail": 3,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -2611,8 +2611,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 9,
-        "Avail": 1,
+        "Enrol": 10,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -2625,8 +2625,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 9,
-        "Avail": 1,
+        "Enrol": 10,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": [
           "Classes held in NFF"

@@ -581,7 +581,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       }
     ]
@@ -1251,14 +1251,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 10,
-        "Avail": 10,
+        "Enrol": 9,
+        "Avail": 11,
         "Wait": 3,
         "QuotaDetail": {
           "SOSC": {
             "Quota": 18,
-            "Enrol": 8,
-            "Avail": 10
+            "Enrol": 7,
+            "Avail": 11
           }
         },
         "Remarks": [

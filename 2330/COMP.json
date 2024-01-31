@@ -451,9 +451,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 200,
-        "Enrol": 188,
-        "Avail": 12,
-        "Wait": 33,
+        "Enrol": 187,
+        "Avail": 13,
+        "Wait": 34,
         "Remarks": []
       },
       {
@@ -467,7 +467,7 @@
         "Quota": 120,
         "Enrol": 108,
         "Avail": 12,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -479,8 +479,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
+        "Enrol": 79,
+        "Avail": 1,
         "Wait": 28,
         "Remarks": []
       }
@@ -621,7 +621,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -705,7 +705,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -1376,7 +1376,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 28,
+        "Wait": 27,
         "Remarks": []
       },
       {
@@ -1405,7 +1405,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 33,
+        "Wait": 32,
         "Remarks": []
       },
       {
@@ -3203,14 +3203,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 31,
-        "Avail": 9,
+        "Enrol": 30,
+        "Avail": 10,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
             "Quota": 30,
-            "Enrol": 24,
-            "Avail": 6
+            "Enrol": 23,
+            "Avail": 7
           }
         },
         "Remarks": []
@@ -3324,14 +3324,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 8,
-        "Avail": 52,
+        "Enrol": 7,
+        "Avail": 53,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 5,
-            "Avail": 35
+            "Enrol": 4,
+            "Avail": 36
           }
         },
         "Remarks": []

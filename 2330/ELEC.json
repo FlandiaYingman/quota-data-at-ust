@@ -32,7 +32,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 194,
+        "Wait": 193,
         "Remarks": []
       },
       {
@@ -102,7 +102,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 32,
+        "Wait": 31,
         "Remarks": []
       }
     ]
@@ -389,7 +389,7 @@
         "Quota": 60,
         "Enrol": 46,
         "Avail": 14,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -451,7 +451,7 @@
         "Quota": 60,
         "Enrol": 55,
         "Avail": 5,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -2420,7 +2420,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -2434,7 +2434,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "Remarks": []
       }
     ]
@@ -3390,7 +3390,7 @@
         "Quota": 32,
         "Enrol": 32,
         "Avail": 0,
-        "Wait": 32,
+        "Wait": 33,
         "QuotaDetail": {
           "ECE": {
             "Quota": 32,

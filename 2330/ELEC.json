@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 400,
-        "Enrol": 400,
-        "Avail": 0,
+        "Enrol": 399,
+        "Avail": 1,
         "Wait": 187,
         "Remarks": []
       },
@@ -60,7 +60,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 53,
+        "Wait": 54,
         "Remarks": []
       },
       {
@@ -86,8 +86,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
+        "Enrol": 79,
+        "Avail": 1,
         "Wait": 57,
         "Remarks": []
       },
@@ -783,7 +783,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -3318,14 +3318,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 12,
-        "Avail": 8,
+        "Enrol": 11,
+        "Avail": 9,
         "Wait": 1,
         "QuotaDetail": {
           "ECE": {
             "Quota": 20,
-            "Enrol": 12,
-            "Avail": 8
+            "Enrol": 11,
+            "Avail": 9
           }
         },
         "Remarks": []
@@ -3349,6 +3349,7 @@
         "Date & Time": "Tu 01:30PM - 02:50PM",
         "Room": "Rm 2503, Lift 25-26 (87)",
         "Instructor": [
+          "PAN, Ling",
           "TU, Fengbin"
         ],
         "TA/IA/GTA": [],
@@ -3384,6 +3385,7 @@
         "Date & Time": "Tu 01:30PM - 02:50PM",
         "Room": "TBA",
         "Instructor": [
+          "PAN, Ling",
           "TU, Fengbin"
         ],
         "TA/IA/GTA": [],

@@ -451,9 +451,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 220,
-        "Enrol": 204,
-        "Avail": 16,
-        "Wait": 20,
+        "Enrol": 207,
+        "Avail": 13,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -465,9 +465,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 110,
-        "Enrol": 105,
-        "Avail": 5,
-        "Wait": 11,
+        "Enrol": 107,
+        "Avail": 3,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -479,8 +479,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 110,
-        "Enrol": 99,
-        "Avail": 11,
+        "Enrol": 100,
+        "Avail": 10,
         "Wait": 11,
         "Remarks": []
       }
@@ -1212,7 +1212,7 @@
         "Quota": 70,
         "Enrol": 65,
         "Avail": 5,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -1293,8 +1293,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 5,
-        "Avail": 25,
+        "Enrol": 6,
+        "Avail": 24,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -1589,9 +1589,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 88,
-        "Avail": 7,
-        "Wait": 4,
+        "Enrol": 89,
+        "Avail": 6,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1618,9 +1618,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 110,
-        "Enrol": 102,
-        "Avail": 8,
-        "Wait": 4,
+        "Enrol": 103,
+        "Avail": 7,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1933,8 +1933,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 150,
-        "Enrol": 139,
-        "Avail": 11,
+        "Enrol": 142,
+        "Avail": 8,
         "Wait": 3,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
@@ -1949,8 +1949,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 150,
-        "Enrol": 139,
-        "Avail": 11,
+        "Enrol": 142,
+        "Avail": 8,
         "Wait": 3,
         "Remarks": []
       }
@@ -2268,9 +2268,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 75,
-        "Enrol": 71,
-        "Avail": 4,
-        "Wait": 4,
+        "Enrol": 72,
+        "Avail": 3,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -2282,9 +2282,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 75,
-        "Enrol": 71,
-        "Avail": 4,
-        "Wait": 4,
+        "Enrol": 72,
+        "Avail": 3,
+        "Wait": 3,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -2917,14 +2917,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 40,
-        "Avail": 10,
-        "Wait": 20,
+        "Enrol": 41,
+        "Avail": 9,
+        "Wait": 19,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 29,
-            "Avail": 11
+            "Enrol": 30,
+            "Avail": 10
           }
         },
         "Remarks": []
@@ -3203,14 +3203,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 30,
-        "Avail": 10,
+        "Enrol": 29,
+        "Avail": 11,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
             "Quota": 30,
-            "Enrol": 23,
-            "Avail": 7
+            "Enrol": 22,
+            "Avail": 8
           }
         },
         "Remarks": []

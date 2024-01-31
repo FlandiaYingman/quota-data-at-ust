@@ -748,7 +748,7 @@
         "Quota": 55,
         "Enrol": 53,
         "Avail": 2,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -776,7 +776,7 @@
         "Quota": 55,
         "Enrol": 53,
         "Avail": 2,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       }
     ]
@@ -1955,52 +1955,6 @@
         "Remarks": [
           "For MSc(GO) students only",
           "Add/Drop Deadline : 01-Apr-2024"
-        ]
-      }
-    ]
-  },
-  {
-    "program": "MGMT",
-    "code": "5570",
-    "name": "Applied Merger and Acquisition for Corporates",
-    "units": 2,
-    "info": {
-      "vector": "[2-0-0:2]",
-      "description": "This course is designed to prepare business managers to succeed as members of a merger and acquisition project team. Students will be able to work out how merger and acquisition can help to achieve the strategy, to know how merger and acquisition transactions work in practice from search to merger integration, to get insight into the particular opportunities and challenges of merger and acquisition, and to apply this thinking in a team environment.",
-      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Appraise how merger and acquisition can help achieve a firm's strategy.</td></tr><tr><td>2.</td><td>Identify how merger and acquisition transactions work in practice, from initial search through to merger integration.</td></tr><tr><td>3.</td><td>Recognize nsight into the opportunities and challenges of merger and acquisition in China.</td></tr><tr><td>4.</td><td>Execute the merger and acquisition thinking in a team environment.</td></tr></table>"
-    },
-    "attrs": [],
-    "sections": [
-      {
-        "Section": "L1 (1472)",
-        "Date & Time": "30-JAN-2024 - 06-FEB-2024<br>Tu 07:00PM - 10:20PM",
-        "Room": "TBA",
-        "Instructor": [
-          "DORAN, Christopher"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 0,
-        "Avail": 0,
-        "Wait": 2,
-        "Remarks": [
-          "The class is cancelled"
-        ]
-      },
-      {
-        "Section": "L1 (1472)",
-        "Date & Time": "20-FEB-2024 - 26-MAR-2024<br>Tu 07:00PM - 10:20PM",
-        "Room": "TBA",
-        "Instructor": [
-          "DORAN, Christopher"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 0,
-        "Avail": 0,
-        "Wait": 2,
-        "Remarks": [
-          "The class is cancelled"
         ]
       }
     ]

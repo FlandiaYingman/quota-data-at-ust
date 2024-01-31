@@ -1788,7 +1788,7 @@
         "Quota": 70,
         "Enrol": 62,
         "Avail": 8,
-        "Wait": 9,
+        "Wait": 10,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 25,
@@ -1823,7 +1823,7 @@
         "Quota": 70,
         "Enrol": 62,
         "Avail": 8,
-        "Wait": 9,
+        "Wait": 10,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 25,
@@ -1938,8 +1938,8 @@
         "QuotaDetail": {
           "SBM": {
             "Quota": 20,
-            "Enrol": 11,
-            "Avail": 9
+            "Enrol": 12,
+            "Avail": 8
           }
         },
         "Remarks": [
@@ -2488,7 +2488,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 15,
         "Remarks": [
           "For MSc(ECON) students only"
         ]
@@ -2504,7 +2504,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 15,
         "Remarks": [
           "For MSc(ECON) students only"
         ]
@@ -2520,7 +2520,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 15,
         "Remarks": [
           "For MSc(ECON) students only"
         ]
@@ -2536,7 +2536,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 15,
         "Remarks": [
           "For MSc(ECON) students only"
         ]
@@ -2552,7 +2552,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 15,
         "Remarks": [
           "For MSc(ECON) students only"
         ]
@@ -2738,8 +2738,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 8,
-        "Avail": 2,
+        "Enrol": 7,
+        "Avail": 3,
         "Wait": 0,
         "QuotaDetail": {
           "SBM": {

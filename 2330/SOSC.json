@@ -170,9 +170,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 400,
-        "Enrol": 399,
-        "Avail": 1,
-        "Wait": 280,
+        "Enrol": 400,
+        "Avail": 0,
+        "Wait": 279,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -306,7 +306,7 @@
         "Quota": 120,
         "Enrol": 85,
         "Avail": 35,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": []
       }
     ]
@@ -635,7 +635,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 27,
+        "Wait": 26,
         "Remarks": []
       }
     ]
@@ -1217,14 +1217,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 9,
-        "Avail": 11,
-        "Wait": 3,
+        "Enrol": 10,
+        "Avail": 10,
+        "Wait": 2,
         "QuotaDetail": {
           "SOSC": {
             "Quota": 20,
-            "Enrol": 9,
-            "Avail": 11
+            "Enrol": 10,
+            "Avail": 10
           }
         },
         "Remarks": []

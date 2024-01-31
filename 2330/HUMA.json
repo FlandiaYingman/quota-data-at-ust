@@ -370,7 +370,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 208,
+        "Wait": 209,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -490,7 +490,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 16,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -712,9 +712,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
-        "Wait": 36,
+        "Enrol": 98,
+        "Avail": 2,
+        "Wait": 35,
         "Remarks": []
       },
       {
@@ -726,9 +726,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
-        "Wait": 36,
+        "Enrol": 98,
+        "Avail": 2,
+        "Wait": 35,
         "Remarks": []
       }
     ]
@@ -802,9 +802,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 99,
-        "Avail": 1,
-        "Wait": 40,
+        "Enrol": 98,
+        "Avail": 2,
+        "Wait": 41,
         "Remarks": []
       },
       {
@@ -816,9 +816,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 99,
-        "Avail": 1,
-        "Wait": 40,
+        "Enrol": 98,
+        "Avail": 2,
+        "Wait": 41,
         "Remarks": []
       }
     ]
@@ -1187,7 +1187,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 340,
+        "Wait": 338,
         "Remarks": []
       }
     ]
@@ -1750,8 +1750,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 78,
         "Remarks": []
       },
@@ -1764,8 +1764,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 78,
         "Remarks": []
       }
@@ -1852,7 +1852,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 108,
+        "Wait": 107,
         "Remarks": []
       }
     ]

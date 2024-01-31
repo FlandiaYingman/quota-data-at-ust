@@ -339,8 +339,8 @@
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 10,
-            "Avail": 30
+            "Enrol": 9,
+            "Avail": 31
           }
         },
         "Remarks": []
@@ -403,14 +403,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 36,
-        "Avail": 4,
+        "Enrol": 34,
+        "Avail": 6,
         "Wait": 4,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 36,
-            "Avail": 4
+            "Enrol": 34,
+            "Avail": 6
           }
         },
         "Remarks": []
@@ -441,7 +441,7 @@
         "Quota": 40,
         "Enrol": 38,
         "Avail": 2,
-        "Wait": 3,
+        "Wait": 4,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 39,
@@ -574,7 +574,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 36,
+        "Wait": 35,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
@@ -897,7 +897,7 @@
         "Quota": 40,
         "Enrol": 33,
         "Avail": 7,
-        "Wait": 5,
+        "Wait": 8,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,

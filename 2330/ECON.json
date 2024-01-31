@@ -2209,7 +2209,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 9,
         "Remarks": [
           "For MSc(ECON) students only"
         ]
@@ -2306,9 +2306,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 2,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 1,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class on 01-May-2024"
@@ -2323,9 +2323,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 2,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 1,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class on 01-May-2024"
@@ -2340,9 +2340,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 2,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 1,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class on 01-May-2024"
@@ -2775,14 +2775,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 15,
-        "Enrol": 12,
-        "Avail": 3,
+        "Enrol": 13,
+        "Avail": 2,
         "Wait": 0,
         "QuotaDetail": {
           "SBM": {
             "Quota": 15,
-            "Enrol": 11,
-            "Avail": 4
+            "Enrol": 12,
+            "Avail": 3
           }
         },
         "Remarks": [

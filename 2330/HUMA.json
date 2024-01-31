@@ -29,8 +29,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 400,
-        "Enrol": 358,
-        "Avail": 42,
+        "Enrol": 356,
+        "Avail": 44,
         "Wait": 127,
         "Remarks": [
           "The class is delivered in a blended learning mode"
@@ -195,9 +195,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
-        "Wait": 3,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -285,8 +285,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 10,
-        "Avail": 10,
+        "Enrol": 9,
+        "Avail": 11,
         "Wait": 3,
         "Remarks": []
       },
@@ -370,7 +370,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 206,
+        "Wait": 207,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -400,7 +400,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -1187,7 +1187,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 332,
+        "Wait": 331,
         "Remarks": []
       }
     ]
@@ -2956,14 +2956,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 1,
-        "Avail": 19,
+        "Enrol": 2,
+        "Avail": 18,
         "Wait": 0,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 1,
-            "Avail": 19
+            "Enrol": 2,
+            "Avail": 18
           }
         },
         "Remarks": []

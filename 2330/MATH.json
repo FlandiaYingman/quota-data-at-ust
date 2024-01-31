@@ -639,7 +639,7 @@
         "Quota": 45,
         "Enrol": 44,
         "Avail": 1,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -827,7 +827,7 @@
       {
         "Section": "T11B (3395)",
         "Date & Time": "Fr 10:30AM - 11:20AM",
-        "Room": "Lecture Theater K (106)",
+        "Room": "Rm 4502, Lift 25-26 (60)",
         "Instructor": [
           "LEE, Jaehun"
         ],
@@ -835,7 +835,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -1745,7 +1745,7 @@
         "Quota": 80,
         "Enrol": 71,
         "Avail": 9,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -1801,7 +1801,7 @@
         "Quota": 40,
         "Enrol": 31,
         "Avail": 9,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -3848,8 +3848,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 0,
-        "Avail": 10,
+        "Enrol": 2,
+        "Avail": 8,
         "Wait": 0,
         "Remarks": [
           "Students should seek approval from the course instructor to take this course.",
@@ -3988,8 +3988,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 44,
-        "Avail": 6,
+        "Enrol": 43,
+        "Avail": 7,
         "Wait": 0,
         "Remarks": []
       }

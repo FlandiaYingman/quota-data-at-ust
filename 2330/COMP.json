@@ -451,9 +451,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 200,
-        "Enrol": 187,
-        "Avail": 13,
-        "Wait": 31,
+        "Enrol": 186,
+        "Avail": 14,
+        "Wait": 33,
         "Remarks": []
       },
       {
@@ -465,9 +465,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 107,
-        "Avail": 13,
-        "Wait": 7,
+        "Enrol": 106,
+        "Avail": 14,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -481,7 +481,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 27,
+        "Wait": 28,
         "Remarks": []
       }
     ]
@@ -605,9 +605,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
-        "Wait": 33,
+        "Enrol": 79,
+        "Avail": 1,
+        "Wait": 34,
         "Remarks": []
       },
       {
@@ -661,8 +661,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 63,
-        "Avail": 17,
+        "Enrol": 64,
+        "Avail": 16,
         "Wait": 0,
         "Remarks": []
       },
@@ -689,9 +689,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
-        "Wait": 33,
+        "Enrol": 79,
+        "Avail": 1,
+        "Wait": 34,
         "Remarks": []
       },
       {
@@ -745,8 +745,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 63,
-        "Avail": 17,
+        "Enrol": 64,
+        "Avail": 16,
         "Wait": 0,
         "Remarks": []
       },
@@ -1588,9 +1588,9 @@
           "CHENG, Siu Wing"
         ],
         "TA/IA/GTA": [],
-        "Quota": 90,
+        "Quota": 95,
         "Enrol": 88,
-        "Avail": 2,
+        "Avail": 7,
         "Wait": 5,
         "Remarks": []
       },
@@ -1602,9 +1602,9 @@
           "YI, Ke"
         ],
         "TA/IA/GTA": [],
-        "Quota": 90,
-        "Enrol": 82,
-        "Avail": 8,
+        "Quota": 100,
+        "Enrol": 81,
+        "Avail": 19,
         "Wait": 15,
         "Remarks": []
       },
@@ -1617,9 +1617,9 @@
           "YI, Ke"
         ],
         "TA/IA/GTA": [],
-        "Quota": 90,
+        "Quota": 110,
         "Enrol": 90,
-        "Avail": 0,
+        "Avail": 20,
         "Wait": 18,
         "Remarks": []
       },
@@ -1633,8 +1633,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 80,
-        "Avail": 10,
+        "Enrol": 79,
+        "Avail": 11,
         "Wait": 2,
         "Remarks": []
       }
@@ -1751,7 +1751,7 @@
       },
       {
         "Section": "T1 (4290)",
-        "Date & Time": "Fr 10:30AM - 12:20PM",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
         "Room": "G009B, CYT Bldg (70)",
         "Instructor": [
           "PARREAUX, Lionel"
@@ -1935,7 +1935,7 @@
         "Quota": 150,
         "Enrol": 135,
         "Avail": 15,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -1951,7 +1951,7 @@
         "Quota": 150,
         "Enrol": 135,
         "Avail": 15,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -2107,8 +2107,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 78,
-        "Avail": 2,
+        "Enrol": 77,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a blended learning mode"
@@ -2123,8 +2123,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 78,
-        "Avail": 2,
+        "Enrol": 77,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": []
       }
@@ -2397,7 +2397,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 37,
+        "Wait": 36,
         "Remarks": []
       },
       {
@@ -2411,7 +2411,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 37,
+        "Wait": 36,
         "Remarks": []
       },
       {
@@ -2440,7 +2440,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 24,
         "Remarks": []
       },
       {
@@ -2953,14 +2953,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 9,
-        "Avail": 51,
+        "Enrol": 11,
+        "Avail": 49,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 2,
-            "Avail": 38
+            "Enrol": 3,
+            "Avail": 37
           }
         },
         "Remarks": []
@@ -2988,8 +2988,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 51,
-        "Avail": 9,
+        "Enrol": 50,
+        "Avail": 10,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
@@ -3168,8 +3168,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 56,
-        "Avail": 4,
+        "Enrol": 57,
+        "Avail": 3,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
@@ -3269,8 +3269,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 39,
-        "Avail": 21,
+        "Enrol": 38,
+        "Avail": 22,
         "Wait": 8,
         "QuotaDetail": {
           "CSE": {
@@ -3290,8 +3290,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 39,
-        "Avail": 21,
+        "Enrol": 38,
+        "Avail": 22,
         "Wait": 8,
         "QuotaDetail": {
           "CSE": {
@@ -3431,8 +3431,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 1,
-        "Enrol": 0,
-        "Avail": 1,
+        "Enrol": 1,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       }

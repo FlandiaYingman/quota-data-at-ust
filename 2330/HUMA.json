@@ -2729,14 +2729,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 10,
-        "Avail": 10,
-        "Wait": 4,
+        "Enrol": 11,
+        "Avail": 9,
+        "Wait": 3,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 10,
-            "Avail": 10
+            "Enrol": 11,
+            "Avail": 9
           }
         },
         "Remarks": []

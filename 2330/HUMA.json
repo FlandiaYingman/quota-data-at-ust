@@ -31,7 +31,7 @@
         "Quota": 400,
         "Enrol": 358,
         "Avail": 42,
-        "Wait": 128,
+        "Wait": 127,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -77,7 +77,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -107,7 +107,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 24,
         "Remarks": []
       },
       {
@@ -211,7 +211,7 @@
         "Quota": 20,
         "Enrol": 19,
         "Avail": 1,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -271,7 +271,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -370,7 +370,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 206,
+        "Wait": 205,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1024,7 +1024,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 95,
+        "Wait": 94,
         "Remarks": []
       },
       {
@@ -1052,7 +1052,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 36,
+        "Wait": 35,
         "Remarks": []
       }
     ]
@@ -1346,7 +1346,7 @@
         "Quota": 100,
         "Enrol": 70,
         "Avail": 30,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -1360,7 +1360,7 @@
         "Quota": 100,
         "Enrol": 70,
         "Avail": 30,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": []
       }
     ]
@@ -2262,8 +2262,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 24,
-        "Avail": 36,
+        "Enrol": 25,
+        "Avail": 35,
         "Wait": 0,
         "Remarks": []
       }

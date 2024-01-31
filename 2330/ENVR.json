@@ -109,7 +109,7 @@
         "Quota": 75,
         "Enrol": 75,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -524,14 +524,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 69,
-        "Avail": 26,
-        "Wait": 9,
+        "Enrol": 70,
+        "Avail": 25,
+        "Wait": 8,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 70,
-            "Enrol": 47,
-            "Avail": 23
+            "Enrol": 48,
+            "Avail": 22
           },
           "EVEM": {
             "Quota": 20,

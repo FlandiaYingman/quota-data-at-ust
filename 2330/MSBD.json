@@ -175,14 +175,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 42,
-        "Avail": 58,
-        "Wait": 2,
+        "Enrol": 43,
+        "Avail": 57,
+        "Wait": 1,
         "QuotaDetail": {
           "BDT": {
             "Quota": 93,
-            "Enrol": 41,
-            "Avail": 52
+            "Enrol": 42,
+            "Avail": 51
           },
           "CSIT": {
             "Quota": 7,
@@ -255,14 +255,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 48,
-        "Avail": 42,
-        "Wait": 2,
+        "Enrol": 49,
+        "Avail": 41,
+        "Wait": 1,
         "QuotaDetail": {
           "BDT": {
             "Quota": 90,
-            "Enrol": 48,
-            "Avail": 42
+            "Enrol": 49,
+            "Avail": 41
           }
         },
         "Remarks": []

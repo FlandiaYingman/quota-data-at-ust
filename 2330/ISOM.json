@@ -129,7 +129,7 @@
         "Quota": 55,
         "Enrol": 38,
         "Avail": 17,
-        "Wait": 9,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -155,9 +155,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 54,
-        "Avail": 1,
-        "Wait": 28,
+        "Enrol": 55,
+        "Avail": 0,
+        "Wait": 27,
         "Remarks": []
       },
       {
@@ -239,8 +239,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 53,
-        "Avail": 2,
+        "Enrol": 52,
+        "Avail": 3,
         "Wait": 10,
         "Remarks": []
       }
@@ -448,7 +448,7 @@
         "Quota": 38,
         "Enrol": 36,
         "Avail": 2,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -1040,7 +1040,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -2273,9 +2273,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 29,
-        "Avail": 1,
-        "Wait": 4,
+        "Enrol": 28,
+        "Avail": 2,
+        "Wait": 3,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -2289,9 +2289,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 27,
-        "Avail": 3,
-        "Wait": 4,
+        "Enrol": 29,
+        "Avail": 1,
+        "Wait": 2,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -2305,9 +2305,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 56,
-        "Avail": 4,
-        "Wait": 4,
+        "Enrol": 57,
+        "Avail": 3,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -2373,9 +2373,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 38,
-        "Avail": 2,
-        "Wait": 5,
+        "Enrol": 39,
+        "Avail": 1,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -2664,9 +2664,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 26,
-        "Avail": 24,
-        "Wait": 3,
+        "Enrol": 27,
+        "Avail": 23,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -3639,8 +3639,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 39,
-        "Enrol": 23,
-        "Avail": 16,
+        "Enrol": 22,
+        "Avail": 17,
         "Wait": 0,
         "QuotaDetail": {
           "MBA Bi-weekly": {
@@ -3650,8 +3650,8 @@
           },
           "MBA": {
             "Quota": 32,
-            "Enrol": 17,
-            "Avail": 15
+            "Enrol": 16,
+            "Avail": 16
           }
         },
         "Remarks": [
@@ -3668,8 +3668,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 39,
-        "Enrol": 23,
-        "Avail": 16,
+        "Enrol": 22,
+        "Avail": 17,
         "Wait": 0,
         "QuotaDetail": {
           "MBA Bi-weekly": {
@@ -3679,8 +3679,8 @@
           },
           "MBA": {
             "Quota": 32,
-            "Enrol": 17,
-            "Avail": 15
+            "Enrol": 16,
+            "Avail": 16
           }
         },
         "Remarks": [

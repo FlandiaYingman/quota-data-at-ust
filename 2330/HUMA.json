@@ -167,7 +167,7 @@
         "Quota": 20,
         "Enrol": 11,
         "Avail": 9,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -287,7 +287,7 @@
         "Quota": 20,
         "Enrol": 9,
         "Avail": 11,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -331,7 +331,7 @@
         "Quota": 20,
         "Enrol": 18,
         "Avail": 2,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": [
           "Venue : Room CYTG001"
         ]
@@ -368,8 +368,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 400,
-        "Enrol": 400,
-        "Avail": 0,
+        "Enrol": 399,
+        "Avail": 1,
         "Wait": 208,
         "Remarks": [
           "The class is delivered in a blended learning mode"
@@ -654,8 +654,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 8,
         "Remarks": []
       },
@@ -856,7 +856,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 12,
+        "Wait": 13,
         "Remarks": []
       },
       {
@@ -870,7 +870,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -1506,7 +1506,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 26,
         "Remarks": []
       },
       {
@@ -1590,7 +1590,7 @@
         "Quota": 6,
         "Enrol": 6,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       }
     ]
@@ -1852,7 +1852,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 106,
+        "Wait": 107,
         "Remarks": []
       }
     ]
@@ -2062,7 +2062,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "Remarks": []
       }
     ]

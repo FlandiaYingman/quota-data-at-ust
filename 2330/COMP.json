@@ -453,7 +453,7 @@
         "Quota": 200,
         "Enrol": 187,
         "Avail": 13,
-        "Wait": 34,
+        "Wait": 35,
         "Remarks": []
       },
       {
@@ -481,7 +481,7 @@
         "Quota": 80,
         "Enrol": 79,
         "Avail": 1,
-        "Wait": 28,
+        "Wait": 30,
         "Remarks": []
       }
     ]
@@ -635,7 +635,7 @@
         "Quota": 80,
         "Enrol": 78,
         "Avail": 2,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -719,7 +719,7 @@
         "Quota": 80,
         "Enrol": 78,
         "Avail": 2,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -1016,7 +1016,7 @@
         "Quota": 130,
         "Enrol": 130,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 16,
         "Remarks": []
       },
       {
@@ -2185,8 +2185,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 20,
-        "Avail": 40,
+        "Enrol": 21,
+        "Avail": 39,
         "Wait": 0,
         "Remarks": []
       },
@@ -2199,8 +2199,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 20,
-        "Avail": 40,
+        "Enrol": 21,
+        "Avail": 39,
         "Wait": 0,
         "Remarks": []
       }
@@ -2228,7 +2228,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 34,
+        "Wait": 33,
         "Remarks": []
       },
       {
@@ -2242,7 +2242,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 34,
+        "Wait": 33,
         "Remarks": []
       }
     ]
@@ -2492,8 +2492,8 @@
           "PAPADOPOULOS, Dimitris"
         ],
         "TA/IA/GTA": [],
-        "Quota": 98,
-        "Enrol": 98,
+        "Quota": 99,
+        "Enrol": 99,
         "Avail": 0,
         "Wait": 0,
         "Remarks": []
@@ -3132,14 +3132,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 30,
-        "Avail": 30,
+        "Enrol": 29,
+        "Avail": 31,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 14,
-            "Avail": 26
+            "Enrol": 13,
+            "Avail": 27
           }
         },
         "Remarks": []

@@ -281,7 +281,7 @@
         "Quota": 60,
         "Enrol": 48,
         "Avail": 12,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       }
     ]
@@ -308,7 +308,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 23,
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -322,7 +322,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 20,
         "Remarks": []
       },
       {
@@ -364,7 +364,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 23,
+        "Wait": 24,
         "Remarks": []
       }
     ]
@@ -498,7 +498,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -2369,14 +2369,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 31,
-        "Avail": 29,
+        "Enrol": 30,
+        "Avail": 30,
         "Wait": 0,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
-            "Enrol": 31,
-            "Avail": 29
+            "Enrol": 30,
+            "Avail": 30
           }
         },
         "Remarks": [
@@ -2393,14 +2393,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 31,
-        "Avail": 29,
+        "Enrol": 30,
+        "Avail": 30,
         "Wait": 0,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
-            "Enrol": 31,
-            "Avail": 29
+            "Enrol": 30,
+            "Avail": 30
           }
         },
         "Remarks": [
@@ -2417,14 +2417,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 31,
-        "Avail": 29,
+        "Enrol": 30,
+        "Avail": 30,
         "Wait": 0,
         "QuotaDetail": {
           "FINA": {
             "Quota": 60,
-            "Enrol": 31,
-            "Avail": 29
+            "Enrol": 30,
+            "Avail": 30
           }
         },
         "Remarks": [

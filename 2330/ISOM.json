@@ -1083,8 +1083,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 70,
-        "Avail": 0,
+        "Enrol": 69,
+        "Avail": 1,
         "Wait": 10,
         "Remarks": []
       },
@@ -1097,8 +1097,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 24,
-        "Avail": 1,
+        "Enrol": 23,
+        "Avail": 2,
         "Wait": 0,
         "Remarks": []
       },
@@ -1289,7 +1289,7 @@
         "Quota": 60,
         "Enrol": 43,
         "Avail": 17,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1321,7 +1321,7 @@
         "Quota": 54,
         "Enrol": 54,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1337,7 +1337,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -1379,7 +1379,7 @@
         "Quota": 40,
         "Enrol": 34,
         "Avail": 6,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -1738,7 +1738,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -1780,7 +1780,7 @@
         "Quota": 53,
         "Enrol": 40,
         "Avail": 13,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -2430,7 +2430,7 @@
         "Quota": 70,
         "Enrol": 32,
         "Avail": 38,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       }
     ]
@@ -3514,8 +3514,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 34,
-        "Avail": 26,
+        "Enrol": 33,
+        "Avail": 27,
         "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
@@ -3538,8 +3538,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 34,
-        "Avail": 26,
+        "Enrol": 33,
+        "Avail": 27,
         "Wait": 0,
         "QuotaDetail": {
           "ISOM": {

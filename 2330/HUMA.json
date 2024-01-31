@@ -31,7 +31,7 @@
         "Quota": 400,
         "Enrol": 357,
         "Avail": 43,
-        "Wait": 126,
+        "Wait": 127,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -195,8 +195,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
+        "Enrol": 20,
+        "Avail": 0,
         "Wait": 4,
         "Remarks": []
       },
@@ -209,8 +209,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
+        "Enrol": 18,
+        "Avail": 2,
         "Wait": 2,
         "Remarks": [
           "Venue : Room 3494"
@@ -2659,14 +2659,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 12,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 20,
-            "Avail": 0
+            "Enrol": 19,
+            "Avail": 1
           }
         },
         "Remarks": []

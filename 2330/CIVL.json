@@ -183,7 +183,7 @@
         "Quota": 90,
         "Enrol": 90,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 22,
         "Remarks": [
           "Instructor Consent Required"
         ]
@@ -418,7 +418,7 @@
         "Quota": 120,
         "Enrol": 120,
         "Avail": 0,
-        "Wait": 12,
+        "Wait": 13,
         "Remarks": []
       }
     ]
@@ -981,8 +981,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 24,
-        "Avail": 26,
+        "Enrol": 23,
+        "Avail": 27,
         "Wait": 1,
         "Remarks": []
       }
@@ -1303,7 +1303,7 @@
         "Quota": 50,
         "Enrol": 47,
         "Avail": 3,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       }
     ]

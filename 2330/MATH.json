@@ -155,7 +155,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": [
           "Instructor: ZHANG, Jiarui",
           "Venue : Room 4503"
@@ -188,7 +188,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": [
           "Instructor: ZHANG, Jiarui",
           "Venue : Room 1409"
@@ -231,9 +231,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 133,
-        "Avail": 2,
-        "Wait": 7,
+        "Enrol": 132,
+        "Avail": 3,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -275,7 +275,7 @@
         "Quota": 135,
         "Enrol": 131,
         "Avail": 4,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -289,7 +289,7 @@
         "Quota": 135,
         "Enrol": 133,
         "Avail": 2,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -301,8 +301,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 120,
-        "Avail": 15,
+        "Enrol": 121,
+        "Avail": 14,
         "Wait": 0,
         "Remarks": []
       },
@@ -315,8 +315,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 120,
-        "Avail": 15,
+        "Enrol": 121,
+        "Avail": 14,
         "Wait": 0,
         "Remarks": []
       },
@@ -331,7 +331,7 @@
         "Quota": 135,
         "Enrol": 114,
         "Avail": 21,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -345,7 +345,7 @@
         "Quota": 135,
         "Enrol": 114,
         "Avail": 21,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -457,7 +457,7 @@
         "Quota": 45,
         "Enrol": 43,
         "Avail": 2,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -469,8 +469,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 45,
-        "Avail": 0,
+        "Enrol": 44,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": []
       },
@@ -597,7 +597,7 @@
         "Quota": 45,
         "Enrol": 43,
         "Avail": 2,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -625,7 +625,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -651,8 +651,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 32,
-        "Avail": 13,
+        "Enrol": 33,
+        "Avail": 12,
         "Wait": 0,
         "Remarks": []
       },
@@ -723,7 +723,7 @@
         "Quota": 45,
         "Enrol": 35,
         "Avail": 10,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -947,7 +947,7 @@
         "Quota": 120,
         "Enrol": 106,
         "Avail": 14,
-        "Wait": 48,
+        "Wait": 47,
         "Remarks": []
       },
       {
@@ -989,7 +989,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 31,
+        "Wait": 30,
         "Remarks": []
       },
       {
@@ -1213,7 +1213,7 @@
         "Quota": 100,
         "Enrol": 97,
         "Avail": 3,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -1255,7 +1255,7 @@
         "Quota": 50,
         "Enrol": 47,
         "Avail": 3,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -2286,8 +2286,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 75,
-        "Avail": 15,
+        "Enrol": 76,
+        "Avail": 14,
         "Wait": 0,
         "Remarks": []
       },
@@ -2300,8 +2300,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 43,
-        "Avail": 2,
+        "Enrol": 44,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": []
       },
@@ -3103,8 +3103,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 1,
-        "Enrol": 0,
-        "Avail": 1,
+        "Enrol": 1,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -3181,8 +3181,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 8,
-        "Avail": 12,
+        "Enrol": 9,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": []
       }
@@ -3326,8 +3326,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 8,
-        "Avail": 12,
+        "Enrol": 9,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": []
       }
@@ -3443,8 +3443,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 14,
-        "Avail": 6,
+        "Enrol": 15,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       }
@@ -3734,6 +3734,36 @@
         "Avail": 40,
         "Wait": 0,
         "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6911W",
+    "name": "Reading Course: Machine Learning",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This reading course attempts to cover largely privacy preserving machine learning methodologies and other related topics. A well-performing ML model relies on a large volume of training data and high-powered computational resources. There are serious privacy concerns because of possible leakage of highly privacy-sensitive information. Hence, well-designed privacy-preserving ML (PPML) solutions are much needed. PPML is a set of techniques and practices that safeguard sensitive data during the training and deployment of ML models. It allows organizations to harness the power of machine learning while respecting data privacy and ensures that confidential information remains secure and anonymous throughout the AI lifecycle. We will cover other topics such as PPML with large language models and their applications to vertical fields. Students should seek approval from the course instructor to take this reading course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4387)",
+        "Date & Time": "We 05:00PM - 07:50PM",
+        "Room": "Rm 5566, Lift 27-28 (24)",
+        "Instructor": [
+          "CHEN, Kani"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 8,
+        "Enrol": 0,
+        "Avail": 8,
+        "Wait": 0,
+        "Remarks": [
+          "Students should seek approval from the course instructor to take this course.",
+          "Instructor Consent Required"
+        ]
       }
     ]
   },

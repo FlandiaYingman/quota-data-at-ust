@@ -366,7 +366,7 @@
         "Quota": 78,
         "Enrol": 78,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -418,9 +418,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 33,
-        "Avail": 32,
-        "Wait": 3,
+        "Enrol": 34,
+        "Avail": 31,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -463,7 +463,7 @@
         "Quota": 40,
         "Enrol": 22,
         "Avail": 18,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -1483,14 +1483,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 47,
-        "Avail": 13,
+        "Enrol": 46,
+        "Avail": 14,
         "Wait": 0,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 60,
-            "Enrol": 47,
-            "Avail": 13
+            "Enrol": 46,
+            "Avail": 14
           }
         },
         "Remarks": [
@@ -1507,14 +1507,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 47,
-        "Avail": 13,
+        "Enrol": 46,
+        "Avail": 14,
         "Wait": 0,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 60,
-            "Enrol": 47,
-            "Avail": 13
+            "Enrol": 46,
+            "Avail": 14
           }
         },
         "Remarks": [
@@ -1630,14 +1630,14 @@
           "FRANKLIN, Laurence Craig"
         ],
         "TA/IA/GTA": [],
-        "Quota": 49,
-        "Enrol": 40,
-        "Avail": 9,
-        "Wait": 2,
+        "Quota": 50,
+        "Enrol": 42,
+        "Avail": 8,
+        "Wait": 0,
         "QuotaDetail": {
           "MBA Bi-weekly": {
-            "Quota": 2,
-            "Enrol": 2,
+            "Quota": 4,
+            "Enrol": 4,
             "Avail": 0
           },
           "Digital MBA": {
@@ -1646,9 +1646,9 @@
             "Avail": 1
           },
           "MBA": {
-            "Quota": 45,
+            "Quota": 44,
             "Enrol": 37,
-            "Avail": 8
+            "Avail": 7
           }
         },
         "Remarks": [
@@ -1665,14 +1665,14 @@
           "FRANKLIN, Laurence Craig"
         ],
         "TA/IA/GTA": [],
-        "Quota": 49,
-        "Enrol": 40,
-        "Avail": 9,
-        "Wait": 2,
+        "Quota": 50,
+        "Enrol": 42,
+        "Avail": 8,
+        "Wait": 0,
         "QuotaDetail": {
           "MBA Bi-weekly": {
-            "Quota": 2,
-            "Enrol": 2,
+            "Quota": 4,
+            "Enrol": 4,
             "Avail": 0
           },
           "Digital MBA": {
@@ -1681,9 +1681,9 @@
             "Avail": 1
           },
           "MBA": {
-            "Quota": 45,
+            "Quota": 44,
             "Enrol": 37,
-            "Avail": 8
+            "Avail": 7
           }
         },
         "Remarks": [
@@ -1880,14 +1880,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 49,
-        "Avail": 1,
-        "Wait": 18,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 17,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 50,
-            "Enrol": 49,
-            "Avail": 1
+            "Enrol": 50,
+            "Avail": 0
           }
         },
         "Remarks": [

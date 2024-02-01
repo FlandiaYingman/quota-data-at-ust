@@ -57,9 +57,7 @@
         "Enrol": 20,
         "Avail": 0,
         "Wait": 6,
-        "Remarks": [
-          "Instructor: ZHANG, Jiarui"
-        ]
+        "Remarks": []
       },
       {
         "Section": "L2 (4337)",
@@ -73,9 +71,7 @@
         "Enrol": 20,
         "Avail": 0,
         "Wait": 6,
-        "Remarks": [
-          "Instructor: ZHANG, Jiarui"
-        ]
+        "Remarks": []
       },
       {
         "Section": "T1A (3338)",
@@ -103,9 +99,7 @@
         "Enrol": 20,
         "Avail": 0,
         "Wait": 6,
-        "Remarks": [
-          "Instructor: ZHANG, Jiarui"
-        ]
+        "Remarks": []
       }
     ]
   },
@@ -301,8 +295,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 121,
-        "Avail": 14,
+        "Enrol": 122,
+        "Avail": 13,
         "Wait": 0,
         "Remarks": []
       },
@@ -315,8 +309,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 121,
-        "Avail": 14,
+        "Enrol": 122,
+        "Avail": 13,
         "Wait": 0,
         "Remarks": []
       },
@@ -665,8 +659,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 44,
-        "Avail": 1,
+        "Enrol": 45,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -975,7 +969,7 @@
         "Quota": 120,
         "Enrol": 91,
         "Avail": 29,
-        "Wait": 22,
+        "Wait": 23,
         "Remarks": []
       },
       {
@@ -1087,7 +1081,7 @@
         "Quota": 30,
         "Enrol": 6,
         "Avail": 24,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       }
     ]

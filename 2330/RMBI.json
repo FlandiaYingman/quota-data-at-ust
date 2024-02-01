@@ -172,34 +172,6 @@
   },
   {
     "program": "RMBI",
-    "code": "4110",
-    "name": "Financial Service Operations Management",
-    "units": 3,
-    "info": {
-      "pre-requisite": "(ISOM 2500 OR MATH 2411) AND ISOM 2700",
-      "alternate code(s)": "ISOM 4840",
-      "description": "This course focuses on the products, processes and delivery channels in the financial industries. It analyzes and evaluates the designs and performances of the internal operations and the different distribution channels of the financial institutions, and identifies opportunities for continuous improvement in productivity, efficiency and service quality. Issues like operational risk management, application of IT, automation, outsourcing and new trends in the financial service operations for both financial institutions and non‐financial institutions will be explored."
-    },
-    "attrs": [],
-    "sections": [
-      {
-        "Section": "L1 (3864)",
-        "Date & Time": "TuTh 01:30PM - 02:50PM",
-        "Room": "Rm 1410, Lift 25-26 (60)",
-        "Instructor": [
-          "LU, Lijian"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 0,
-        "Avail": 0,
-        "Wait": 0,
-        "Remarks": []
-      }
-    ]
-  },
-  {
-    "program": "RMBI",
     "code": "4220",
     "name": "Life Contingencies Models and Insurance Risk",
     "units": 3,

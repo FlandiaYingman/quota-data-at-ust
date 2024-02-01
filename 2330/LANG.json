@@ -194,8 +194,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 3,
         "Remarks": []
       },
@@ -998,8 +998,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 3,
         "Remarks": []
       },
@@ -1012,8 +1012,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 3,
         "Remarks": []
       },
@@ -1026,9 +1026,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
-        "Wait": 2,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1770,7 +1770,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -2774,7 +2774,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -2872,7 +2872,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -2886,7 +2886,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -3100,7 +3100,7 @@
         "Quota": 20,
         "Enrol": 19,
         "Avail": 1,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -3945,9 +3945,9 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
+        "Quota": 20,
         "Enrol": 12,
-        "Avail": 48,
+        "Avail": 8,
         "Wait": 0,
         "Remarks": []
       },
@@ -3962,34 +3962,6 @@
         "Quota": 20,
         "Enrol": 12,
         "Avail": 8,
-        "Wait": 0,
-        "Remarks": []
-      },
-      {
-        "Section": "T02 (3156)",
-        "Date & Time": "We 09:00AM - 10:20AM",
-        "Room": "Rm 2128A, Lift 19 (28)",
-        "Instructor": [
-          "TBA"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 0,
-        "Avail": 0,
-        "Wait": 0,
-        "Remarks": []
-      },
-      {
-        "Section": "T03 (3157)",
-        "Date & Time": "We 09:00AM - 10:20AM",
-        "Room": "Rm 2128B, Lift 19 (28)",
-        "Instructor": [
-          "TBA"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 0,
-        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       }
@@ -4019,7 +3991,9 @@
         "Enrol": 2,
         "Avail": 0,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Class cancelled"
+        ]
       },
       {
         "Section": "T01 (3160)",
@@ -4033,35 +4007,9 @@
         "Enrol": 2,
         "Avail": 0,
         "Wait": 0,
-        "Remarks": []
-      },
-      {
-        "Section": "T02 (3162)",
-        "Date & Time": "Fr 09:00AM - 10:20AM",
-        "Room": "TBA",
-        "Instructor": [
-          "TBA"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 0,
-        "Avail": 0,
-        "Wait": 0,
-        "Remarks": []
-      },
-      {
-        "Section": "T03 (3163)",
-        "Date & Time": "Fr 09:00AM - 10:20AM",
-        "Room": "TBA",
-        "Instructor": [
-          "TBA"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 0,
-        "Avail": 0,
-        "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Class cancelled"
+        ]
       }
     ]
   },
@@ -4265,8 +4213,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
+        "Enrol": 20,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -4279,8 +4227,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
+        "Enrol": 20,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },

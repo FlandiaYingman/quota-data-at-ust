@@ -89,7 +89,7 @@
         "Quota": 200,
         "Enrol": 200,
         "Avail": 0,
-        "Wait": 22,
+        "Wait": 21,
         "Remarks": []
       },
       {
@@ -484,7 +484,7 @@
         "Quota": 38,
         "Enrol": 38,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -828,8 +828,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 6,
-        "Avail": 34,
+        "Enrol": 7,
+        "Avail": 33,
         "Wait": 0,
         "Remarks": []
       }

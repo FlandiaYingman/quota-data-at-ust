@@ -397,7 +397,7 @@
         "Quota": 120,
         "Enrol": 120,
         "Avail": 0,
-        "Wait": 211,
+        "Wait": 210,
         "Remarks": []
       }
     ]
@@ -579,8 +579,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
+        "Enrol": 79,
+        "Avail": 1,
         "Wait": 10,
         "Remarks": []
       }
@@ -901,8 +901,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 26,
-        "Avail": 4,
+        "Enrol": 27,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": [
           "Co-list with SOSC 6030R"
@@ -931,7 +931,7 @@
         "Quota": 40,
         "Enrol": 37,
         "Avail": 3,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       }
     ]

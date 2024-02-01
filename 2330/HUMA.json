@@ -31,7 +31,7 @@
         "Quota": 400,
         "Enrol": 364,
         "Avail": 36,
-        "Wait": 114,
+        "Wait": 115,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -287,7 +287,7 @@
         "Quota": 20,
         "Enrol": 10,
         "Avail": 10,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -370,7 +370,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 201,
+        "Wait": 200,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -400,7 +400,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -566,7 +566,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 13,
         "Remarks": []
       },
       {
@@ -656,7 +656,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -1127,7 +1127,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 49,
+        "Wait": 48,
         "Remarks": []
       },
       {
@@ -1141,7 +1141,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 49,
+        "Wait": 48,
         "Remarks": []
       }
     ]
@@ -1750,8 +1750,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 76,
         "Remarks": []
       },
@@ -1764,8 +1764,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 76,
         "Remarks": []
       }
@@ -1888,8 +1888,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 31,
-        "Avail": 69,
+        "Enrol": 30,
+        "Avail": 70,
         "Wait": 0,
         "Remarks": []
       }

@@ -149,7 +149,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": [
           "Venue : Room 4503"
         ]
@@ -181,7 +181,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": [
           "Venue : Room 1409"
         ]
@@ -295,7 +295,7 @@
         "Quota": 135,
         "Enrol": 123,
         "Avail": 12,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -309,7 +309,7 @@
         "Quota": 135,
         "Enrol": 123,
         "Avail": 12,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -659,7 +659,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -2223,8 +2223,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 58,
-        "Avail": 22,
+        "Enrol": 57,
+        "Avail": 23,
         "Wait": 0,
         "Remarks": []
       },
@@ -2237,8 +2237,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 36,
-        "Avail": 4,
+        "Enrol": 35,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       },

@@ -32,7 +32,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 132,
+        "Wait": 131,
         "Remarks": []
       }
     ]
@@ -72,9 +72,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 64,
-        "Avail": 1,
-        "Wait": 60,
+        "Enrol": 65,
+        "Avail": 0,
+        "Wait": 59,
         "Remarks": [
           "The class is delivered in a experiential learning mode"
         ]
@@ -109,7 +109,7 @@
         "Quota": 75,
         "Enrol": 75,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -524,14 +524,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 70,
-        "Avail": 25,
-        "Wait": 9,
+        "Enrol": 71,
+        "Avail": 24,
+        "Wait": 8,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 70,
-            "Enrol": 48,
-            "Avail": 22
+            "Enrol": 49,
+            "Avail": 21
           },
           "EVEM": {
             "Quota": 20,
@@ -987,8 +987,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 20,
-        "Avail": 40,
+        "Enrol": 22,
+        "Avail": 38,
         "Wait": 0,
         "Remarks": [
           "For MPhil/PhD (AES) and MPhil/PhD (ESPM) students only"

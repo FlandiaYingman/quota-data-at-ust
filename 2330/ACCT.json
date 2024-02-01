@@ -71,9 +71,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 64,
-        "Avail": 1,
-        "Wait": 49,
+        "Enrol": 65,
+        "Avail": 0,
+        "Wait": 48,
         "Remarks": []
       },
       {
@@ -113,8 +113,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 65,
-        "Avail": 0,
+        "Enrol": 64,
+        "Avail": 1,
         "Wait": 2,
         "Remarks": []
       },
@@ -127,9 +127,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 64,
-        "Avail": 1,
-        "Wait": 13,
+        "Enrol": 65,
+        "Avail": 0,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -225,8 +225,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 52,
-        "Avail": 13,
+        "Enrol": 51,
+        "Avail": 14,
         "Wait": 0,
         "Remarks": []
       },
@@ -434,7 +434,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       }
     ]
@@ -490,7 +490,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -504,7 +504,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -530,9 +530,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 64,
-        "Avail": 1,
-        "Wait": 16,
+        "Enrol": 65,
+        "Avail": 0,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -544,9 +544,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 64,
-        "Avail": 1,
-        "Wait": 16,
+        "Enrol": 65,
+        "Avail": 0,
+        "Wait": 14,
         "Remarks": []
       }
     ]
@@ -1882,7 +1882,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 14,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 50,

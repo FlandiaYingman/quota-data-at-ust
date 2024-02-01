@@ -97,9 +97,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 99,
-        "Avail": 1,
-        "Wait": 24,
+        "Enrol": 100,
+        "Avail": 0,
+        "Wait": 23,
         "Remarks": []
       },
       {
@@ -273,7 +273,7 @@
         "Quota": 110,
         "Enrol": 109,
         "Avail": 1,
-        "Wait": 10,
+        "Wait": 11,
         "Remarks": []
       },
       {
@@ -332,7 +332,7 @@
         "Quota": 55,
         "Enrol": 49,
         "Avail": 6,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -616,8 +616,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 48,
-        "Enrol": 37,
-        "Avail": 11,
+        "Enrol": 36,
+        "Avail": 12,
         "Wait": 6,
         "Remarks": []
       },
@@ -644,8 +644,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 24,
-        "Enrol": 24,
-        "Avail": 0,
+        "Enrol": 23,
+        "Avail": 1,
         "Wait": 7,
         "Remarks": []
       }
@@ -2041,8 +2041,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 33,
-        "Avail": 17,
+        "Enrol": 34,
+        "Avail": 16,
         "Wait": 0,
         "Remarks": []
       },
@@ -2055,8 +2055,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 33,
-        "Avail": 17,
+        "Enrol": 34,
+        "Avail": 16,
         "Wait": 0,
         "Remarks": []
       }
@@ -2113,8 +2113,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 33,
-        "Avail": 17,
+        "Enrol": 34,
+        "Avail": 16,
         "Wait": 0,
         "Remarks": []
       }

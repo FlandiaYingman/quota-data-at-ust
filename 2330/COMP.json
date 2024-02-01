@@ -128,7 +128,7 @@
         "Quota": 72,
         "Enrol": 72,
         "Avail": 0,
-        "Wait": 23,
+        "Wait": 22,
         "Remarks": []
       },
       {
@@ -174,7 +174,7 @@
         "Quota": 170,
         "Enrol": 142,
         "Avail": 28,
-        "Wait": 53,
+        "Wait": 52,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -227,9 +227,9 @@
           "TSOI, Yau Chat"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
+        "Quota": 70,
         "Enrol": 60,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 7,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
@@ -243,9 +243,9 @@
           "TSOI, Yau Chat"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
+        "Quota": 70,
         "Enrol": 60,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 7,
         "Remarks": []
       }
@@ -649,7 +649,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -733,7 +733,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -3240,8 +3240,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 24,
-        "Avail": 1,
+        "Enrol": 23,
+        "Avail": 2,
         "Wait": 0,
         "Remarks": [
           "Classes held in Room 4503",

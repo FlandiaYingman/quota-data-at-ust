@@ -145,8 +145,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 38,
-        "Avail": 42,
+        "Enrol": 37,
+        "Avail": 43,
         "Wait": 0,
         "QuotaDetail": {
           "EVEM": {
@@ -161,8 +161,8 @@
           },
           "MCEE": {
             "Quota": 5,
-            "Enrol": 1,
-            "Avail": 4
+            "Enrol": 0,
+            "Avail": 5
           },
           "EHS": {
             "Quota": 5,

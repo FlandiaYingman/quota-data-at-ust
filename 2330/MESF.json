@@ -149,9 +149,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 16,
-        "Avail": 84,
-        "Wait": 3,
+        "Enrol": 17,
+        "Avail": 83,
+        "Wait": 2,
         "QuotaDetail": {
           "AESF": {
             "Quota": 10,
@@ -160,8 +160,8 @@
           },
           "MESF": {
             "Quota": 90,
-            "Enrol": 16,
-            "Avail": 74
+            "Enrol": 17,
+            "Avail": 73
           }
         },
         "Remarks": []

@@ -23,7 +23,7 @@
         "Quota": 85,
         "Enrol": 61,
         "Avail": 24,
-        "Wait": 14,
+        "Wait": 15,
         "QuotaDetail": {
           "EHS": {
             "Quota": 50,
@@ -101,8 +101,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 50,
-        "Avail": 30,
+        "Enrol": 51,
+        "Avail": 29,
         "Wait": 0,
         "QuotaDetail": {
           "EHS": {
@@ -112,8 +112,8 @@
           },
           "GMRM": {
             "Quota": 15,
-            "Enrol": 10,
-            "Avail": 5
+            "Enrol": 11,
+            "Avail": 4
           }
         },
         "Remarks": [

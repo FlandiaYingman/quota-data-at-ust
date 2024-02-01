@@ -802,8 +802,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 34,
         "Remarks": []
       },
@@ -816,8 +816,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 34,
         "Remarks": []
       }
@@ -1088,9 +1088,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 99,
-        "Avail": 1,
-        "Wait": 52,
+        "Enrol": 100,
+        "Avail": 0,
+        "Wait": 51,
         "Remarks": []
       }
     ]
@@ -1850,9 +1850,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 99,
-        "Avail": 1,
-        "Wait": 101,
+        "Enrol": 100,
+        "Avail": 0,
+        "Wait": 100,
         "Remarks": []
       }
     ]
@@ -2308,9 +2308,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 79,
-        "Avail": 21,
-        "Wait": 4,
+        "Enrol": 80,
+        "Avail": 20,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -2322,9 +2322,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 79,
-        "Avail": 21,
-        "Wait": 4,
+        "Enrol": 80,
+        "Avail": 20,
+        "Wait": 3,
         "Remarks": []
       }
     ]
@@ -2404,8 +2404,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 20,
-        "Avail": 40,
+        "Enrol": 19,
+        "Avail": 41,
         "Wait": 0,
         "Remarks": []
       }
@@ -3090,8 +3090,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 10,
-        "Avail": 10,
+        "Enrol": 9,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": [
           "For PhD(HUMA) students only"

@@ -462,7 +462,7 @@
         "Quota": 38,
         "Enrol": 38,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -629,7 +629,7 @@
         "Quota": 87,
         "Enrol": 87,
         "Avail": 0,
-        "Wait": 49,
+        "Wait": 50,
         "Remarks": []
       }
     ]
@@ -916,7 +916,7 @@
         "Quota": 78,
         "Enrol": 78,
         "Avail": 0,
-        "Wait": 38,
+        "Wait": 39,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -2212,7 +2212,7 @@
         "Quota": 50,
         "Enrol": 40,
         "Avail": 10,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -3898,14 +3898,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 70,
-        "Avail": 0,
+        "Enrol": 69,
+        "Avail": 1,
         "Wait": 4,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
-            "Enrol": 55,
-            "Avail": 15
+            "Enrol": 54,
+            "Avail": 16
           }
         },
         "Remarks": [
@@ -3922,14 +3922,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 70,
-        "Avail": 0,
+        "Enrol": 69,
+        "Avail": 1,
         "Wait": 4,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
-            "Enrol": 55,
-            "Avail": 15
+            "Enrol": 54,
+            "Avail": 16
           }
         },
         "Remarks": [
@@ -3946,14 +3946,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 70,
-        "Avail": 0,
+        "Enrol": 69,
+        "Avail": 1,
         "Wait": 4,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
-            "Enrol": 55,
-            "Avail": 15
+            "Enrol": 54,
+            "Avail": 16
           }
         },
         "Remarks": [
@@ -3970,14 +3970,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 70,
-        "Avail": 0,
+        "Enrol": 69,
+        "Avail": 1,
         "Wait": 4,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
-            "Enrol": 55,
-            "Avail": 15
+            "Enrol": 54,
+            "Avail": 16
           }
         },
         "Remarks": [

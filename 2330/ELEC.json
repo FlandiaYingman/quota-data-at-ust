@@ -339,7 +339,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 29,
+        "Wait": 30,
         "Remarks": []
       }
     ]
@@ -2763,15 +2763,15 @@
           "YUE, Chik Patrick"
         ],
         "TA/IA/GTA": [],
-        "Quota": 19,
-        "Enrol": 4,
+        "Quota": 20,
+        "Enrol": 5,
         "Avail": 15,
         "Wait": 0,
         "QuotaDetail": {
           "ECE": {
-            "Quota": 18,
+            "Quota": 20,
             "Enrol": 3,
-            "Avail": 15
+            "Avail": 17
           }
         },
         "Remarks": []
@@ -2927,15 +2927,15 @@
           "YUAN, George Jie"
         ],
         "TA/IA/GTA": [],
-        "Quota": 19,
-        "Enrol": 11,
+        "Quota": 20,
+        "Enrol": 12,
         "Avail": 8,
         "Wait": 2,
         "QuotaDetail": {
           "ECE": {
-            "Quota": 16,
+            "Quota": 20,
             "Enrol": 8,
-            "Avail": 8
+            "Avail": 12
           }
         },
         "Remarks": []

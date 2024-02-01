@@ -322,7 +322,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -348,8 +348,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 50,
-        "Avail": 0,
+        "Enrol": 49,
+        "Avail": 1,
         "Wait": 26,
         "Remarks": []
       },
@@ -362,8 +362,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 50,
-        "Avail": 0,
+        "Enrol": 49,
+        "Avail": 1,
         "Wait": 26,
         "Remarks": []
       },
@@ -490,7 +490,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -516,8 +516,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 50,
-        "Avail": 0,
+        "Enrol": 49,
+        "Avail": 1,
         "Wait": 26,
         "Remarks": []
       },
@@ -838,7 +838,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -850,9 +850,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 49,
-        "Avail": 1,
-        "Wait": 10,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -866,7 +866,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -878,9 +878,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 49,
-        "Avail": 1,
-        "Wait": 10,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 9,
         "Remarks": []
       }
     ]
@@ -1468,8 +1468,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 48,
-        "Avail": 12,
+        "Enrol": 49,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": []
       }
@@ -1663,9 +1663,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 49,
-        "Avail": 1,
-        "Wait": 3,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 2,
         "Remarks": [
           "For MSc(ECON) students only",
           "Add/Drop Deadline : 12-Feb-2024"
@@ -1680,9 +1680,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 49,
-        "Avail": 1,
-        "Wait": 3,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 2,
         "Remarks": [
           "For MSc(ECON) students only",
           "Add/Drop Deadline : 12-Feb-2024"
@@ -2009,9 +2009,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 16,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 15,
         "Remarks": [
           "For MSc(ECON) students only",
           "Add/Drop Deadline : 05-Feb-2024"
@@ -2026,9 +2026,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 16,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 15,
         "Remarks": [
           "For MSc(ECON) students only",
           "Add/Drop Deadline : 05-Feb-2024"
@@ -2306,9 +2306,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 1,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class on 01-May-2024"
@@ -2323,9 +2323,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 1,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class on 01-May-2024"
@@ -2340,9 +2340,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 1,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",
           "Will have normal class on 01-May-2024"
@@ -2579,8 +2579,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 33,
-        "Avail": 27,
+        "Enrol": 32,
+        "Avail": 28,
         "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",
@@ -2596,8 +2596,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 33,
-        "Avail": 27,
+        "Enrol": 32,
+        "Avail": 28,
         "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",
@@ -2690,8 +2690,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 21,
-        "Avail": 39,
+        "Enrol": 20,
+        "Avail": 40,
         "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",
@@ -2707,8 +2707,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 21,
-        "Avail": 39,
+        "Enrol": 20,
+        "Avail": 40,
         "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",

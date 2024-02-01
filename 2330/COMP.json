@@ -943,7 +943,7 @@
         "Quota": 60,
         "Enrol": 34,
         "Avail": 26,
-        "Wait": 13,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -988,7 +988,7 @@
         "Quota": 60,
         "Enrol": 29,
         "Avail": 31,
-        "Wait": 7,
+        "Wait": 6,
         "Remarks": []
       }
     ]
@@ -1445,9 +1445,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 71,
-        "Enrol": 66,
-        "Avail": 5,
-        "Wait": 7,
+        "Enrol": 67,
+        "Avail": 4,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1474,9 +1474,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 71,
-        "Enrol": 70,
-        "Avail": 1,
-        "Wait": 4,
+        "Enrol": 71,
+        "Avail": 0,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1979,7 +1979,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 30,
+        "Wait": 31,
         "Remarks": []
       },
       {
@@ -1993,7 +1993,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 30,
+        "Wait": 31,
         "Remarks": []
       }
     ]
@@ -2018,8 +2018,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 22,
-        "Avail": 43,
+        "Enrol": 21,
+        "Avail": 44,
         "Wait": 0,
         "Remarks": []
       },
@@ -2032,8 +2032,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 22,
-        "Avail": 43,
+        "Enrol": 21,
+        "Avail": 44,
         "Wait": 0,
         "Remarks": []
       }
@@ -3360,14 +3360,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 15,
-        "Avail": 85,
-        "Wait": 7,
+        "Enrol": 16,
+        "Avail": 84,
+        "Wait": 6,
         "QuotaDetail": {
           "CSE": {
             "Quota": 100,
-            "Enrol": 15,
-            "Avail": 85
+            "Enrol": 16,
+            "Avail": 84
           }
         },
         "Remarks": []

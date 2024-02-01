@@ -2604,7 +2604,7 @@
         "Quota": 40,
         "Enrol": 35,
         "Avail": 5,
-        "Wait": 10,
+        "Wait": 11,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 30,
@@ -2635,7 +2635,7 @@
         "Quota": 40,
         "Enrol": 35,
         "Avail": 5,
-        "Wait": 10,
+        "Wait": 11,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 30,
@@ -2959,14 +2959,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 13,
-        "Avail": 12,
+        "Enrol": 12,
+        "Avail": 13,
         "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 25,
-            "Enrol": 10,
-            "Avail": 15
+            "Enrol": 9,
+            "Avail": 16
           }
         },
         "Remarks": [

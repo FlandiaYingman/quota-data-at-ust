@@ -46,7 +46,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 20,
         "Remarks": []
       }
     ]
@@ -1127,14 +1127,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 52,
-        "Avail": 3,
+        "Enrol": 53,
+        "Avail": 2,
         "Wait": 0,
         "QuotaDetail": {
           "MARK": {
             "Quota": 55,
-            "Enrol": 45,
-            "Avail": 10
+            "Enrol": 46,
+            "Avail": 9
           }
         },
         "Remarks": [

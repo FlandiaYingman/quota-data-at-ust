@@ -30,8 +30,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
+        "Enrol": 79,
+        "Avail": 1,
         "Wait": 18,
         "Remarks": []
       }
@@ -573,7 +573,7 @@
         "Quota": 102,
         "Enrol": 102,
         "Avail": 0,
-        "Wait": 49,
+        "Wait": 48,
         "Remarks": []
       },
       {
@@ -916,7 +916,7 @@
         "Quota": 78,
         "Enrol": 78,
         "Avail": 0,
-        "Wait": 37,
+        "Wait": 38,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -2664,8 +2664,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 58,
-        "Enrol": 50,
-        "Avail": 8,
+        "Enrol": 49,
+        "Avail": 9,
         "Wait": 6,
         "Remarks": []
       }
@@ -3550,7 +3550,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 5,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
@@ -3611,8 +3611,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 39,
-        "Enrol": 22,
-        "Avail": 17,
+        "Enrol": 21,
+        "Avail": 18,
         "Wait": 0,
         "QuotaDetail": {
           "MBA Bi-weekly": {
@@ -3622,8 +3622,8 @@
           },
           "MBA": {
             "Quota": 32,
-            "Enrol": 16,
-            "Avail": 16
+            "Enrol": 15,
+            "Avail": 17
           }
         },
         "Remarks": [
@@ -3640,8 +3640,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 39,
-        "Enrol": 22,
-        "Avail": 17,
+        "Enrol": 21,
+        "Avail": 18,
         "Wait": 0,
         "QuotaDetail": {
           "MBA Bi-weekly": {
@@ -3651,8 +3651,8 @@
           },
           "MBA": {
             "Quota": 32,
-            "Enrol": 16,
-            "Avail": 16
+            "Enrol": 15,
+            "Avail": 17
           }
         },
         "Remarks": [

@@ -1704,8 +1704,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 30,
         "Remarks": []
       }
@@ -2729,14 +2729,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 14,
-        "Avail": 6,
+        "Enrol": 13,
+        "Avail": 7,
         "Wait": 3,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 14,
-            "Avail": 6
+            "Enrol": 13,
+            "Avail": 7
           }
         },
         "Remarks": []
@@ -2766,7 +2766,7 @@
         "Quota": 20,
         "Enrol": 13,
         "Avail": 7,
-        "Wait": 11,
+        "Wait": 12,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,

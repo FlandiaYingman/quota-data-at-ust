@@ -115,7 +115,7 @@
         "Quota": 55,
         "Enrol": 49,
         "Avail": 6,
-        "Wait": 24,
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -573,7 +573,7 @@
         "Quota": 102,
         "Enrol": 102,
         "Avail": 0,
-        "Wait": 48,
+        "Wait": 49,
         "Remarks": []
       },
       {
@@ -781,7 +781,7 @@
         "Quota": 61,
         "Enrol": 42,
         "Avail": 19,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1459,8 +1459,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 57,
         "Remarks": []
       }
@@ -2584,7 +2584,7 @@
         "Quota": 60,
         "Enrol": 59,
         "Avail": 1,
-        "Wait": 24,
+        "Wait": 25,
         "Remarks": []
       }
     ]
@@ -3294,7 +3294,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": [
           "For MSc(GO) students only",
           "Add/Drop Deadline : 05-Feb-2024"
@@ -3311,7 +3311,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": [
           "For MSc(GO) students only",
           "Add/Drop Deadline : 05-Feb-2024"
@@ -3328,7 +3328,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": [
           "For MSc(GO) students only",
           "Add/Drop Deadline : 05-Feb-2024"
@@ -3486,14 +3486,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 25,
-        "Avail": 35,
+        "Enrol": 24,
+        "Avail": 36,
         "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 60,
-            "Enrol": 25,
-            "Avail": 35
+            "Enrol": 24,
+            "Avail": 36
           }
         },
         "Remarks": [
@@ -3510,14 +3510,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 25,
-        "Avail": 35,
+        "Enrol": 24,
+        "Avail": 36,
         "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 60,
-            "Enrol": 25,
-            "Avail": 35
+            "Enrol": 24,
+            "Avail": 36
           }
         },
         "Remarks": [

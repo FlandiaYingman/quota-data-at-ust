@@ -1961,9 +1961,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 63,
-        "Avail": 7,
-        "Wait": 12,
+        "Enrol": 64,
+        "Avail": 6,
+        "Wait": 11,
         "Remarks": []
       },
       {
@@ -1975,9 +1975,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 39,
-        "Avail": 1,
-        "Wait": 12,
+        "Enrol": 40,
+        "Avail": 0,
+        "Wait": 11,
         "Remarks": []
       },
       {
@@ -2621,39 +2621,41 @@
           "QIAN, Tiezheng"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
+        "Quota": 30,
         "Enrol": 14,
-        "Avail": 46,
+        "Avail": 16,
         "Wait": 0,
         "Remarks": []
       },
       {
         "Section": "T1A (3521)",
-        "Date & Time": "Fr 04:30PM - 05:20PM",
-        "Room": "Multi-function Room, LG4, LIB",
+        "Date & Time": "Mo 07:00PM - 07:50PM",
+        "Room": "Rm 5564, Lift 27-28 (30)",
         "Instructor": [
           "QIAN, Tiezheng"
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 6,
-        "Avail": 24,
+        "Enrol": 7,
+        "Avail": 23,
         "Wait": 0,
         "Remarks": []
       },
       {
         "Section": "T1B (4178)",
         "Date & Time": "Th 03:00PM - 03:50PM",
-        "Room": "Rm 5508, Lift 25-26 (30)",
+        "Room": "TBA",
         "Instructor": [
           "QIAN, Tiezheng"
         ],
         "TA/IA/GTA": [],
-        "Quota": 30,
-        "Enrol": 8,
-        "Avail": 22,
+        "Quota": 0,
+        "Enrol": 7,
+        "Avail": 0,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Class cancelled"
+        ]
       }
     ]
   },

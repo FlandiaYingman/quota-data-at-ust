@@ -2542,16 +2542,18 @@
       {
         "Section": "T04 (3082)",
         "Date & Time": "WeFr 04:30PM - 05:50PM",
-        "Room": "Rm 2126B, Lift 19 (28)",
+        "Room": "TBA",
         "Instructor": [
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 20,
+        "Quota": 0,
         "Enrol": 10,
-        "Avail": 10,
+        "Avail": 0,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Class cancelled"
+        ]
       },
       {
         "Section": "T05 (3083)",
@@ -2972,6 +2974,20 @@
         "Avail": 0,
         "Wait": 9,
         "Remarks": []
+      },
+      {
+        "Section": "T08 (4391)",
+        "Date & Time": "WeFr 04:30PM - 05:50PM",
+        "Room": "Rm 2126B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
       }
     ]
   },
@@ -3070,8 +3086,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
+        "Enrol": 20,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -3084,8 +3100,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
+        "Enrol": 20,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -3308,7 +3324,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 22,
+        "Wait": 21,
         "Remarks": []
       },
       {
@@ -3753,7 +3769,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -3926,6 +3942,34 @@
         "Avail": 0,
         "Wait": 10,
         "Remarks": []
+      },
+      {
+        "Section": "T05 (4390)",
+        "Date & Time": "Mo 01:30PM - 02:50PM",
+        "Room": "Rm 2126B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T05 (4390)",
+        "Date & Time": "Fr 09:00AM - 10:20AM",
+        "Room": "Rm 2126B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
       }
     ]
   },
@@ -4087,30 +4131,34 @@
       {
         "Section": "T05 (3168)",
         "Date & Time": "Mo 01:30PM - 02:50PM",
-        "Room": "Rm 2131B, Lift 19 (28)",
+        "Room": "TBA",
         "Instructor": [
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 20,
+        "Quota": 0,
         "Enrol": 13,
-        "Avail": 7,
+        "Avail": 0,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Class cancelled"
+        ]
       },
       {
         "Section": "T05 (3168)",
         "Date & Time": "Fr 09:00AM - 10:20AM",
-        "Room": "Rm 2131B, Lift 19 (28)",
+        "Room": "TBA",
         "Instructor": [
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 20,
+        "Quota": 0,
         "Enrol": 13,
-        "Avail": 7,
+        "Avail": 0,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Class cancelled"
+        ]
       }
     ]
   },
@@ -5336,7 +5384,7 @@
         "Quota": 21,
         "Enrol": 21,
         "Avail": 0,
-        "Wait": 45,
+        "Wait": 44,
         "Remarks": [
           "The class is delivered in a blended learning mode",
           "For students under SENG and SSCI research postgraduate programs"

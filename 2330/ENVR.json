@@ -32,7 +32,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 124,
+        "Wait": 123,
         "Remarks": []
       }
     ]
@@ -298,7 +298,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "Remarks": []
       }
     ]
@@ -921,7 +921,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 10,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 40,

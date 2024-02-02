@@ -20,14 +20,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 29,
-        "Avail": 31,
+        "Enrol": 28,
+        "Avail": 32,
         "Wait": 1,
         "QuotaDetail": {
           "BEHI": {
             "Quota": 55,
-            "Enrol": 29,
-            "Avail": 26
+            "Enrol": 28,
+            "Avail": 27
           },
           "MCEE": {
             "Quota": 5,
@@ -223,14 +223,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 29,
-        "Avail": 1,
-        "Wait": 11,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 10,
         "QuotaDetail": {
           "BEHI": {
             "Quota": 30,
-            "Enrol": 29,
-            "Avail": 1
+            "Enrol": 30,
+            "Avail": 0
           }
         },
         "Remarks": [

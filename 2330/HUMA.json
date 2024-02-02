@@ -31,7 +31,7 @@
         "Quota": 400,
         "Enrol": 366,
         "Avail": 34,
-        "Wait": 104,
+        "Wait": 103,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -287,7 +287,7 @@
         "Quota": 20,
         "Enrol": 11,
         "Avail": 9,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -854,9 +854,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 9,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -882,9 +882,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 29,
-        "Avail": 1,
-        "Wait": 5,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -1022,9 +1022,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 99,
-        "Avail": 1,
-        "Wait": 84,
+        "Enrol": 100,
+        "Avail": 0,
+        "Wait": 83,
         "Remarks": []
       },
       {
@@ -1050,9 +1050,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 49,
-        "Avail": 1,
-        "Wait": 31,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 30,
         "Remarks": []
       }
     ]
@@ -2886,14 +2886,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 5,
-        "Avail": 15,
-        "Wait": 4,
+        "Enrol": 6,
+        "Avail": 14,
+        "Wait": 3,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 5,
-            "Avail": 15
+            "Enrol": 6,
+            "Avail": 14
           }
         },
         "Remarks": []

@@ -478,7 +478,7 @@
         "Quota": 30,
         "Enrol": 14,
         "Avail": 16,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 30,
@@ -501,7 +501,7 @@
         "Quota": 30,
         "Enrol": 14,
         "Avail": 16,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 30,
@@ -996,15 +996,15 @@
           "KLEMUN, Magdalena"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 41,
         "Enrol": 28,
-        "Avail": 12,
-        "Wait": 1,
+        "Avail": 13,
+        "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 25,
-            "Avail": 15
+            "Enrol": 24,
+            "Avail": 16
           }
         },
         "Remarks": []
@@ -1068,14 +1068,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 8,
-        "Avail": 22,
+        "Enrol": 9,
+        "Avail": 21,
         "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 30,
-            "Enrol": 8,
-            "Avail": 22
+            "Enrol": 9,
+            "Avail": 21
           }
         },
         "Remarks": []

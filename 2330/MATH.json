@@ -211,7 +211,7 @@
         "Quota": 135,
         "Enrol": 134,
         "Avail": 1,
-        "Wait": 18,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -225,7 +225,7 @@
         "Quota": 135,
         "Enrol": 132,
         "Avail": 3,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -407,7 +407,7 @@
         "Quota": 45,
         "Enrol": 44,
         "Avail": 1,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -435,7 +435,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -2712,28 +2712,30 @@
       {
         "Section": "L1 (3522)",
         "Date & Time": "MoWe 12:00PM - 01:20PM",
-        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Room": "TBA",
         "Instructor": [
           "YU, Chi Wai"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 0,
         "Enrol": 4,
-        "Avail": 36,
+        "Avail": 0,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Class cancelled"
+        ]
       },
       {
         "Section": "T1A (3523)",
         "Date & Time": "We 07:00PM - 07:50PM",
-        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Room": "TBA",
         "Instructor": [
           "YU, Chi Wai"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 0,
         "Enrol": 4,
-        "Avail": 36,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       }

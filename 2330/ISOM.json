@@ -587,7 +587,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 19,
+        "Wait": 20,
         "Remarks": []
       },
       {
@@ -673,7 +673,7 @@
         "Quota": 75,
         "Enrol": 73,
         "Avail": 2,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -809,7 +809,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -945,9 +945,9 @@
           "SHEN, Yiwen"
         ],
         "TA/IA/GTA": [],
-        "Quota": 75,
+        "Quota": 80,
         "Enrol": 75,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 25,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
@@ -961,9 +961,9 @@
           "SHEN, Yiwen"
         ],
         "TA/IA/GTA": [],
-        "Quota": 71,
+        "Quota": 80,
         "Enrol": 71,
-        "Avail": 0,
+        "Avail": 9,
         "Wait": 51,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
@@ -1160,7 +1160,7 @@
         "Quota": 60,
         "Enrol": 59,
         "Avail": 1,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1190,7 +1190,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -2304,8 +2304,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 16,
         "Remarks": []
       },

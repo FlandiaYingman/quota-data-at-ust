@@ -100,7 +100,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1042,7 +1042,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -1350,7 +1350,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -1518,7 +1518,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1644,7 +1644,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -2057,8 +2057,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 4,
         "Remarks": []
       },
@@ -2071,8 +2071,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 4,
         "Remarks": []
       }
@@ -2253,8 +2253,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 10,
-        "Avail": 10,
+        "Enrol": 11,
+        "Avail": 9,
         "Wait": 0,
         "Remarks": []
       },
@@ -2267,8 +2267,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 10,
-        "Avail": 10,
+        "Enrol": 11,
+        "Avail": 9,
         "Wait": 0,
         "Remarks": []
       },
@@ -3559,7 +3559,7 @@
         "Quota": 20,
         "Enrol": 19,
         "Avail": 1,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -3753,8 +3753,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
+        "Enrol": 18,
+        "Avail": 2,
         "Wait": 0,
         "Remarks": []
       },
@@ -3841,8 +3841,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 16,
-        "Avail": 4,
+        "Enrol": 17,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": []
       },
@@ -5215,18 +5215,17 @@
       {
         "Section": "T02 (1367)",
         "Date & Time": "MoWe 10:30AM - 11:50AM",
-        "Room": "Rm 2130A, Lift 19 (28)",
+        "Room": "TBA",
         "Instructor": [
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 21,
+        "Quota": 0,
         "Enrol": 9,
-        "Avail": 12,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": [
-          "The class is delivered in a blended learning mode",
-          "For students under SBM and SHSS research postgraduate programs"
+          "Class cancelled"
         ]
       },
       {
@@ -5304,18 +5303,17 @@
       {
         "Section": "T03 (1371)",
         "Date & Time": "WeFr 01:30PM - 02:50PM",
-        "Room": "Rm 2131B, Lift 19 (28)",
+        "Room": "TBA",
         "Instructor": [
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 21,
+        "Quota": 0,
         "Enrol": 11,
-        "Avail": 10,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": [
-          "The class is delivered in a blended learning mode",
-          "For students under AIS research postgraduate programs"
+          "Class cancelled"
         ]
       }
     ]
@@ -5521,6 +5519,40 @@
         "Enrol": 21,
         "Avail": 0,
         "Wait": 13,
+        "Remarks": [
+          "The class is delivered in a blended learning mode",
+          "For students under SENG and SSCI research postgraduate programs"
+        ]
+      },
+      {
+        "Section": "T11 (4392)",
+        "Date & Time": "MoWe 10:30AM - 11:50AM",
+        "Room": "Rm 2130A, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 0,
+        "Enrol": 0,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "The class is delivered in a blended learning mode",
+          "For students under SENG and SSCI research postgraduate programs"
+        ]
+      },
+      {
+        "Section": "T12 (4393)",
+        "Date & Time": "WeFr 01:30PM - 02:50PM",
+        "Room": "Rm 2131B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 0,
+        "Enrol": 0,
+        "Avail": 0,
+        "Wait": 0,
         "Remarks": [
           "The class is delivered in a blended learning mode",
           "For students under SENG and SSCI research postgraduate programs"

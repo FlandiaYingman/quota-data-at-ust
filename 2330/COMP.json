@@ -1197,7 +1197,7 @@
         "Quota": 70,
         "Enrol": 60,
         "Avail": 10,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1212,7 +1212,7 @@
         "Quota": 77,
         "Enrol": 68,
         "Avail": 9,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -2921,7 +2921,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 9,
         "QuotaDetail": {
           "CSE": {
             "Quota": 28,

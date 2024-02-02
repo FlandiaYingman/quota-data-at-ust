@@ -157,7 +157,7 @@
         "Quota": 170,
         "Enrol": 81,
         "Avail": 89,
-        "Wait": 28,
+        "Wait": 27,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -1874,7 +1874,7 @@
         "Quota": 81,
         "Enrol": 81,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -1888,7 +1888,7 @@
         "Quota": 81,
         "Enrol": 81,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -1902,7 +1902,7 @@
         "Quota": 81,
         "Enrol": 81,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 17,
         "Remarks": []
       }
     ]
@@ -2268,8 +2268,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 75,
-        "Enrol": 73,
-        "Avail": 2,
+        "Enrol": 72,
+        "Avail": 3,
         "Wait": 5,
         "Remarks": []
       },
@@ -2282,8 +2282,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 75,
-        "Enrol": 73,
-        "Avail": 2,
+        "Enrol": 72,
+        "Avail": 3,
         "Wait": 5,
         "Remarks": [
           "The class is delivered in a real-time online mode"
@@ -2664,12 +2664,13 @@
         "Room": "TBA",
         "Instructor": [
           "HORNER, Andrew",
-          "ROSSITER, David"
+          "ROSSITER, David",
+          "SANDER, Pedro"
         ],
         "TA/IA/GTA": [],
-        "Quota": 4,
+        "Quota": 7,
         "Enrol": 2,
-        "Avail": 2,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -3169,8 +3170,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 58,
-        "Avail": 2,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {

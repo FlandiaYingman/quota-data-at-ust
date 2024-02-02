@@ -653,7 +653,7 @@
         "Quota": 48,
         "Enrol": 48,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -2527,6 +2527,35 @@
   },
   {
     "program": "ELEC",
+    "code": "4940B",
+    "name": "Independent Study",
+    "units": 2,
+    "info": {
+      "previous code": "ELEC 390B",
+      "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Enrollment subject to approval by the department."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4389)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "POON, Andrew Wing On"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
     "code": "4940C",
     "name": "Independent Study",
     "units": 1,
@@ -3195,7 +3224,7 @@
         "Quota": 61,
         "Enrol": 61,
         "Avail": 0,
-        "Wait": 49,
+        "Wait": 50,
         "QuotaDetail": {
           "ECE": {
             "Quota": 60,

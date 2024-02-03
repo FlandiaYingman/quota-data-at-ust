@@ -32,7 +32,7 @@
         "Quota": 120,
         "Enrol": 120,
         "Avail": 0,
-        "Wait": 90,
+        "Wait": 89,
         "Remarks": []
       }
     ]
@@ -1053,14 +1053,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 21,
-        "Avail": 39,
-        "Wait": 2,
+        "Enrol": 22,
+        "Avail": 38,
+        "Wait": 1,
         "QuotaDetail": {
           "FINA": {
             "Quota": 50,
-            "Enrol": 11,
-            "Avail": 39
+            "Enrol": 12,
+            "Avail": 38
           },
           "MBA": {
             "Quota": 10,

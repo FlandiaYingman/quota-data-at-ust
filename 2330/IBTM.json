@@ -104,7 +104,7 @@
         "Quota": 95,
         "Enrol": 45,
         "Avail": 50,
-        "Wait": 9,
+        "Wait": 8,
         "QuotaDetail": {
           "IBTM": {
             "Quota": 80,
@@ -147,8 +147,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 27,
-        "Avail": 63,
+        "Enrol": 26,
+        "Avail": 64,
         "Wait": 1,
         "QuotaDetail": {
           "IBTM": {
@@ -158,8 +158,8 @@
           },
           "MESF": {
             "Quota": 10,
-            "Enrol": 2,
-            "Avail": 8
+            "Enrol": 1,
+            "Avail": 9
           }
         },
         "Remarks": []

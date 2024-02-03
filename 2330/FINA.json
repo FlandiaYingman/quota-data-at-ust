@@ -308,7 +308,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 24,
         "Remarks": []
       },
       {
@@ -336,7 +336,7 @@
         "Quota": 60,
         "Enrol": 58,
         "Avail": 2,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -350,7 +350,7 @@
         "Quota": 60,
         "Enrol": 51,
         "Avail": 9,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -540,7 +540,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 32,
+        "Wait": 33,
         "Remarks": []
       }
     ]
@@ -1053,14 +1053,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 22,
-        "Avail": 38,
+        "Enrol": 21,
+        "Avail": 39,
         "Wait": 1,
         "QuotaDetail": {
           "FINA": {
             "Quota": 50,
-            "Enrol": 12,
-            "Avail": 38
+            "Enrol": 11,
+            "Avail": 39
           },
           "MBA": {
             "Quota": 10,
@@ -3068,8 +3068,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 61,
-        "Enrol": 37,
-        "Avail": 24,
+        "Enrol": 38,
+        "Avail": 23,
         "Wait": 0,
         "QuotaDetail": {
           "Digital MBA": {
@@ -3084,8 +3084,8 @@
           },
           "MBA Bi-weekly": {
             "Quota": 19,
-            "Enrol": 15,
-            "Avail": 4
+            "Enrol": 16,
+            "Avail": 3
           }
         },
         "Remarks": [
@@ -3103,8 +3103,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 61,
-        "Enrol": 37,
-        "Avail": 24,
+        "Enrol": 38,
+        "Avail": 23,
         "Wait": 0,
         "QuotaDetail": {
           "Digital MBA": {
@@ -3119,8 +3119,8 @@
           },
           "MBA Bi-weekly": {
             "Quota": 19,
-            "Enrol": 15,
-            "Avail": 4
+            "Enrol": 16,
+            "Avail": 3
           }
         },
         "Remarks": [

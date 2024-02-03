@@ -671,14 +671,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 40,
-        "Avail": 0,
+        "Enrol": 39,
+        "Avail": 1,
         "Wait": 8,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 40,
-            "Avail": 0
+            "Enrol": 39,
+            "Avail": 1
           }
         },
         "Remarks": []
@@ -1033,14 +1033,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 54,
-        "Avail": 46,
+        "Enrol": 55,
+        "Avail": 45,
         "Wait": 0,
         "QuotaDetail": {
           "MPP": {
             "Quota": 100,
-            "Enrol": 54,
-            "Avail": 46
+            "Enrol": 55,
+            "Avail": 45
           }
         },
         "Remarks": []

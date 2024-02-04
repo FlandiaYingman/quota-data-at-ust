@@ -87,7 +87,7 @@
         "Quota": 116,
         "Enrol": 116,
         "Avail": 0,
-        "Wait": 23,
+        "Wait": 24,
         "Remarks": []
       },
       {
@@ -171,7 +171,7 @@
         "Quota": 55,
         "Enrol": 43,
         "Avail": 12,
-        "Wait": 12,
+        "Wait": 13,
         "Remarks": []
       },
       {
@@ -348,7 +348,7 @@
         "Quota": 75,
         "Enrol": 72,
         "Avail": 3,
-        "Wait": 14,
+        "Wait": 13,
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -406,7 +406,7 @@
         "Quota": 38,
         "Enrol": 38,
         "Avail": 0,
-        "Wait": 17,
+        "Wait": 16,
         "Remarks": []
       },
       {
@@ -837,7 +837,7 @@
         "Quota": 60,
         "Enrol": 57,
         "Avail": 3,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -851,7 +851,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 12,
         "Remarks": []
       }
     ]
@@ -5137,8 +5137,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 42,
-        "Avail": 18,
+        "Enrol": 41,
+        "Avail": 19,
         "Wait": 0,
         "Remarks": [
           "For MSc(GO) students only",
@@ -5427,14 +5427,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 30,
-        "Avail": 0,
+        "Enrol": 29,
+        "Avail": 1,
         "Wait": 4,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 30,
-            "Enrol": 30,
-            "Avail": 0
+            "Enrol": 29,
+            "Avail": 1
           }
         },
         "Remarks": [

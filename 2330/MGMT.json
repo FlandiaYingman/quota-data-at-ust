@@ -830,7 +830,7 @@
         "Quota": 60,
         "Enrol": 48,
         "Avail": 12,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -1146,7 +1146,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 20,
+        "Wait": 19,
         "Remarks": []
       }
     ]
@@ -1706,14 +1706,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 18,
-        "Avail": 42,
+        "Enrol": 17,
+        "Avail": 43,
         "Wait": 0,
         "QuotaDetail": {
           "ACCT": {
             "Quota": 60,
-            "Enrol": 18,
-            "Avail": 42
+            "Enrol": 17,
+            "Avail": 43
           }
         },
         "Remarks": [
@@ -2845,11 +2845,6 @@
         "Avail": 36,
         "Wait": 0,
         "QuotaDetail": {
-          "MBA Bi-weekly": {
-            "Quota": 7,
-            "Enrol": 3,
-            "Avail": 4
-          },
           "Digital MBA": {
             "Quota": 4,
             "Enrol": 3,
@@ -2859,6 +2854,11 @@
             "Quota": 44,
             "Enrol": 13,
             "Avail": 31
+          },
+          "MBA Bi-weekly": {
+            "Quota": 7,
+            "Enrol": 3,
+            "Avail": 4
           }
         },
         "Remarks": [
@@ -2880,11 +2880,6 @@
         "Avail": 36,
         "Wait": 0,
         "QuotaDetail": {
-          "MBA Bi-weekly": {
-            "Quota": 7,
-            "Enrol": 3,
-            "Avail": 4
-          },
           "Digital MBA": {
             "Quota": 4,
             "Enrol": 3,
@@ -2894,6 +2889,11 @@
             "Quota": 44,
             "Enrol": 13,
             "Avail": 31
+          },
+          "MBA Bi-weekly": {
+            "Quota": 7,
+            "Enrol": 3,
+            "Avail": 4
           }
         },
         "Remarks": [
@@ -2915,11 +2915,6 @@
         "Avail": 36,
         "Wait": 0,
         "QuotaDetail": {
-          "MBA Bi-weekly": {
-            "Quota": 7,
-            "Enrol": 3,
-            "Avail": 4
-          },
           "Digital MBA": {
             "Quota": 4,
             "Enrol": 3,
@@ -2929,6 +2924,11 @@
             "Quota": 44,
             "Enrol": 13,
             "Avail": 31
+          },
+          "MBA Bi-weekly": {
+            "Quota": 7,
+            "Enrol": 3,
+            "Avail": 4
           }
         },
         "Remarks": [

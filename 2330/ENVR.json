@@ -32,7 +32,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 114,
+        "Wait": 115,
         "Remarks": []
       }
     ]
@@ -74,7 +74,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 46,
+        "Wait": 47,
         "Remarks": [
           "The class is delivered in a experiential learning mode"
         ]
@@ -524,14 +524,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 68,
-        "Avail": 27,
-        "Wait": 6,
+        "Enrol": 69,
+        "Avail": 26,
+        "Wait": 5,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 70,
-            "Enrol": 46,
-            "Avail": 24
+            "Enrol": 47,
+            "Avail": 23
           },
           "EVEM": {
             "Quota": 20,
@@ -921,7 +921,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 1,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 40,

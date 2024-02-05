@@ -30,10 +30,10 @@
           "QIN, Zhen"
         ],
         "TA/IA/GTA": [],
-        "Quota": 20,
-        "Enrol": 20,
+        "Quota": 21,
+        "Enrol": 21,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "Remarks": [
           "For MA(CC); MPhil/PhD(HUMA) students only"
         ]
@@ -60,8 +60,24 @@
     "sections": [
       {
         "Section": "L1 (1267)",
-        "Date & Time": "Fr 06:00PM - 08:50PM",
+        "Date & Time": "02-FEB-2024 - 02-FEB-2024<br>Fr 06:00PM - 08:50PM",
         "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "HO, Virgil Kit Yiu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 35,
+        "Enrol": 22,
+        "Avail": 13,
+        "Wait": 0,
+        "Remarks": [
+          "For MA(CC); MPhil/PhD(HUMA) students only"
+        ]
+      },
+      {
+        "Section": "L1 (1267)",
+        "Date & Time": "09-FEB-2024 - 10-MAY-2024<br>Fr 06:00PM - 08:50PM",
+        "Room": "Rm 2406, Lift 17-18 (76)",
         "Instructor": [
           "HO, Virgil Kit Yiu"
         ],

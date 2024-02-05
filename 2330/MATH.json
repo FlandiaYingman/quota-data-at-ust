@@ -223,9 +223,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 129,
-        "Avail": 6,
-        "Wait": 13,
+        "Enrol": 130,
+        "Avail": 5,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -447,9 +447,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 42,
-        "Avail": 3,
-        "Wait": 7,
+        "Enrol": 43,
+        "Avail": 2,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -3026,8 +3026,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 29,
-        "Avail": 21,
+        "Enrol": 30,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       },
@@ -3040,8 +3040,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 29,
-        "Avail": 21,
+        "Enrol": 30,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       }
@@ -3144,6 +3144,38 @@
         "Room": "TBA",
         "Instructor": [
           "JIN, Tianling"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L7 (4395)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "XIANG, Yang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L8 (4396)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "SU, Wei"
         ],
         "TA/IA/GTA": [],
         "Quota": 1,
@@ -3869,8 +3901,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 3,
-        "Avail": 17,
+        "Enrol": 4,
+        "Avail": 16,
         "Wait": 0,
         "Remarks": []
       }
@@ -3896,8 +3928,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 7,
-        "Avail": 13,
+        "Enrol": 8,
+        "Avail": 12,
         "Wait": 0,
         "Remarks": []
       }

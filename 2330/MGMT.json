@@ -110,10 +110,10 @@
           "HAGMANN, David"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
-        "Enrol": 60,
+        "Quota": 61,
+        "Enrol": 61,
         "Avail": 0,
-        "Wait": 17,
+        "Wait": 16,
         "Remarks": []
       },
       {
@@ -167,8 +167,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 58,
-        "Avail": 2,
+        "Enrol": 57,
+        "Avail": 3,
         "Wait": 1,
         "Remarks": []
       },
@@ -208,10 +208,10 @@
           "HAGMANN, David"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
-        "Enrol": 60,
+        "Quota": 61,
+        "Enrol": 61,
         "Avail": 0,
-        "Wait": 17,
+        "Wait": 16,
         "Remarks": []
       },
       {
@@ -265,8 +265,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 58,
-        "Avail": 2,
+        "Enrol": 57,
+        "Avail": 3,
         "Wait": 1,
         "Remarks": []
       }
@@ -377,7 +377,7 @@
         "Quota": 62,
         "Enrol": 62,
         "Avail": 0,
-        "Wait": 29,
+        "Wait": 28,
         "Remarks": []
       },
       {
@@ -828,9 +828,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 48,
-        "Avail": 12,
-        "Wait": 8,
+        "Enrol": 49,
+        "Avail": 11,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -2959,14 +2959,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 12,
-        "Avail": 13,
+        "Enrol": 15,
+        "Avail": 10,
         "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 25,
-            "Enrol": 8,
-            "Avail": 17
+            "Enrol": 11,
+            "Avail": 14
           }
         },
         "Remarks": [

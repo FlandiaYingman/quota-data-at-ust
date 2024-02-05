@@ -1205,7 +1205,7 @@
         "Quota": 100,
         "Enrol": 98,
         "Avail": 2,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -1261,7 +1261,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -1329,9 +1329,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 86,
-        "Avail": 4,
-        "Wait": 1,
+        "Enrol": 85,
+        "Avail": 5,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -1373,7 +1373,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -1385,8 +1385,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 41,
-        "Avail": 4,
+        "Enrol": 40,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       },
@@ -2071,8 +2071,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 45,
-        "Avail": 0,
+        "Enrol": 44,
+        "Avail": 1,
         "Wait": 1,
         "Remarks": []
       },
@@ -2085,8 +2085,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 36,
-        "Avail": 9,
+        "Enrol": 37,
+        "Avail": 8,
         "Wait": 0,
         "Remarks": []
       }
@@ -2696,49 +2696,6 @@
         "Enrol": 25,
         "Avail": 0,
         "Wait": 12,
-        "Remarks": []
-      }
-    ]
-  },
-  {
-    "program": "MATH",
-    "code": "4426",
-    "name": "Survival Analysis",
-    "units": 3,
-    "info": {
-      "pre-requisite": "MATH 3423",
-      "description": "The topics discussed in this course include basic quantities like hazard rate function, survival function, censoring and/or truncation; parametric estimation of the survival distribution by maximum likelihood estimation method; nonparametric estimation of the survival functions from possibly censored samples; parametric regression models; Cox's semi-parametric proportional hazards regression model; and multivariate survival analysis."
-    },
-    "attrs": [],
-    "sections": [
-      {
-        "Section": "L1 (3522)",
-        "Date & Time": "MoWe 12:00PM - 01:20PM",
-        "Room": "TBA",
-        "Instructor": [
-          "YU, Chi Wai"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 0,
-        "Avail": 0,
-        "Wait": 0,
-        "Remarks": [
-          "Class cancelled"
-        ]
-      },
-      {
-        "Section": "T1A (3523)",
-        "Date & Time": "We 07:00PM - 07:50PM",
-        "Room": "TBA",
-        "Instructor": [
-          "YU, Chi Wai"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 0,
-        "Avail": 0,
-        "Wait": 0,
         "Remarks": []
       }
     ]

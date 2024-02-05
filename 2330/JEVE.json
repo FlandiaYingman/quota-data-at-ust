@@ -65,7 +65,7 @@
         "Quota": 70,
         "Enrol": 48,
         "Avail": 22,
-        "Wait": 6,
+        "Wait": 4,
         "QuotaDetail": {
           "EVEM": {
             "Quota": 65,
@@ -104,14 +104,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 48,
-        "Avail": 32,
+        "Enrol": 47,
+        "Avail": 33,
         "Wait": 0,
         "QuotaDetail": {
           "EVEM": {
             "Quota": 75,
-            "Enrol": 46,
-            "Avail": 29
+            "Enrol": 45,
+            "Avail": 30
           },
           "CIEM": {
             "Quota": 5,
@@ -361,8 +361,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 31,
-        "Avail": 9,
+        "Enrol": 32,
+        "Avail": 8,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

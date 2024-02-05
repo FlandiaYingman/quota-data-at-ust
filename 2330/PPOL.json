@@ -439,14 +439,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 39,
-        "Avail": 1,
-        "Wait": 6,
+        "Enrol": 40,
+        "Avail": 0,
+        "Wait": 7,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 39,
-            "Enrol": 38,
-            "Avail": 1
+            "Enrol": 39,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -476,14 +476,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 14,
-        "Avail": 16,
+        "Enrol": 13,
+        "Avail": 17,
         "Wait": 2,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 30,
-            "Enrol": 14,
-            "Avail": 16
+            "Enrol": 13,
+            "Avail": 17
           }
         },
         "Remarks": [
@@ -499,14 +499,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 14,
-        "Avail": 16,
+        "Enrol": 13,
+        "Avail": 17,
         "Wait": 2,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 30,
-            "Enrol": 14,
-            "Avail": 16
+            "Enrol": 13,
+            "Avail": 17
           }
         },
         "Remarks": [
@@ -863,7 +863,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 46,
+        "Wait": 45,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
@@ -963,14 +963,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 39,
-        "Avail": 1,
-        "Wait": 18,
+        "Enrol": 40,
+        "Avail": 0,
+        "Wait": 17,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 39,
-            "Avail": 1
+            "Enrol": 40,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -997,14 +997,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 41,
-        "Enrol": 30,
-        "Avail": 11,
+        "Enrol": 31,
+        "Avail": 10,
         "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 26,
-            "Avail": 14
+            "Enrol": 27,
+            "Avail": 13
           }
         },
         "Remarks": []

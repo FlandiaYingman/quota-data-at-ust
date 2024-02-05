@@ -319,10 +319,10 @@
           "JI, Yan"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
-        "Enrol": 60,
+        "Quota": 61,
+        "Enrol": 61,
         "Avail": 0,
-        "Wait": 18,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -336,7 +336,7 @@
         "Quota": 60,
         "Enrol": 58,
         "Avail": 2,
-        "Wait": 2,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -537,10 +537,10 @@
           "PENG, Qian"
         ],
         "TA/IA/GTA": [],
-        "Quota": 65,
-        "Enrol": 65,
+        "Quota": 67,
+        "Enrol": 67,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 23,
         "Remarks": []
       }
     ]
@@ -3568,14 +3568,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 8,
-        "Avail": 12,
+        "Enrol": 9,
+        "Avail": 11,
         "Wait": 0,
         "QuotaDetail": {
           "FINA": {
             "Quota": 20,
-            "Enrol": 8,
-            "Avail": 12
+            "Enrol": 9,
+            "Avail": 11
           }
         },
         "Remarks": [

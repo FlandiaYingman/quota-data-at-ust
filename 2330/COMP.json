@@ -915,7 +915,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 35,
+        "Wait": 36,
         "Remarks": []
       },
       {
@@ -1088,7 +1088,7 @@
         "Quota": 100,
         "Enrol": 90,
         "Avail": 10,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -1116,9 +1116,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 98,
-        "Avail": 2,
-        "Wait": 2,
+        "Enrol": 99,
+        "Avail": 1,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1131,8 +1131,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 59,
-        "Avail": 41,
+        "Enrol": 58,
+        "Avail": 42,
         "Wait": 1,
         "Remarks": []
       },
@@ -1872,8 +1872,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 81,
-        "Enrol": 81,
-        "Avail": 0,
+        "Enrol": 80,
+        "Avail": 1,
         "Wait": 14,
         "Remarks": []
       },
@@ -1886,8 +1886,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 81,
-        "Enrol": 81,
-        "Avail": 0,
+        "Enrol": 80,
+        "Avail": 1,
         "Wait": 14,
         "Remarks": []
       },
@@ -1900,8 +1900,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 81,
-        "Enrol": 81,
-        "Avail": 0,
+        "Enrol": 80,
+        "Avail": 1,
         "Wait": 14,
         "Remarks": []
       }
@@ -2312,8 +2312,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 1,
         "Remarks": []
       },
@@ -2326,8 +2326,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 1,
         "Remarks": []
       }
@@ -2700,8 +2700,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 6,
-        "Enrol": 3,
-        "Avail": 3,
+        "Enrol": 4,
+        "Avail": 2,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

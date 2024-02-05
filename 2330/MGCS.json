@@ -148,16 +148,32 @@
     "sections": [
       {
         "Section": "L1 (1689)",
-        "Date & Time": "We 07:00PM - 09:50PM",
+        "Date & Time": "31-JAN-2024 - 31-JAN-2024<br>We 07:00PM - 09:50PM",
         "Room": "Rm 2463, Lift 25-26 (42)",
         "Instructor": [
           "MA, Jianxiong"
         ],
         "TA/IA/GTA": [],
-        "Quota": 42,
-        "Enrol": 42,
+        "Quota": 43,
+        "Enrol": 43,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 7,
+        "Remarks": [
+          "For MSc(GCS) students only"
+        ]
+      },
+      {
+        "Section": "L1 (1689)",
+        "Date & Time": "07-FEB-2024 - 08-MAY-2024<br>We 07:00PM - 09:50PM",
+        "Room": "Rm 1410, Lift 25-26 (60)",
+        "Instructor": [
+          "MA, Jianxiong"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 43,
+        "Enrol": 43,
+        "Avail": 0,
+        "Wait": 7,
         "Remarks": [
           "For MSc(GCS) students only"
         ]

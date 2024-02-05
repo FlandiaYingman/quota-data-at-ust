@@ -154,6 +154,67 @@
   },
   {
     "program": "EEMT",
+    "code": "6000H",
+    "name": "Introduction to Blockchain Technology",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "Digital innovations such as fintech, defi, AI, metaverse, and web3.0 etc. are driving the development in the technology sector. This course will cover the fundamental technologies underlying blockchain systems and a range of applications enabled by blockchain, from crypto currencies, virtual assets, consensus mechanism, smart contracts, distributed computation, de-centralized applications, to Web3.0 and next generation digital economy such that students can be equipped with industry-relevant experience and knowledge to develop blockchain-based solutions for real-world problems."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4397)",
+        "Date & Time": "17-FEB-2024 - 06-APR-2024<br>Sa 10:00AM - 12:50PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EEM": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": [
+          "Add/Drop Deadline : 29-Feb-2024",
+          "Extended Drop Deadline : 14-Mar-2024"
+        ]
+      },
+      {
+        "Section": "L1 (4397)",
+        "Date & Time": "20-APR-2024 - 11-MAY-2024<br>Sa 10:00AM - 12:50PM",
+        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 0,
+        "Avail": 60,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EEM": {
+            "Quota": 60,
+            "Enrol": 0,
+            "Avail": 60
+          }
+        },
+        "Remarks": [
+          "Add/Drop Deadline : 29-Feb-2024",
+          "Extended Drop Deadline : 14-Mar-2024"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EEMT",
     "code": "6900",
     "name": "Independent Study",
     "units": 3,

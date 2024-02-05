@@ -725,8 +725,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 108,
-        "Avail": 12,
+        "Enrol": 107,
+        "Avail": 13,
         "Wait": 2,
         "Remarks": []
       },
@@ -739,8 +739,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 108,
-        "Avail": 12,
+        "Enrol": 107,
+        "Avail": 13,
         "Wait": 2,
         "Remarks": []
       },
@@ -753,8 +753,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 48,
-        "Avail": 12,
+        "Enrol": 47,
+        "Avail": 13,
         "Wait": 1,
         "Remarks": []
       },
@@ -781,8 +781,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 2,
         "Remarks": []
       },
@@ -1322,8 +1322,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 90,
-        "Avail": 0,
+        "Enrol": 88,
+        "Avail": 2,
         "Wait": 9,
         "Remarks": []
       },
@@ -1336,8 +1336,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 90,
-        "Avail": 0,
+        "Enrol": 88,
+        "Avail": 2,
         "Wait": 9,
         "Remarks": []
       },
@@ -1350,8 +1350,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 90,
-        "Avail": 0,
+        "Enrol": 88,
+        "Avail": 2,
         "Wait": 9,
         "Remarks": []
       }
@@ -2545,8 +2545,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 1,
-        "Enrol": 0,
-        "Avail": 1,
+        "Enrol": 1,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -3221,17 +3221,10 @@
           "CHAN, Mansun"
         ],
         "TA/IA/GTA": [],
-        "Quota": 61,
+        "Quota": 80,
         "Enrol": 61,
-        "Avail": 0,
+        "Avail": 19,
         "Wait": 45,
-        "QuotaDetail": {
-          "ECE": {
-            "Quota": 60,
-            "Enrol": 59,
-            "Avail": 1
-          }
-        },
         "Remarks": []
       }
     ]

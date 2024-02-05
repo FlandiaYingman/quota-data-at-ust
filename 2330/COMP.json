@@ -1376,7 +1376,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 22,
         "Remarks": []
       },
       {
@@ -1405,7 +1405,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 27,
+        "Wait": 28,
         "Remarks": []
       },
       {
@@ -1474,8 +1474,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 75,
-        "Enrol": 67,
-        "Avail": 8,
+        "Enrol": 66,
+        "Avail": 9,
         "Wait": 3,
         "Remarks": []
       },
@@ -1489,9 +1489,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 86,
-        "Enrol": 84,
-        "Avail": 2,
-        "Wait": 2,
+        "Enrol": 85,
+        "Avail": 1,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -1603,8 +1603,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 99,
-        "Avail": 1,
+        "Enrol": 98,
+        "Avail": 2,
         "Wait": 2,
         "Remarks": []
       },
@@ -1618,8 +1618,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 110,
-        "Enrol": 110,
-        "Avail": 0,
+        "Enrol": 109,
+        "Avail": 1,
         "Wait": 6,
         "Remarks": []
       },
@@ -1935,7 +1935,7 @@
         "Quota": 150,
         "Enrol": 142,
         "Avail": 8,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -1951,7 +1951,7 @@
         "Quota": 150,
         "Enrol": 142,
         "Avail": 8,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -3400,7 +3400,7 @@
         "Quota": 100,
         "Enrol": 62,
         "Avail": 38,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "CSE": {
             "Quota": 100,
@@ -3737,8 +3737,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 36,
-        "Avail": 64,
+        "Enrol": 37,
+        "Avail": 63,
         "Wait": 0,
         "Remarks": []
       }

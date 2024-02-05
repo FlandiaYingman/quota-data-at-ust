@@ -2063,7 +2063,7 @@
         "Quota": 35,
         "Enrol": 35,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "ECON": {
             "Quota": 30,
@@ -2087,7 +2087,7 @@
         "Quota": 35,
         "Enrol": 35,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "ECON": {
             "Quota": 30,
@@ -2127,7 +2127,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 36,
+        "Wait": 35,
         "Remarks": [
           "For MSc(ECON) students only"
         ]

@@ -767,7 +767,7 @@
         "Quota": 56,
         "Enrol": 56,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -837,7 +837,7 @@
         "Quota": 60,
         "Enrol": 59,
         "Avail": 1,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -851,7 +851,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": []
       }
     ]
@@ -3187,9 +3187,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 49,
-        "Enrol": 14,
-        "Avail": 35,
-        "Wait": 2,
+        "Enrol": 15,
+        "Avail": 34,
+        "Wait": 1,
         "QuotaDetail": {
           "MBA Bi-weekly": {
             "Quota": 2,
@@ -3203,8 +3203,8 @@
           },
           "MBA": {
             "Quota": 43,
-            "Enrol": 12,
-            "Avail": 31
+            "Enrol": 13,
+            "Avail": 30
           }
         },
         "Remarks": [
@@ -3222,9 +3222,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 49,
-        "Enrol": 14,
-        "Avail": 35,
-        "Wait": 2,
+        "Enrol": 15,
+        "Avail": 34,
+        "Wait": 1,
         "QuotaDetail": {
           "MBA Bi-weekly": {
             "Quota": 2,
@@ -3238,8 +3238,8 @@
           },
           "MBA": {
             "Quota": 43,
-            "Enrol": 12,
-            "Avail": 31
+            "Enrol": 13,
+            "Avail": 30
           }
         },
         "Remarks": [
@@ -3257,9 +3257,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 49,
-        "Enrol": 14,
-        "Avail": 35,
-        "Wait": 2,
+        "Enrol": 15,
+        "Avail": 34,
+        "Wait": 1,
         "QuotaDetail": {
           "MBA Bi-weekly": {
             "Quota": 2,
@@ -3273,8 +3273,8 @@
           },
           "MBA": {
             "Quota": 43,
-            "Enrol": 12,
-            "Avail": 31
+            "Enrol": 13,
+            "Avail": 30
           }
         },
         "Remarks": [
@@ -3550,7 +3550,7 @@
         "Quota": 70,
         "Enrol": 70,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 0,
         "QuotaDetail": {
           "IS": {
             "Quota": 70,
@@ -3782,7 +3782,7 @@
         "Quota": 55,
         "Enrol": 55,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 0,
         "QuotaDetail": {
           "IS": {
             "Quota": 55,
@@ -3807,7 +3807,7 @@
         "Quota": 55,
         "Enrol": 55,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 0,
         "QuotaDetail": {
           "IS": {
             "Quota": 55,
@@ -3832,7 +3832,7 @@
         "Quota": 55,
         "Enrol": 55,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 0,
         "QuotaDetail": {
           "IS": {
             "Quota": 55,
@@ -4074,7 +4074,7 @@
         "Quota": 55,
         "Enrol": 55,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 55,
@@ -4098,7 +4098,7 @@
         "Quota": 55,
         "Enrol": 55,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 55,
@@ -4122,7 +4122,7 @@
         "Quota": 55,
         "Enrol": 55,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 55,
@@ -4146,7 +4146,7 @@
         "Quota": 55,
         "Enrol": 55,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 55,
@@ -4367,7 +4367,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 50,
@@ -4391,7 +4391,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 50,
@@ -4415,7 +4415,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 50,
@@ -4439,7 +4439,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 0,
         "QuotaDetail": {
           "ISOM": {
             "Quota": 50,
@@ -5031,7 +5031,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 0,
         "Remarks": [
           "For MSc(GO) students only",
           "Add/Drop Deadline : 05-Feb-2024"
@@ -5048,7 +5048,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 0,
         "Remarks": [
           "For MSc(GO) students only",
           "Add/Drop Deadline : 05-Feb-2024"
@@ -5065,7 +5065,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 0,
         "Remarks": [
           "For MSc(GO) students only",
           "Add/Drop Deadline : 05-Feb-2024"
@@ -5082,7 +5082,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 0,
         "Remarks": [
           "For MSc(GO) students only",
           "Add/Drop Deadline : 05-Feb-2024"
@@ -5099,7 +5099,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 0,
         "Remarks": [
           "For MSc(GO) students only",
           "Add/Drop Deadline : 05-Feb-2024"

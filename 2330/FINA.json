@@ -251,9 +251,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 56,
-        "Avail": 4,
-        "Wait": 2,
+        "Enrol": 57,
+        "Avail": 3,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -267,7 +267,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 26,
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -1055,7 +1055,7 @@
         "Quota": 60,
         "Enrol": 20,
         "Avail": 40,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "FINA": {
             "Quota": 50,

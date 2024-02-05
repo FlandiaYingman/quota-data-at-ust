@@ -142,7 +142,7 @@
         "Quota": 135,
         "Enrol": 114,
         "Avail": 21,
-        "Wait": 47,
+        "Wait": 48,
         "Remarks": []
       },
       {
@@ -187,7 +187,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -3073,14 +3073,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 12,
-        "Avail": 18,
+        "Enrol": 11,
+        "Avail": 19,
         "Wait": 0,
         "QuotaDetail": {
           "ECE": {
             "Quota": 20,
-            "Enrol": 6,
-            "Avail": 14
+            "Enrol": 5,
+            "Avail": 15
           }
         },
         "Remarks": []
@@ -3110,8 +3110,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 15,
-        "Enrol": 4,
-        "Avail": 11,
+        "Enrol": 3,
+        "Avail": 12,
         "Wait": 0,
         "Remarks": [
           "Classes held in Rm. G01, G/F, Lo Ka Chung University Center"
@@ -3481,8 +3481,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 170,
-        "Enrol": 164,
-        "Avail": 6,
+        "Enrol": 165,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       }

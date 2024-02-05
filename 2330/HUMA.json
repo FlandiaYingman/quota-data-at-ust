@@ -596,7 +596,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -610,7 +610,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -854,9 +854,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 54,
-        "Avail": 6,
-        "Wait": 9,
+        "Enrol": 53,
+        "Avail": 7,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -868,9 +868,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 29,
-        "Avail": 1,
-        "Wait": 6,
+        "Enrol": 28,
+        "Avail": 2,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -1850,9 +1850,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 119,
-        "Avail": 1,
-        "Wait": 69,
+        "Enrol": 120,
+        "Avail": 0,
+        "Wait": 68,
         "Remarks": []
       }
     ]
@@ -2364,8 +2364,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 33,
-        "Avail": 67,
+        "Enrol": 34,
+        "Avail": 66,
         "Wait": 0,
         "Remarks": []
       },
@@ -2378,8 +2378,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 33,
-        "Avail": 67,
+        "Enrol": 34,
+        "Avail": 66,
         "Wait": 0,
         "Remarks": []
       }
@@ -2764,14 +2764,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 14,
-        "Avail": 6,
+        "Enrol": 13,
+        "Avail": 7,
         "Wait": 9,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 14,
-            "Avail": 6
+            "Enrol": 13,
+            "Avail": 7
           }
         },
         "Remarks": []
@@ -2888,7 +2888,7 @@
         "Quota": 20,
         "Enrol": 7,
         "Avail": 13,
-        "Wait": 3,
+        "Wait": 2,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
@@ -2956,14 +2956,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 2,
-        "Avail": 18,
+        "Enrol": 1,
+        "Avail": 19,
         "Wait": 0,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 2,
-            "Avail": 18
+            "Enrol": 1,
+            "Avail": 19
           }
         },
         "Remarks": []

@@ -476,7 +476,7 @@
         "Quota": 38,
         "Enrol": 28,
         "Avail": 10,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -837,7 +837,7 @@
         "Quota": 60,
         "Enrol": 58,
         "Avail": 2,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -929,10 +929,10 @@
           "LU, Lijian"
         ],
         "TA/IA/GTA": [],
-        "Quota": 80,
-        "Enrol": 80,
+        "Quota": 81,
+        "Enrol": 81,
         "Avail": 0,
-        "Wait": 19,
+        "Wait": 18,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -2344,9 +2344,9 @@
           "KOH, Tat Koon"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 50,
         "Enrol": 40,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 5,
         "Remarks": []
       }

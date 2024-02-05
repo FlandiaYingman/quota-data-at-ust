@@ -225,7 +225,7 @@
         "Quota": 135,
         "Enrol": 129,
         "Avail": 6,
-        "Wait": 12,
+        "Wait": 13,
         "Remarks": []
       },
       {
@@ -449,7 +449,7 @@
         "Quota": 45,
         "Enrol": 42,
         "Avail": 3,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -2763,8 +2763,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 110,
-        "Enrol": 105,
-        "Avail": 5,
+        "Enrol": 106,
+        "Avail": 4,
         "Wait": 1,
         "Remarks": []
       },
@@ -2777,8 +2777,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 110,
-        "Enrol": 105,
-        "Avail": 5,
+        "Enrol": 106,
+        "Avail": 4,
         "Wait": 1,
         "Remarks": []
       }
@@ -3514,7 +3514,7 @@
     "sections": [
       {
         "Section": "T1 (1453)",
-        "Date & Time": "Fr 03:00PM - 03:50PM",
+        "Date & Time": "TBA",
         "Room": "TBA",
         "Instructor": [
           "JIN, Tianling"
@@ -3524,9 +3524,7 @@
         "Enrol": 27,
         "Avail": 13,
         "Wait": 0,
-        "Remarks": [
-          "Venue: LTF"
-        ]
+        "Remarks": []
       }
     ]
   },
@@ -3543,7 +3541,7 @@
     "sections": [
       {
         "Section": "T1 (1454)",
-        "Date & Time": "Fr 03:00PM - 03:50PM",
+        "Date & Time": "TBA",
         "Room": "TBA",
         "Instructor": [
           "JIN, Tianling"
@@ -3553,9 +3551,7 @@
         "Enrol": 0,
         "Avail": 40,
         "Wait": 0,
-        "Remarks": [
-          "Venue: LTF"
-        ]
+        "Remarks": []
       }
     ]
   },
@@ -3572,7 +3568,7 @@
     "sections": [
       {
         "Section": "T1 (1455)",
-        "Date & Time": "Fr 03:00PM - 03:50PM",
+        "Date & Time": "TBA",
         "Room": "TBA",
         "Instructor": [
           "JIN, Tianling"
@@ -3582,9 +3578,7 @@
         "Enrol": 22,
         "Avail": 18,
         "Wait": 0,
-        "Remarks": [
-          "Venue: LTF"
-        ]
+        "Remarks": []
       }
     ]
   },

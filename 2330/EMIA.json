@@ -35,23 +35,6 @@
         ]
       },
       {
-        "Section": "L2 (2661)",
-        "Date & Time": "Th 10:30AM - 01:20PM",
-        "Room": "TBA",
-        "Instructor": [
-          "MOK, Luisa",
-          "ZHAI, Chengxing"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 0,
-        "Avail": 0,
-        "Wait": 0,
-        "Remarks": [
-          "The class is cancelled"
-        ]
-      },
-      {
         "Section": "L3 (2662)",
         "Date & Time": "Tu 12:00PM - 02:50PM",
         "Room": "Rm 4582, Lift 27-28 (66)",
@@ -390,35 +373,6 @@
         "Avail": 0,
         "Wait": 0,
         "Remarks": []
-      }
-    ]
-  },
-  {
-    "program": "EMIA",
-    "code": "6950G",
-    "name": "Independent Study",
-    "units": 3,
-    "info": {
-      "vector": "[3 credits]",
-      "description": "Independent studies or projects under the direct guidance of a faculty member. Course requirements include readings on the relevant topic and a research or survey project specifically defined for the research topic. Credits assigned depend on the workload and may be repeated if different topics are taken. May be graded by letter, P/F or PP for different offerings."
-    },
-    "attrs": [],
-    "sections": [
-      {
-        "Section": "R1 (4361)",
-        "Date & Time": "TBA",
-        "Room": "TBA",
-        "Instructor": [
-          "FAN, Mingming"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 1,
-        "Enrol": 0,
-        "Avail": 1,
-        "Wait": 0,
-        "Remarks": [
-          "Instructor Consent Required"
-        ]
       }
     ]
   },

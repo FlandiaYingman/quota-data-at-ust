@@ -61,8 +61,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 62,
-        "Avail": 28,
+        "Enrol": 61,
+        "Avail": 29,
         "Wait": 1,
         "QuotaDetail": {
           "BDT": {
@@ -72,8 +72,8 @@
           },
           "CSIT": {
             "Quota": 83,
-            "Enrol": 55,
-            "Avail": 28
+            "Enrol": 54,
+            "Avail": 29
           }
         },
         "Remarks": []
@@ -257,14 +257,14 @@
           "TANG, Chi Keung"
         ],
         "TA/IA/GTA": [],
-        "Quota": 30,
-        "Enrol": 30,
+        "Quota": 35,
+        "Enrol": 35,
         "Avail": 0,
-        "Wait": 17,
+        "Wait": 12,
         "QuotaDetail": {
           "CSIT": {
-            "Quota": 30,
-            "Enrol": 30,
+            "Quota": 35,
+            "Enrol": 35,
             "Avail": 0
           }
         },

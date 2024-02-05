@@ -655,9 +655,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 75,
-        "Enrol": 74,
-        "Avail": 1,
-        "Wait": 8,
+        "Enrol": 75,
+        "Avail": 0,
+        "Wait": 7,
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -671,8 +671,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 75,
-        "Enrol": 73,
-        "Avail": 2,
+        "Enrol": 72,
+        "Avail": 3,
         "Wait": 12,
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
@@ -793,9 +793,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 22,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 21,
         "Remarks": []
       },
       {
@@ -823,7 +823,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -835,8 +835,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 1,
         "Remarks": []
       },
@@ -2372,9 +2372,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 30,
-        "Avail": 30,
-        "Wait": 2,
+        "Enrol": 31,
+        "Avail": 29,
+        "Wait": 1,
         "Remarks": []
       }
     ]

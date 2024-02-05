@@ -211,14 +211,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 89,
-        "Avail": 1,
-        "Wait": 3,
+        "Enrol": 90,
+        "Avail": 0,
+        "Wait": 2,
         "QuotaDetail": {
           "CIEM": {
             "Quota": 90,
-            "Enrol": 89,
-            "Avail": 1
+            "Enrol": 90,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -335,14 +335,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 44,
-        "Avail": 26,
+        "Enrol": 43,
+        "Avail": 27,
         "Wait": 0,
         "QuotaDetail": {
           "CIEM": {
             "Quota": 70,
-            "Enrol": 44,
-            "Avail": 26
+            "Enrol": 43,
+            "Avail": 27
           }
         },
         "Remarks": []

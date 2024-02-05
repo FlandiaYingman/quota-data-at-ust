@@ -460,37 +460,6 @@
   },
   {
     "program": "DBAP",
-    "code": "6300",
-    "name": "DBA Residential Program",
-    "units": 1,
-    "info": {
-      "vector": "[1 credit]",
-      "description": "Students will conduct research under the supervision of their faculty advisors. Students need to be on campus for at least two days for research activities in each regular term. In addition, there should be at least 10 contact hours with the advisors during the term. Graded P or F.",
-      "intended learning outcomes": "<span>On successful completion of the course, students will be able to:</span><table style=\"border:0px;\"><tr><td>1.</td><td>Integrate acquired knowledge and skills in conducting applied research.</td></tr><tr><td>2.</td><td>Apply effective communication and time management skills.</td></tr><tr><td>3.</td><td>Demonstrate significant progress in their thesis research.</td></tr></table>"
-    },
-    "attrs": [],
-    "sections": [
-      {
-        "Section": "R1 (4398)",
-        "Date & Time": "TBA",
-        "Room": "TBA",
-        "Instructor": [
-          "TBA"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 1,
-        "Enrol": 0,
-        "Avail": 1,
-        "Wait": 0,
-        "Remarks": [
-          "For DBA students only",
-          "Add/Drop Deadline : 14-Feb-2024"
-        ]
-      }
-    ]
-  },
-  {
-    "program": "DBAP",
     "code": "7980",
     "name": "DBA Thesis Research",
     "units": 30,

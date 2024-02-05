@@ -2382,7 +2382,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -3255,7 +3255,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 22,
+        "Wait": 21,
         "Remarks": []
       }
     ]
@@ -3599,8 +3599,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
+        "Enrol": 20,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -3697,8 +3697,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 16,
-        "Avail": 4,
+        "Enrol": 15,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       },
@@ -3711,8 +3711,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 16,
-        "Avail": 4,
+        "Enrol": 15,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       },
@@ -4915,8 +4915,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 22,
-        "Enrol": 17,
-        "Avail": 5,
+        "Enrol": 16,
+        "Avail": 6,
         "Wait": 1,
         "Remarks": []
       },
@@ -4957,8 +4957,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 22,
-        "Enrol": 18,
-        "Avail": 4,
+        "Enrol": 19,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": []
       },
@@ -5302,7 +5302,7 @@
         "Quota": 21,
         "Enrol": 21,
         "Avail": 0,
-        "Wait": 33,
+        "Wait": 34,
         "Remarks": [
           "The class is delivered in a blended learning mode",
           "For students under SENG and SSCI research postgraduate programs"

@@ -1346,7 +1346,7 @@
         "Quota": 100,
         "Enrol": 79,
         "Avail": 21,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -1360,7 +1360,7 @@
         "Quota": 100,
         "Enrol": 79,
         "Avail": 21,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": []
       }
     ]
@@ -1704,8 +1704,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 20,
         "Remarks": []
       }
@@ -2404,8 +2404,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 19,
-        "Avail": 41,
+        "Enrol": 20,
+        "Avail": 40,
         "Wait": 0,
         "Remarks": []
       }

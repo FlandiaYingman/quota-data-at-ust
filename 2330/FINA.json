@@ -253,7 +253,7 @@
         "Quota": 60,
         "Enrol": 55,
         "Avail": 5,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -537,9 +537,9 @@
           "PENG, Qian"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
+        "Quota": 65,
         "Enrol": 60,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 30,
         "Remarks": []
       }
@@ -606,8 +606,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 21,
-        "Avail": 39,
+        "Enrol": 20,
+        "Avail": 40,
         "Wait": 0,
         "Remarks": []
       }

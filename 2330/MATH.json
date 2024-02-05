@@ -939,7 +939,7 @@
         "Quota": 120,
         "Enrol": 118,
         "Avail": 2,
-        "Wait": 34,
+        "Wait": 33,
         "Remarks": []
       },
       {
@@ -1009,7 +1009,7 @@
         "Quota": 30,
         "Enrol": 28,
         "Avail": 2,
-        "Wait": 4,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1820,8 +1820,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 166,
-        "Enrol": 166,
-        "Avail": 0,
+        "Enrol": 165,
+        "Avail": 1,
         "Wait": 10,
         "Remarks": []
       },
@@ -1834,8 +1834,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 166,
-        "Enrol": 166,
-        "Avail": 0,
+        "Enrol": 165,
+        "Avail": 1,
         "Wait": 10,
         "Remarks": []
       },
@@ -1890,8 +1890,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 41,
-        "Enrol": 41,
-        "Avail": 0,
+        "Enrol": 40,
+        "Avail": 1,
         "Wait": 3,
         "Remarks": []
       }
@@ -2916,8 +2916,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 11,
-        "Avail": 29,
+        "Enrol": 12,
+        "Avail": 28,
         "Wait": 0,
         "Remarks": []
       },
@@ -2930,8 +2930,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 11,
-        "Avail": 29,
+        "Enrol": 12,
+        "Avail": 28,
         "Wait": 0,
         "Remarks": []
       },
@@ -2944,8 +2944,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 11,
-        "Avail": 29,
+        "Enrol": 12,
+        "Avail": 28,
         "Wait": 0,
         "Remarks": []
       }
@@ -3442,7 +3442,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       }
     ]
@@ -3870,8 +3870,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 9,
-        "Avail": 1,
+        "Enrol": 10,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": [
           "Students should seek approval from the course instructor to take this course.",

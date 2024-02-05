@@ -3259,6 +3259,33 @@
   },
   {
     "program": "ELEC",
+    "code": "6900F",
+    "name": "Independent Study",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4399)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 0,
+        "Enrol": 0,
+        "Avail": 0,
+        "Wait": 0,
+        "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
     "code": "6910D",
     "name": "Electronic Design Automation for VLSI Design",
     "units": 3,

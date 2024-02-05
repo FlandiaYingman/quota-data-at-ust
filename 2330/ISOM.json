@@ -946,8 +946,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
+        "Enrol": 79,
+        "Avail": 1,
         "Wait": 19,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
@@ -1947,7 +1947,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -1961,7 +1961,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -2045,7 +2045,7 @@
         "Quota": 55,
         "Enrol": 35,
         "Avail": 20,
-        "Wait": 8,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -2071,8 +2071,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 20,
-        "Avail": 20,
+        "Enrol": 19,
+        "Avail": 21,
         "Wait": 2,
         "Remarks": []
       },
@@ -2085,8 +2085,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 20,
-        "Avail": 20,
+        "Enrol": 19,
+        "Avail": 21,
         "Wait": 2,
         "Remarks": []
       }
@@ -3197,14 +3197,14 @@
             "Avail": 2
           },
           "Digital MBA": {
-            "Quota": 2,
+            "Quota": 4,
             "Enrol": 2,
-            "Avail": 0
+            "Avail": 2
           },
           "MBA": {
-            "Quota": 45,
+            "Quota": 43,
             "Enrol": 12,
-            "Avail": 33
+            "Avail": 31
           }
         },
         "Remarks": [
@@ -3232,14 +3232,14 @@
             "Avail": 2
           },
           "Digital MBA": {
-            "Quota": 2,
+            "Quota": 4,
             "Enrol": 2,
-            "Avail": 0
+            "Avail": 2
           },
           "MBA": {
-            "Quota": 45,
+            "Quota": 43,
             "Enrol": 12,
-            "Avail": 33
+            "Avail": 31
           }
         },
         "Remarks": [
@@ -3267,14 +3267,14 @@
             "Avail": 2
           },
           "Digital MBA": {
-            "Quota": 2,
+            "Quota": 4,
             "Enrol": 2,
-            "Avail": 0
+            "Avail": 2
           },
           "MBA": {
-            "Quota": 45,
+            "Quota": 43,
             "Enrol": 12,
-            "Avail": 33
+            "Avail": 31
           }
         },
         "Remarks": [
@@ -5022,7 +5022,75 @@
     "sections": [
       {
         "Section": "L1 (1330)",
-        "Date & Time": "01-FEB-2024 - 21-MAR-2024<br>Th 06:00PM - 09:20PM",
+        "Date & Time": "01-FEB-2024 - 01-FEB-2024<br>Th 06:00PM - 09:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "LI, Qing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 16,
+        "Remarks": [
+          "For MSc(GO) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1330)",
+        "Date & Time": "08-FEB-2024 - 08-FEB-2024<br>Th 06:00PM - 09:20PM",
+        "Room": "G021, LSK Bldg",
+        "Instructor": [
+          "LI, Qing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 16,
+        "Remarks": [
+          "For MSc(GO) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1330)",
+        "Date & Time": "15-FEB-2024 - 29-FEB-2024<br>Th 06:00PM - 09:20PM",
+        "Room": "G003, LSK Bldg (70)",
+        "Instructor": [
+          "LI, Qing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 16,
+        "Remarks": [
+          "For MSc(GO) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1330)",
+        "Date & Time": "07-MAR-2024 - 07-MAR-2024<br>Th 06:00PM - 09:20PM",
+        "Room": "G021, LSK Bldg",
+        "Instructor": [
+          "LI, Qing"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 65,
+        "Enrol": 60,
+        "Avail": 5,
+        "Wait": 16,
+        "Remarks": [
+          "For MSc(GO) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1330)",
+        "Date & Time": "14-MAR-2024 - 21-MAR-2024<br>Th 06:00PM - 09:20PM",
         "Room": "G003, LSK Bldg (70)",
         "Instructor": [
           "LI, Qing"
@@ -5098,14 +5166,14 @@
         "Wait": 2,
         "QuotaDetail": {
           "Digital MBA": {
-            "Quota": 25,
+            "Quota": 22,
             "Enrol": 17,
-            "Avail": 8
+            "Avail": 5
           },
           "MBA": {
-            "Quota": 24,
+            "Quota": 27,
             "Enrol": 24,
-            "Avail": 0
+            "Avail": 3
           }
         },
         "Remarks": [
@@ -5501,8 +5569,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 40,
-        "Avail": 20,
+        "Enrol": 39,
+        "Avail": 21,
         "Wait": 0,
         "Remarks": [
           "For MSc(GO) students only",
@@ -5518,8 +5586,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 40,
-        "Avail": 20,
+        "Enrol": 39,
+        "Avail": 21,
         "Wait": 0,
         "Remarks": [
           "For MSc(GO) students only",
@@ -5535,8 +5603,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 40,
-        "Avail": 20,
+        "Enrol": 39,
+        "Avail": 21,
         "Wait": 0,
         "Remarks": [
           "For MSc(GO) students only",

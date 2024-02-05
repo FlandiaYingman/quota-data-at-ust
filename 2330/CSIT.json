@@ -103,14 +103,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 59,
-        "Avail": 31,
-        "Wait": 5,
+        "Enrol": 61,
+        "Avail": 29,
+        "Wait": 3,
         "QuotaDetail": {
           "BDT": {
             "Quota": 7,
-            "Enrol": 4,
-            "Avail": 3
+            "Enrol": 6,
+            "Avail": 1
           },
           "CSIT": {
             "Quota": 83,

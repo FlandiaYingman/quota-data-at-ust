@@ -517,8 +517,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 47,
-        "Avail": 3,
+        "Enrol": 48,
+        "Avail": 2,
         "Wait": 3,
         "Remarks": []
       }
@@ -941,8 +941,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 38,
-        "Avail": 22,
+        "Enrol": 39,
+        "Avail": 21,
         "Wait": 11,
         "Remarks": []
       },
@@ -986,8 +986,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 37,
-        "Avail": 23,
+        "Enrol": 38,
+        "Avail": 22,
         "Wait": 6,
         "Remarks": []
       }
@@ -1181,9 +1181,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 81,
-        "Enrol": 79,
-        "Avail": 2,
-        "Wait": 7,
+        "Enrol": 80,
+        "Avail": 1,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1225,9 +1225,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 77,
-        "Enrol": 73,
-        "Avail": 4,
-        "Wait": 6,
+        "Enrol": 74,
+        "Avail": 3,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -1253,8 +1253,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 34,
-        "Avail": 31,
+        "Enrol": 33,
+        "Avail": 32,
         "Wait": 0,
         "Remarks": []
       },
@@ -1267,8 +1267,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 34,
-        "Avail": 31,
+        "Enrol": 33,
+        "Avail": 32,
         "Wait": 0,
         "Remarks": []
       }
@@ -1376,7 +1376,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 22,
+        "Wait": 21,
         "Remarks": []
       },
       {
@@ -1390,7 +1390,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 28,
+        "Wait": 27,
         "Remarks": []
       },
       {
@@ -1420,7 +1420,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 22,
+        "Wait": 21,
         "Remarks": []
       }
     ]
@@ -2225,10 +2225,10 @@
           "SZETO, Lok Chun"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
-        "Enrol": 60,
+        "Quota": 70,
+        "Enrol": 70,
         "Avail": 0,
-        "Wait": 29,
+        "Wait": 19,
         "Remarks": []
       },
       {
@@ -2239,10 +2239,10 @@
           "SZETO, Lok Chun"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
-        "Enrol": 60,
+        "Quota": 70,
+        "Enrol": 70,
         "Avail": 0,
-        "Wait": 29,
+        "Wait": 19,
         "Remarks": []
       }
     ]
@@ -3398,14 +3398,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 61,
-        "Avail": 39,
+        "Enrol": 62,
+        "Avail": 38,
         "Wait": 2,
         "QuotaDetail": {
           "CSE": {
             "Quota": 100,
-            "Enrol": 61,
-            "Avail": 39
+            "Enrol": 62,
+            "Avail": 38
           }
         },
         "Remarks": [

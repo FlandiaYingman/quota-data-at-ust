@@ -223,7 +223,7 @@
         "Quota": 100,
         "Enrol": 46,
         "Avail": 54,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "MCEE": {
             "Quota": 90,
@@ -260,14 +260,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 34,
-        "Avail": 66,
+        "Enrol": 33,
+        "Avail": 67,
         "Wait": 0,
         "QuotaDetail": {
           "MCEE": {
             "Quota": 90,
-            "Enrol": 33,
-            "Avail": 57
+            "Enrol": 32,
+            "Avail": 58
           },
           "BEHI": {
             "Quota": 10,

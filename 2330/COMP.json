@@ -517,8 +517,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 50,
-        "Avail": 0,
+        "Enrol": 49,
+        "Avail": 1,
         "Wait": 5,
         "Remarks": []
       }
@@ -619,8 +619,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 84,
-        "Avail": 6,
+        "Enrol": 83,
+        "Avail": 7,
         "Wait": 7,
         "Remarks": []
       },
@@ -703,8 +703,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 84,
-        "Avail": 6,
+        "Enrol": 83,
+        "Avail": 7,
         "Wait": 7,
         "Remarks": []
       },
@@ -1744,8 +1744,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 19,
-        "Avail": 41,
+        "Enrol": 18,
+        "Avail": 42,
         "Wait": 0,
         "Remarks": []
       },
@@ -1758,8 +1758,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 19,
-        "Avail": 41,
+        "Enrol": 18,
+        "Avail": 42,
         "Wait": 0,
         "Remarks": []
       },
@@ -1772,8 +1772,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 19,
-        "Avail": 41,
+        "Enrol": 18,
+        "Avail": 42,
         "Wait": 0,
         "Remarks": []
       }
@@ -2158,7 +2158,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 15,
         "Remarks": [
           "The class is delivered in an experiential learning mode"
         ]
@@ -2314,7 +2314,7 @@
         "Quota": 60,
         "Enrol": 58,
         "Avail": 2,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -2328,7 +2328,7 @@
         "Quota": 60,
         "Enrol": 58,
         "Avail": 2,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -2920,9 +2920,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 49,
-        "Avail": 1,
-        "Wait": 7,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 6,
         "QuotaDetail": {
           "CSE": {
             "Quota": 28,

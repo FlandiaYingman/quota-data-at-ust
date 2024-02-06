@@ -509,7 +509,7 @@
         "Quota": 58,
         "Enrol": 55,
         "Avail": 3,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -523,7 +523,7 @@
         "Quota": 58,
         "Enrol": 55,
         "Avail": 3,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": []
       }
     ]
@@ -634,7 +634,7 @@
         "Quota": 46,
         "Enrol": 46,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -648,7 +648,7 @@
         "Quota": 46,
         "Enrol": 46,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 1,
         "Remarks": []
       }
     ]

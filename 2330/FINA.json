@@ -567,7 +567,7 @@
         "Quota": 60,
         "Enrol": 52,
         "Avail": 8,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       }
     ]
@@ -2655,7 +2655,7 @@
     "sections": [
       {
         "Section": "L1 (1241)",
-        "Date & Time": "03-FEB-2024 - 23-MAR-2024<br>Sa 02:00PM - 05:20PM",
+        "Date & Time": "03-FEB-2024 - 03-FEB-2024<br>Sa 02:00PM - 05:20PM",
         "Room": "Lecture Theater K (106)",
         "Instructor": [
           "ZHOU, Shelley"
@@ -2679,8 +2679,104 @@
       },
       {
         "Section": "L1 (1241)",
+        "Date & Time": "17-FEB-2024 - 02-MAR-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "ZHOU, Shelley"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 26,
+        "Avail": 34,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 26,
+            "Avail": 34
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1241)",
         "Date & Time": "20-FEB-2024 - 20-FEB-2024<br>Tu 07:00PM - 10:20PM",
-        "Room": "G001, LSK Bldg (70)",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "ZHOU, Shelley"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 26,
+        "Avail": 34,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 26,
+            "Avail": 34
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1241)",
+        "Date & Time": "09-MAR-2024 - 09-MAR-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 1027, LSK Bldg (40)",
+        "Instructor": [
+          "ZHOU, Shelley"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 26,
+        "Avail": 34,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 26,
+            "Avail": 34
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1241)",
+        "Date & Time": "16-MAR-2024 - 16-MAR-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Rm 1032, LSK Bldg (45)",
+        "Instructor": [
+          "ZHOU, Shelley"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 26,
+        "Avail": 34,
+        "Wait": 0,
+        "QuotaDetail": {
+          "FINA": {
+            "Quota": 60,
+            "Enrol": 26,
+            "Avail": 34
+          }
+        },
+        "Remarks": [
+          "For MSc(FINA); MSc(FA) and MSc(IM) students only",
+          "Add/Drop Deadline : 05-Feb-2024"
+        ]
+      },
+      {
+        "Section": "L1 (1241)",
+        "Date & Time": "23-MAR-2024 - 23-MAR-2024<br>Sa 02:00PM - 05:20PM",
+        "Room": "Lecture Theater K (106)",
         "Instructor": [
           "ZHOU, Shelley"
         ],

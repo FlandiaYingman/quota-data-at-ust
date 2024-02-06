@@ -97,7 +97,85 @@
     "sections": [
       {
         "Section": "L1 (1640)",
-        "Date & Time": "Fr 07:00PM - 09:50PM",
+        "Date & Time": "02-FEB-2024 - 02-FEB-2024<br>Fr 07:00PM - 09:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "TSANG, Dan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 46,
+        "Avail": 34,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 75,
+            "Enrol": 44,
+            "Avail": 31
+          },
+          "CIEM": {
+            "Quota": 5,
+            "Enrol": 2,
+            "Avail": 3
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1640)",
+        "Date & Time": "16-FEB-2024 - 22-MAR-2024<br>Fr 07:00PM - 09:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "TSANG, Dan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 46,
+        "Avail": 34,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 75,
+            "Enrol": 44,
+            "Avail": 31
+          },
+          "CIEM": {
+            "Quota": 5,
+            "Enrol": 2,
+            "Avail": 3
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1640)",
+        "Date & Time": "28-MAR-2024 - 28-MAR-2024<br>Th 07:00PM - 09:50PM",
+        "Room": "Rm 2504, Lift 25-26 (84)",
+        "Instructor": [
+          "TSANG, Dan"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 46,
+        "Avail": 34,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 75,
+            "Enrol": 44,
+            "Avail": 31
+          },
+          "CIEM": {
+            "Quota": 5,
+            "Enrol": 2,
+            "Avail": 3
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1640)",
+        "Date & Time": "12-APR-2024 - 10-MAY-2024<br>Fr 07:00PM - 09:50PM",
         "Room": "Rm 2504, Lift 25-26 (84)",
         "Instructor": [
           "TSANG, Dan"
@@ -313,7 +391,35 @@
     "sections": [
       {
         "Section": "L1 (1643)",
-        "Date & Time": "Th 07:00PM - 09:50PM",
+        "Date & Time": "01-FEB-2024 - 21-MAR-2024<br>Th 07:00PM - 09:50PM",
+        "Room": "G010, CYT Bldg (140)",
+        "Instructor": [
+          "YUE, Po Lock"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 60,
+        "Avail": 20,
+        "Wait": 0,
+        "QuotaDetail": {
+          "EVEM": {
+            "Quota": 70,
+            "Enrol": 53,
+            "Avail": 17
+          },
+          "CIEM": {
+            "Quota": 10,
+            "Enrol": 6,
+            "Avail": 4
+          }
+        },
+        "Remarks": [
+          "JEVE 5820 is not co-listing with MCEE 5820 in Spring 2023-24"
+        ]
+      },
+      {
+        "Section": "L1 (1643)",
+        "Date & Time": "11-APR-2024 - 09-MAY-2024<br>Th 07:00PM - 09:50PM",
         "Room": "G010, CYT Bldg (140)",
         "Instructor": [
           "YUE, Po Lock"

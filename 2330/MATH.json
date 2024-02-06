@@ -211,7 +211,7 @@
         "Quota": 135,
         "Enrol": 135,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 16,
         "Remarks": []
       },
       {
@@ -407,7 +407,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -3142,6 +3142,22 @@
         "Remarks": [
           "Instructor Consent Required"
         ]
+      },
+      {
+        "Section": "()",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEN, Kani"
+        ],
+        "TA/IA/GTA": [
+          "TBA"
+        ],
+        "Quota": null,
+        "Enrol": null,
+        "Avail": null,
+        "Wait": null,
+        "Remarks": []
       }
     ]
   },

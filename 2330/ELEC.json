@@ -102,7 +102,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 25,
+        "Wait": 26,
         "Remarks": []
       }
     ]
@@ -477,8 +477,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 113,
-        "Avail": 7,
+        "Enrol": 112,
+        "Avail": 8,
         "Wait": 2,
         "Remarks": []
       },
@@ -491,8 +491,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 2,
         "Remarks": []
       },
@@ -533,8 +533,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 57,
-        "Avail": 3,
+        "Enrol": 56,
+        "Avail": 4,
         "Wait": 2,
         "Remarks": []
       }
@@ -2685,8 +2685,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 29,
-        "Avail": 6,
+        "Enrol": 28,
+        "Avail": 7,
         "Wait": 2,
         "Remarks": []
       }
@@ -2814,14 +2814,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 7,
-        "Avail": 13,
+        "Enrol": 8,
+        "Avail": 12,
         "Wait": 0,
         "QuotaDetail": {
           "ECE": {
             "Quota": 20,
-            "Enrol": 7,
-            "Avail": 13
+            "Enrol": 8,
+            "Avail": 12
           }
         },
         "Remarks": []
@@ -3094,8 +3094,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 15,
-        "Enrol": 8,
-        "Avail": 7,
+        "Enrol": 9,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": [
           "Classes held in Rm. G01, G/F, Lo Ka Chung University Center"
@@ -3110,8 +3110,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 15,
-        "Enrol": 3,
-        "Avail": 12,
+        "Enrol": 2,
+        "Avail": 13,
         "Wait": 0,
         "Remarks": [
           "Classes held in Rm. G01, G/F, Lo Ka Chung University Center"
@@ -3143,14 +3143,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 30,
-        "Avail": 0,
+        "Enrol": 29,
+        "Avail": 1,
         "Wait": 12,
         "QuotaDetail": {
           "ECE": {
             "Quota": 30,
-            "Enrol": 29,
-            "Avail": 1
+            "Enrol": 28,
+            "Avail": 2
           }
         },
         "Remarks": []
@@ -3433,14 +3433,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 42,
-        "Enrol": 42,
-        "Avail": 0,
+        "Enrol": 41,
+        "Avail": 1,
         "Wait": 22,
         "QuotaDetail": {
           "ECE": {
             "Quota": 40,
-            "Enrol": 40,
-            "Avail": 0
+            "Enrol": 39,
+            "Avail": 1
           }
         },
         "Remarks": [

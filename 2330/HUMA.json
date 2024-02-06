@@ -151,7 +151,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 4,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -167,7 +167,7 @@
         "Quota": 20,
         "Enrol": 17,
         "Avail": 3,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -2310,7 +2310,7 @@
         "Quota": 100,
         "Enrol": 91,
         "Avail": 9,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -2324,7 +2324,7 @@
         "Quota": 100,
         "Enrol": 91,
         "Avail": 9,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -2521,7 +2521,7 @@
         "Quota": 20,
         "Enrol": 6,
         "Avail": 14,
-        "Wait": 5,
+        "Wait": 6,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
@@ -2542,7 +2542,7 @@
         "Quota": 20,
         "Enrol": 6,
         "Avail": 14,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       }
     ]

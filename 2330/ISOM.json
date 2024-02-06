@@ -657,7 +657,7 @@
         "Quota": 75,
         "Enrol": 74,
         "Avail": 1,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -781,7 +781,7 @@
         "Quota": 61,
         "Enrol": 42,
         "Avail": 19,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -1459,8 +1459,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 51,
         "Remarks": []
       }

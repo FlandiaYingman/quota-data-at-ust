@@ -2604,8 +2604,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 8,
-        "Avail": 12,
+        "Enrol": 7,
+        "Avail": 13,
         "Wait": 0,
         "QuotaDetail": {
           "ECE": {
@@ -3184,9 +3184,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 17,
-        "Avail": 3,
-        "Wait": 8,
+        "Enrol": 18,
+        "Avail": 2,
+        "Wait": 7,
         "QuotaDetail": {
           "ECE": {
             "Quota": 13,
@@ -3222,9 +3222,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 79,
-        "Avail": 1,
-        "Wait": 26,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 25,
         "Remarks": []
       }
     ]
@@ -3281,6 +3281,35 @@
         "Avail": 0,
         "Wait": 1,
         "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "ELEC",
+    "code": "6900G",
+    "name": "Independent Study",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Selected topics in electronic and computer engineering studied under the supervision of a faculty member. Graded P or F."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4400)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
       }
     ]
   },

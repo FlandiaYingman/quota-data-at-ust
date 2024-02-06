@@ -295,7 +295,7 @@
         "Quota": 135,
         "Enrol": 123,
         "Avail": 12,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -309,7 +309,7 @@
         "Quota": 135,
         "Enrol": 123,
         "Avail": 12,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -645,7 +645,7 @@
         "Quota": 45,
         "Enrol": 34,
         "Avail": 11,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1331,7 +1331,7 @@
         "Quota": 90,
         "Enrol": 86,
         "Avail": 4,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1387,7 +1387,7 @@
         "Quota": 45,
         "Enrol": 41,
         "Avail": 4,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1723,7 +1723,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -1751,7 +1751,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -1850,7 +1850,7 @@
         "Quota": 52,
         "Enrol": 52,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -3253,8 +3253,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 28,
-        "Enrol": 27,
-        "Avail": 1,
+        "Enrol": 28,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       }
@@ -3766,8 +3766,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 15,
-        "Enrol": 8,
-        "Avail": 7,
+        "Enrol": 9,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": [
           "Students should seek approval from the course instructor to take this course.",

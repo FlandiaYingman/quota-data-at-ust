@@ -61,8 +61,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 62,
-        "Avail": 28,
+        "Enrol": 61,
+        "Avail": 29,
         "Wait": 1,
         "QuotaDetail": {
           "BDT": {
@@ -72,8 +72,8 @@
           },
           "CSIT": {
             "Quota": 83,
-            "Enrol": 55,
-            "Avail": 28
+            "Enrol": 54,
+            "Avail": 29
           }
         },
         "Remarks": []
@@ -146,7 +146,7 @@
         "Quota": 90,
         "Enrol": 14,
         "Avail": 76,
-        "Wait": 2,
+        "Wait": 3,
         "QuotaDetail": {
           "BDT": {
             "Quota": 7,
@@ -292,8 +292,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 2,
-        "Avail": 88,
+        "Enrol": 3,
+        "Avail": 87,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

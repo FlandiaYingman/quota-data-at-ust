@@ -2059,7 +2059,7 @@
         "Quota": 90,
         "Enrol": 80,
         "Avail": 10,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -2073,7 +2073,7 @@
         "Quota": 45,
         "Enrol": 44,
         "Avail": 1,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -2113,8 +2113,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 85,
-        "Avail": 5,
+        "Enrol": 86,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": []
       },
@@ -2141,8 +2141,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 41,
-        "Avail": 4,
+        "Enrol": 42,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": []
       }
@@ -2223,8 +2223,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 58,
-        "Avail": 22,
+        "Enrol": 57,
+        "Avail": 23,
         "Wait": 0,
         "Remarks": []
       },
@@ -2251,8 +2251,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 22,
-        "Avail": 18,
+        "Enrol": 21,
+        "Avail": 19,
         "Wait": 0,
         "Remarks": []
       }
@@ -3144,20 +3144,20 @@
         ]
       },
       {
-        "Section": "()",
+        "Section": "L9 (4401)",
         "Date & Time": "TBA",
         "Room": "TBA",
         "Instructor": [
           "CHEN, Kani"
         ],
-        "TA/IA/GTA": [
-          "TBA"
-        ],
-        "Quota": null,
-        "Enrol": null,
-        "Avail": null,
-        "Wait": null,
-        "Remarks": []
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
       }
     ]
   },

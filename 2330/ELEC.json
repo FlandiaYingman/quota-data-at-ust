@@ -769,7 +769,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -3039,7 +3039,7 @@
         "Quota": 20,
         "Enrol": 19,
         "Avail": 1,
-        "Wait": 11,
+        "Wait": 10,
         "QuotaDetail": {
           "ECE": {
             "Quota": 20,
@@ -3145,7 +3145,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "QuotaDetail": {
           "ECE": {
             "Quota": 30,
@@ -3186,7 +3186,7 @@
         "Quota": 20,
         "Enrol": 18,
         "Avail": 2,
-        "Wait": 7,
+        "Wait": 6,
         "QuotaDetail": {
           "ECE": {
             "Quota": 13,
@@ -3224,7 +3224,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 24,
+        "Wait": 23,
         "Remarks": []
       }
     ]

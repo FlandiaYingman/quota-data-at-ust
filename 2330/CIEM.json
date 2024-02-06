@@ -210,15 +210,15 @@
           "WANG, Gang"
         ],
         "TA/IA/GTA": [],
-        "Quota": 90,
+        "Quota": 100,
         "Enrol": 90,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 5,
         "QuotaDetail": {
           "CIEM": {
-            "Quota": 90,
+            "Quota": 100,
             "Enrol": 90,
-            "Avail": 0
+            "Avail": 10
           }
         },
         "Remarks": []

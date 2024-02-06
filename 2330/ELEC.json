@@ -60,7 +60,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 45,
+        "Wait": 46,
         "Remarks": []
       },
       {
@@ -88,7 +88,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 53,
+        "Wait": 52,
         "Remarks": []
       },
       {
@@ -157,7 +157,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 32,
+        "Wait": 33,
         "Remarks": []
       },
       {
@@ -365,7 +365,7 @@
       {
         "Section": "L1 (2182)",
         "Date & Time": "TuTh 01:30PM - 02:50PM",
-        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Room": "Rm 1527, Lift 22 (74)",
         "Instructor": [
           "WONG, Kai Sun Albert"
         ],
@@ -1519,7 +1519,7 @@
         "Quota": 36,
         "Enrol": 36,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -2391,7 +2391,7 @@
         "Quota": 15,
         "Enrol": 15,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -2963,15 +2963,15 @@
           "QIU, Li"
         ],
         "TA/IA/GTA": [],
-        "Quota": 50,
+        "Quota": 30,
         "Enrol": 15,
-        "Avail": 35,
+        "Avail": 15,
         "Wait": 3,
         "QuotaDetail": {
           "ECE": {
-            "Quota": 50,
+            "Quota": 15,
             "Enrol": 15,
-            "Avail": 35
+            "Avail": 0
           }
         },
         "Remarks": []

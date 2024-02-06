@@ -171,7 +171,7 @@
         "Quota": 55,
         "Enrol": 42,
         "Avail": 13,
-        "Wait": 13,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -300,7 +300,7 @@
         "Quota": 75,
         "Enrol": 66,
         "Avail": 9,
-        "Wait": 16,
+        "Wait": 15,
         "Remarks": [
           "Add/Drop Deadline : 06-Feb-2024"
         ]
@@ -420,7 +420,7 @@
         "Quota": 39,
         "Enrol": 39,
         "Avail": 0,
-        "Wait": 23,
+        "Wait": 22,
         "Remarks": []
       },
       {
@@ -462,7 +462,7 @@
         "Quota": 38,
         "Enrol": 38,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 13,
         "Remarks": []
       },
       {
@@ -573,7 +573,7 @@
         "Quota": 102,
         "Enrol": 102,
         "Avail": 0,
-        "Wait": 44,
+        "Wait": 45,
         "Remarks": []
       },
       {
@@ -587,7 +587,7 @@
         "Quota": 101,
         "Enrol": 101,
         "Avail": 0,
-        "Wait": 17,
+        "Wait": 16,
         "Remarks": []
       },
       {
@@ -882,9 +882,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 75,
-        "Avail": 5,
-        "Wait": 12,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 7,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -898,9 +898,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 79,
-        "Avail": 1,
-        "Wait": 35,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 33,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -914,9 +914,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 79,
-        "Avail": 1,
-        "Wait": 35,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 34,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -964,7 +964,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 36,
+        "Wait": 37,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -1040,7 +1040,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1056,7 +1056,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1724,7 +1724,7 @@
         "Quota": 53,
         "Enrol": 53,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -2372,8 +2372,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 31,
-        "Avail": 29,
+        "Enrol": 30,
+        "Avail": 30,
         "Wait": 1,
         "Remarks": []
       }

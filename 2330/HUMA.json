@@ -802,8 +802,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 28,
         "Remarks": []
       },
@@ -816,8 +816,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 28,
         "Remarks": []
       }
@@ -920,8 +920,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 7,
         "Remarks": []
       },
@@ -934,8 +934,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 7,
         "Remarks": []
       }
@@ -972,8 +972,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 42,
-        "Avail": 18,
+        "Enrol": 40,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       },
@@ -986,8 +986,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 42,
-        "Avail": 18,
+        "Enrol": 40,
+        "Avail": 20,
         "Wait": 0,
         "Remarks": []
       }
@@ -1706,7 +1706,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 17,
+        "Wait": 16,
         "Remarks": []
       }
     ]
@@ -1800,8 +1800,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 33,
-        "Avail": 27,
+        "Enrol": 32,
+        "Avail": 28,
         "Wait": 0,
         "Remarks": []
       },
@@ -1814,8 +1814,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 33,
-        "Avail": 27,
+        "Enrol": 32,
+        "Avail": 28,
         "Wait": 0,
         "Remarks": []
       }
@@ -1852,7 +1852,7 @@
         "Quota": 120,
         "Enrol": 120,
         "Avail": 0,
-        "Wait": 67,
+        "Wait": 66,
         "Remarks": []
       }
     ]
@@ -2425,7 +2425,7 @@
       {
         "Section": "L1 (2604)",
         "Date & Time": "Th 03:00PM - 04:50PM",
-        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Room": "Rm 1527, Lift 22 (74)",
         "Instructor": [
           "CHEUNG, Siu Woo"
         ],
@@ -2439,7 +2439,7 @@
       {
         "Section": "T1 (2605)",
         "Date & Time": "Th 05:00PM - 05:50PM",
-        "Room": "Rm 1527, Lift 27-28 (74)",
+        "Room": "Rm 1527, Lift 22 (74)",
         "Instructor": [
           "CHEUNG, Siu Woo"
         ],
@@ -2580,7 +2580,7 @@
         "Quota": 35,
         "Enrol": 35,
         "Avail": 0,
-        "Wait": 12,
+        "Wait": 11,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 35,
@@ -2809,7 +2809,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 7,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,

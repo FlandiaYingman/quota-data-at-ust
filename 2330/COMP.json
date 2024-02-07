@@ -314,8 +314,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 40,
-        "Avail": 10,
+        "Enrol": 39,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": []
       },
@@ -328,8 +328,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 40,
-        "Avail": 10,
+        "Enrol": 39,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": []
       }
@@ -1016,7 +1016,7 @@
         "Quota": 130,
         "Enrol": 130,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -1073,7 +1073,7 @@
         "Quota": 100,
         "Enrol": 79,
         "Avail": 21,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1118,7 +1118,7 @@
         "Quota": 100,
         "Enrol": 100,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1603,8 +1603,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 98,
-        "Avail": 2,
+        "Enrol": 100,
+        "Avail": 0,
         "Wait": 1,
         "Remarks": []
       },
@@ -1633,8 +1633,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 82,
-        "Avail": 8,
+        "Enrol": 84,
+        "Avail": 6,
         "Wait": 2,
         "Remarks": []
       }
@@ -1933,9 +1933,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 150,
-        "Enrol": 146,
-        "Avail": 4,
-        "Wait": 4,
+        "Enrol": 148,
+        "Avail": 2,
+        "Wait": 2,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -1949,9 +1949,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 150,
-        "Enrol": 146,
-        "Avail": 4,
-        "Wait": 4,
+        "Enrol": 148,
+        "Avail": 2,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -2605,8 +2605,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 20,
-        "Avail": 5,
+        "Enrol": 19,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": [
           "Co-list with COMP 5911"

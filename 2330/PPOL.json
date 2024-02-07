@@ -333,14 +333,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 18,
-        "Avail": 32,
+        "Enrol": 20,
+        "Avail": 30,
         "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 17,
-            "Avail": 23
+            "Enrol": 19,
+            "Avail": 21
           }
         },
         "Remarks": []
@@ -895,14 +895,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 39,
-        "Avail": 1,
+        "Enrol": 37,
+        "Avail": 3,
         "Wait": 3,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 39,
-            "Avail": 1
+            "Enrol": 37,
+            "Avail": 3
           }
         },
         "Remarks": []
@@ -931,7 +931,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 13,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
@@ -956,7 +956,28 @@
     "sections": [
       {
         "Section": "L1 (4169)",
-        "Date & Time": "Mo 03:00PM - 05:50PM",
+        "Date & Time": "05-FEB-2024 - 05-FEB-2024<br>Mo 03:00PM - 05:50PM",
+        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Instructor": [
+          "YI, Fangxin Francine"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 60,
+        "Enrol": 40,
+        "Avail": 20,
+        "Wait": 16,
+        "QuotaDetail": {
+          "PPOL": {
+            "Quota": 60,
+            "Enrol": 40,
+            "Avail": 20
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (4169)",
+        "Date & Time": "19-FEB-2024 - 06-MAY-2024<br>Mo 03:00PM - 05:50PM",
         "Room": "Rm 2303, Lift 17-18 (91)",
         "Instructor": [
           "YI, Fangxin Francine"

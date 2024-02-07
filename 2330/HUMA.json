@@ -370,7 +370,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 166,
+        "Wait": 165,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -536,7 +536,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 13,
         "Remarks": []
       },
       {
@@ -712,8 +712,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 18,
         "Remarks": []
       },
@@ -726,8 +726,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 18,
         "Remarks": []
       }
@@ -2008,8 +2008,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 98,
-        "Avail": 2,
+        "Enrol": 97,
+        "Avail": 3,
         "Wait": 13,
         "Remarks": []
       },
@@ -2022,8 +2022,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 98,
-        "Avail": 2,
+        "Enrol": 97,
+        "Avail": 3,
         "Wait": 13,
         "Remarks": []
       }
@@ -2140,8 +2140,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 4,
-        "Enrol": 0,
-        "Avail": 4,
+        "Enrol": 1,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -2364,8 +2364,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 36,
-        "Avail": 64,
+        "Enrol": 37,
+        "Avail": 63,
         "Wait": 0,
         "Remarks": []
       },
@@ -2378,8 +2378,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 36,
-        "Avail": 64,
+        "Enrol": 37,
+        "Avail": 63,
         "Wait": 0,
         "Remarks": []
       }

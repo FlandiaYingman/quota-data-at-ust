@@ -356,7 +356,7 @@
         "Quota": 23,
         "Enrol": 23,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -398,7 +398,7 @@
         "Quota": 23,
         "Enrol": 23,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -794,8 +794,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 35,
-        "Avail": 0,
+        "Enrol": 34,
+        "Avail": 1,
         "Wait": 2,
         "Remarks": [
           "The class is delivered in an experiential learning mode"
@@ -810,8 +810,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 35,
-        "Avail": 0,
+        "Enrol": 34,
+        "Avail": 1,
         "Wait": 2,
         "Remarks": [
           "The class is delivered in an experiential learning mode"
@@ -826,8 +826,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 28,
-        "Avail": 7,
+        "Enrol": 29,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in an experiential learning mode"
@@ -842,8 +842,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 28,
-        "Avail": 7,
+        "Enrol": 29,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in an experiential learning mode"
@@ -890,8 +890,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 35,
-        "Avail": 0,
+        "Enrol": 34,
+        "Avail": 1,
         "Wait": 2,
         "Remarks": []
       },
@@ -904,8 +904,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 35,
-        "Avail": 0,
+        "Enrol": 34,
+        "Avail": 1,
         "Wait": 2,
         "Remarks": []
       },
@@ -918,8 +918,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 28,
-        "Avail": 7,
+        "Enrol": 29,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": []
       },
@@ -932,8 +932,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 28,
-        "Avail": 7,
+        "Enrol": 29,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": []
       },
@@ -987,8 +987,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 14,
-        "Avail": 31,
+        "Enrol": 13,
+        "Avail": 32,
         "Wait": 0,
         "Remarks": []
       }

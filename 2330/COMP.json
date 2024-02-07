@@ -913,9 +913,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 90,
-        "Avail": 10,
-        "Wait": 27,
+        "Enrol": 100,
+        "Avail": 0,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -927,8 +927,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 77,
-        "Avail": 3,
+        "Enrol": 72,
+        "Avail": 8,
         "Wait": 7,
         "Remarks": []
       },
@@ -941,8 +941,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 44,
-        "Avail": 16,
+        "Enrol": 39,
+        "Avail": 21,
         "Wait": 6,
         "Remarks": []
       },
@@ -956,9 +956,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 88,
-        "Avail": 12,
-        "Wait": 11,
+        "Enrol": 89,
+        "Avail": 11,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -971,9 +971,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 79,
-        "Avail": 1,
-        "Wait": 12,
+        "Enrol": 78,
+        "Avail": 2,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -988,7 +988,7 @@
         "Quota": 60,
         "Enrol": 44,
         "Avail": 16,
-        "Wait": 3,
+        "Wait": 0,
         "Remarks": []
       }
     ]
@@ -1181,8 +1181,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 86,
-        "Enrol": 83,
-        "Avail": 3,
+        "Enrol": 82,
+        "Avail": 4,
         "Wait": 5,
         "Remarks": []
       },
@@ -1210,8 +1210,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 77,
-        "Enrol": 71,
-        "Avail": 6,
+        "Enrol": 70,
+        "Avail": 7,
         "Wait": 5,
         "Remarks": []
       },
@@ -2605,8 +2605,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 19,
-        "Avail": 6,
+        "Enrol": 20,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": [
           "Co-list with COMP 5911"

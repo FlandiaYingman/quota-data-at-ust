@@ -32,7 +32,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 159,
+        "Wait": 158,
         "Remarks": []
       },
       {
@@ -88,7 +88,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 51,
+        "Wait": 50,
         "Remarks": []
       },
       {
@@ -126,8 +126,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 126,
-        "Avail": 9,
+        "Enrol": 125,
+        "Avail": 10,
         "Wait": 27,
         "Remarks": []
       },
@@ -157,7 +157,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 32,
+        "Wait": 31,
         "Remarks": []
       },
       {
@@ -185,8 +185,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
+        "Enrol": 79,
+        "Avail": 1,
         "Wait": 14,
         "Remarks": []
       },
@@ -200,8 +200,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
+        "Enrol": 79,
+        "Avail": 1,
         "Wait": 36,
         "Remarks": []
       },
@@ -232,7 +232,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 22,
+        "Wait": 21,
         "Remarks": []
       }
     ]
@@ -623,7 +623,7 @@
         "Quota": 70,
         "Enrol": 54,
         "Avail": 16,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -666,9 +666,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 48,
-        "Enrol": 35,
-        "Avail": 13,
-        "Wait": 2,
+        "Enrol": 36,
+        "Avail": 12,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -696,8 +696,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 42,
-        "Enrol": 25,
-        "Avail": 17,
+        "Enrol": 24,
+        "Avail": 18,
         "Wait": 0,
         "Remarks": []
       }
@@ -1400,14 +1400,14 @@
       {
         "Section": "L1 (2259)",
         "Date & Time": "WeFr 01:30PM - 02:50PM",
-        "Room": "Multi-function Room, LG4, LIB",
+        "Room": "Rm 4503, Lift 25-26 (64)",
         "Instructor": [
           "SHEN, Yajing"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 45,
         "Enrol": 40,
-        "Avail": 0,
+        "Avail": 5,
         "Wait": 10,
         "Remarks": []
       },

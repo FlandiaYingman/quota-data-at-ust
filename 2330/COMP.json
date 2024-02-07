@@ -86,7 +86,7 @@
         "Quota": 77,
         "Enrol": 77,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 20,
         "Remarks": []
       },
       {
@@ -157,7 +157,7 @@
         "Quota": 170,
         "Enrol": 85,
         "Avail": 85,
-        "Wait": 18,
+        "Wait": 17,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -230,7 +230,7 @@
         "Quota": 75,
         "Enrol": 72,
         "Avail": 3,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -246,7 +246,7 @@
         "Quota": 75,
         "Enrol": 72,
         "Avail": 3,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -2158,7 +2158,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 14,
+        "Wait": 15,
         "Remarks": [
           "The class is delivered in an experiential learning mode"
         ]
@@ -2922,7 +2922,7 @@
         "Quota": 50,
         "Enrol": 49,
         "Avail": 1,
-        "Wait": 6,
+        "Wait": 7,
         "QuotaDetail": {
           "CSE": {
             "Quota": 28,
@@ -3362,9 +3362,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 19,
-        "Avail": 81,
-        "Wait": 6,
+        "Enrol": 23,
+        "Avail": 77,
+        "Wait": 2,
         "QuotaDetail": {
           "CSE": {
             "Quota": 100,
@@ -3764,8 +3764,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 200,
-        "Enrol": 187,
-        "Avail": 13,
+        "Enrol": 188,
+        "Avail": 12,
         "Wait": 0,
         "Remarks": []
       }

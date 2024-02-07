@@ -30,9 +30,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 79,
-        "Avail": 1,
-        "Wait": 13,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 12,
         "Remarks": []
       }
     ]
@@ -98,9 +98,9 @@
           "LEE, Dongwon"
         ],
         "TA/IA/GTA": [],
-        "Quota": 116,
+        "Quota": 117,
         "Enrol": 116,
-        "Avail": 0,
+        "Avail": 1,
         "Wait": 50,
         "Remarks": []
       },
@@ -2126,9 +2126,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 9,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -2140,9 +2140,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 60,
-        "Avail": 10,
-        "Wait": 18,
+        "Enrol": 61,
+        "Avail": 9,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -2584,7 +2584,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 22,
+        "Wait": 21,
         "Remarks": []
       }
     ]

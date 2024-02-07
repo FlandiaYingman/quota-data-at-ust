@@ -213,7 +213,7 @@
         "Quota": 100,
         "Enrol": 94,
         "Avail": 6,
-        "Wait": 3,
+        "Wait": 4,
         "QuotaDetail": {
           "CIEM": {
             "Quota": 100,
@@ -369,14 +369,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 11,
-        "Avail": 59,
+        "Enrol": 10,
+        "Avail": 60,
         "Wait": 0,
         "QuotaDetail": {
           "CIEM": {
             "Quota": 70,
-            "Enrol": 10,
-            "Avail": 60
+            "Enrol": 9,
+            "Avail": 61
           }
         },
         "Remarks": []

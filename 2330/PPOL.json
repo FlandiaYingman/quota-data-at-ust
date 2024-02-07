@@ -614,8 +614,8 @@
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 37,
-            "Avail": 3
+            "Enrol": 36,
+            "Avail": 4
           }
         },
         "Remarks": [
@@ -638,8 +638,8 @@
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 37,
-            "Avail": 3
+            "Enrol": 36,
+            "Avail": 4
           }
         },
         "Remarks": [
@@ -957,20 +957,20 @@
       {
         "Section": "L1 (4169)",
         "Date & Time": "Mo 03:00PM - 05:50PM",
-        "Room": "Rm 2463, Lift 25-26 (42)",
+        "Room": "Rm 2303, Lift 17-18 (91)",
         "Instructor": [
           "YI, Fangxin Francine"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
+        "Quota": 60,
         "Enrol": 40,
-        "Avail": 0,
+        "Avail": 20,
         "Wait": 16,
         "QuotaDetail": {
           "PPOL": {
-            "Quota": 40,
+            "Quota": 60,
             "Enrol": 40,
-            "Avail": 0
+            "Avail": 20
           }
         },
         "Remarks": []

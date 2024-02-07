@@ -113,7 +113,7 @@
         "Quota": 115,
         "Enrol": 115,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -127,7 +127,7 @@
         "Quota": 115,
         "Enrol": 115,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 10,
         "Remarks": []
       }
     ]
@@ -163,8 +163,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 125,
-        "Enrol": 125,
-        "Avail": 0,
+        "Enrol": 124,
+        "Avail": 1,
         "Wait": 11,
         "Remarks": []
       },

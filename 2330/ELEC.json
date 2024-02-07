@@ -32,7 +32,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 161,
+        "Wait": 159,
         "Remarks": []
       },
       {
@@ -74,7 +74,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 29,
+        "Wait": 28,
         "Remarks": []
       },
       {
@@ -88,7 +88,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 52,
+        "Wait": 51,
         "Remarks": []
       },
       {
@@ -1378,8 +1378,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 15,
-        "Enrol": 15,
-        "Avail": 0,
+        "Enrol": 14,
+        "Avail": 1,
         "Wait": 16,
         "Remarks": []
       }
@@ -3036,15 +3036,15 @@
           "SHI, Ling"
         ],
         "TA/IA/GTA": [],
-        "Quota": 20,
+        "Quota": 40,
         "Enrol": 19,
-        "Avail": 1,
+        "Avail": 21,
         "Wait": 11,
         "QuotaDetail": {
           "ECE": {
-            "Quota": 20,
+            "Quota": 40,
             "Enrol": 18,
-            "Avail": 2
+            "Avail": 22
           }
         },
         "Remarks": []

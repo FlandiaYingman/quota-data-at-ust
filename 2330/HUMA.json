@@ -2098,9 +2098,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 99,
-        "Avail": 1,
-        "Wait": 78,
+        "Enrol": 100,
+        "Avail": 0,
+        "Wait": 77,
         "Remarks": []
       }
     ]
@@ -2886,14 +2886,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 6,
-        "Avail": 14,
-        "Wait": 2,
+        "Enrol": 7,
+        "Avail": 13,
+        "Wait": 1,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 6,
-            "Avail": 14
+            "Enrol": 7,
+            "Avail": 13
           }
         },
         "Remarks": []

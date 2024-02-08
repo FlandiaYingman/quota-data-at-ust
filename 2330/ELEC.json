@@ -32,7 +32,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 154,
+        "Wait": 153,
         "Remarks": []
       },
       {
@@ -46,7 +46,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 28,
+        "Wait": 27,
         "Remarks": []
       },
       {
@@ -389,7 +389,7 @@
         "Quota": 60,
         "Enrol": 53,
         "Avail": 7,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -406,7 +406,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -451,7 +451,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       }
     ]
@@ -1208,8 +1208,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 506,
-        "Enrol": 399,
-        "Avail": 107,
+        "Enrol": 398,
+        "Avail": 108,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -1380,7 +1380,7 @@
         "Quota": 15,
         "Enrol": 15,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 14,
         "Remarks": []
       }
     ]
@@ -1991,8 +1991,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 4,
-        "Enrol": 4,
-        "Avail": 0,
+        "Enrol": 3,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": [
           "Classes held in Room 2128A"
@@ -2685,9 +2685,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 35,
-        "Enrol": 29,
-        "Avail": 6,
-        "Wait": 3,
+        "Enrol": 30,
+        "Avail": 5,
+        "Wait": 2,
         "Remarks": []
       }
     ]

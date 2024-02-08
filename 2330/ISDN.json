@@ -69,7 +69,7 @@
         "Quota": 32,
         "Enrol": 32,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": [
           "The class is delivered in an experiential learning mode"
         ]
@@ -85,7 +85,7 @@
         "Quota": 32,
         "Enrol": 32,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -249,9 +249,9 @@
           "SONG, Shenghui"
         ],
         "TA/IA/GTA": [],
-        "Quota": 30,
+        "Quota": 31,
         "Enrol": 30,
-        "Avail": 0,
+        "Avail": 1,
         "Wait": 1,
         "Remarks": []
       },
@@ -263,9 +263,9 @@
           "SONG, Shenghui"
         ],
         "TA/IA/GTA": [],
-        "Quota": 30,
+        "Quota": 31,
         "Enrol": 30,
-        "Avail": 0,
+        "Avail": 1,
         "Wait": 1,
         "Remarks": []
       }
@@ -648,8 +648,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 23,
-        "Avail": 7,
+        "Enrol": 24,
+        "Avail": 6,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -734,8 +734,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 28,
-        "Avail": 22,
+        "Enrol": 27,
+        "Avail": 23,
         "Wait": 0,
         "Remarks": []
       }

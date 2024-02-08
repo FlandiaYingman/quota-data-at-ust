@@ -15,8 +15,34 @@
     "sections": [
       {
         "Section": "L1 (1651)",
-        "Date & Time": "Tu 07:00PM - 09:50PM",
+        "Date & Time": "06-FEB-2024 - 06-FEB-2024<br>Tu 07:00PM - 09:50PM",
         "Room": "Rm 2464, Lift 25-26 (122)",
+        "Instructor": [
+          "MA, Lok Wang"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 80,
+        "Enrol": 53,
+        "Avail": 27,
+        "Wait": 0,
+        "QuotaDetail": {
+          "IBTM": {
+            "Quota": 5,
+            "Enrol": 2,
+            "Avail": 3
+          },
+          "MESF": {
+            "Quota": 75,
+            "Enrol": 51,
+            "Avail": 24
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L1 (1651)",
+        "Date & Time": "20-FEB-2024 - 07-MAY-2024<br>Tu 07:00PM - 09:50PM",
+        "Room": "Lecture Theater E (143)",
         "Instructor": [
           "MA, Lok Wang"
         ],

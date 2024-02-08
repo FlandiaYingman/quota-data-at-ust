@@ -2060,8 +2060,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 13,
         "Remarks": []
       }
@@ -2156,8 +2156,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 4,
-        "Enrol": 1,
-        "Avail": 3,
+        "Enrol": 2,
+        "Avail": 2,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

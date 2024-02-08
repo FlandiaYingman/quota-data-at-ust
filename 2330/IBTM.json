@@ -106,15 +106,15 @@
         "Avail": 51,
         "Wait": 4,
         "QuotaDetail": {
-          "IBTM": {
-            "Quota": 80,
-            "Enrol": 32,
-            "Avail": 48
-          },
           "EVEM": {
             "Quota": 10,
             "Enrol": 7,
             "Avail": 3
+          },
+          "IBTM": {
+            "Quota": 80,
+            "Enrol": 32,
+            "Avail": 48
           },
           "MESF": {
             "Quota": 5,

@@ -73,7 +73,7 @@
         "Quota": 116,
         "Enrol": 116,
         "Avail": 0,
-        "Wait": 40,
+        "Wait": 41,
         "Remarks": []
       },
       {
@@ -241,7 +241,7 @@
         "Quota": 55,
         "Enrol": 47,
         "Avail": 8,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       }
     ]
@@ -1638,9 +1638,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 8,
+        "Enrol": 58,
+        "Avail": 2,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -2045,7 +2045,7 @@
         "Quota": 55,
         "Enrol": 36,
         "Avail": 19,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -2608,9 +2608,9 @@
           "LAU, Ronald"
         ],
         "TA/IA/GTA": [],
-        "Quota": 39,
-        "Enrol": 36,
-        "Avail": 3,
+        "Quota": 36,
+        "Enrol": 35,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": []
       }

@@ -482,7 +482,7 @@
         "Quota": 21,
         "Enrol": 21,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -496,7 +496,7 @@
         "Quota": 21,
         "Enrol": 21,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -1616,7 +1616,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1630,7 +1630,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -3479,6 +3479,34 @@
         "Avail": 0,
         "Wait": 7,
         "Remarks": []
+      },
+      {
+        "Section": "T08 (4404)",
+        "Date & Time": "Mo 03:00PM - 04:20PM",
+        "Room": "Rm 2131B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
+      },
+      {
+        "Section": "T08 (4404)",
+        "Date & Time": "Fr 10:30AM - 11:50AM",
+        "Room": "Rm 2131B, Lift 19 (28)",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 20,
+        "Enrol": 0,
+        "Avail": 20,
+        "Wait": 0,
+        "Remarks": []
       }
     ]
   },
@@ -5089,30 +5117,34 @@
       {
         "Section": "T02 (1364)",
         "Date & Time": "Mo 03:00PM - 04:20PM",
-        "Room": "Rm 2131B, Lift 19 (28)",
+        "Room": "TBA",
         "Instructor": [
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 21,
+        "Quota": 0,
         "Enrol": 12,
-        "Avail": 9,
+        "Avail": 0,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Class cancelled"
+        ]
       },
       {
         "Section": "T02 (1364)",
         "Date & Time": "Fr 10:30AM - 11:50AM",
-        "Room": "Rm 2131B, Lift 19 (28)",
+        "Room": "TBA",
         "Instructor": [
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 21,
+        "Quota": 0,
         "Enrol": 12,
-        "Avail": 9,
+        "Avail": 0,
         "Wait": 0,
-        "Remarks": []
+        "Remarks": [
+          "Class cancelled"
+        ]
       },
       {
         "Section": "T03 (1365)",

@@ -81,7 +81,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "QuotaDetail": {
           "MPP": {
             "Quota": 45,
@@ -571,15 +571,15 @@
           "YARIME, Masaru"
         ],
         "TA/IA/GTA": [],
-        "Quota": 72,
+        "Quota": 90,
         "Enrol": 72,
-        "Avail": 0,
+        "Avail": 18,
         "Wait": 9,
         "QuotaDetail": {
           "PPOL": {
-            "Quota": 72,
+            "Quota": 90,
             "Enrol": 72,
-            "Avail": 0
+            "Avail": 18
           }
         },
         "Remarks": []
@@ -608,14 +608,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 52,
-        "Avail": 8,
+        "Enrol": 51,
+        "Avail": 9,
         "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 35,
-            "Avail": 5
+            "Enrol": 34,
+            "Avail": 6
           }
         },
         "Remarks": [
@@ -632,14 +632,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 52,
-        "Avail": 8,
+        "Enrol": 51,
+        "Avail": 9,
         "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 35,
-            "Avail": 5
+            "Enrol": 34,
+            "Avail": 6
           }
         },
         "Remarks": [
@@ -965,7 +965,7 @@
         "Quota": 60,
         "Enrol": 44,
         "Avail": 16,
-        "Wait": 13,
+        "Wait": 12,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 60,
@@ -986,7 +986,7 @@
         "Quota": 60,
         "Enrol": 44,
         "Avail": 16,
-        "Wait": 13,
+        "Wait": 12,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 60,

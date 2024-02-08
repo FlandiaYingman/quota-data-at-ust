@@ -334,8 +334,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 51,
-        "Enrol": 51,
-        "Avail": 0,
+        "Enrol": 50,
+        "Avail": 1,
         "Wait": 7,
         "Remarks": []
       },
@@ -406,7 +406,7 @@
         "Quota": 50,
         "Enrol": 47,
         "Avail": 3,
-        "Wait": 4,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -502,8 +502,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 51,
-        "Enrol": 51,
-        "Avail": 0,
+        "Enrol": 50,
+        "Avail": 1,
         "Wait": 7,
         "Remarks": []
       },
@@ -546,7 +546,7 @@
         "Quota": 50,
         "Enrol": 47,
         "Avail": 3,
-        "Wait": 4,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1970,14 +1970,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 19,
-        "Avail": 11,
+        "Enrol": 18,
+        "Avail": 12,
         "Wait": 0,
         "QuotaDetail": {
           "SBM": {
             "Quota": 30,
-            "Enrol": 19,
-            "Avail": 11
+            "Enrol": 18,
+            "Avail": 12
           }
         },
         "Remarks": [
@@ -2207,9 +2207,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 64,
-        "Enrol": 60,
-        "Avail": 4,
-        "Wait": 3,
+        "Enrol": 61,
+        "Avail": 3,
+        "Wait": 2,
         "Remarks": [
           "For MSc(ECON) students only"
         ]
@@ -2306,8 +2306,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 48,
-        "Avail": 12,
+        "Enrol": 49,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",
@@ -2323,8 +2323,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 48,
-        "Avail": 12,
+        "Enrol": 49,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",
@@ -2340,8 +2340,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 48,
-        "Avail": 12,
+        "Enrol": 49,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": [
           "For MSc(ECON) students only",

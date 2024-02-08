@@ -1756,7 +1756,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -3797,7 +3797,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -4079,7 +4079,7 @@
         "Quota": 23,
         "Enrol": 23,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -4090,10 +4090,10 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 22,
-        "Enrol": 22,
+        "Quota": 23,
+        "Enrol": 23,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       },
       {

@@ -31,7 +31,7 @@
         "Quota": 400,
         "Enrol": 376,
         "Avail": 24,
-        "Wait": 81,
+        "Wait": 80,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -331,7 +331,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 5,
         "Remarks": [
           "Venue : Room CYTG001"
         ]
@@ -370,7 +370,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 163,
+        "Wait": 162,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -476,7 +476,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 18,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -2060,9 +2060,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 99,
-        "Avail": 1,
-        "Wait": 13,
+        "Enrol": 100,
+        "Avail": 0,
+        "Wait": 12,
         "Remarks": []
       }
     ]
@@ -2659,14 +2659,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
-        "Wait": 7,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 6,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 19,
-            "Avail": 1
+            "Enrol": 20,
+            "Avail": 0
           }
         },
         "Remarks": []
@@ -2886,14 +2886,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 8,
-        "Avail": 12,
-        "Wait": 2,
+        "Enrol": 9,
+        "Avail": 11,
+        "Wait": 1,
         "QuotaDetail": {
           "HUMA": {
             "Quota": 20,
-            "Enrol": 8,
-            "Avail": 12
+            "Enrol": 9,
+            "Avail": 11
           }
         },
         "Remarks": []

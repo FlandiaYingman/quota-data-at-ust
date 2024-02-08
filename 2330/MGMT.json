@@ -141,7 +141,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -239,7 +239,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -514,7 +514,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 12,
+        "Wait": 11,
         "Remarks": []
       },
       {
@@ -802,8 +802,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 45,
-        "Avail": 15,
+        "Enrol": 44,
+        "Avail": 16,
         "Wait": 2,
         "Remarks": []
       }
@@ -857,7 +857,7 @@
         "Quota": 60,
         "Enrol": 43,
         "Avail": 17,
-        "Wait": 4,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1982,7 +1982,7 @@
         "Quota": 60,
         "Enrol": 40,
         "Avail": 20,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "MBA Bi-weekly": {
             "Quota": 45,
@@ -2011,7 +2011,7 @@
         "Quota": 60,
         "Enrol": 40,
         "Avail": 20,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "MBA Bi-weekly": {
             "Quota": 45,
@@ -2040,7 +2040,7 @@
         "Quota": 60,
         "Enrol": 40,
         "Avail": 20,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "MBA Bi-weekly": {
             "Quota": 45,
@@ -2069,7 +2069,7 @@
         "Quota": 60,
         "Enrol": 40,
         "Avail": 20,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "MBA Bi-weekly": {
             "Quota": 45,
@@ -2098,7 +2098,7 @@
         "Quota": 60,
         "Enrol": 40,
         "Avail": 20,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "MBA Bi-weekly": {
             "Quota": 45,
@@ -2127,7 +2127,7 @@
         "Quota": 60,
         "Enrol": 40,
         "Avail": 20,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "MBA Bi-weekly": {
             "Quota": 45,
@@ -2156,7 +2156,7 @@
         "Quota": 60,
         "Enrol": 40,
         "Avail": 20,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "MBA Bi-weekly": {
             "Quota": 45,
@@ -2185,7 +2185,7 @@
         "Quota": 60,
         "Enrol": 40,
         "Avail": 20,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "MBA Bi-weekly": {
             "Quota": 45,
@@ -2604,7 +2604,7 @@
         "Quota": 40,
         "Enrol": 36,
         "Avail": 4,
-        "Wait": 10,
+        "Wait": 9,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 30,
@@ -2635,7 +2635,7 @@
         "Quota": 40,
         "Enrol": 36,
         "Avail": 4,
-        "Wait": 10,
+        "Wait": 9,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 30,

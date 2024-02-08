@@ -609,14 +609,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 5,
-        "Avail": 5,
+        "Enrol": 4,
+        "Avail": 6,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 10,
-            "Enrol": 4,
-            "Avail": 6
+            "Enrol": 3,
+            "Avail": 7
           }
         },
         "Remarks": [

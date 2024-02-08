@@ -519,7 +519,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -1752,7 +1752,7 @@
       {
         "Section": "T1 (4290)",
         "Date & Time": "Fr 10:30AM - 11:50AM",
-        "Room": "G009B, CYT Bldg (70)",
+        "Room": "Rm 2504, Lift 25-26 (84)",
         "Instructor": [
           "PARREAUX, Lionel"
         ],
@@ -3099,8 +3099,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 25,
-        "Avail": 35,
+        "Enrol": 26,
+        "Avail": 34,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {

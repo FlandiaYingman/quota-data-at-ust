@@ -138,5 +138,33 @@
         ]
       }
     ]
+  },
+  {
+    "program": "ENEG",
+    "code": "4980A",
+    "name": "Investigation Project",
+    "units": 3,
+    "info": {
+      "description": "Students conduct in-depth experimental or computational investigations on selected topics related to energy. The research experience will be beneficial for them to expose to cutting-edge research projects and apply for graduate school later on. Students work under supervision and are encouraged to use their own initiative to complete an appropriate program of work within the time allocated. Enrollment is subject to approval by the program director and supervisor. May be repeated for credits. May be graded PP. For SUSEE students only."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "LA1 (4405)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 3,
+        "Enrol": 0,
+        "Avail": 3,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
   }
 ]

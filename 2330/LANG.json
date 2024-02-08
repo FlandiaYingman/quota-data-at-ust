@@ -1168,7 +1168,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1362,8 +1362,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 7,
         "Remarks": []
       },
@@ -1516,9 +1516,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 19,
-        "Avail": 1,
-        "Wait": 6,
+        "Enrol": 20,
+        "Avail": 0,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -2447,8 +2447,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 7,
-        "Avail": 13,
+        "Enrol": 8,
+        "Avail": 12,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

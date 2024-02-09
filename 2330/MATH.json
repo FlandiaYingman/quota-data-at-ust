@@ -1597,7 +1597,7 @@
         "Quota": 100,
         "Enrol": 91,
         "Avail": 9,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -1611,7 +1611,7 @@
         "Quota": 100,
         "Enrol": 91,
         "Avail": 9,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -1639,7 +1639,7 @@
         "Quota": 50,
         "Enrol": 41,
         "Avail": 9,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -2673,29 +2673,29 @@
       {
         "Section": "L1 (4210)",
         "Date & Time": "TuTh 10:30AM - 11:50AM",
-        "Room": "Rm 2610, Lift 31-32 (26)",
+        "Room": "Rm 4579, Lift 27-28 (60)",
         "Instructor": [
           "LING, Shiqing"
         ],
         "TA/IA/GTA": [],
-        "Quota": 25,
-        "Enrol": 25,
-        "Avail": 0,
-        "Wait": 11,
+        "Quota": 37,
+        "Enrol": 34,
+        "Avail": 3,
+        "Wait": 2,
         "Remarks": []
       },
       {
         "Section": "T1A (4211)",
         "Date & Time": "Th 07:00PM - 07:50PM",
-        "Room": "Rm 2610, Lift 31-32 (26)",
+        "Room": "Rm 1033, LSK Bldg (51)",
         "Instructor": [
           "LING, Shiqing"
         ],
         "TA/IA/GTA": [],
-        "Quota": 25,
-        "Enrol": 25,
-        "Avail": 0,
-        "Wait": 11,
+        "Quota": 37,
+        "Enrol": 34,
+        "Avail": 3,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -3026,6 +3026,22 @@
         "Quota": 1,
         "Enrol": 1,
         "Avail": 0,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
+        "Section": "L10 (4406)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "SU, Wei"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

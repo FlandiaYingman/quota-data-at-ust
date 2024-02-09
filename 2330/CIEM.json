@@ -363,23 +363,18 @@
       {
         "Section": "L1 (1618)",
         "Date & Time": "We 07:00PM - 09:50PM",
-        "Room": "Rm 1527, Lift 22 (74)",
+        "Room": "TBA",
         "Instructor": [
           "DIMITRAKOPOULOS, Ilias"
         ],
         "TA/IA/GTA": [],
-        "Quota": 70,
+        "Quota": 0,
         "Enrol": 11,
-        "Avail": 59,
+        "Avail": 0,
         "Wait": 0,
-        "QuotaDetail": {
-          "CIEM": {
-            "Quota": 70,
-            "Enrol": 10,
-            "Avail": 60
-          }
-        },
-        "Remarks": []
+        "Remarks": [
+          "Class cancelled"
+        ]
       }
     ]
   },

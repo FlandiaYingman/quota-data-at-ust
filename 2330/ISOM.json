@@ -587,7 +587,7 @@
         "Quota": 101,
         "Enrol": 101,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 16,
         "Remarks": []
       },
       {
@@ -946,8 +946,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
+        "Enrol": 79,
+        "Avail": 1,
         "Wait": 18,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"

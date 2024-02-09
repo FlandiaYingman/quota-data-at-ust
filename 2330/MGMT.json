@@ -349,7 +349,7 @@
         "Quota": 64,
         "Enrol": 64,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -388,10 +388,10 @@
           "WONG, Kin Fai Ellick"
         ],
         "TA/IA/GTA": [],
-        "Quota": 64,
-        "Enrol": 64,
+        "Quota": 65,
+        "Enrol": 65,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "Remarks": []
       }
     ]
@@ -1143,10 +1143,10 @@
           "KOC, Joseph"
         ],
         "TA/IA/GTA": [],
-        "Quota": 30,
-        "Enrol": 30,
-        "Avail": 0,
-        "Wait": 8,
+        "Quota": 34,
+        "Enrol": 31,
+        "Avail": 3,
+        "Wait": 7,
         "Remarks": []
       }
     ]

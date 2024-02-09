@@ -205,7 +205,7 @@
         "Quota": 150,
         "Enrol": 146,
         "Avail": 4,
-        "Wait": 24,
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -233,7 +233,7 @@
         "Quota": 75,
         "Enrol": 71,
         "Avail": 4,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       }
     ]
@@ -431,12 +431,14 @@
     "sections": [
       {
         "Section": "L1 (2635)",
-        "Date & Time": "TuTh 12:00PM - 01:20PM",
-        "Room": "Rm 5560, Lift 27-28 (30)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
         "Instructor": [
-          "PEREZ PALOMAR, Daniel"
+          "TBA"
         ],
-        "TA/IA/GTA": [],
+        "TA/IA/GTA": [
+          ""
+        ],
         "Quota": 15,
         "Enrol": 15,
         "Avail": 0,

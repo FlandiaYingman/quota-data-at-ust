@@ -24,7 +24,7 @@
         "Quota": 10,
         "Enrol": 8,
         "Avail": 2,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "AESF": {
             "Quota": 10,
@@ -45,7 +45,7 @@
         "Quota": 10,
         "Enrol": 8,
         "Avail": 2,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "AESF": {
             "Quota": 10,
@@ -115,7 +115,7 @@
         "Quota": 70,
         "Enrol": 37,
         "Avail": 33,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "AESF": {
             "Quota": 70,

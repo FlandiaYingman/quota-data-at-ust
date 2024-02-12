@@ -46,7 +46,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 26,
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -564,7 +564,7 @@
         "Quota": 105,
         "Enrol": 100,
         "Avail": 5,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -2966,7 +2966,7 @@
         "Quota": 30,
         "Enrol": 15,
         "Avail": 15,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "ECE": {
             "Quota": 15,

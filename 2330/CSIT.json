@@ -258,14 +258,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 34,
-        "Avail": 6,
+        "Enrol": 33,
+        "Avail": 7,
         "Wait": 6,
         "QuotaDetail": {
           "CSIT": {
             "Quota": 40,
-            "Enrol": 34,
-            "Avail": 6
+            "Enrol": 33,
+            "Avail": 7
           }
         },
         "Remarks": []
@@ -292,8 +292,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 8,
-        "Avail": 82,
+        "Enrol": 10,
+        "Avail": 80,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

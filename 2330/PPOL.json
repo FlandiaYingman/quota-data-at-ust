@@ -173,7 +173,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 7,
         "QuotaDetail": {
           "MPP": {
             "Quota": 40,
@@ -1054,14 +1054,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 66,
-        "Avail": 34,
+        "Enrol": 67,
+        "Avail": 33,
         "Wait": 0,
         "QuotaDetail": {
           "MPP": {
             "Quota": 100,
-            "Enrol": 66,
-            "Avail": 34
+            "Enrol": 67,
+            "Avail": 33
           }
         },
         "Remarks": []

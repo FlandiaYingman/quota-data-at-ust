@@ -263,14 +263,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 10,
-        "Avail": 30,
+        "Enrol": 9,
+        "Avail": 31,
         "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 10,
-            "Avail": 30
+            "Enrol": 9,
+            "Avail": 31
           }
         },
         "Remarks": []
@@ -441,7 +441,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 8,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 39,

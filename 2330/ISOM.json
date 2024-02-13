@@ -948,7 +948,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 14,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -964,7 +964,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 34,
+        "Wait": 33,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -2609,8 +2609,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 36,
-        "Enrol": 34,
-        "Avail": 2,
+        "Enrol": 33,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": []
       }

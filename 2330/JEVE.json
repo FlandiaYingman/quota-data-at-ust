@@ -227,6 +227,11 @@
         "Avail": 32,
         "Wait": 3,
         "QuotaDetail": {
+          "EVEM": {
+            "Quota": 65,
+            "Enrol": 41,
+            "Avail": 24
+          },
           "CIEM": {
             "Quota": 5,
             "Enrol": 5,
@@ -241,11 +246,6 @@
             "Quota": 5,
             "Enrol": 0,
             "Avail": 5
-          },
-          "EVEM": {
-            "Quota": 65,
-            "Enrol": 41,
-            "Avail": 24
           }
         },
         "Remarks": []

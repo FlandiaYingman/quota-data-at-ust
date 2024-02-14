@@ -100,7 +100,7 @@
         "Quota": 77,
         "Enrol": 77,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -157,7 +157,7 @@
         "Quota": 170,
         "Enrol": 85,
         "Avail": 85,
-        "Wait": 17,
+        "Wait": 18,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -174,7 +174,7 @@
         "Quota": 170,
         "Enrol": 149,
         "Avail": 21,
-        "Wait": 35,
+        "Wait": 34,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -191,7 +191,7 @@
         "Quota": 170,
         "Enrol": 151,
         "Avail": 19,
-        "Wait": 33,
+        "Wait": 32,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -1212,7 +1212,7 @@
         "Quota": 77,
         "Enrol": 70,
         "Avail": 7,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1253,8 +1253,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 31,
-        "Avail": 34,
+        "Enrol": 30,
+        "Avail": 35,
         "Wait": 0,
         "Remarks": []
       },
@@ -1267,8 +1267,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 31,
-        "Avail": 34,
+        "Enrol": 30,
+        "Avail": 35,
         "Wait": 0,
         "Remarks": []
       }
@@ -1603,9 +1603,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 105,
-        "Enrol": 98,
-        "Avail": 7,
-        "Wait": 2,
+        "Enrol": 99,
+        "Avail": 6,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1633,9 +1633,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 83,
-        "Avail": 7,
-        "Wait": 3,
+        "Enrol": 84,
+        "Avail": 6,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -3821,7 +3821,7 @@
         "Quota": 200,
         "Enrol": 200,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       }
     ]

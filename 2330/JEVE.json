@@ -278,16 +278,6 @@
         "Avail": 13,
         "Wait": 9,
         "QuotaDetail": {
-          "EVEM": {
-            "Quota": 60,
-            "Enrol": 48,
-            "Avail": 12
-          },
-          "CIEM": {
-            "Quota": 10,
-            "Enrol": 10,
-            "Avail": 0
-          },
           "MCEE": {
             "Quota": 5,
             "Enrol": 4,
@@ -296,6 +286,16 @@
           "EHS": {
             "Quota": 5,
             "Enrol": 5,
+            "Avail": 0
+          },
+          "EVEM": {
+            "Quota": 60,
+            "Enrol": 48,
+            "Avail": 12
+          },
+          "CIEM": {
+            "Quota": 10,
+            "Enrol": 10,
             "Avail": 0
           }
         },
@@ -314,16 +314,6 @@
         "Avail": 13,
         "Wait": 9,
         "QuotaDetail": {
-          "EVEM": {
-            "Quota": 60,
-            "Enrol": 48,
-            "Avail": 12
-          },
-          "CIEM": {
-            "Quota": 10,
-            "Enrol": 10,
-            "Avail": 0
-          },
           "MCEE": {
             "Quota": 5,
             "Enrol": 4,
@@ -332,6 +322,16 @@
           "EHS": {
             "Quota": 5,
             "Enrol": 5,
+            "Avail": 0
+          },
+          "EVEM": {
+            "Quota": 60,
+            "Enrol": 48,
+            "Avail": 12
+          },
+          "CIEM": {
+            "Quota": 10,
+            "Enrol": 10,
             "Avail": 0
           }
         },
@@ -350,16 +350,6 @@
         "Avail": 13,
         "Wait": 9,
         "QuotaDetail": {
-          "EVEM": {
-            "Quota": 60,
-            "Enrol": 48,
-            "Avail": 12
-          },
-          "CIEM": {
-            "Quota": 10,
-            "Enrol": 10,
-            "Avail": 0
-          },
           "MCEE": {
             "Quota": 5,
             "Enrol": 4,
@@ -368,6 +358,16 @@
           "EHS": {
             "Quota": 5,
             "Enrol": 5,
+            "Avail": 0
+          },
+          "EVEM": {
+            "Quota": 60,
+            "Enrol": 48,
+            "Avail": 12
+          },
+          "CIEM": {
+            "Quota": 10,
+            "Enrol": 10,
             "Avail": 0
           }
         },

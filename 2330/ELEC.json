@@ -1929,7 +1929,7 @@
         "Quota": 6,
         "Enrol": 6,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": [
           "Classes held in Room 2127B"
         ]
@@ -2981,8 +2981,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 25,
-        "Avail": 0,
+        "Enrol": 24,
+        "Avail": 1,
         "Wait": 1,
         "Remarks": []
       }

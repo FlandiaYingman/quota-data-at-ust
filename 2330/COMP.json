@@ -114,7 +114,7 @@
         "Quota": 77,
         "Enrol": 77,
         "Avail": 0,
-        "Wait": 28,
+        "Wait": 27,
         "Remarks": []
       },
       {
@@ -157,7 +157,7 @@
         "Quota": 170,
         "Enrol": 86,
         "Avail": 84,
-        "Wait": 17,
+        "Wait": 16,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -230,7 +230,7 @@
         "Quota": 80,
         "Enrol": 77,
         "Avail": 3,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -246,7 +246,7 @@
         "Quota": 80,
         "Enrol": 77,
         "Avail": 3,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       }
     ]
@@ -3270,8 +3270,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 15,
-        "Avail": 10,
+        "Enrol": 14,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": [
           "Classes held in Room 4503",

@@ -66,14 +66,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 110,
-        "Enrol": 102,
-        "Avail": 8,
-        "Wait": 4,
+        "Enrol": 103,
+        "Avail": 7,
+        "Wait": 3,
         "QuotaDetail": {
           "CIEM": {
             "Quota": 110,
-            "Enrol": 102,
-            "Avail": 8
+            "Enrol": 103,
+            "Avail": 7
           }
         },
         "Remarks": []
@@ -175,14 +175,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 32,
-        "Avail": 58,
+        "Enrol": 31,
+        "Avail": 59,
         "Wait": 0,
         "QuotaDetail": {
           "CIEM": {
             "Quota": 90,
-            "Enrol": 31,
-            "Avail": 59
+            "Enrol": 30,
+            "Avail": 60
           }
         },
         "Remarks": []
@@ -335,14 +335,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 42,
-        "Avail": 28,
+        "Enrol": 41,
+        "Avail": 29,
         "Wait": 0,
         "QuotaDetail": {
           "CIEM": {
             "Quota": 70,
-            "Enrol": 42,
-            "Avail": 28
+            "Enrol": 41,
+            "Avail": 29
           }
         },
         "Remarks": []
@@ -433,8 +433,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 190,
-        "Enrol": 165,
-        "Avail": 25,
+        "Enrol": 166,
+        "Avail": 24,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

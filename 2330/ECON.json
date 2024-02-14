@@ -177,7 +177,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -261,7 +261,7 @@
         "Quota": 58,
         "Enrol": 58,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 6,
         "Remarks": []
       }
     ]
@@ -2207,9 +2207,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 64,
-        "Enrol": 57,
-        "Avail": 7,
-        "Wait": 2,
+        "Enrol": 58,
+        "Avail": 6,
+        "Wait": 1,
         "Remarks": [
           "For MSc(ECON) students only"
         ]

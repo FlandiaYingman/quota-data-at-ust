@@ -134,14 +134,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 26,
-        "Avail": 74,
+        "Enrol": 25,
+        "Avail": 75,
         "Wait": 4,
         "QuotaDetail": {
           "IBTM": {
             "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
+            "Enrol": 4,
+            "Avail": 1
           },
           "MESF": {
             "Quota": 95,
@@ -282,8 +282,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 1,
-        "Avail": 39,
+        "Enrol": 2,
+        "Avail": 38,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

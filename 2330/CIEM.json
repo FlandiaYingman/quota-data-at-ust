@@ -66,14 +66,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 110,
-        "Enrol": 103,
-        "Avail": 7,
+        "Enrol": 102,
+        "Avail": 8,
         "Wait": 3,
         "QuotaDetail": {
           "CIEM": {
             "Quota": 110,
-            "Enrol": 103,
-            "Avail": 7
+            "Enrol": 102,
+            "Avail": 8
           }
         },
         "Remarks": []
@@ -250,14 +250,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 51,
-        "Avail": 39,
+        "Enrol": 52,
+        "Avail": 38,
         "Wait": 0,
         "QuotaDetail": {
           "CIEM": {
             "Quota": 90,
-            "Enrol": 51,
-            "Avail": 39
+            "Enrol": 52,
+            "Avail": 38
           }
         },
         "Remarks": []
@@ -286,14 +286,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 73,
-        "Avail": 17,
+        "Enrol": 72,
+        "Avail": 18,
         "Wait": 10,
         "QuotaDetail": {
           "CIEM": {
             "Quota": 73,
-            "Enrol": 68,
-            "Avail": 5
+            "Enrol": 67,
+            "Avail": 6
           },
           "EVEM": {
             "Quota": 10,
@@ -346,35 +346,6 @@
           }
         },
         "Remarks": []
-      }
-    ]
-  },
-  {
-    "program": "CIEM",
-    "code": "6000T",
-    "name": "Seismic Analysis and Design of Structures",
-    "units": 3,
-    "info": {
-      "vector": "[3-0-0:3]",
-      "description": "The purpose of this course is to introduce the fundamental, and indispensable for (professional) structural engineers, principles of seismic analysis and design of structures. The course also provides students with an understanding of the basic concepts and methods adopted by most contemporary seismic design codes worldwide. To this end, it briefly presents elements of seismology, earthquake engineering and structural dynamics. The course focuses on applications and includes multiple practical examples with the use of finite element software."
-    },
-    "attrs": [],
-    "sections": [
-      {
-        "Section": "L1 (1618)",
-        "Date & Time": "We 07:00PM - 09:50PM",
-        "Room": "TBA",
-        "Instructor": [
-          "DIMITRAKOPOULOS, Ilias"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 0,
-        "Avail": 0,
-        "Wait": 0,
-        "Remarks": [
-          "Class cancelled"
-        ]
       }
     ]
   },

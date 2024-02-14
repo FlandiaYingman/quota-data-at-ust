@@ -278,16 +278,6 @@
         "Avail": 13,
         "Wait": 9,
         "QuotaDetail": {
-          "MCEE": {
-            "Quota": 5,
-            "Enrol": 4,
-            "Avail": 1
-          },
-          "EHS": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          },
           "EVEM": {
             "Quota": 60,
             "Enrol": 48,
@@ -296,6 +286,16 @@
           "CIEM": {
             "Quota": 10,
             "Enrol": 10,
+            "Avail": 0
+          },
+          "MCEE": {
+            "Quota": 5,
+            "Enrol": 4,
+            "Avail": 1
+          },
+          "EHS": {
+            "Quota": 5,
+            "Enrol": 5,
             "Avail": 0
           }
         },
@@ -314,16 +314,6 @@
         "Avail": 13,
         "Wait": 9,
         "QuotaDetail": {
-          "MCEE": {
-            "Quota": 5,
-            "Enrol": 4,
-            "Avail": 1
-          },
-          "EHS": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          },
           "EVEM": {
             "Quota": 60,
             "Enrol": 48,
@@ -332,6 +322,16 @@
           "CIEM": {
             "Quota": 10,
             "Enrol": 10,
+            "Avail": 0
+          },
+          "MCEE": {
+            "Quota": 5,
+            "Enrol": 4,
+            "Avail": 1
+          },
+          "EHS": {
+            "Quota": 5,
+            "Enrol": 5,
             "Avail": 0
           }
         },
@@ -350,16 +350,6 @@
         "Avail": 13,
         "Wait": 9,
         "QuotaDetail": {
-          "MCEE": {
-            "Quota": 5,
-            "Enrol": 4,
-            "Avail": 1
-          },
-          "EHS": {
-            "Quota": 5,
-            "Enrol": 5,
-            "Avail": 0
-          },
           "EVEM": {
             "Quota": 60,
             "Enrol": 48,
@@ -368,6 +358,16 @@
           "CIEM": {
             "Quota": 10,
             "Enrol": 10,
+            "Avail": 0
+          },
+          "MCEE": {
+            "Quota": 5,
+            "Enrol": 4,
+            "Avail": 1
+          },
+          "EHS": {
+            "Quota": 5,
+            "Enrol": 5,
             "Avail": 0
           }
         },

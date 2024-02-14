@@ -383,7 +383,7 @@
         "Quota": 120,
         "Enrol": 120,
         "Avail": 0,
-        "Wait": 160,
+        "Wait": 159,
         "Remarks": []
       },
       {
@@ -395,9 +395,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 120,
-        "Avail": 0,
-        "Wait": 163,
+        "Enrol": 119,
+        "Avail": 1,
+        "Wait": 162,
         "Remarks": []
       }
     ]
@@ -461,7 +461,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 21,
+        "Wait": 22,
         "Remarks": []
       }
     ]
@@ -633,8 +633,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 15,
         "Remarks": []
       }
@@ -817,7 +817,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 5,
+        "Wait": 4,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1217,14 +1217,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 15,
-        "Avail": 5,
+        "Enrol": 14,
+        "Avail": 6,
         "Wait": 2,
         "QuotaDetail": {
           "SOSC": {
             "Quota": 19,
-            "Enrol": 14,
-            "Avail": 5
+            "Enrol": 13,
+            "Avail": 6
           }
         },
         "Remarks": []

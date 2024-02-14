@@ -478,7 +478,7 @@
         "Quota": 30,
         "Enrol": 13,
         "Avail": 17,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 30,
@@ -501,7 +501,7 @@
         "Quota": 30,
         "Enrol": 13,
         "Avail": 17,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 30,
@@ -895,14 +895,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 30,
-        "Avail": 10,
+        "Enrol": 29,
+        "Avail": 11,
         "Wait": 1,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 30,
-            "Avail": 10
+            "Enrol": 29,
+            "Avail": 11
           }
         },
         "Remarks": []
@@ -963,14 +963,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 38,
-        "Avail": 22,
+        "Enrol": 37,
+        "Avail": 23,
         "Wait": 8,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 60,
-            "Enrol": 38,
-            "Avail": 22
+            "Enrol": 37,
+            "Avail": 23
           }
         },
         "Remarks": []
@@ -984,14 +984,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 38,
-        "Avail": 22,
+        "Enrol": 37,
+        "Avail": 23,
         "Wait": 8,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 60,
-            "Enrol": 38,
-            "Avail": 22
+            "Enrol": 37,
+            "Avail": 23
           }
         },
         "Remarks": []
@@ -1054,14 +1054,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 78,
-        "Avail": 22,
+        "Enrol": 80,
+        "Avail": 20,
         "Wait": 0,
         "QuotaDetail": {
           "MPP": {
             "Quota": 100,
-            "Enrol": 78,
-            "Avail": 22
+            "Enrol": 80,
+            "Avail": 20
           }
         },
         "Remarks": []

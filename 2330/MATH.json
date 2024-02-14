@@ -131,9 +131,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 29,
-        "Avail": 1,
-        "Wait": 5,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 4,
         "Remarks": [
           "Venue: Room CYTG010"
         ]
@@ -163,9 +163,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 29,
-        "Avail": 1,
-        "Wait": 5,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 4,
         "Remarks": [
           "Venue: LTF"
         ]
@@ -253,7 +253,7 @@
         "Quota": 135,
         "Enrol": 132,
         "Avail": 3,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -533,7 +533,7 @@
         "Quota": 45,
         "Enrol": 44,
         "Avail": 1,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1205,7 +1205,7 @@
         "Quota": 100,
         "Enrol": 95,
         "Avail": 5,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1247,7 +1247,7 @@
         "Quota": 50,
         "Enrol": 45,
         "Avail": 5,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -2526,8 +2526,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 110,
-        "Enrol": 88,
-        "Avail": 22,
+        "Enrol": 89,
+        "Avail": 21,
         "Wait": 0,
         "Remarks": []
       },
@@ -2540,8 +2540,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 110,
-        "Enrol": 88,
-        "Avail": 22,
+        "Enrol": 89,
+        "Avail": 21,
         "Wait": 0,
         "Remarks": []
       }

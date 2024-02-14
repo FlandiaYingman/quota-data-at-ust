@@ -575,8 +575,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 54,
-        "Enrol": 53,
-        "Avail": 1,
+        "Enrol": 52,
+        "Avail": 2,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -621,7 +621,7 @@
         "Quota": 90,
         "Enrol": 80,
         "Avail": 10,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -705,7 +705,7 @@
         "Quota": 90,
         "Enrol": 80,
         "Avail": 10,
-        "Wait": 7,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -1071,8 +1071,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 78,
-        "Avail": 22,
+        "Enrol": 77,
+        "Avail": 23,
         "Wait": 0,
         "Remarks": []
       },
@@ -1101,8 +1101,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 90,
-        "Avail": 10,
+        "Enrol": 91,
+        "Avail": 9,
         "Wait": 0,
         "Remarks": []
       },
@@ -2479,8 +2479,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 483,
-        "Enrol": 476,
-        "Avail": 7,
+        "Enrol": 475,
+        "Avail": 8,
         "Wait": 0,
         "Remarks": []
       },
@@ -2671,7 +2671,7 @@
         "Quota": 7,
         "Enrol": 7,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": [
           "Instructor Consent Required"
         ]
@@ -2910,8 +2910,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 85,
-        "Enrol": 67,
-        "Avail": 18,
+        "Enrol": 66,
+        "Avail": 19,
         "Wait": 3,
         "QuotaDetail": {
           "CSE": {
@@ -3355,14 +3355,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 4,
-        "Avail": 56,
+        "Enrol": 3,
+        "Avail": 57,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 2,
-            "Avail": 38
+            "Enrol": 1,
+            "Avail": 39
           }
         },
         "Remarks": []

@@ -593,7 +593,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -607,7 +607,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -621,7 +621,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 10,
         "Remarks": []
       }
     ]
@@ -1491,7 +1491,7 @@
         "Quota": 35,
         "Enrol": 35,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 5,
         "Remarks": [
           "LIFS 5001 is not co-listing with BIEN 5001 in Spring 2023-24"
         ]

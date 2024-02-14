@@ -619,6 +619,35 @@
   },
   {
     "program": "EESM",
+    "code": "6980G",
+    "name": "MSc Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Independent project carried out under the supervision of a faculty member. This course may be run repeatedly for credit(s)."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4412)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "EESM",
     "code": "6980H",
     "name": "MSc Project",
     "units": 3,

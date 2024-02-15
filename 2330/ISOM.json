@@ -545,7 +545,7 @@
         "Quota": 102,
         "Enrol": 102,
         "Avail": 0,
-        "Wait": 27,
+        "Wait": 26,
         "Remarks": []
       },
       {
@@ -559,7 +559,7 @@
         "Quota": 102,
         "Enrol": 102,
         "Avail": 0,
-        "Wait": 27,
+        "Wait": 26,
         "Remarks": []
       },
       {
@@ -627,8 +627,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 87,
-        "Enrol": 87,
-        "Avail": 0,
+        "Enrol": 86,
+        "Avail": 1,
         "Wait": 36,
         "Remarks": []
       }
@@ -929,9 +929,9 @@
           "LU, Lijian"
         ],
         "TA/IA/GTA": [],
-        "Quota": 81,
+        "Quota": 83,
         "Enrol": 81,
-        "Avail": 0,
+        "Avail": 2,
         "Wait": 19,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
@@ -1461,7 +1461,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 39,
+        "Wait": 38,
         "Remarks": []
       }
     ]
@@ -1919,7 +1919,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -1933,7 +1933,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 15,
+        "Wait": 14,
         "Remarks": []
       },
       {
@@ -2003,7 +2003,7 @@
         "Quota": 55,
         "Enrol": 55,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -2045,7 +2045,7 @@
         "Quota": 55,
         "Enrol": 37,
         "Avail": 18,
-        "Wait": 5,
+        "Wait": 6,
         "Remarks": []
       }
     ]
@@ -2372,8 +2372,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 29,
-        "Avail": 31,
+        "Enrol": 30,
+        "Avail": 30,
         "Wait": 0,
         "Remarks": []
       }

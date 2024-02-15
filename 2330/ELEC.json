@@ -102,7 +102,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 18,
+        "Wait": 17,
         "Remarks": []
       }
     ]
@@ -2458,8 +2458,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 141,
-        "Enrol": 141,
-        "Avail": 0,
+        "Enrol": 140,
+        "Avail": 1,
         "Wait": 0,
         "Remarks": [
           "The credit load will usually be spread in the following pattern: Summer: 1; Fall: 2; Spring: 3"

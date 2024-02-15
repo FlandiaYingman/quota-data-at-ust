@@ -74,7 +74,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 31,
+        "Wait": 30,
         "Remarks": [
           "The class is delivered in a experiential learning mode"
         ]
@@ -439,9 +439,9 @@
           "CHAN, Jimmy Wai Man"
         ],
         "TA/IA/GTA": [],
-        "Quota": 25,
+        "Quota": 6,
         "Enrol": 6,
-        "Avail": 19,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": [
           "Co-list with ENVR 5330"
@@ -608,15 +608,15 @@
           "CHAN, Jimmy Wai Man"
         ],
         "TA/IA/GTA": [],
-        "Quota": 10,
+        "Quota": 4,
         "Enrol": 4,
-        "Avail": 6,
+        "Avail": 0,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
-            "Quota": 10,
+            "Quota": 4,
             "Enrol": 3,
-            "Avail": 7
+            "Avail": 1
           }
         },
         "Remarks": [

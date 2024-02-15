@@ -114,7 +114,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -930,7 +930,7 @@
         "Quota": 20,
         "Enrol": 19,
         "Avail": 1,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1124,8 +1124,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 2,
         "Remarks": []
       },
@@ -1210,7 +1210,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1515,10 +1515,10 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 20,
-        "Enrol": 20,
+        "Quota": 21,
+        "Enrol": 21,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -2732,8 +2732,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 1,
         "Remarks": []
       },
@@ -4090,10 +4090,10 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 24,
-        "Enrol": 24,
+        "Quota": 25,
+        "Enrol": 25,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -4109,38 +4109,6 @@
         "Avail": 0,
         "Wait": 1,
         "Remarks": []
-      },
-      {
-        "Section": "T05 (3168)",
-        "Date & Time": "Mo 01:30PM - 02:50PM",
-        "Room": "TBA",
-        "Instructor": [
-          "TBA"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 1,
-        "Avail": 0,
-        "Wait": 0,
-        "Remarks": [
-          "Class cancelled"
-        ]
-      },
-      {
-        "Section": "T05 (3168)",
-        "Date & Time": "Fr 09:00AM - 10:20AM",
-        "Room": "TBA",
-        "Instructor": [
-          "TBA"
-        ],
-        "TA/IA/GTA": [],
-        "Quota": 0,
-        "Enrol": 1,
-        "Avail": 0,
-        "Wait": 0,
-        "Remarks": [
-          "Class cancelled"
-        ]
       }
     ]
   },

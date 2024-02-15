@@ -32,7 +32,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 130,
+        "Wait": 129,
         "Remarks": []
       },
       {
@@ -74,7 +74,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 26,
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -3278,15 +3278,15 @@
           "TU, Fengbin"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 43,
         "Enrol": 36,
-        "Avail": 9,
+        "Avail": 7,
         "Wait": 3,
         "QuotaDetail": {
           "ECE": {
-            "Quota": 45,
+            "Quota": 43,
             "Enrol": 36,
-            "Avail": 9
+            "Avail": 7
           }
         },
         "Remarks": []
@@ -3314,7 +3314,7 @@
           "TU, Fengbin"
         ],
         "TA/IA/GTA": [],
-        "Quota": 42,
+        "Quota": 44,
         "Enrol": 44,
         "Avail": 0,
         "Wait": 18,

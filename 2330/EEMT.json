@@ -62,7 +62,7 @@
         "Quota": 60,
         "Enrol": 53,
         "Avail": 7,
-        "Wait": 3,
+        "Wait": 2,
         "QuotaDetail": {
           "EEM": {
             "Quota": 60,
@@ -96,14 +96,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 32,
-        "Avail": 58,
+        "Enrol": 31,
+        "Avail": 59,
         "Wait": 4,
         "QuotaDetail": {
           "EEM": {
             "Quota": 80,
-            "Enrol": 23,
-            "Avail": 57
+            "Enrol": 22,
+            "Avail": 58
           },
           "MTLE": {
             "Quota": 10,

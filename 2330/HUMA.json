@@ -370,7 +370,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 136,
+        "Wait": 135,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -580,7 +580,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 10,
+        "Wait": 9,
         "Remarks": [
           "Venue : Room 3494"
         ]
@@ -1125,8 +1125,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 24,
         "Remarks": []
       },
@@ -1139,8 +1139,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 100,
-        "Avail": 0,
+        "Enrol": 99,
+        "Avail": 1,
         "Wait": 24,
         "Remarks": []
       }
@@ -1187,7 +1187,7 @@
         "Quota": 126,
         "Enrol": 125,
         "Avail": 1,
-        "Wait": 219,
+        "Wait": 218,
         "Remarks": []
       }
     ]
@@ -2060,8 +2060,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 97,
-        "Avail": 3,
+        "Enrol": 96,
+        "Avail": 4,
         "Wait": 11,
         "Remarks": []
       }
@@ -2431,8 +2431,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 10,
-        "Avail": 50,
+        "Enrol": 9,
+        "Avail": 51,
         "Wait": 0,
         "Remarks": []
       },
@@ -2445,8 +2445,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 10,
-        "Avail": 50,
+        "Enrol": 9,
+        "Avail": 51,
         "Wait": 0,
         "Remarks": []
       }
@@ -2601,10 +2601,10 @@
           "WU, Shengqing"
         ],
         "TA/IA/GTA": [],
-        "Quota": 20,
-        "Enrol": 20,
+        "Quota": 27,
+        "Enrol": 27,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 2,
         "Remarks": []
       }
     ]

@@ -1541,6 +1541,35 @@
   },
   {
     "program": "MECH",
+    "code": "6950A",
+    "name": "Independent Studies",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "An independent research project carried out under the supervision of a faculty member. (Only one independent studies course may be used to satisfy the course requirements for any postgraduate program in the Department of Mechanical Engineering.)"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4416)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MECH",
     "code": "6950C",
     "name": "Independent Studies",
     "units": 1,

@@ -223,14 +223,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 50,
-        "Avail": 30,
+        "Enrol": 51,
+        "Avail": 29,
         "Wait": 3,
         "QuotaDetail": {
           "EVEM": {
             "Quota": 64,
-            "Enrol": 42,
-            "Avail": 22
+            "Enrol": 43,
+            "Avail": 21
           },
           "CIEM": {
             "Quota": 6,

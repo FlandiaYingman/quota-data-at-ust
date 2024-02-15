@@ -21,7 +21,7 @@
         "Quota": 25,
         "Enrol": 23,
         "Avail": 2,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -36,7 +36,7 @@
         "Quota": 25,
         "Enrol": 23,
         "Avail": 2,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -207,9 +207,9 @@
           "SCHARFF, Rob"
         ],
         "TA/IA/GTA": [],
-        "Quota": 35,
+        "Quota": 37,
         "Enrol": 35,
-        "Avail": 0,
+        "Avail": 2,
         "Wait": 1,
         "Remarks": []
       },
@@ -221,9 +221,9 @@
           "SCHARFF, Rob"
         ],
         "TA/IA/GTA": [],
-        "Quota": 35,
+        "Quota": 37,
         "Enrol": 35,
-        "Avail": 0,
+        "Avail": 2,
         "Wait": 1,
         "Remarks": []
       }

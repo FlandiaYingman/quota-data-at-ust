@@ -391,8 +391,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 48,
-        "Enrol": 47,
-        "Avail": 1,
+        "Enrol": 48,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -405,8 +405,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 47,
-        "Enrol": 43,
-        "Avail": 4,
+        "Enrol": 42,
+        "Avail": 5,
         "Wait": 1,
         "Remarks": []
       },
@@ -1287,8 +1287,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 53,
-        "Enrol": 52,
-        "Avail": 1,
+        "Enrol": 53,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -1301,8 +1301,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 53,
-        "Enrol": 52,
-        "Avail": 1,
+        "Enrol": 53,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       }
@@ -2964,6 +2964,34 @@
   },
   {
     "program": "MATH",
+    "code": "4985M",
+    "name": "Independent Study: Learning Algorithm and Capacity in the Biological Circuits II",
+    "units": 1,
+    "info": {
+      "description": "This is a continuation of MATH 4985K. In this project, we focus on an archetypal circuit of biological learning - the mushroom body in insects. Despite its simple design, the circuit is responsible for the complex navigation behaviors in honeybees and fruit flies. We seek to (i) understand the key components of its learning algorithms, such as plasticity rules and types of connections between circuit layers, and (ii) characterize mathematically the capacity (i.e., how many stimulus patterns an animal can remember) of the mushroom body circuit given the components in (i). Students should seek the course instructor's approval to take this course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4415)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "HU, Yu"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      }
+    ]
+  },
+  {
+    "program": "MATH",
     "code": "4991",
     "name": "Capstone Project in Pure Mathematics",
     "units": 3,
@@ -3903,8 +3931,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 8,
-        "Avail": 12,
+        "Enrol": 9,
+        "Avail": 11,
         "Wait": 0,
         "Remarks": []
       }

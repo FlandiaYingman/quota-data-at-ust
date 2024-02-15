@@ -228,14 +228,14 @@
         "Wait": 3,
         "QuotaDetail": {
           "EVEM": {
-            "Quota": 65,
+            "Quota": 64,
             "Enrol": 42,
-            "Avail": 23
+            "Avail": 22
           },
           "CIEM": {
-            "Quota": 5,
+            "Quota": 6,
             "Enrol": 5,
-            "Avail": 0
+            "Avail": 1
           },
           "MCEE": {
             "Quota": 5,

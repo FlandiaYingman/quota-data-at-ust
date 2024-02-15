@@ -87,7 +87,7 @@
         "Quota": 117,
         "Enrol": 117,
         "Avail": 0,
-        "Wait": 18,
+        "Wait": 19,
         "Remarks": []
       },
       {
@@ -199,7 +199,7 @@
         "Quota": 55,
         "Enrol": 31,
         "Avail": 24,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -916,7 +916,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 23,
+        "Wait": 22,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -1459,8 +1459,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
-        "Avail": 0,
+        "Enrol": 59,
+        "Avail": 1,
         "Wait": 37,
         "Remarks": []
       }
@@ -1738,7 +1738,7 @@
         "Quota": 53,
         "Enrol": 53,
         "Avail": 0,
-        "Wait": 11,
+        "Wait": 12,
         "Remarks": []
       },
       {
@@ -1785,7 +1785,7 @@
       {
         "Section": "L1 (2826)",
         "Date & Time": "TuTh 03:00PM - 04:20PM",
-        "Room": "Rm 1007, LSK Bldg (80)",
+        "Room": "Rm 2303, Lift 17-18 (91)",
         "Instructor": [
           "YANG, Yi"
         ],
@@ -5532,7 +5532,7 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 60,
+        "Enrol": 61,
         "Avail": 0,
         "Wait": 2,
         "QuotaDetail": {

@@ -223,8 +223,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 129,
-        "Avail": 6,
+        "Enrol": 128,
+        "Avail": 7,
         "Wait": 4,
         "Remarks": []
       },
@@ -251,9 +251,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 133,
-        "Avail": 2,
-        "Wait": 3,
+        "Enrol": 134,
+        "Avail": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -265,9 +265,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 133,
-        "Avail": 2,
-        "Wait": 3,
+        "Enrol": 134,
+        "Avail": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -321,8 +321,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 123,
-        "Avail": 12,
+        "Enrol": 122,
+        "Avail": 13,
         "Wait": 4,
         "Remarks": []
       },
@@ -335,8 +335,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 135,
-        "Enrol": 123,
-        "Avail": 12,
+        "Enrol": 122,
+        "Avail": 13,
         "Wait": 4,
         "Remarks": []
       },
@@ -461,8 +461,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 42,
-        "Avail": 3,
+        "Enrol": 41,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": []
       },
@@ -545,9 +545,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 43,
-        "Avail": 2,
-        "Wait": 1,
+        "Enrol": 44,
+        "Avail": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -573,9 +573,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 43,
-        "Avail": 2,
-        "Wait": 1,
+        "Enrol": 44,
+        "Avail": 1,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -699,8 +699,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 45,
-        "Avail": 0,
+        "Enrol": 44,
+        "Avail": 1,
         "Wait": 2,
         "Remarks": []
       },
@@ -2168,9 +2168,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 93,
-        "Avail": 2,
-        "Wait": 20,
+        "Enrol": 94,
+        "Avail": 1,
+        "Wait": 19,
         "Remarks": []
       },
       {
@@ -2182,9 +2182,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 44,
-        "Avail": 1,
-        "Wait": 25,
+        "Enrol": 45,
+        "Avail": 0,
+        "Wait": 24,
         "Remarks": []
       },
       {
@@ -3092,6 +3092,22 @@
         ]
       },
       {
+        "Section": "L12 (4417)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "GUO, Xinzhou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Instructor Consent Required"
+        ]
+      },
+      {
         "Section": "L2 (4326)",
         "Date & Time": "TBA",
         "Room": "TBA",
@@ -3789,6 +3805,36 @@
         "Avail": 39,
         "Wait": 0,
         "Remarks": []
+      }
+    ]
+  },
+  {
+    "program": "MATH",
+    "code": "6911W",
+    "name": "Reading Course: Statistical Inference for Subgroups",
+    "units": 3,
+    "info": {
+      "vector": "[3-0-0:3]",
+      "description": "This course discusses statistical methods for subgroup inference, in particular, in drug development and regulatory decision-making. Students should seek approval from the course instructor to take this reading course."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "L1 (4418)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "GUO, Xinzhou"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 4,
+        "Enrol": 0,
+        "Avail": 4,
+        "Wait": 0,
+        "Remarks": [
+          "Students should seek approval from the course instructor to take this course.",
+          "Instructor Consent Required"
+        ]
       }
     ]
   },

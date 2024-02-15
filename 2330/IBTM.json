@@ -21,9 +21,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 105,
-        "Enrol": 95,
-        "Avail": 10,
-        "Wait": 1,
+        "Enrol": 96,
+        "Avail": 9,
+        "Wait": 0,
         "QuotaDetail": {
           "IBTM": {
             "Quota": 95,
@@ -60,20 +60,20 @@
           "HUANG, Baoling"
         ],
         "TA/IA/GTA": [],
-        "Quota": 90,
+        "Quota": 94,
         "Enrol": 89,
-        "Avail": 1,
+        "Avail": 5,
         "Wait": 4,
         "QuotaDetail": {
           "IBTM": {
-            "Quota": 80,
+            "Quota": 82,
             "Enrol": 80,
-            "Avail": 0
+            "Avail": 2
           },
           "MESF": {
-            "Quota": 10,
+            "Quota": 12,
             "Enrol": 9,
-            "Avail": 1
+            "Avail": 3
           }
         },
         "Remarks": []

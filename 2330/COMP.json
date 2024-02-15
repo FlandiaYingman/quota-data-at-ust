@@ -227,10 +227,10 @@
           "TSOI, Yau Chat"
         ],
         "TA/IA/GTA": [],
-        "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
-        "Wait": 3,
+        "Quota": 85,
+        "Enrol": 82,
+        "Avail": 3,
+        "Wait": 1,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -243,10 +243,10 @@
           "TSOI, Yau Chat"
         ],
         "TA/IA/GTA": [],
-        "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
-        "Wait": 3,
+        "Quota": 85,
+        "Enrol": 82,
+        "Avail": 3,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -605,9 +605,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 90,
-        "Avail": 10,
-        "Wait": 11,
+        "Enrol": 91,
+        "Avail": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -647,9 +647,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 85,
-        "Enrol": 81,
-        "Avail": 4,
-        "Wait": 2,
+        "Enrol": 80,
+        "Avail": 5,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -689,9 +689,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 90,
-        "Avail": 10,
-        "Wait": 11,
+        "Enrol": 91,
+        "Avail": 9,
+        "Wait": 10,
         "Remarks": []
       },
       {
@@ -731,9 +731,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 85,
-        "Enrol": 81,
-        "Avail": 4,
-        "Wait": 2,
+        "Enrol": 80,
+        "Avail": 5,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -929,7 +929,7 @@
         "Quota": 80,
         "Enrol": 75,
         "Avail": 5,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -988,7 +988,7 @@
         "Quota": 60,
         "Enrol": 51,
         "Avail": 9,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       }
     ]
@@ -1133,7 +1133,7 @@
         "Quota": 100,
         "Enrol": 57,
         "Avail": 43,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -1374,9 +1374,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 58,
-        "Avail": 12,
-        "Wait": 7,
+        "Enrol": 59,
+        "Avail": 11,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1403,9 +1403,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 62,
-        "Avail": 8,
-        "Wait": 10,
+        "Enrol": 63,
+        "Avail": 7,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -1518,7 +1518,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -1532,7 +1532,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -2226,9 +2226,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 69,
-        "Avail": 1,
-        "Wait": 12,
+        "Enrol": 70,
+        "Avail": 0,
+        "Wait": 11,
         "Remarks": []
       },
       {
@@ -2240,9 +2240,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 69,
-        "Avail": 1,
-        "Wait": 12,
+        "Enrol": 70,
+        "Avail": 0,
+        "Wait": 11,
         "Remarks": []
       }
     ]
@@ -2700,8 +2700,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
-        "Enrol": 9,
-        "Avail": 1,
+        "Enrol": 10,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
@@ -3019,14 +3019,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
+        "Enrol": 58,
+        "Avail": 2,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 38,
-            "Avail": 2
+            "Enrol": 37,
+            "Avail": 3
           }
         },
         "Remarks": []

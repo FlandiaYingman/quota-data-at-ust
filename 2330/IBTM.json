@@ -188,14 +188,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 90,
-        "Avail": 0,
+        "Enrol": 89,
+        "Avail": 1,
         "Wait": 7,
         "QuotaDetail": {
           "IBTM": {
             "Quota": 90,
-            "Enrol": 89,
-            "Avail": 1
+            "Enrol": 88,
+            "Avail": 2
           }
         },
         "Remarks": []
@@ -224,14 +224,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 90,
-        "Enrol": 68,
-        "Avail": 22,
-        "Wait": 4,
+        "Enrol": 69,
+        "Avail": 21,
+        "Wait": 3,
         "QuotaDetail": {
           "IBTM": {
             "Quota": 90,
-            "Enrol": 68,
-            "Avail": 22
+            "Enrol": 69,
+            "Avail": 21
           }
         },
         "Remarks": []

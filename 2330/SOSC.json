@@ -170,9 +170,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 400,
-        "Enrol": 400,
-        "Avail": 0,
-        "Wait": 182,
+        "Enrol": 399,
+        "Avail": 1,
+        "Wait": 179,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -246,10 +246,10 @@
           "KU, Shuk Mei Agnes"
         ],
         "TA/IA/GTA": [],
-        "Quota": 120,
+        "Quota": 122,
         "Enrol": 120,
-        "Avail": 0,
-        "Wait": 39,
+        "Avail": 2,
+        "Wait": 38,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -265,7 +265,7 @@
         "Quota": 300,
         "Enrol": 279,
         "Avail": 21,
-        "Wait": 16,
+        "Wait": 18,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -817,7 +817,7 @@
         "Quota": 40,
         "Enrol": 40,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 5,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]

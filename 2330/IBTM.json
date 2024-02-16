@@ -102,14 +102,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 95,
-        "Enrol": 45,
-        "Avail": 50,
-        "Wait": 5,
+        "Enrol": 46,
+        "Avail": 49,
+        "Wait": 4,
         "QuotaDetail": {
           "IBTM": {
             "Quota": 80,
-            "Enrol": 33,
-            "Avail": 47
+            "Enrol": 34,
+            "Avail": 46
           },
           "EVEM": {
             "Quota": 10,
@@ -194,8 +194,8 @@
         "QuotaDetail": {
           "IBTM": {
             "Quota": 90,
-            "Enrol": 88,
-            "Avail": 2
+            "Enrol": 89,
+            "Avail": 1
           }
         },
         "Remarks": []
@@ -230,8 +230,8 @@
         "QuotaDetail": {
           "IBTM": {
             "Quota": 90,
-            "Enrol": 66,
-            "Avail": 24
+            "Enrol": 67,
+            "Avail": 23
           }
         },
         "Remarks": []

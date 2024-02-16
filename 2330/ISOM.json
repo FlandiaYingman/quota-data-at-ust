@@ -59,7 +59,7 @@
         "Quota": 116,
         "Enrol": 114,
         "Avail": 2,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -71,8 +71,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 117,
-        "Enrol": 117,
-        "Avail": 0,
+        "Enrol": 116,
+        "Avail": 1,
         "Wait": 28,
         "Remarks": []
       },
@@ -113,8 +113,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 45,
-        "Avail": 10,
+        "Enrol": 43,
+        "Avail": 12,
         "Wait": 19,
         "Remarks": []
       },
@@ -141,9 +141,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 43,
-        "Avail": 12,
-        "Wait": 7,
+        "Enrol": 44,
+        "Avail": 11,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -169,9 +169,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 51,
-        "Avail": 4,
-        "Wait": 9,
+        "Enrol": 52,
+        "Avail": 3,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -225,8 +225,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 55,
-        "Avail": 0,
+        "Enrol": 53,
+        "Avail": 2,
         "Wait": 14,
         "Remarks": []
       },
@@ -239,9 +239,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 47,
-        "Avail": 8,
-        "Wait": 7,
+        "Enrol": 48,
+        "Avail": 7,
+        "Wait": 6,
         "Remarks": []
       }
     ]
@@ -1038,9 +1038,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 28,
-        "Avail": 2,
-        "Wait": 4,
+        "Enrol": 30,
+        "Avail": 0,
+        "Wait": 2,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1056,7 +1056,7 @@
         "Quota": 30,
         "Enrol": 30,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 5,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1486,9 +1486,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 68,
-        "Enrol": 67,
-        "Avail": 1,
-        "Wait": 7,
+        "Enrol": 68,
+        "Avail": 0,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1500,9 +1500,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 68,
-        "Enrol": 67,
-        "Avail": 1,
-        "Wait": 7,
+        "Enrol": 68,
+        "Avail": 0,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1514,9 +1514,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 68,
-        "Enrol": 67,
-        "Avail": 1,
-        "Wait": 7,
+        "Enrol": 68,
+        "Avail": 0,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1528,9 +1528,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 68,
-        "Enrol": 67,
-        "Avail": 1,
-        "Wait": 7,
+        "Enrol": 68,
+        "Avail": 0,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -1542,9 +1542,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 68,
-        "Enrol": 67,
-        "Avail": 1,
-        "Wait": 7,
+        "Enrol": 68,
+        "Avail": 0,
+        "Wait": 6,
         "Remarks": []
       }
     ]
@@ -1710,7 +1710,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -1766,7 +1766,7 @@
         "Quota": 53,
         "Enrol": 26,
         "Avail": 27,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -2728,14 +2728,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 30,
-        "Avail": 15,
+        "Enrol": 32,
+        "Avail": 13,
         "Wait": 0,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 45,
-            "Enrol": 29,
-            "Avail": 16
+            "Enrol": 31,
+            "Avail": 14
           }
         },
         "Remarks": [
@@ -2753,14 +2753,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 30,
-        "Avail": 15,
+        "Enrol": 32,
+        "Avail": 13,
         "Wait": 0,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 45,
-            "Enrol": 29,
-            "Avail": 16
+            "Enrol": 31,
+            "Avail": 14
           }
         },
         "Remarks": [
@@ -2778,14 +2778,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 45,
-        "Enrol": 30,
-        "Avail": 15,
+        "Enrol": 32,
+        "Avail": 13,
         "Wait": 0,
         "QuotaDetail": {
           "Digital MBA": {
             "Quota": 45,
-            "Enrol": 29,
-            "Avail": 16
+            "Enrol": 31,
+            "Avail": 14
           }
         },
         "Remarks": [
@@ -5473,6 +5473,33 @@
           "For MSc(ISM) students only",
           "Add/Drop Deadline : 16-Feb-2024"
         ]
+      }
+    ]
+  },
+  {
+    "program": "ISOM",
+    "code": "6390C",
+    "name": "Independent Study in Information Systems",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Study of selected information and systems management issues under the supervision of a faculty member. This course may be repeated for credit. (Special permission from the Associate Dean is required for MBA students to take this course.)"
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4421)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "TBA"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": []
       }
     ]
   },

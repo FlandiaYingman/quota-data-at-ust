@@ -25,15 +25,15 @@
         "Avail": 28,
         "Wait": 0,
         "QuotaDetail": {
-          "MCEE": {
-            "Quota": 90,
-            "Enrol": 72,
-            "Avail": 18
-          },
           "BEHI": {
             "Quota": 10,
             "Enrol": 0,
             "Avail": 10
+          },
+          "MCEE": {
+            "Quota": 90,
+            "Enrol": 72,
+            "Avail": 18
           }
         },
         "Remarks": []
@@ -65,15 +65,15 @@
         "Avail": 33,
         "Wait": 0,
         "QuotaDetail": {
-          "MCEE": {
-            "Quota": 90,
-            "Enrol": 66,
-            "Avail": 24
-          },
           "BEHI": {
             "Quota": 10,
             "Enrol": 0,
             "Avail": 10
+          },
+          "MCEE": {
+            "Quota": 90,
+            "Enrol": 66,
+            "Avail": 24
           }
         },
         "Remarks": []
@@ -143,15 +143,15 @@
         "Avail": 72,
         "Wait": 0,
         "QuotaDetail": {
-          "MCEE": {
-            "Quota": 90,
-            "Enrol": 25,
-            "Avail": 65
-          },
           "BEHI": {
             "Quota": 10,
             "Enrol": 3,
             "Avail": 7
+          },
+          "MCEE": {
+            "Quota": 90,
+            "Enrol": 25,
+            "Avail": 65
           }
         },
         "Remarks": []
@@ -184,15 +184,15 @@
         "Avail": 27,
         "Wait": 0,
         "QuotaDetail": {
-          "MCEE": {
-            "Quota": 62,
-            "Enrol": 45,
-            "Avail": 17
-          },
           "BEHI": {
             "Quota": 10,
             "Enrol": 0,
             "Avail": 10
+          },
+          "MCEE": {
+            "Quota": 62,
+            "Enrol": 45,
+            "Avail": 17
           }
         },
         "Remarks": []
@@ -223,15 +223,15 @@
         "Avail": 61,
         "Wait": 2,
         "QuotaDetail": {
-          "MCEE": {
-            "Quota": 90,
-            "Enrol": 38,
-            "Avail": 52
-          },
           "BEHI": {
             "Quota": 10,
             "Enrol": 0,
             "Avail": 10
+          },
+          "MCEE": {
+            "Quota": 90,
+            "Enrol": 38,
+            "Avail": 52
           }
         },
         "Remarks": []
@@ -262,15 +262,15 @@
         "Avail": 55,
         "Wait": 0,
         "QuotaDetail": {
-          "MCEE": {
-            "Quota": 90,
-            "Enrol": 44,
-            "Avail": 46
-          },
           "BEHI": {
             "Quota": 10,
             "Enrol": 0,
             "Avail": 10
+          },
+          "MCEE": {
+            "Quota": 90,
+            "Enrol": 44,
+            "Avail": 46
           }
         },
         "Remarks": []

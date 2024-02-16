@@ -129,21 +129,42 @@
       },
       {
         "Section": "L2 (1539)",
-        "Date & Time": "Tu 10:30AM - 01:20PM",
+        "Date & Time": "06-FEB-2024 - 06-FEB-2024<br>Tu 10:30AM - 01:20PM",
         "Room": "Rm 1032, LSK Bldg (45)",
         "Instructor": [
           "LEJANO, Raul Perez"
         ],
         "TA/IA/GTA": [],
-        "Quota": 45,
+        "Quota": 55,
         "Enrol": 45,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 1,
         "QuotaDetail": {
           "MPP": {
-            "Quota": 45,
+            "Quota": 55,
             "Enrol": 45,
-            "Avail": 0
+            "Avail": 10
+          }
+        },
+        "Remarks": []
+      },
+      {
+        "Section": "L2 (1539)",
+        "Date & Time": "20-FEB-2024 - 07-MAY-2024<br>Tu 10:30AM - 01:20PM",
+        "Room": "Rm 2303, Lift 17-18 (91)",
+        "Instructor": [
+          "LEJANO, Raul Perez"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 55,
+        "Enrol": 45,
+        "Avail": 10,
+        "Wait": 1,
+        "QuotaDetail": {
+          "MPP": {
+            "Quota": 55,
+            "Enrol": 45,
+            "Avail": 10
           }
         },
         "Remarks": []
@@ -1054,14 +1075,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 100,
-        "Enrol": 87,
-        "Avail": 13,
+        "Enrol": 88,
+        "Avail": 12,
         "Wait": 0,
         "QuotaDetail": {
           "MPP": {
             "Quota": 100,
-            "Enrol": 87,
-            "Avail": 13
+            "Enrol": 88,
+            "Avail": 12
           }
         },
         "Remarks": []

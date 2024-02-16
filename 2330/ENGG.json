@@ -97,7 +97,7 @@
         "Quota": 96,
         "Enrol": 76,
         "Avail": 20,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       },
       {
@@ -111,7 +111,7 @@
         "Quota": 48,
         "Enrol": 30,
         "Avail": 18,
-        "Wait": 1,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -225,8 +225,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 900,
-        "Enrol": 875,
-        "Avail": 25,
+        "Enrol": 876,
+        "Avail": 24,
         "Wait": 0,
         "Remarks": []
       },
@@ -415,8 +415,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 39,
-        "Avail": 1,
+        "Enrol": 40,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": [
           "The credit load will usually be spread in the following pattern: Spring: 3; Summer: 1",
@@ -654,7 +654,9 @@
         "Room": "TBA",
         "Instructor": [
           "ABEYNAYAKE, H.I. Malinda M.",
-          "CHAU, Ying"
+          "CHAU, Ying",
+          "HAGMANN, David",
+          "LAM, Ngok"
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
@@ -672,7 +674,9 @@
         "Room": "TBA",
         "Instructor": [
           "ABEYNAYAKE, H.I. Malinda M.",
-          "CHAU, Ying"
+          "CHAU, Ying",
+          "HAGMANN, David",
+          "LAM, Ngok"
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
@@ -690,7 +694,8 @@
         "Room": "TBA",
         "Instructor": [
           "ABEYNAYAKE, H.I. Malinda M.",
-          "CHAU, Ying"
+          "CHAU, Ying",
+          "MAK, Andrew T C"
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
@@ -708,7 +713,9 @@
         "Room": "TBA",
         "Instructor": [
           "ABEYNAYAKE, H.I. Malinda M.",
-          "CHAU, Ying"
+          "CHAU, Ying",
+          "LIEM, Rhea Patricia",
+          "LING, Carrie"
         ],
         "TA/IA/GTA": [],
         "Quota": 10,
@@ -779,8 +786,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 800,
-        "Enrol": 763,
-        "Avail": 37,
+        "Enrol": 762,
+        "Avail": 38,
         "Wait": 0,
         "Remarks": []
       }

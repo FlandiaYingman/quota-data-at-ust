@@ -30,9 +30,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 400,
-        "Enrol": 400,
-        "Avail": 0,
-        "Wait": 123,
+        "Enrol": 399,
+        "Avail": 1,
+        "Wait": 120,
         "Remarks": []
       },
       {
@@ -58,9 +58,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 80,
-        "Avail": 0,
-        "Wait": 27,
+        "Enrol": 79,
+        "Avail": 1,
+        "Wait": 25,
         "Remarks": []
       },
       {
@@ -74,7 +74,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 23,
+        "Wait": 22,
         "Remarks": []
       },
       {
@@ -128,7 +128,7 @@
         "Quota": 135,
         "Enrol": 128,
         "Avail": 7,
-        "Wait": 17,
+        "Wait": 18,
         "Remarks": []
       },
       {
@@ -142,7 +142,7 @@
         "Quota": 135,
         "Enrol": 111,
         "Avail": 24,
-        "Wait": 39,
+        "Wait": 38,
         "Remarks": []
       },
       {
@@ -2417,9 +2417,9 @@
           "LI, Xiaomeng"
         ],
         "TA/IA/GTA": [],
-        "Quota": 20,
+        "Quota": 24,
         "Enrol": 20,
-        "Avail": 0,
+        "Avail": 4,
         "Wait": 10,
         "Remarks": []
       },
@@ -2431,9 +2431,9 @@
           "LI, Xiaomeng"
         ],
         "TA/IA/GTA": [],
-        "Quota": 20,
+        "Quota": 24,
         "Enrol": 20,
-        "Avail": 0,
+        "Avail": 4,
         "Wait": 10,
         "Remarks": []
       }
@@ -3370,9 +3370,9 @@
           "TBA"
         ],
         "TA/IA/GTA": [],
-        "Quota": 170,
+        "Quota": 180,
         "Enrol": 170,
-        "Avail": 0,
+        "Avail": 10,
         "Wait": 2,
         "Remarks": []
       }

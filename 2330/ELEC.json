@@ -32,7 +32,7 @@
         "Quota": 400,
         "Enrol": 400,
         "Avail": 0,
-        "Wait": 111,
+        "Wait": 109,
         "Remarks": []
       },
       {
@@ -88,7 +88,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 40,
+        "Wait": 39,
         "Remarks": []
       },
       {
@@ -102,7 +102,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 15,
         "Remarks": []
       }
     ]
@@ -766,9 +766,9 @@
           "LIN, Zehong"
         ],
         "TA/IA/GTA": [],
-        "Quota": 63,
+        "Quota": 64,
         "Enrol": 63,
-        "Avail": 0,
+        "Avail": 1,
         "Wait": 1,
         "Remarks": []
       },
@@ -1378,8 +1378,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 21,
-        "Enrol": 17,
-        "Avail": 4,
+        "Enrol": 18,
+        "Avail": 3,
         "Wait": 4,
         "Remarks": []
       }
@@ -2420,7 +2420,7 @@
         "Quota": 24,
         "Enrol": 24,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -2434,7 +2434,7 @@
         "Quota": 24,
         "Enrol": 24,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -2823,8 +2823,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 15,
-        "Enrol": 9,
-        "Avail": 6,
+        "Enrol": 10,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       },
@@ -2837,8 +2837,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 15,
-        "Enrol": 9,
-        "Avail": 6,
+        "Enrol": 10,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       }

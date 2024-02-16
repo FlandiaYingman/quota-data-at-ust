@@ -2690,9 +2690,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
-        "Wait": 0,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -2704,9 +2704,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
-        "Wait": 0,
+        "Enrol": 19,
+        "Avail": 1,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -2858,8 +2858,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 20,
-        "Avail": 0,
+        "Enrol": 19,
+        "Avail": 1,
         "Wait": 2,
         "Remarks": []
       },
@@ -2958,7 +2958,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -3629,7 +3629,7 @@
         "Quota": 20,
         "Enrol": 20,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -3823,8 +3823,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 11,
-        "Avail": 9,
+        "Enrol": 10,
+        "Avail": 10,
         "Wait": 0,
         "Remarks": []
       },
@@ -3869,8 +3869,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 20,
-        "Enrol": 16,
-        "Avail": 4,
+        "Enrol": 17,
+        "Avail": 3,
         "Wait": 0,
         "Remarks": []
       },
@@ -5290,7 +5290,7 @@
         "Quota": 24,
         "Enrol": 24,
         "Avail": 0,
-        "Wait": 13,
+        "Wait": 12,
         "Remarks": [
           "The class is delivered in a blended learning mode",
           "For students under SENG and SSCI research postgraduate programs"
@@ -5477,7 +5477,7 @@
         "Quota": 24,
         "Enrol": 24,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "Remarks": [
           "The class is delivered in a blended learning mode",
           "For students under SENG and SSCI research postgraduate programs"

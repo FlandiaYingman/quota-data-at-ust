@@ -128,8 +128,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 120,
-        "Enrol": 77,
-        "Avail": 43,
+        "Enrol": 78,
+        "Avail": 42,
         "Wait": 0,
         "Remarks": []
       }
@@ -170,9 +170,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 400,
-        "Enrol": 400,
-        "Avail": 0,
-        "Wait": 167,
+        "Enrol": 399,
+        "Avail": 1,
+        "Wait": 166,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -383,7 +383,7 @@
         "Quota": 120,
         "Enrol": 120,
         "Avail": 0,
-        "Wait": 112,
+        "Wait": 110,
         "Remarks": []
       },
       {
@@ -397,7 +397,7 @@
         "Quota": 120,
         "Enrol": 120,
         "Avail": 0,
-        "Wait": 120,
+        "Wait": 119,
         "Remarks": []
       }
     ]

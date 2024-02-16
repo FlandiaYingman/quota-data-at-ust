@@ -943,7 +943,7 @@
         "Quota": 60,
         "Enrol": 42,
         "Avail": 18,
-        "Wait": 6,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -988,7 +988,7 @@
         "Quota": 60,
         "Enrol": 53,
         "Avail": 7,
-        "Wait": 3,
+        "Wait": 4,
         "Remarks": []
       }
     ]
@@ -1831,7 +1831,7 @@
         "Quota": 80,
         "Enrol": 75,
         "Avail": 5,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1846,7 +1846,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 5,
         "Remarks": []
       }
     ]
@@ -1933,8 +1933,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 150,
-        "Enrol": 146,
-        "Avail": 4,
+        "Enrol": 145,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
@@ -1949,8 +1949,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 150,
-        "Enrol": 146,
-        "Avail": 4,
+        "Enrol": 145,
+        "Avail": 5,
         "Wait": 0,
         "Remarks": []
       }
@@ -2397,7 +2397,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 18,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -2411,7 +2411,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 18,
+        "Wait": 17,
         "Remarks": []
       },
       {
@@ -2455,7 +2455,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 24,
+        "Wait": 23,
         "Remarks": []
       }
     ]
@@ -2948,8 +2948,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 47,
-        "Avail": 3,
+        "Enrol": 48,
+        "Avail": 2,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
@@ -3091,14 +3091,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 43,
-        "Avail": 17,
+        "Enrol": 42,
+        "Avail": 18,
         "Wait": 0,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,
-            "Enrol": 27,
-            "Avail": 13
+            "Enrol": 26,
+            "Avail": 14
           }
         },
         "Remarks": []

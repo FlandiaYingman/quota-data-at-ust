@@ -146,7 +146,7 @@
         "Quota": 80,
         "Enrol": 76,
         "Avail": 4,
-        "Wait": 1,
+        "Wait": 0,
         "QuotaDetail": {
           "EESM": {
             "Quota": 80,
@@ -286,7 +286,7 @@
         "Quota": 85,
         "Enrol": 26,
         "Avail": 59,
-        "Wait": 2,
+        "Wait": 0,
         "QuotaDetail": {
           "EESM": {
             "Quota": 85,
@@ -358,7 +358,7 @@
         "Quota": 80,
         "Enrol": 31,
         "Avail": 49,
-        "Wait": 2,
+        "Wait": 0,
         "QuotaDetail": {
           "EESM": {
             "Quota": 80,
@@ -468,7 +468,7 @@
         "Quota": 85,
         "Enrol": 57,
         "Avail": 28,
-        "Wait": 3,
+        "Wait": 0,
         "QuotaDetail": {
           "EESM": {
             "Quota": 85,
@@ -536,7 +536,7 @@
         "Quota": 88,
         "Enrol": 88,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 0,
         "QuotaDetail": {
           "EESM": {
             "Quota": 88,

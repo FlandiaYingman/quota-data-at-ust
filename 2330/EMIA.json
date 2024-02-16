@@ -301,7 +301,7 @@
         "Quota": 40,
         "Enrol": 28,
         "Avail": 12,
-        "Wait": 4,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -315,7 +315,7 @@
         "Quota": 40,
         "Enrol": 28,
         "Avail": 12,
-        "Wait": 4,
+        "Wait": 0,
         "Remarks": []
       }
     ]
@@ -342,7 +342,7 @@
         "Quota": 10,
         "Enrol": 10,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
         ]

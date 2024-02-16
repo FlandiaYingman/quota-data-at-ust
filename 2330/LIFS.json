@@ -185,7 +185,7 @@
         "Quota": 60,
         "Enrol": 59,
         "Avail": 1,
-        "Wait": 2,
+        "Wait": 0,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -305,7 +305,7 @@
         "Quota": 110,
         "Enrol": 110,
         "Avail": 0,
-        "Wait": 2,
+        "Wait": 0,
         "Remarks": []
       }
     ]
@@ -360,7 +360,7 @@
         "Quota": 130,
         "Enrol": 130,
         "Avail": 0,
-        "Wait": 17,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -375,7 +375,7 @@
         "Quota": 130,
         "Enrol": 130,
         "Avail": 0,
-        "Wait": 17,
+        "Wait": 0,
         "Remarks": []
       }
     ]
@@ -593,7 +593,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -607,7 +607,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -621,7 +621,7 @@
         "Quota": 50,
         "Enrol": 50,
         "Avail": 0,
-        "Wait": 6,
+        "Wait": 0,
         "Remarks": []
       }
     ]
@@ -648,7 +648,7 @@
         "Quota": 84,
         "Enrol": 81,
         "Avail": 3,
-        "Wait": 4,
+        "Wait": 0,
         "Remarks": []
       }
     ]
@@ -872,7 +872,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 0,
         "Remarks": []
       },
       {
@@ -886,7 +886,7 @@
         "Quota": 45,
         "Enrol": 45,
         "Avail": 0,
-        "Wait": 9,
+        "Wait": 0,
         "Remarks": []
       }
     ]
@@ -1315,7 +1315,7 @@
         "Quota": 9,
         "Enrol": 9,
         "Avail": 0,
-        "Wait": 1,
+        "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"
         ]
@@ -1491,7 +1491,7 @@
         "Quota": 35,
         "Enrol": 35,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 0,
         "Remarks": [
           "LIFS 5001 is not co-listing with BIEN 5001 in Spring 2023-24"
         ]

@@ -1319,9 +1319,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 54,
-        "Enrol": 53,
-        "Avail": 1,
-        "Wait": 9,
+        "Enrol": 54,
+        "Avail": 0,
+        "Wait": 8,
         "Remarks": [
           "The class is delivered in a blended learning mode"
         ]
@@ -1335,9 +1335,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 49,
-        "Avail": 1,
-        "Wait": 4,
+        "Enrol": 50,
+        "Avail": 0,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1391,9 +1391,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 42,
-        "Enrol": 24,
-        "Avail": 18,
-        "Wait": 2,
+        "Enrol": 25,
+        "Avail": 17,
+        "Wait": 1,
         "Remarks": []
       },
       {
@@ -5531,15 +5531,15 @@
           "NASIRY, Javad"
         ],
         "TA/IA/GTA": [],
-        "Quota": 60,
+        "Quota": 61,
         "Enrol": 61,
         "Avail": 0,
         "Wait": 2,
         "QuotaDetail": {
           "ISOM": {
-            "Quota": 60,
+            "Quota": 61,
             "Enrol": 50,
-            "Avail": 10
+            "Avail": 11
           }
         },
         "Remarks": [

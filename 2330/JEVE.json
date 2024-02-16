@@ -25,15 +25,15 @@
         "Avail": 34,
         "Wait": 0,
         "QuotaDetail": {
-          "EVEM": {
-            "Quota": 67,
-            "Enrol": 30,
-            "Avail": 37
-          },
           "ENVR": {
             "Quota": 13,
             "Enrol": 11,
             "Avail": 2
+          },
+          "EVEM": {
+            "Quota": 67,
+            "Enrol": 30,
+            "Avail": 37
           }
         },
         "Remarks": []

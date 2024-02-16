@@ -248,14 +248,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 50,
-        "Enrol": 22,
-        "Avail": 28,
+        "Enrol": 23,
+        "Avail": 27,
         "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 40,
-            "Enrol": 22,
-            "Avail": 18
+            "Enrol": 23,
+            "Avail": 17
           }
         },
         "Remarks": []
@@ -595,7 +595,7 @@
         "Quota": 90,
         "Enrol": 89,
         "Avail": 1,
-        "Wait": 1,
+        "Wait": 2,
         "QuotaDetail": {
           "PPOL": {
             "Quota": 90,
@@ -721,23 +721,18 @@
       {
         "Section": "L1 (4256)",
         "Date & Time": "We 06:30PM - 09:20PM",
-        "Room": "Rm 6591, Lift 31-32 (88)",
+        "Room": "TBA",
         "Instructor": [
           "BERNAL, Marie"
         ],
         "TA/IA/GTA": [],
-        "Quota": 40,
-        "Enrol": 4,
-        "Avail": 36,
+        "Quota": 0,
+        "Enrol": 3,
+        "Avail": 0,
         "Wait": 0,
-        "QuotaDetail": {
-          "PPOL": {
-            "Quota": 40,
-            "Enrol": 4,
-            "Avail": 36
-          }
-        },
-        "Remarks": []
+        "Remarks": [
+          "This class is cancelled"
+        ]
       }
     ]
   },

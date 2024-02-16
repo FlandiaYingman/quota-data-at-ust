@@ -32,7 +32,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 65,
+        "Wait": 64,
         "Remarks": []
       }
     ]
@@ -723,14 +723,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 41,
-        "Avail": 19,
+        "Enrol": 42,
+        "Avail": 18,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 60,
-            "Enrol": 41,
-            "Avail": 19
+            "Enrol": 42,
+            "Avail": 18
           }
         },
         "Remarks": [
@@ -919,14 +919,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 26,
-        "Avail": 14,
+        "Enrol": 25,
+        "Avail": 15,
         "Wait": 0,
         "QuotaDetail": {
           "ENVR": {
             "Quota": 40,
-            "Enrol": 26,
-            "Avail": 14
+            "Enrol": 25,
+            "Avail": 15
           }
         },
         "Remarks": [

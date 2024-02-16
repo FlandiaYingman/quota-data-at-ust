@@ -114,7 +114,7 @@
         "Quota": 77,
         "Enrol": 77,
         "Avail": 0,
-        "Wait": 20,
+        "Wait": 19,
         "Remarks": []
       },
       {
@@ -174,7 +174,7 @@
         "Quota": 170,
         "Enrol": 149,
         "Avail": 21,
-        "Wait": 25,
+        "Wait": 24,
         "Remarks": [
           "The class is delivered in a real-time online mode"
         ]
@@ -228,9 +228,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 87,
-        "Enrol": 86,
-        "Avail": 1,
-        "Wait": 2,
+        "Enrol": 87,
+        "Avail": 0,
+        "Wait": 1,
         "Remarks": [
           "The class is delivered in a self-paced online mode"
         ]
@@ -244,9 +244,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 87,
-        "Enrol": 86,
-        "Avail": 1,
-        "Wait": 2,
+        "Enrol": 87,
+        "Avail": 0,
+        "Wait": 1,
         "Remarks": []
       }
     ]
@@ -1445,8 +1445,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 75,
-        "Enrol": 66,
-        "Avail": 9,
+        "Enrol": 65,
+        "Avail": 10,
         "Wait": 0,
         "Remarks": []
       },
@@ -1459,8 +1459,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 86,
-        "Enrol": 85,
-        "Avail": 1,
+        "Enrol": 86,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       },
@@ -2423,9 +2423,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 14,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 13,
         "Remarks": []
       },
       {
@@ -2438,9 +2438,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 60,
-        "Enrol": 59,
-        "Avail": 1,
-        "Wait": 9,
+        "Enrol": 60,
+        "Avail": 0,
+        "Wait": 8,
         "Remarks": []
       },
       {
@@ -3021,7 +3021,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 0,
+        "Wait": 1,
         "QuotaDetail": {
           "CSE": {
             "Quota": 40,

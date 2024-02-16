@@ -348,5 +348,35 @@
         ]
       }
     ]
+  },
+  {
+    "program": "MAFS",
+    "code": "6100O",
+    "name": "Independent Project",
+    "units": 3,
+    "info": {
+      "vector": "[3 credits]",
+      "description": "Completion of an independent project under the supervisor of a faculty in financial mathematics or statistics.  Scope may include (i) identifying a non-reference problem and proposing the methods of solution, (ii) acquiring a specific research skill."
+    },
+    "attrs": [],
+    "sections": [
+      {
+        "Section": "R1 (4420)",
+        "Date & Time": "TBA",
+        "Room": "TBA",
+        "Instructor": [
+          "CHEN, Kani"
+        ],
+        "TA/IA/GTA": [],
+        "Quota": 1,
+        "Enrol": 0,
+        "Avail": 1,
+        "Wait": 0,
+        "Remarks": [
+          "Students should seek the instructor's approval to take this course.",
+          "Instructor Consent Required"
+        ]
+      }
+    ]
   }
 ]

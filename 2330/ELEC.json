@@ -30,9 +30,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 400,
-        "Enrol": 399,
-        "Avail": 1,
-        "Wait": 120,
+        "Enrol": 400,
+        "Avail": 0,
+        "Wait": 118,
         "Remarks": []
       },
       {
@@ -58,9 +58,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 79,
-        "Avail": 1,
-        "Wait": 25,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 24,
         "Remarks": []
       },
       {
@@ -88,7 +88,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 45,
+        "Wait": 44,
         "Remarks": []
       },
       {
@@ -265,7 +265,7 @@
         "Quota": 140,
         "Enrol": 138,
         "Avail": 2,
-        "Wait": 24,
+        "Wait": 23,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -281,7 +281,7 @@
         "Quota": 140,
         "Enrol": 138,
         "Avail": 2,
-        "Wait": 24,
+        "Wait": 23,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -311,7 +311,7 @@
         "Quota": 70,
         "Enrol": 68,
         "Avail": 2,
-        "Wait": 10,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -339,7 +339,7 @@
         "Quota": 70,
         "Enrol": 69,
         "Avail": 1,
-        "Wait": 21,
+        "Wait": 20,
         "Remarks": []
       }
     ]
@@ -2038,9 +2038,9 @@
           "CHAN, Mansun"
         ],
         "TA/IA/GTA": [],
-        "Quota": 4,
+        "Quota": 5,
         "Enrol": 4,
-        "Avail": 0,
+        "Avail": 1,
         "Wait": 1,
         "Remarks": [
           "Classes held in Room 2128C"
@@ -2418,9 +2418,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 24,
-        "Enrol": 20,
-        "Avail": 4,
-        "Wait": 10,
+        "Enrol": 24,
+        "Avail": 0,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -2432,9 +2432,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 24,
-        "Enrol": 20,
-        "Avail": 4,
-        "Wait": 10,
+        "Enrol": 24,
+        "Avail": 0,
+        "Wait": 7,
         "Remarks": []
       }
     ]
@@ -2922,8 +2922,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 10,
-        "Avail": 20,
+        "Enrol": 11,
+        "Avail": 19,
         "Wait": 0,
         "Remarks": []
       }
@@ -2981,8 +2981,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 25,
-        "Enrol": 24,
-        "Avail": 1,
+        "Enrol": 25,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": []
       }
@@ -3010,8 +3010,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 30,
-        "Enrol": 12,
-        "Avail": 18,
+        "Enrol": 13,
+        "Avail": 17,
         "Wait": 0,
         "Remarks": []
       },
@@ -3024,8 +3024,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 15,
-        "Enrol": 10,
-        "Avail": 5,
+        "Enrol": 11,
+        "Avail": 4,
         "Wait": 0,
         "Remarks": [
           "Classes held in Rm. G01, G/F, Lo Ka Chung University Center"
@@ -3371,9 +3371,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 180,
-        "Enrol": 170,
-        "Avail": 10,
-        "Wait": 2,
+        "Enrol": 172,
+        "Avail": 8,
+        "Wait": 0,
         "Remarks": []
       }
     ]

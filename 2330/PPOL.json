@@ -423,9 +423,9 @@
           "ZHU, Pengyu"
         ],
         "TA/IA/GTA": [],
-        "Quota": 41,
+        "Quota": 40,
         "Enrol": 9,
-        "Avail": 32,
+        "Avail": 31,
         "Wait": 1,
         "QuotaDetail": {
           "PPOL": {
@@ -950,14 +950,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 40,
-        "Enrol": 39,
-        "Avail": 1,
-        "Wait": 1,
+        "Enrol": 40,
+        "Avail": 0,
+        "Wait": 0,
         "QuotaDetail": {
           "PPOL": {
-            "Quota": 40,
+            "Quota": 39,
             "Enrol": 39,
-            "Avail": 1
+            "Avail": 0
           }
         },
         "Remarks": []

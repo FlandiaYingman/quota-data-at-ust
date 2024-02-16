@@ -393,14 +393,14 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 85,
-        "Enrol": 18,
-        "Avail": 67,
+        "Enrol": 19,
+        "Avail": 66,
         "Wait": 0,
         "QuotaDetail": {
           "EESM": {
             "Quota": 85,
-            "Enrol": 18,
-            "Avail": 67
+            "Enrol": 19,
+            "Avail": 66
           }
         },
         "Remarks": []
@@ -536,7 +536,7 @@
         "Quota": 88,
         "Enrol": 87,
         "Avail": 1,
-        "Wait": 8,
+        "Wait": 9,
         "QuotaDetail": {
           "EESM": {
             "Quota": 88,
@@ -637,8 +637,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 1,
-        "Enrol": 0,
-        "Avail": 1,
+        "Enrol": 1,
+        "Avail": 0,
         "Wait": 0,
         "Remarks": [
           "Instructor Consent Required"

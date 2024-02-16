@@ -169,9 +169,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 50,
-        "Avail": 5,
-        "Wait": 10,
+        "Enrol": 51,
+        "Avail": 4,
+        "Wait": 9,
         "Remarks": []
       },
       {
@@ -211,8 +211,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 55,
-        "Enrol": 55,
-        "Avail": 0,
+        "Enrol": 54,
+        "Avail": 1,
         "Wait": 10,
         "Remarks": []
       },
@@ -882,9 +882,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 80,
-        "Enrol": 79,
-        "Avail": 1,
-        "Wait": 7,
+        "Enrol": 80,
+        "Avail": 0,
+        "Wait": 6,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -900,7 +900,7 @@
         "Quota": 80,
         "Enrol": 81,
         "Avail": 0,
-        "Wait": 24,
+        "Wait": 23,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -916,7 +916,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 22,
+        "Wait": 21,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -964,7 +964,7 @@
         "Quota": 80,
         "Enrol": 80,
         "Avail": 0,
-        "Wait": 31,
+        "Wait": 30,
         "Remarks": [
           "The class is delivered in a conventional face-to-face mode"
         ]
@@ -2140,8 +2140,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 64,
-        "Avail": 6,
+        "Enrol": 63,
+        "Avail": 7,
         "Wait": 13,
         "Remarks": []
       },
@@ -2154,9 +2154,9 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 70,
-        "Enrol": 56,
-        "Avail": 14,
-        "Wait": 6,
+        "Enrol": 57,
+        "Avail": 13,
+        "Wait": 5,
         "Remarks": []
       }
     ]

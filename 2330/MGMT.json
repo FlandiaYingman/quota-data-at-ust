@@ -321,7 +321,7 @@
         "Quota": 64,
         "Enrol": 64,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -335,7 +335,7 @@
         "Quota": 64,
         "Enrol": 64,
         "Avail": 0,
-        "Wait": 7,
+        "Wait": 6,
         "Remarks": []
       },
       {
@@ -363,7 +363,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 4,
+        "Wait": 5,
         "Remarks": []
       },
       {
@@ -377,7 +377,7 @@
         "Quota": 64,
         "Enrol": 64,
         "Avail": 0,
-        "Wait": 8,
+        "Wait": 7,
         "Remarks": []
       },
       {
@@ -456,8 +456,8 @@
         ],
         "TA/IA/GTA": [],
         "Quota": 65,
-        "Enrol": 65,
-        "Avail": 0,
+        "Enrol": 63,
+        "Avail": 2,
         "Wait": 12,
         "Remarks": []
       },
@@ -472,7 +472,7 @@
         "Quota": 65,
         "Enrol": 65,
         "Avail": 0,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -652,7 +652,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -680,7 +680,7 @@
         "Quota": 60,
         "Enrol": 60,
         "Avail": 0,
-        "Wait": 16,
+        "Wait": 15,
         "Remarks": []
       },
       {
@@ -748,7 +748,7 @@
         "Quota": 60,
         "Enrol": 48,
         "Avail": 12,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       },
       {
@@ -776,7 +776,7 @@
         "Quota": 60,
         "Enrol": 48,
         "Avail": 12,
-        "Wait": 3,
+        "Wait": 2,
         "Remarks": []
       }
     ]
@@ -1076,7 +1076,7 @@
         "Quota": 60,
         "Enrol": 32,
         "Avail": 28,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
@@ -1104,7 +1104,7 @@
         "Quota": 60,
         "Enrol": 32,
         "Avail": 28,
-        "Wait": 2,
+        "Wait": 3,
         "Remarks": []
       },
       {
